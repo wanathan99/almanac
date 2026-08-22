@@ -19,7 +19,8 @@
     },
     "player": "Oklahoma City Thunder",
     "playerAliases": [
-      "oklahoma city thunder"
+      "oklahoma city thunder",
+      "thunder"
     ],
     "statLine": "Won series 4-3"
   },
@@ -43,7 +44,8 @@
     },
     "player": "Boston Celtics",
     "playerAliases": [
-      "boston celtics"
+      "boston celtics",
+      "celtics"
     ],
     "statLine": "Won series 4-1"
   },
@@ -67,7 +69,8 @@
     },
     "player": "Denver Nuggets",
     "playerAliases": [
-      "denver nuggets"
+      "denver nuggets",
+      "nuggets"
     ],
     "statLine": "Won series 4-1"
   },
@@ -91,7 +94,8 @@
     },
     "player": "Golden State Warriors",
     "playerAliases": [
-      "golden state warriors"
+      "golden state warriors",
+      "warriors"
     ],
     "statLine": "Won series 4-2"
   },
@@ -115,6 +119,7 @@
     },
     "player": "Milwaukee Bucks",
     "playerAliases": [
+      "bucks",
       "milwaukee bucks"
     ],
     "statLine": "Won series 4-2"
@@ -139,6 +144,7 @@
     },
     "player": "Los Angeles Lakers",
     "playerAliases": [
+      "lakers",
       "los angeles lakers"
     ],
     "statLine": "Won series 4-2"
@@ -163,6 +169,7 @@
     },
     "player": "Toronto Raptors",
     "playerAliases": [
+      "raptors",
       "toronto raptors"
     ],
     "statLine": "Won series 4-2"
@@ -187,7 +194,8 @@
     },
     "player": "Golden State Warriors",
     "playerAliases": [
-      "golden state warriors"
+      "golden state warriors",
+      "warriors"
     ],
     "statLine": "Won series 4-0"
   },
@@ -211,7 +219,8 @@
     },
     "player": "Golden State Warriors",
     "playerAliases": [
-      "golden state warriors"
+      "golden state warriors",
+      "warriors"
     ],
     "statLine": "Won series 4-1"
   },
@@ -235,6 +244,8 @@
     },
     "player": "Cleveland Cavaliers",
     "playerAliases": [
+      "cavaliers",
+      "cavs",
       "cleveland cavaliers"
     ],
     "statLine": "Won series 4-3"
@@ -259,7 +270,8 @@
     },
     "player": "Golden State Warriors",
     "playerAliases": [
-      "golden state warriors"
+      "golden state warriors",
+      "warriors"
     ],
     "statLine": "Won series 4-2"
   },
@@ -283,7 +295,8 @@
     },
     "player": "San Antonio Spurs",
     "playerAliases": [
-      "san antonio spurs"
+      "san antonio spurs",
+      "spurs"
     ],
     "statLine": "Won series 4-1"
   },
@@ -307,6 +320,7 @@
     },
     "player": "Miami Heat",
     "playerAliases": [
+      "heat",
       "miami heat"
     ],
     "statLine": "Won series 4-3"
@@ -331,6 +345,7 @@
     },
     "player": "Miami Heat",
     "playerAliases": [
+      "heat",
       "miami heat"
     ],
     "statLine": "Won series 4-1"
@@ -355,7 +370,9 @@
     },
     "player": "Dallas Mavericks",
     "playerAliases": [
-      "dallas mavericks"
+      "dallas mavericks",
+      "mavericks",
+      "mavs"
     ],
     "statLine": "Won series 4-2"
   },
@@ -379,6 +396,7 @@
     },
     "player": "Los Angeles Lakers",
     "playerAliases": [
+      "lakers",
       "los angeles lakers"
     ],
     "statLine": "Won series 4-3"
@@ -403,6 +421,7 @@
     },
     "player": "Los Angeles Lakers",
     "playerAliases": [
+      "lakers",
       "los angeles lakers"
     ],
     "statLine": "Won series 4-1"
@@ -427,7 +446,8 @@
     },
     "player": "Boston Celtics",
     "playerAliases": [
-      "boston celtics"
+      "boston celtics",
+      "celtics"
     ],
     "statLine": "Won series 4-2"
   },
@@ -451,7 +471,8 @@
     },
     "player": "San Antonio Spurs",
     "playerAliases": [
-      "san antonio spurs"
+      "san antonio spurs",
+      "spurs"
     ],
     "statLine": "Won series 4-0"
   },
@@ -475,6 +496,7 @@
     },
     "player": "Miami Heat",
     "playerAliases": [
+      "heat",
       "miami heat"
     ],
     "statLine": "Won series 4-2"
@@ -499,7 +521,8 @@
     },
     "player": "San Antonio Spurs",
     "playerAliases": [
-      "san antonio spurs"
+      "san antonio spurs",
+      "spurs"
     ],
     "statLine": "Won series 4-3"
   },
@@ -523,7 +546,8 @@
     },
     "player": "Detroit Pistons",
     "playerAliases": [
-      "detroit pistons"
+      "detroit pistons",
+      "pistons"
     ],
     "statLine": "Won series 4-1"
   },
@@ -547,7 +571,8 @@
     },
     "player": "San Antonio Spurs",
     "playerAliases": [
-      "san antonio spurs"
+      "san antonio spurs",
+      "spurs"
     ],
     "statLine": "Won series 4-2"
   },
@@ -571,6 +596,7 @@
     },
     "player": "Los Angeles Lakers",
     "playerAliases": [
+      "lakers",
       "los angeles lakers"
     ],
     "statLine": "Won series 4-0"
@@ -595,6 +621,7 @@
     },
     "player": "Los Angeles Lakers",
     "playerAliases": [
+      "lakers",
       "los angeles lakers"
     ],
     "statLine": "Won series 4-1"
@@ -619,6 +646,7 @@
     },
     "player": "Los Angeles Lakers",
     "playerAliases": [
+      "lakers",
       "los angeles lakers"
     ],
     "statLine": "Won series 4-2"
@@ -643,7 +671,8 @@
     },
     "player": "San Antonio Spurs",
     "playerAliases": [
-      "san antonio spurs"
+      "san antonio spurs",
+      "spurs"
     ],
     "statLine": "Won series 4-1"
   },
@@ -667,6 +696,7 @@
     },
     "player": "Chicago Bulls",
     "playerAliases": [
+      "bulls",
       "chicago bulls"
     ],
     "statLine": "Won series 4-2"
@@ -691,6 +721,7 @@
     },
     "player": "Chicago Bulls",
     "playerAliases": [
+      "bulls",
       "chicago bulls"
     ],
     "statLine": "Won series 4-2"
@@ -715,6 +746,7 @@
     },
     "player": "Chicago Bulls",
     "playerAliases": [
+      "bulls",
       "chicago bulls"
     ],
     "statLine": "Won series 4-2"

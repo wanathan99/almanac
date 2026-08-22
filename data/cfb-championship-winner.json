@@ -523,6 +523,8 @@
     },
     "player": "USC",
     "playerAliases": [
+      "southern cal",
+      "southern california",
       "usc"
     ],
     "statLine": "Won 55-19"
@@ -595,6 +597,7 @@
     },
     "player": "Miami (FL)",
     "playerAliases": [
+      "miami",
       "miami (fl)"
     ],
     "statLine": "Won 37-14"

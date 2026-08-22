@@ -61,7 +61,10 @@ function showScreen(el) {
 
 function normalize(str) {
   return str
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '') // strip diacritics: Jokić -> Jokic, Dončić -> Doncic, etc.
     .toLowerCase()
+    .replace(/-/g, ' ') // Gilgeous-Alexander -> "gilgeous alexander" so a space-typed guess still matches
     .replace(/[^a-z0-9\s]/g, '')
     .replace(/\b(jr|sr|ii|iii|iv)\b/g, '')
     .replace(/\s+/g, ' ')
