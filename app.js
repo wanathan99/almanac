@@ -187,7 +187,10 @@ function renderGrid(entries) {
     const logo = document.createElement('div');
     logo.className = 'cell-logo';
 
-    if (entry.teams) {
+    if (currentCategory?.noLogoHint) {
+      // The entry's own team/logo IS the answer here — showing it would give it away.
+      cell.style.setProperty('--accent-color', 'var(--border)');
+    } else if (entry.teams) {
       // Rare tie case: show every team's logo side by side.
       logo.classList.add('cell-logo-dual');
       cell.style.setProperty('--accent-color', (entry.teams[0].colors || ['#374151'])[0]);

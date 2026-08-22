@@ -76,9 +76,10 @@
       {
         "id": "cfb-preseason-ap-1",
         "title": "Preseason AP #1",
-        "subtitle": "Guess the preseason AP Poll #1 team (1996–2025)",
+        "subtitle": "Guess the preseason AP Poll #1 team from the first-place vote count alone (1996–2025)",
         "icon": "📋",
-        "file": "data/cfb-preseason-ap-1.json"
+        "file": "data/cfb-preseason-ap-1.json",
+        "noLogoHint": true
       },
       {
         "id": "cfb-championship-winner",
