@@ -52,6 +52,49 @@ html, body {
   margin-bottom: 28px;
 }
 
+.strikes-setting {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+
+.strikes-setting-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-dim);
+}
+
+.strikes-options {
+  display: flex;
+  gap: 6px;
+}
+
+.strikes-option {
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+.strikes-option:hover {
+  border-color: var(--accent);
+}
+
+.strikes-option.selected {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #04211d;
+}
+
 .app-header h1 {
   font-size: 2rem;
   font-weight: 800;
@@ -80,7 +123,20 @@ html, body {
 }
 
 .sport-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
   margin: 0;
+  padding: 4px 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  font-family: 'Manrope', sans-serif;
+}
+
+.sport-heading-text {
   font-size: 0.8rem;
   font-weight: 800;
   letter-spacing: 0.08em;
@@ -88,10 +144,37 @@ html, body {
   color: var(--accent);
 }
 
+.sport-heading-count {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--text-dim);
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 1px 7px;
+}
+
+.sport-heading-chevron {
+  margin-left: auto;
+  color: var(--text-dim);
+  font-size: 0.75rem;
+  transition: transform 0.18s ease;
+}
+
+.sport-section.collapsed .sport-heading-chevron {
+  transform: rotate(-90deg);
+}
+
 .sport-cards {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  overflow: hidden;
+}
+
+.sport-section.collapsed .sport-cards {
+  display: none;
 }
 
 .category-card {
@@ -172,9 +255,45 @@ html, body {
   font-weight: 800;
 }
 
+.hud-pills {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
 .score-pill {
   background: var(--bg-elev-2);
   border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
+.strikes-pill {
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 0.95rem;
+  white-space: nowrap;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.strikes-pill.maxed {
+  color: var(--danger);
+  border-color: var(--danger);
+}
+
+.time-pill {
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  color: var(--text-dim);
   border-radius: 999px;
   padding: 8px 16px;
   font-family: 'JetBrains Mono', monospace;
@@ -221,6 +340,27 @@ html, body {
 }
 
 .cell-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0,0,0,0.15));
+}
+
+.cell-logo-dual {
+  gap: 6%;
+  padding: 22% 8% 32%;
+}
+
+.cell-logo-half {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+}
+
+.cell-logo-half img {
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
@@ -370,8 +510,15 @@ html, body {
   font-size: 2.2rem;
   font-weight: 800;
   font-family: 'JetBrains Mono', monospace;
-  margin: 8px 0 24px;
+  margin: 8px 0 4px;
   color: var(--accent);
+}
+
+.summary-strikes {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  margin: 0 0 24px;
 }
 
 .summary-list {

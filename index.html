@@ -19,6 +19,16 @@
         <h1>Almanac</h1>
         <p class="subtitle">Pick a category, then see how far back you can go.</p>
       </header>
+
+      <div class="strikes-setting">
+        <span class="strikes-setting-label">Strikes before game over</span>
+        <div class="strikes-options" id="strikesOptions">
+          <button type="button" class="strikes-option" data-value="3">3</button>
+          <button type="button" class="strikes-option" data-value="5">5</button>
+          <button type="button" class="strikes-option" data-value="unlimited">Unlimited</button>
+        </div>
+      </div>
+
       <div id="categoryList" class="category-list">
         <p class="loading">Loading categories…</p>
       </div>
@@ -31,7 +41,11 @@
           <h2 id="gridTitle"></h2>
           <p id="gridSubtitle" class="subtitle"></p>
         </div>
-        <div class="score-pill" id="scorePill">0 / 25</div>
+        <div class="hud-pills">
+          <div class="score-pill" id="scorePill">0 / 25</div>
+          <div class="strikes-pill" id="strikesPill">0 strikes</div>
+          <div class="time-pill" id="timePill">0:00</div>
+        </div>
       </header>
 
       <div id="grid" class="grid"></div>
@@ -42,14 +56,16 @@
     </section>
 
     <section id="summaryScreen" class="screen hidden">
-      <h2>Final score</h2>
+      <h2 id="summaryHeading">Final score</h2>
       <p id="summaryScore" class="summary-score"></p>
+      <p id="summaryStrikes" class="summary-strikes"></p>
+      <p id="summaryTime" class="summary-strikes"></p>
       <div id="summaryList" class="summary-list"></div>
       <button id="playAgainBtn" class="primary-btn" type="button">Back to categories</button>
     </section>
 
     <footer class="app-footer">
-      Heisman winner/runner-up/third-place data sourced from NCAA.com. Team logos via ESPN.
+      Data sourced from NCAA.com, Wikipedia, Sports-Reference, Basketball-Reference, and College Poll Archive. College and NBA team logos via ESPN and TheSportsDB.
     </footer>
 
   </div>
