@@ -1,0 +1,78 @@
+[
+  {
+    "id": "college-football",
+    "sport": "College Football",
+    "categories": [
+      {
+        "id": "heisman-winner",
+        "title": "Heisman Winner",
+        "subtitle": "Guess the Heisman winner from the school logo (1996–2025)",
+        "icon": "🏆",
+        "file": "data/heisman-winner.json"
+      },
+      {
+        "id": "heisman-runner-up",
+        "title": "Heisman Runner-Up",
+        "subtitle": "Guess the Heisman runner-up from the school logo (1996–2025)",
+        "icon": "🥈",
+        "file": "data/heisman-runner-up.json"
+      },
+      {
+        "id": "heisman-third-place",
+        "title": "Heisman Third Place",
+        "subtitle": "Guess the Heisman 3rd-place finisher from the school logo (1996–2025)",
+        "icon": "🥉",
+        "file": "data/heisman-third-place.json"
+      },
+      {
+        "id": "nfl-draft-1st",
+        "title": "1st Overall Draft Pick",
+        "subtitle": "Guess the #1 overall NFL Draft pick from their college logo (1996–2025)",
+        "icon": "1️⃣",
+        "file": "data/nfl-draft-1st.json"
+      },
+      {
+        "id": "nfl-draft-2nd",
+        "title": "2nd Overall Draft Pick",
+        "subtitle": "Guess the #2 overall NFL Draft pick from their college logo (1996–2025)",
+        "icon": "2️⃣",
+        "file": "data/nfl-draft-2nd.json"
+      },
+      {
+        "id": "nfl-draft-3rd",
+        "title": "3rd Overall Draft Pick",
+        "subtitle": "Guess the #3 overall NFL Draft pick from their college logo (1996–2025)",
+        "icon": "3️⃣",
+        "file": "data/nfl-draft-3rd.json"
+      },
+      {
+        "id": "passing-yards-leader",
+        "title": "Passing Yards Leader",
+        "subtitle": "Guess the NCAA passing yards leader from the school logo (1996–2025)",
+        "icon": "🏈",
+        "file": "data/passing-yards-leader.json"
+      },
+      {
+        "id": "rushing-yards-leader",
+        "title": "Rushing Yards Leader",
+        "subtitle": "Guess the NCAA rushing yards leader from the school logo (1996–2025)",
+        "icon": "🏃",
+        "file": "data/rushing-yards-leader.json"
+      },
+      {
+        "id": "receiving-yards-leader",
+        "title": "Receiving Yards Leader",
+        "subtitle": "Guess the NCAA receiving yards leader from the school logo (1996–2025)",
+        "icon": "🙌",
+        "file": "data/receiving-yards-leader.json"
+      },
+      {
+        "id": "ap-coach-of-the-year",
+        "title": "AP Coach of the Year",
+        "subtitle": "Guess the AP Coach of the Year from the school logo (1998–2025)",
+        "icon": "🧢",
+        "file": "data/ap-coach-of-the-year.json"
+      }
+    ]
+  }
+]

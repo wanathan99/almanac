@@ -1,0 +1,452 @@
+[
+  {
+    "year": 2025,
+    "school": "Colorado",
+    "abbr": "COLO",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "colors": [
+      "#000000",
+      "#CFB87C"
+    ],
+    "player": "Travis Hunter",
+    "playerAliases": [
+      "hunter",
+      "travis hunter"
+    ]
+  },
+  {
+    "year": 2024,
+    "school": "LSU",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D7C",
+      "#FDD023"
+    ],
+    "player": "Jayden Daniels",
+    "playerAliases": [
+      "daniels",
+      "jayden daniels"
+    ]
+  },
+  {
+    "year": 2023,
+    "school": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "player": "C.J. Stroud",
+    "playerAliases": [
+      "c.j. stroud",
+      "stroud"
+    ]
+  },
+  {
+    "year": 2022,
+    "school": "Michigan",
+    "abbr": "MICH",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "colors": [
+      "#00274C",
+      "#FFCB05"
+    ],
+    "player": "Aidan Hutchinson",
+    "playerAliases": [
+      "aidan hutchinson",
+      "hutchinson"
+    ]
+  },
+  {
+    "year": 2021,
+    "school": "BYU",
+    "abbr": "BYU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "colors": [
+      "#002E5D",
+      "#FFFFFF"
+    ],
+    "player": "Zach Wilson",
+    "playerAliases": [
+      "wilson",
+      "zach wilson"
+    ]
+  },
+  {
+    "year": 2020,
+    "school": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "player": "Chase Young",
+    "playerAliases": [
+      "chase young",
+      "young"
+    ]
+  },
+  {
+    "year": 2019,
+    "school": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "player": "Nick Bosa",
+    "playerAliases": [
+      "bosa",
+      "nick bosa"
+    ]
+  },
+  {
+    "year": 2018,
+    "school": "Penn State",
+    "abbr": "PSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+    "colors": [
+      "#041E42",
+      "#FFFFFF"
+    ],
+    "player": "Saquon Barkley",
+    "playerAliases": [
+      "barkley",
+      "saquon barkley"
+    ]
+  },
+  {
+    "year": 2017,
+    "school": "North Carolina",
+    "abbr": "UNC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#FFFFFF"
+    ],
+    "player": "Mitchell Trubisky",
+    "playerAliases": [
+      "mitchell trubisky",
+      "trubisky"
+    ]
+  },
+  {
+    "year": 2016,
+    "school": "North Dakota State",
+    "abbr": "NDSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "colors": [
+      "#005643",
+      "#FFC72C"
+    ],
+    "player": "Carson Wentz",
+    "playerAliases": [
+      "carson wentz",
+      "wentz"
+    ]
+  },
+  {
+    "year": 2015,
+    "school": "Oregon",
+    "abbr": "ORE",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+    "colors": [
+      "#154733",
+      "#FEE123"
+    ],
+    "player": "Marcus Mariota",
+    "playerAliases": [
+      "marcus mariota",
+      "mariota"
+    ]
+  },
+  {
+    "year": 2014,
+    "school": "Auburn",
+    "abbr": "AUB",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "colors": [
+      "#03244D",
+      "#DD550C"
+    ],
+    "player": "Greg Robinson",
+    "playerAliases": [
+      "greg robinson",
+      "robinson"
+    ]
+  },
+  {
+    "year": 2013,
+    "school": "Texas A&M",
+    "abbr": "TAMU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+    "colors": [
+      "#500000",
+      "#FFFFFF"
+    ],
+    "player": "Luke Joeckel",
+    "playerAliases": [
+      "joeckel",
+      "luke joeckel"
+    ]
+  },
+  {
+    "year": 2012,
+    "school": "Baylor",
+    "abbr": "BAY",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "colors": [
+      "#003015",
+      "#FFB81C"
+    ],
+    "player": "Robert Griffin III",
+    "playerAliases": [
+      "griffin",
+      "robert griffin"
+    ]
+  },
+  {
+    "year": 2011,
+    "school": "Texas A&M",
+    "abbr": "TAMU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+    "colors": [
+      "#500000",
+      "#FFFFFF"
+    ],
+    "player": "Von Miller",
+    "playerAliases": [
+      "miller",
+      "von miller"
+    ]
+  },
+  {
+    "year": 2010,
+    "school": "Nebraska",
+    "abbr": "NEB",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+    "colors": [
+      "#E41C38",
+      "#F5F1E7"
+    ],
+    "player": "Ndamukong Suh",
+    "playerAliases": [
+      "ndamukong suh",
+      "suh"
+    ]
+  },
+  {
+    "year": 2009,
+    "school": "Baylor",
+    "abbr": "BAY",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "colors": [
+      "#003015",
+      "#FFB81C"
+    ],
+    "player": "Jason Smith",
+    "playerAliases": [
+      "jason smith",
+      "smith"
+    ]
+  },
+  {
+    "year": 2008,
+    "school": "Virginia",
+    "abbr": "UVA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "colors": [
+      "#232D4B",
+      "#E57200"
+    ],
+    "player": "Chris Long",
+    "playerAliases": [
+      "chris long",
+      "long"
+    ]
+  },
+  {
+    "year": 2007,
+    "school": "Georgia Tech",
+    "abbr": "GT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "colors": [
+      "#003057",
+      "#B3A369"
+    ],
+    "player": "Calvin Johnson",
+    "playerAliases": [
+      "calvin johnson",
+      "johnson"
+    ]
+  },
+  {
+    "year": 2006,
+    "school": "USC",
+    "abbr": "USC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "colors": [
+      "#990000",
+      "#FFC72C"
+    ],
+    "player": "Reggie Bush",
+    "playerAliases": [
+      "bush",
+      "reggie bush"
+    ]
+  },
+  {
+    "year": 2005,
+    "school": "Auburn",
+    "abbr": "AUB",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "colors": [
+      "#03244D",
+      "#DD550C"
+    ],
+    "player": "Ronnie Brown",
+    "playerAliases": [
+      "brown",
+      "ronnie brown"
+    ]
+  },
+  {
+    "year": 2004,
+    "school": "Iowa",
+    "abbr": "IOWA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+    "colors": [
+      "#000000",
+      "#FFCD00"
+    ],
+    "player": "Robert Gallery",
+    "playerAliases": [
+      "gallery",
+      "robert gallery"
+    ]
+  },
+  {
+    "year": 2003,
+    "school": "Michigan State",
+    "abbr": "MSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "colors": [
+      "#18453B",
+      "#FFFFFF"
+    ],
+    "player": "Charles Rogers",
+    "playerAliases": [
+      "charles rogers",
+      "rogers"
+    ]
+  },
+  {
+    "year": 2002,
+    "school": "North Carolina",
+    "abbr": "UNC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#FFFFFF"
+    ],
+    "player": "Julius Peppers",
+    "playerAliases": [
+      "julius peppers",
+      "peppers"
+    ]
+  },
+  {
+    "year": 2001,
+    "school": "Texas",
+    "abbr": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "colors": [
+      "#BF5700",
+      "#FFFFFF"
+    ],
+    "player": "Leonard Davis",
+    "playerAliases": [
+      "davis",
+      "leonard davis"
+    ]
+  },
+  {
+    "year": 2000,
+    "school": "Penn State",
+    "abbr": "PSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+    "colors": [
+      "#041E42",
+      "#FFFFFF"
+    ],
+    "player": "LaVar Arrington",
+    "playerAliases": [
+      "arrington",
+      "lavar arrington"
+    ]
+  },
+  {
+    "year": 1999,
+    "school": "Syracuse",
+    "abbr": "SYR",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "colors": [
+      "#D44500",
+      "#000E54"
+    ],
+    "player": "Donovan McNabb",
+    "playerAliases": [
+      "donovan mcnabb",
+      "mcnabb"
+    ]
+  },
+  {
+    "year": 1998,
+    "school": "Washington State",
+    "abbr": "WSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+    "colors": [
+      "#981E32",
+      "#5E6A71"
+    ],
+    "player": "Ryan Leaf",
+    "playerAliases": [
+      "leaf",
+      "ryan leaf"
+    ]
+  },
+  {
+    "year": 1997,
+    "school": "USC",
+    "abbr": "USC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "colors": [
+      "#990000",
+      "#FFC72C"
+    ],
+    "player": "Darrell Russell",
+    "playerAliases": [
+      "darrell russell",
+      "russell"
+    ]
+  },
+  {
+    "year": 1996,
+    "school": "Illinois",
+    "abbr": "ILL",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "colors": [
+      "#E84A27",
+      "#13294B"
+    ],
+    "player": "Kevin Hardy",
+    "playerAliases": [
+      "hardy",
+      "kevin hardy"
+    ]
+  }
+]

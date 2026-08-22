@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Almanac</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=JetBrains+Mono:wght@600;700;800&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="style.css?v=1" />
+</head>
+<body>
+  <div id="app" class="app">
+
+    <div class="wip-banner">UI UPDATES + MORE SPORTS IN PROGRESS</div>
+
+    <section id="categoryScreen" class="screen">
+      <header class="app-header">
+        <h1>Almanac</h1>
+        <p class="subtitle">Pick a category, then see how far back you can go.</p>
+      </header>
+      <div id="categoryList" class="category-list">
+        <p class="loading">Loading categories…</p>
+      </div>
+    </section>
+
+    <section id="gridScreen" class="screen hidden">
+      <header class="grid-header">
+        <button id="backBtn" class="back-btn" type="button">&larr; Categories</button>
+        <div class="grid-title-wrap">
+          <h2 id="gridTitle"></h2>
+          <p id="gridSubtitle" class="subtitle"></p>
+        </div>
+        <div class="score-pill" id="scorePill">0 / 25</div>
+      </header>
+
+      <div id="grid" class="grid"></div>
+
+      <div class="grid-actions">
+        <button id="finishBtn" class="primary-btn" type="button">End &amp; Reveal All</button>
+      </div>
+    </section>
+
+    <section id="summaryScreen" class="screen hidden">
+      <h2>Final score</h2>
+      <p id="summaryScore" class="summary-score"></p>
+      <div id="summaryList" class="summary-list"></div>
+      <button id="playAgainBtn" class="primary-btn" type="button">Back to categories</button>
+    </section>
+
+    <footer class="app-footer">
+      Heisman winner/runner-up/third-place data sourced from NCAA.com. Team logos via ESPN.
+    </footer>
+
+  </div>
+
+  <script src="app.js?v=1"></script>
+</body>
+</html>
