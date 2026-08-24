@@ -183,7 +183,7 @@
     "year": 2013,
     "school": "Texas A&M",
     "abbr": "TAMU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+    "logo": "assets/logos/cfb/2/cfb-texasam-2009-2020.png",
     "colors": [
       "#500000",
       "#FFFFFF"
@@ -198,7 +198,7 @@
     "year": 2012,
     "school": "Baylor",
     "abbr": "BAY",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "logo": "assets/logos/cfb/1/cfb-baylor-2005-2019.png",
     "colors": [
       "#003015",
       "#FFB81C"
@@ -213,7 +213,7 @@
     "year": 2011,
     "school": "Texas A&M",
     "abbr": "TAMU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
+    "logo": "assets/logos/cfb/2/cfb-texasam-2009-2020.png",
     "colors": [
       "#500000",
       "#FFFFFF"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "Baylor",
     "abbr": "BAY",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "logo": "assets/logos/cfb/1/cfb-baylor-2005-2019.png",
     "colors": [
       "#003015",
       "#FFB81C"
@@ -273,7 +273,7 @@
     "year": 2007,
     "school": "Georgia Tech",
     "abbr": "GT",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "logo": "assets/logos/cfb/1/cfb-georgiatech-1996-2014.png",
     "colors": [
       "#003057",
       "#B3A369"
@@ -348,7 +348,7 @@
     "year": 2002,
     "school": "North Carolina",
     "abbr": "UNC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "logo": "assets/logos/cfb/2/cfb-unc-1999-2004.png",
     "colors": [
       "#7BAFD4",
       "#FFFFFF"
@@ -423,7 +423,7 @@
     "year": 1997,
     "school": "USC",
     "abbr": "USC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "logo": "assets/logos/cfb/2/cfb-usc-1996-2000.png",
     "colors": [
       "#990000",
       "#FFC72C"
@@ -438,7 +438,7 @@
     "year": 1996,
     "school": "Illinois",
     "abbr": "ILL",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "logo": "assets/logos/cfb/1/cfb-illinois-1996-2013.png",
     "colors": [
       "#E84A27",
       "#13294B"

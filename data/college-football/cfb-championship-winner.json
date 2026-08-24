@@ -195,7 +195,7 @@
     "year": 2017,
     "team": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -227,7 +227,7 @@
     "opponent": {
       "team": "Alabama",
       "abbr": "BAMA",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
       "colors": [
         "#9E1B32",
         "#FFFFFF"
@@ -243,7 +243,7 @@
     "year": 2015,
     "team": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -291,7 +291,7 @@
     "year": 2013,
     "team": "Florida State",
     "abbr": "FSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
     "colors": [
       "#782F40",
       "#CEB888"
@@ -315,7 +315,7 @@
     "year": 2012,
     "team": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -339,7 +339,7 @@
     "year": 2011,
     "team": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -347,7 +347,7 @@
     "opponent": {
       "team": "LSU",
       "abbr": "LSU",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+      "logo": "assets/logos/cfb/1/cfb-lsu-2006-2013.png",
       "colors": [
         "#461D7C",
         "#FDD023"
@@ -387,7 +387,7 @@
     "year": 2009,
     "team": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -411,7 +411,7 @@
     "year": 2008,
     "team": "Florida",
     "abbr": "FLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
     "colors": [
       "#0021A5",
       "#FA4616"
@@ -435,7 +435,7 @@
     "year": 2007,
     "team": "LSU",
     "abbr": "LSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "logo": "assets/logos/cfb/1/cfb-lsu-2006-2013.png",
     "colors": [
       "#461D7C",
       "#FDD023"
@@ -459,7 +459,7 @@
     "year": 2006,
     "team": "Florida",
     "abbr": "FLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
     "colors": [
       "#0021A5",
       "#FA4616"
@@ -533,7 +533,7 @@
     "year": 2003,
     "team": "LSU",
     "abbr": "LSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "logo": "assets/logos/cfb/1/cfb-lsu-2002-2005.png",
     "colors": [
       "#461D7C",
       "#FDD023"
@@ -589,7 +589,7 @@
     "opponent": {
       "team": "Nebraska",
       "abbr": "NEB",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+      "logo": "assets/logos/cfb/2/cfb-nebraska-1996-2002.png",
       "colors": [
         "#E41C38",
         "#F5F1E7"
@@ -614,7 +614,7 @@
     "opponent": {
       "team": "Florida State",
       "abbr": "FSU",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+      "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
       "colors": [
         "#782F40",
         "#CEB888"
@@ -630,7 +630,7 @@
     "year": 1999,
     "team": "Florida State",
     "abbr": "FSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
     "colors": [
       "#782F40",
       "#CEB888"
@@ -662,7 +662,7 @@
     "opponent": {
       "team": "Florida State",
       "abbr": "FSU",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+      "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
       "colors": [
         "#782F40",
         "#CEB888"
@@ -702,7 +702,7 @@
     "year": 1996,
     "team": "Florida",
     "abbr": "FLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
     "colors": [
       "#0021A5",
       "#FA4616"
@@ -710,7 +710,7 @@
     "opponent": {
       "team": "Florida State",
       "abbr": "FSU",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+      "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
       "colors": [
         "#782F40",
         "#CEB888"

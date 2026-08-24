@@ -195,7 +195,7 @@
     "year": 2013,
     "school": "Fresno State",
     "abbr": "FRES",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "logo": "assets/logos/cfb/1/cfb-fresnostate-2006-2015.png",
     "colors": [
       "#C41230",
       "#002F6C"
@@ -211,7 +211,7 @@
     "year": 2012,
     "school": "Baylor",
     "abbr": "BAY",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "logo": "assets/logos/cfb/1/cfb-baylor-2005-2019.png",
     "colors": [
       "#003015",
       "#FFB81C"
@@ -227,7 +227,7 @@
     "year": 2011,
     "school": "Houston",
     "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "logo": "assets/logos/cfb/1/cfb-houston-2003-2011.png",
     "colors": [
       "#C8102E",
       "#FFFFFF"
@@ -259,7 +259,7 @@
     "year": 2009,
     "school": "Houston",
     "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "logo": "assets/logos/cfb/1/cfb-houston-2003-2011.png",
     "colors": [
       "#C8102E",
       "#FFFFFF"
@@ -339,7 +339,7 @@
     "year": 2004,
     "school": "Texas Tech",
     "abbr": "TTU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "logo": "assets/logos/cfb/2/cfb-texastech-1999-2006.png",
     "colors": [
       "#CC0000",
       "#000000"
@@ -355,7 +355,7 @@
     "year": 2003,
     "school": "Texas Tech",
     "abbr": "TTU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "logo": "assets/logos/cfb/2/cfb-texastech-1999-2006.png",
     "colors": [
       "#CC0000",
       "#000000"
@@ -371,7 +371,7 @@
     "year": 2002,
     "school": "Texas Tech",
     "abbr": "TTU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "logo": "assets/logos/cfb/2/cfb-texastech-1999-2006.png",
     "colors": [
       "#CC0000",
       "#000000"
@@ -387,7 +387,7 @@
     "year": 2001,
     "school": "Fresno State",
     "abbr": "FRES",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "logo": "assets/logos/cfb/1/cfb-fresnostate-1996-2005.png",
     "colors": [
       "#C41230",
       "#002F6C"
@@ -403,7 +403,7 @@
     "year": 2000,
     "school": "Florida State",
     "abbr": "FSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
     "colors": [
       "#782F40",
       "#CEB888"
@@ -419,7 +419,7 @@
     "year": 1999,
     "school": "Louisiana Tech",
     "abbr": "LT",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "logo": "assets/logos/cfb/1/cfb-louisianatech-1996-2007.png",
     "colors": [
       "#C41230",
       "#002F8B"
@@ -435,7 +435,7 @@
     "year": 1998,
     "school": "Louisiana Tech",
     "abbr": "LT",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "logo": "assets/logos/cfb/1/cfb-louisianatech-1996-2007.png",
     "colors": [
       "#C41230",
       "#002F8B"
@@ -451,7 +451,7 @@
     "year": 1997,
     "school": "Kentucky",
     "abbr": "UK",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-1996-2004.png",
     "colors": [
       "#0033A0",
       "#FFFFFF"

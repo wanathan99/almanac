@@ -163,7 +163,7 @@
     "year": 2015,
     "school": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -195,7 +195,7 @@
     "year": 2013,
     "school": "Boston College",
     "abbr": "BC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "logo": "assets/logos/cfb/1/cfb-bostoncollege-2000-2015.png",
     "colors": [
       "#8C2232",
       "#BC9B6A"
@@ -275,7 +275,7 @@
     "year": 2008,
     "school": "UConn",
     "abbr": "UCONN",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "logo": "assets/logos/cfb/2/cfb-uconn-2002-2012.png",
     "colors": [
       "#000E2F",
       "#FFFFFF"
@@ -291,7 +291,7 @@
     "year": 2007,
     "school": "UCF",
     "abbr": "UCF",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+    "logo": "assets/logos/cfb/2/cfb-ucf-2007-2011.png",
     "colors": [
       "#000000",
       "#BA9B37"
@@ -307,7 +307,7 @@
     "year": 2006,
     "school": "Northern Illinois",
     "abbr": "NIU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "logo": "assets/logos/cfb/2/cfb-niu-2001-2010.png",
     "colors": [
       "#BA0C2F",
       "#000000"
@@ -339,7 +339,7 @@
     "year": 2004,
     "school": "California",
     "abbr": "CAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "logo": "assets/logos/cfb/1/cfb-cal-1996-2012.png",
     "colors": [
       "#003262",
       "#FDB515"
@@ -387,7 +387,7 @@
     "year": 2001,
     "school": "Nevada",
     "abbr": "NEV",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "logo": "assets/logos/cfb/2/cfb-nevada-2000-2007.png",
     "colors": [
       "#003366",
       "#A2AAAD"
@@ -467,7 +467,7 @@
     "year": 1996,
     "school": "Iowa State",
     "abbr": "ISU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "logo": "assets/logos/cfb/1/cfb-iowastate-1996-2006.png",
     "colors": [
       "#C8102E",
       "#F1BE48"

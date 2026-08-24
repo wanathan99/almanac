@@ -168,7 +168,7 @@
     "year": 2014,
     "school": "UCF",
     "abbr": "UCF",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+    "logo": "assets/logos/cfb/2/cfb-ucf-2012-2016.png",
     "colors": [
       "#000000",
       "#BA9B37"
@@ -198,7 +198,7 @@
     "year": 2012,
     "school": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -213,7 +213,7 @@
     "year": 2011,
     "school": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-2004-2017.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "LSU",
     "abbr": "LSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "logo": "assets/logos/cfb/1/cfb-lsu-2006-2013.png",
     "colors": [
       "#461D7C",
       "#FDD023"
@@ -258,7 +258,7 @@
     "year": 2008,
     "school": "Boston College",
     "abbr": "BC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "logo": "assets/logos/cfb/1/cfb-bostoncollege-2000-2015.png",
     "colors": [
       "#8C2232",
       "#BC9B6A"
@@ -318,7 +318,7 @@
     "year": 2004,
     "school": "Pittsburgh",
     "abbr": "PITT",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "logo": "assets/logos/cfb/2/cfb-pittsburgh-1997-2015.png",
     "colors": [
       "#003594",
       "#FFB81C"
@@ -363,7 +363,7 @@
     "year": 2001,
     "school": "Florida",
     "abbr": "FLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
     "colors": [
       "#0021A5",
       "#FA4616"
@@ -378,7 +378,7 @@
     "year": 2000,
     "school": "Alabama",
     "abbr": "BAMA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "logo": "assets/logos/cfb/1/cfb-alabama-1998-2003.png",
     "colors": [
       "#9E1B32",
       "#FFFFFF"
@@ -408,7 +408,7 @@
     "year": 1998,
     "school": "Florida State",
     "abbr": "FSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "logo": "assets/logos/cfb/1/cfb-floridastate-1996-2013.png",
     "colors": [
       "#782F40",
       "#CEB888"
@@ -438,7 +438,7 @@
     "year": 1996,
     "school": "Illinois",
     "abbr": "ILL",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "logo": "assets/logos/cfb/1/cfb-illinois-1996-2013.png",
     "colors": [
       "#E84A27",
       "#13294B"
