@@ -1,0 +1,439 @@
+[
+  {
+    "year": 1996,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "colors": [
+      "#CEB888",
+      "#000000"
+    ],
+    "player": "Gene Keady",
+    "playerAliases": [
+      "gene keady"
+    ]
+  },
+  {
+    "year": 1997,
+    "school": "Minnesota Golden Gophers",
+    "abbr": "Minnesota",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+    "colors": [
+      "#5E0A2F",
+      "#FAB41C"
+    ],
+    "player": "Clem Haskins",
+    "playerAliases": [
+      "clem haskins"
+    ]
+  },
+  {
+    "year": 1998,
+    "school": "Michigan State Spartans",
+    "abbr": "Michigan St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "colors": [
+      "#173F35",
+      "#FFFFFF"
+    ],
+    "player": "Tom Izzo",
+    "playerAliases": [
+      "tom izzo"
+    ]
+  },
+  {
+    "year": 1999,
+    "school": "Auburn Tigers",
+    "abbr": "Auburn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "colors": [
+      "#002B5C",
+      "#F26522"
+    ],
+    "player": "Cliff Ellis",
+    "playerAliases": [
+      "cliff ellis"
+    ]
+  },
+  {
+    "year": 2000,
+    "school": "Iowa State Cyclones",
+    "abbr": "Iowa State",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "colors": [
+      "#AE192D",
+      "#FFC72A"
+    ],
+    "player": "Larry Eustachy",
+    "playerAliases": [
+      "larry eustachy"
+    ]
+  },
+  {
+    "year": 2001,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Matt Doherty",
+    "playerAliases": [
+      "matt doherty"
+    ]
+  },
+  {
+    "year": 2002,
+    "school": "Pittsburgh Panthers",
+    "abbr": "Pitt",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "colors": [
+      "#003594",
+      "#FFB81C"
+    ],
+    "player": "Ben Howland",
+    "playerAliases": [
+      "ben howland"
+    ]
+  },
+  {
+    "year": 2003,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Tubby Smith",
+    "playerAliases": [
+      "tubby smith"
+    ]
+  },
+  {
+    "year": 2004,
+    "school": "Saint Joseph's Hawks",
+    "abbr": "Saint Joseph's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
+    "colors": [
+      "#9E1B32",
+      "#6C6F70"
+    ],
+    "player": "Phil Martelli",
+    "playerAliases": [
+      "phil martelli"
+    ]
+  },
+  {
+    "year": 2005,
+    "school": "Illinois Fighting Illini",
+    "abbr": "Illinois",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "colors": [
+      "#FF5F05",
+      "#13294B"
+    ],
+    "player": "Bruce Weber",
+    "playerAliases": [
+      "bruce weber"
+    ]
+  },
+  {
+    "year": 2006,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Roy Williams",
+    "playerAliases": [
+      "roy williams"
+    ]
+  },
+  {
+    "year": 2007,
+    "school": "Washington State Cougars",
+    "abbr": "Washington St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+    "colors": [
+      "#A60F2D",
+      "#4D4D4D"
+    ],
+    "player": "Tony Bennett",
+    "playerAliases": [
+      "tony bennett"
+    ]
+  },
+  {
+    "year": 2008,
+    "school": "Drake Bulldogs",
+    "abbr": "Drake",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
+    "colors": [
+      "#005596",
+      "#BEC0C2"
+    ],
+    "player": "Keno Davis",
+    "playerAliases": [
+      "keno davis"
+    ]
+  },
+  {
+    "year": 2009,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Bill Self",
+    "playerAliases": [
+      "bill self"
+    ]
+  },
+  {
+    "year": 2010,
+    "school": "Syracuse Orange",
+    "abbr": "Syracuse",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "colors": [
+      "#000E54",
+      "#FF431B"
+    ],
+    "player": "Jim Boeheim",
+    "playerAliases": [
+      "jim boeheim"
+    ]
+  },
+  {
+    "year": 2011,
+    "school": "Notre Dame Fighting Irish",
+    "abbr": "Notre Dame",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "colors": [
+      "#062340",
+      "#C99700"
+    ],
+    "player": "Mike Brey",
+    "playerAliases": [
+      "mike brey"
+    ]
+  },
+  {
+    "year": 2012,
+    "school": "Missouri Tigers",
+    "abbr": "Missouri",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+    "colors": [
+      "#F1B82D",
+      "#000000"
+    ],
+    "player": "Frank Haith",
+    "playerAliases": [
+      "frank haith"
+    ]
+  },
+  {
+    "year": 2013,
+    "school": "Miami Hurricanes",
+    "abbr": "Miami",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "colors": [
+      "#F47423",
+      "#035131"
+    ],
+    "player": "Jim Larranaga",
+    "playerAliases": [
+      "jim larranaga"
+    ]
+  },
+  {
+    "year": 2014,
+    "school": "Wichita State Shockers",
+    "abbr": "Wichita St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
+    "colors": [
+      "#FFCD00",
+      "#27251F"
+    ],
+    "player": "Gregg Marshall",
+    "playerAliases": [
+      "gregg marshall"
+    ]
+  },
+  {
+    "year": 2015,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "John Calipari",
+    "playerAliases": [
+      "john calipari"
+    ]
+  },
+  {
+    "year": 2016,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Bill Self",
+    "playerAliases": [
+      "bill self"
+    ]
+  },
+  {
+    "year": 2017,
+    "school": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "player": "Mark Few",
+    "playerAliases": [
+      "mark few"
+    ]
+  },
+  {
+    "year": 2018,
+    "school": "Virginia Cavaliers",
+    "abbr": "Virginia",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "colors": [
+      "#232D4B",
+      "#F84C1E"
+    ],
+    "player": "Tony Bennett",
+    "playerAliases": [
+      "tony bennett"
+    ]
+  },
+  {
+    "year": 2019,
+    "school": "Texas Tech Red Raiders",
+    "abbr": "Texas Tech",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#DA291C",
+      "#000000"
+    ],
+    "player": "Chris Beard",
+    "playerAliases": [
+      "chris beard"
+    ]
+  },
+  {
+    "year": 2020,
+    "school": "Dayton Flyers",
+    "abbr": "Dayton",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
+    "colors": [
+      "#004B8D",
+      "#FFFFFF"
+    ],
+    "player": "Anthony Grant",
+    "playerAliases": [
+      "anthony grant"
+    ]
+  },
+  {
+    "year": 2021,
+    "school": "Michigan Wolverines",
+    "abbr": "Michigan",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "colors": [
+      "#00274C",
+      "#FFCB05"
+    ],
+    "player": "Juwan Howard",
+    "playerAliases": [
+      "juwan howard"
+    ]
+  },
+  {
+    "year": 2022,
+    "school": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Tommy Lloyd",
+    "playerAliases": [
+      "tommy lloyd"
+    ]
+  },
+  {
+    "year": 2023,
+    "school": "Marquette Golden Eagles",
+    "abbr": "Marquette",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
+    "colors": [
+      "#003366",
+      "#FFCC00"
+    ],
+    "player": "Shaka Smart",
+    "playerAliases": [
+      "shaka smart"
+    ]
+  },
+  {
+    "year": 2024,
+    "school": "Houston Cougars",
+    "abbr": "Houston",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Kelvin Sampson",
+    "playerAliases": [
+      "kelvin sampson"
+    ]
+  },
+  {
+    "year": 2025,
+    "player": "Bruce Pearl & Rick Pitino",
+    "playerAliases": [
+      "pearl",
+      "bruce pearl",
+      "pitino",
+      "rick pitino"
+    ],
+    "note": "Co-winners: Bruce Pearl (Auburn) and Rick Pitino (St. John's). Both team logos shown as the hint; either name is accepted as correct.",
+    "teams": [
+      {
+        "team": "Auburn Tigers",
+        "abbr": "Auburn",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+        "colors": [
+          "#002B5C",
+          "#F26522"
+        ]
+      },
+      {
+        "team": "St. John's Red Storm",
+        "abbr": "St John's",
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+        "colors": [
+          "#D10000",
+          "#101010"
+        ]
+      }
+    ]
+  }
+]

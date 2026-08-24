@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2025,
+    "school": "San Jose State",
+    "abbr": "SJSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/23.png",
+    "colors": [
+      "#0055A2",
+      "#E5A823"
+    ],
+    "player": "Danny Scudero",
+    "playerAliases": [
+      "danny scudero",
+      "scudero"
+    ],
+    "statLine": "1,297 rec yds"
+  },
+  {
+    "year": 2024,
+    "school": "Bowling Green",
+    "abbr": "BGSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
+    "colors": [
+      "#4F2C1D",
+      "#FE5000"
+    ],
+    "player": "Harold Fannin Jr.",
+    "playerAliases": [
+      "fannin",
+      "harold fannin"
+    ],
+    "statLine": "1,555 rec yds"
+  },
+  {
+    "year": 2023,
+    "school": "Washington",
+    "abbr": "UW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "colors": [
+      "#4B2E83",
+      "#B7A57A"
+    ],
+    "player": "Rome Odunze",
+    "playerAliases": [
+      "odunze",
+      "rome odunze"
+    ],
+    "statLine": "1,640 rec yds"
+  },
+  {
+    "year": 2022,
+    "school": "Houston",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Tank Dell",
+    "playerAliases": [
+      "dell",
+      "tank dell"
+    ],
+    "statLine": "1,398 rec yds"
+  },
+  {
+    "year": 2021,
+    "school": "Western Kentucky",
+    "abbr": "WKU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "player": "Jerreth Sterns",
+    "playerAliases": [
+      "jerreth sterns",
+      "sterns"
+    ],
+    "statLine": "1,902 rec yds"
+  },
+  {
+    "year": 2020,
+    "school": "Alabama",
+    "abbr": "BAMA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "colors": [
+      "#9E1B32",
+      "#FFFFFF"
+    ],
+    "player": "DeVonta Smith",
+    "playerAliases": [
+      "devonta smith",
+      "smith"
+    ],
+    "statLine": "1,856 rec yds"
+  },
+  {
+    "year": 2019,
+    "school": "LSU",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D7C",
+      "#FDD023"
+    ],
+    "player": "Ja'Marr Chase",
+    "playerAliases": [
+      "chase",
+      "ja'marr chase"
+    ],
+    "statLine": "1,780 rec yds"
+  },
+  {
+    "year": 2018,
+    "school": "UMass",
+    "abbr": "UMASS",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+    "colors": [
+      "#881C1C",
+      "#FFFFFF"
+    ],
+    "player": "Andy Isabella",
+    "playerAliases": [
+      "andy isabella",
+      "isabella"
+    ],
+    "statLine": "1,698 rec yds"
+  },
+  {
+    "year": 2017,
+    "school": "Oklahoma State",
+    "abbr": "OKST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "colors": [
+      "#FF7300",
+      "#000000"
+    ],
+    "player": "James Washington",
+    "playerAliases": [
+      "james washington",
+      "washington"
+    ],
+    "statLine": "1,549 rec yds"
+  },
+  {
+    "year": 2016,
+    "school": "Louisiana Tech",
+    "abbr": "LT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "colors": [
+      "#C41230",
+      "#002F8B"
+    ],
+    "player": "Trent Taylor",
+    "playerAliases": [
+      "taylor",
+      "trent taylor"
+    ],
+    "statLine": "1,803 rec yds"
+  },
+  {
+    "year": 2015,
+    "school": "Tulsa",
+    "abbr": "TLSA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
+    "colors": [
+      "#002D72",
+      "#C8B568"
+    ],
+    "player": "Keyarris Garrett",
+    "playerAliases": [
+      "garrett",
+      "keyarris garrett"
+    ],
+    "statLine": "1,588 rec yds"
+  },
+  {
+    "year": 2014,
+    "school": "Colorado State",
+    "abbr": "CSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "colors": [
+      "#1E4D2B",
+      "#C8C372"
+    ],
+    "player": "Rashard Higgins",
+    "playerAliases": [
+      "higgins",
+      "rashard higgins"
+    ],
+    "statLine": "1,750 rec yds"
+  },
+  {
+    "year": 2013,
+    "school": "Oregon State",
+    "abbr": "ORST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+    "colors": [
+      "#DC4405",
+      "#000000"
+    ],
+    "player": "Brandin Cooks",
+    "playerAliases": [
+      "brandin cooks",
+      "cooks"
+    ],
+    "statLine": "1,730 rec yds"
+  },
+  {
+    "year": 2012,
+    "school": "Baylor",
+    "abbr": "BAY",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "colors": [
+      "#003015",
+      "#FFB81C"
+    ],
+    "player": "Terrance Williams",
+    "playerAliases": [
+      "terrance williams",
+      "williams"
+    ],
+    "statLine": "1,832 rec yds"
+  },
+  {
+    "year": 2011,
+    "school": "Western Michigan",
+    "abbr": "WMU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
+    "colors": [
+      "#532E1F",
+      "#B7A369"
+    ],
+    "player": "Jordan White",
+    "playerAliases": [
+      "jordan white",
+      "white"
+    ],
+    "statLine": "1,911 rec yds"
+  },
+  {
+    "year": 2010,
+    "school": "Hawaii",
+    "abbr": "HAW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "colors": [
+      "#024731",
+      "#C8C9C7"
+    ],
+    "player": "Greg Salas",
+    "playerAliases": [
+      "greg salas",
+      "salas"
+    ],
+    "statLine": "1,889 rec yds"
+  },
+  {
+    "year": 2009,
+    "school": "Missouri",
+    "abbr": "MIZ",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+    "colors": [
+      "#F1B82D",
+      "#000000"
+    ],
+    "player": "Danario Alexander",
+    "playerAliases": [
+      "alexander",
+      "danario alexander"
+    ],
+    "statLine": "1,781 rec yds"
+  },
+  {
+    "year": 2008,
+    "school": "BYU",
+    "abbr": "BYU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "colors": [
+      "#002E5D",
+      "#FFFFFF"
+    ],
+    "player": "Austin Collie",
+    "playerAliases": [
+      "austin collie",
+      "collie"
+    ],
+    "statLine": "1,538 rec yds"
+  },
+  {
+    "year": 2007,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "Michael Crabtree",
+    "playerAliases": [
+      "crabtree",
+      "michael crabtree"
+    ],
+    "statLine": "1,962 rec yds"
+  },
+  {
+    "year": 2006,
+    "school": "New Mexico State",
+    "abbr": "NMSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
+    "colors": [
+      "#A6192E",
+      "#FFFFFF"
+    ],
+    "player": "Chris Williams",
+    "playerAliases": [
+      "chris williams",
+      "williams"
+    ],
+    "statLine": "1,425 rec yds"
+  },
+  {
+    "year": 2005,
+    "school": "Oregon State",
+    "abbr": "ORST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+    "colors": [
+      "#DC4405",
+      "#000000"
+    ],
+    "player": "Mike Hass",
+    "playerAliases": [
+      "hass",
+      "mike hass"
+    ],
+    "statLine": "1,532 rec yds"
+  },
+  {
+    "year": 2004,
+    "school": "UAB",
+    "abbr": "UAB",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+    "colors": [
+      "#1E6B52",
+      "#FFC845"
+    ],
+    "player": "Roddy White",
+    "playerAliases": [
+      "roddy white",
+      "white"
+    ],
+    "statLine": "1,452 rec yds"
+  },
+  {
+    "year": 2003,
+    "school": "Pittsburgh",
+    "abbr": "PITT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "colors": [
+      "#003594",
+      "#FFB81C"
+    ],
+    "player": "Larry Fitzgerald",
+    "playerAliases": [
+      "fitzgerald",
+      "larry fitzgerald"
+    ],
+    "statLine": "1,672 rec yds"
+  },
+  {
+    "year": 2002,
+    "school": "San Diego State",
+    "abbr": "SDSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "colors": [
+      "#A6192E",
+      "#000000"
+    ],
+    "player": "J.R. Tolver",
+    "playerAliases": [
+      "j.r. tolver",
+      "tolver"
+    ],
+    "statLine": "1,785 rec yds"
+  },
+  {
+    "year": 2001,
+    "school": "LSU",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D7C",
+      "#FDD023"
+    ],
+    "player": "Josh Reed",
+    "playerAliases": [
+      "josh reed",
+      "reed"
+    ],
+    "statLine": "1,740 rec yds"
+  },
+  {
+    "year": 2000,
+    "school": "Florida State",
+    "abbr": "FSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "colors": [
+      "#782F40",
+      "#CEB888"
+    ],
+    "player": "Snoop Minnis",
+    "playerAliases": [
+      "minnis",
+      "snoop minnis"
+    ],
+    "statLine": "1,340 rec yds"
+  },
+  {
+    "year": 1999,
+    "school": "Nevada",
+    "abbr": "NEV",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "colors": [
+      "#003366",
+      "#A2AAAD"
+    ],
+    "player": "Trevor Insley",
+    "playerAliases": [
+      "insley",
+      "trevor insley"
+    ],
+    "statLine": "2,060 rec yds"
+  },
+  {
+    "year": 1998,
+    "school": "Louisiana Tech",
+    "abbr": "LT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "colors": [
+      "#C41230",
+      "#002F8B"
+    ],
+    "player": "Troy Edwards",
+    "playerAliases": [
+      "edwards",
+      "troy edwards"
+    ],
+    "statLine": "1,996 rec yds"
+  },
+  {
+    "year": 1997,
+    "school": "Marshall",
+    "abbr": "MRSH",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "colors": [
+      "#00B140",
+      "#000000"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "moss",
+      "randy moss"
+    ],
+    "statLine": "1,820 rec yds"
+  },
+  {
+    "year": 1996,
+    "school": "Wyoming",
+    "abbr": "WYO",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "colors": [
+      "#492F24",
+      "#FFC425"
+    ],
+    "player": "Marcus Harris",
+    "playerAliases": [
+      "harris",
+      "marcus harris"
+    ],
+    "statLine": "1,650 rec yds"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2025,
+    "school": "North Texas",
+    "abbr": "UNT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+    "colors": [
+      "#00853E",
+      "#000000"
+    ],
+    "player": "Drew Mestemaker",
+    "playerAliases": [
+      "drew mestemaker",
+      "mestemaker"
+    ],
+    "statLine": "4,379 pass yds"
+  },
+  {
+    "year": 2024,
+    "school": "Syracuse",
+    "abbr": "SYR",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "colors": [
+      "#D44500",
+      "#000E54"
+    ],
+    "player": "Kyle McCord",
+    "playerAliases": [
+      "kyle mccord",
+      "mccord"
+    ],
+    "statLine": "4,779 pass yds"
+  },
+  {
+    "year": 2023,
+    "school": "Washington",
+    "abbr": "UW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "colors": [
+      "#4B2E83",
+      "#B7A57A"
+    ],
+    "player": "Michael Penix Jr.",
+    "playerAliases": [
+      "michael penix",
+      "penix"
+    ],
+    "statLine": "4,904 pass yds"
+  },
+  {
+    "year": 2022,
+    "school": "Western Kentucky",
+    "abbr": "WKU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "player": "Austin Reed",
+    "playerAliases": [
+      "austin reed",
+      "reed"
+    ],
+    "statLine": "4,746 pass yds"
+  },
+  {
+    "year": 2021,
+    "school": "Western Kentucky",
+    "abbr": "WKU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "player": "Bailey Zappe",
+    "playerAliases": [
+      "bailey zappe",
+      "zappe"
+    ],
+    "statLine": "5,967 pass yds"
+  },
+  {
+    "year": 2020,
+    "school": "Alabama",
+    "abbr": "BAMA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "colors": [
+      "#9E1B32",
+      "#FFFFFF"
+    ],
+    "player": "Mac Jones",
+    "playerAliases": [
+      "jones",
+      "mac jones"
+    ],
+    "statLine": "4,500 pass yds"
+  },
+  {
+    "year": 2019,
+    "school": "LSU",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D7C",
+      "#FDD023"
+    ],
+    "player": "Joe Burrow",
+    "playerAliases": [
+      "burrow",
+      "joe burrow"
+    ],
+    "statLine": "5,671 pass yds"
+  },
+  {
+    "year": 2018,
+    "school": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "player": "Dwayne Haskins",
+    "playerAliases": [
+      "dwayne haskins",
+      "haskins"
+    ],
+    "statLine": "4,831 pass yds"
+  },
+  {
+    "year": 2017,
+    "school": "Oklahoma State",
+    "abbr": "OKST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "colors": [
+      "#FF7300",
+      "#000000"
+    ],
+    "player": "Mason Rudolph",
+    "playerAliases": [
+      "mason rudolph",
+      "rudolph"
+    ],
+    "statLine": "4,904 pass yds"
+  },
+  {
+    "year": 2016,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "Patrick Mahomes",
+    "playerAliases": [
+      "mahomes",
+      "patrick mahomes"
+    ],
+    "statLine": "5,052 pass yds"
+  },
+  {
+    "year": 2015,
+    "school": "Western Kentucky",
+    "abbr": "WKU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "player": "Brandon Doughty",
+    "playerAliases": [
+      "brandon doughty",
+      "doughty"
+    ],
+    "statLine": "5,055 pass yds"
+  },
+  {
+    "year": 2014,
+    "school": "Western Kentucky",
+    "abbr": "WKU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "player": "Brandon Doughty",
+    "playerAliases": [
+      "brandon doughty",
+      "doughty"
+    ],
+    "statLine": "4,830 pass yds"
+  },
+  {
+    "year": 2013,
+    "school": "Fresno State",
+    "abbr": "FRES",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "colors": [
+      "#C41230",
+      "#002F6C"
+    ],
+    "player": "Derek Carr",
+    "playerAliases": [
+      "carr",
+      "derek carr"
+    ],
+    "statLine": "5,083 pass yds"
+  },
+  {
+    "year": 2012,
+    "school": "Baylor",
+    "abbr": "BAY",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "colors": [
+      "#003015",
+      "#FFB81C"
+    ],
+    "player": "Nick Florence",
+    "playerAliases": [
+      "florence",
+      "nick florence"
+    ],
+    "statLine": "4,309 pass yds"
+  },
+  {
+    "year": 2011,
+    "school": "Houston",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Case Keenum",
+    "playerAliases": [
+      "case keenum",
+      "keenum"
+    ],
+    "statLine": "5,631 pass yds"
+  },
+  {
+    "year": 2010,
+    "school": "Hawaii",
+    "abbr": "HAW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "colors": [
+      "#024731",
+      "#C8C9C7"
+    ],
+    "player": "Bryant Moniz",
+    "playerAliases": [
+      "bryant moniz",
+      "moniz"
+    ],
+    "statLine": "5,040 pass yds"
+  },
+  {
+    "year": 2009,
+    "school": "Houston",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Case Keenum",
+    "playerAliases": [
+      "case keenum",
+      "keenum"
+    ],
+    "statLine": "5,671 pass yds"
+  },
+  {
+    "year": 2008,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "Graham Harrell",
+    "playerAliases": [
+      "graham harrell",
+      "harrell"
+    ],
+    "statLine": "5,111 pass yds"
+  },
+  {
+    "year": 2007,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "Graham Harrell",
+    "playerAliases": [
+      "graham harrell",
+      "harrell"
+    ],
+    "statLine": "5,705 pass yds"
+  },
+  {
+    "year": 2006,
+    "school": "Hawaii",
+    "abbr": "HAW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "colors": [
+      "#024731",
+      "#C8C9C7"
+    ],
+    "player": "Colt Brennan",
+    "playerAliases": [
+      "brennan",
+      "colt brennan"
+    ],
+    "statLine": "5,549 pass yds"
+  },
+  {
+    "year": 2005,
+    "school": "Hawaii",
+    "abbr": "HAW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "colors": [
+      "#024731",
+      "#C8C9C7"
+    ],
+    "player": "Colt Brennan",
+    "playerAliases": [
+      "brennan",
+      "colt brennan"
+    ],
+    "statLine": "4,301 pass yds"
+  },
+  {
+    "year": 2004,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "Sonny Cumbie",
+    "playerAliases": [
+      "cumbie",
+      "sonny cumbie"
+    ],
+    "statLine": "4,742 pass yds"
+  },
+  {
+    "year": 2003,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "B.J. Symons",
+    "playerAliases": [
+      "b.j. symons",
+      "symons"
+    ],
+    "statLine": "5,833 pass yds"
+  },
+  {
+    "year": 2002,
+    "school": "Texas Tech",
+    "abbr": "TTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "player": "Kliff Kingsbury",
+    "playerAliases": [
+      "kingsbury",
+      "kliff kingsbury"
+    ],
+    "statLine": "5,017 pass yds"
+  },
+  {
+    "year": 2001,
+    "school": "Fresno State",
+    "abbr": "FRES",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "colors": [
+      "#C41230",
+      "#002F6C"
+    ],
+    "player": "David Carr",
+    "playerAliases": [
+      "carr",
+      "david carr"
+    ],
+    "statLine": "4,839 pass yds"
+  },
+  {
+    "year": 2000,
+    "school": "Florida State",
+    "abbr": "FSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "colors": [
+      "#782F40",
+      "#CEB888"
+    ],
+    "player": "Chris Weinke",
+    "playerAliases": [
+      "chris weinke",
+      "weinke"
+    ],
+    "statLine": "4,167 pass yds"
+  },
+  {
+    "year": 1999,
+    "school": "Louisiana Tech",
+    "abbr": "LT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "colors": [
+      "#C41230",
+      "#002F8B"
+    ],
+    "player": "Tim Rattay",
+    "playerAliases": [
+      "rattay",
+      "tim rattay"
+    ],
+    "statLine": "3,922 pass yds"
+  },
+  {
+    "year": 1998,
+    "school": "Louisiana Tech",
+    "abbr": "LT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "colors": [
+      "#C41230",
+      "#002F8B"
+    ],
+    "player": "Tim Rattay",
+    "playerAliases": [
+      "rattay",
+      "tim rattay"
+    ],
+    "statLine": "4,943 pass yds"
+  },
+  {
+    "year": 1997,
+    "school": "Kentucky",
+    "abbr": "UK",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Tim Couch",
+    "playerAliases": [
+      "couch",
+      "tim couch"
+    ],
+    "statLine": "3,884 pass yds"
+  },
+  {
+    "year": 1996,
+    "school": "Wyoming",
+    "abbr": "WYO",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "colors": [
+      "#492F24",
+      "#FFC425"
+    ],
+    "player": "Josh Wallwork",
+    "playerAliases": [
+      "josh wallwork",
+      "wallwork"
+    ],
+    "statLine": "4,090 pass yds"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "year": 1996,
+    "school": "Drexel Dragons",
+    "abbr": "Drexel",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2182.png",
+    "colors": [
+      "#020260",
+      "#FFD65A"
+    ],
+    "player": "Malik Rose",
+    "playerAliases": [
+      "malik rose"
+    ],
+    "statLine": "13.2 RPG"
+  },
+  {
+    "year": 1997,
+    "school": "Colgate Raiders",
+    "abbr": "Colgate",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png",
+    "colors": [
+      "#821019",
+      "#FFFFFF"
+    ],
+    "player": "Adonal Foyle",
+    "playerAliases": [
+      "adonal foyle"
+    ],
+    "statLine": "13.1 RPG"
+  },
+  {
+    "year": 1998,
+    "invalid": true,
+    "reason": "No logo available for St. Francis (PA) (small program not in current D1 database)"
+  },
+  {
+    "year": 1999,
+    "school": "Washington Huskies",
+    "abbr": "Washington",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "colors": [
+      "#33006F",
+      "#E8D3A2"
+    ],
+    "player": "Todd MacCulloch",
+    "playerAliases": [
+      "todd macculloch"
+    ],
+    "statLine": "11.9 RPG"
+  },
+  {
+    "year": 2000,
+    "school": "Holy Cross Crusaders",
+    "abbr": "Holy Cross",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/107.png",
+    "colors": [
+      "#582C83",
+      "#FFFFFF"
+    ],
+    "player": "Josh Sankes",
+    "playerAliases": [
+      "josh sankes"
+    ],
+    "statLine": "11.9 RPG"
+  },
+  {
+    "year": 2001,
+    "school": "Iowa Hawkeyes",
+    "abbr": "Iowa",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+    "colors": [
+      "#231F20",
+      "#FCD116"
+    ],
+    "player": "Reggie Evans",
+    "playerAliases": [
+      "reggie evans"
+    ],
+    "statLine": "11.9 RPG"
+  },
+  {
+    "year": 2002,
+    "school": "North Carolina A&T Aggies",
+    "abbr": "NC A&T",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png",
+    "colors": [
+      "#0505AA",
+      "#004684"
+    ],
+    "player": "Bruce Jenkins",
+    "playerAliases": [
+      "bruce jenkins"
+    ],
+    "statLine": "11.8 RPG"
+  },
+  {
+    "year": 2003,
+    "invalid": true,
+    "reason": "No logo available for Morris Brown (small program not in current D1 database)"
+  },
+  {
+    "year": 2004,
+    "school": "LSU Tigers",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D76",
+      "#FDD023"
+    ],
+    "player": "Jaime Lloreda",
+    "playerAliases": [
+      "jaime lloreda"
+    ],
+    "statLine": "11.6 RPG"
+  },
+  {
+    "year": 2005,
+    "school": "Utah Utes",
+    "abbr": "Utah",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "colors": [
+      "#BE0000",
+      "#FFFFFF"
+    ],
+    "player": "Andrew Bogut",
+    "playerAliases": [
+      "andrew bogut"
+    ],
+    "statLine": "12.2 RPG"
+  },
+  {
+    "year": 2006,
+    "invalid": true,
+    "reason": "No logo available for Hartford (small program not in current D1 database)"
+  },
+  {
+    "year": 2007,
+    "school": "Vermont Catamounts",
+    "abbr": "Vermont",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/261.png",
+    "colors": [
+      "#154734",
+      "#FFC72C"
+    ],
+    "player": "Chris Holm",
+    "playerAliases": [
+      "chris holm"
+    ],
+    "statLine": "12.2 RPG"
+  },
+  {
+    "year": 2008,
+    "school": "Rider Broncs",
+    "abbr": "Rider",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2520.png",
+    "colors": [
+      "#A80532",
+      "#EBEBEB"
+    ],
+    "player": "Jason Thompson",
+    "playerAliases": [
+      "jason thompson"
+    ],
+    "statLine": "12.1 RPG"
+  },
+  {
+    "year": 2009,
+    "school": "Santa Clara Broncos",
+    "abbr": "Santa Clara",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2541.png",
+    "colors": [
+      "#690B0B",
+      "#101010"
+    ],
+    "player": "John Bryant",
+    "playerAliases": [
+      "john bryant"
+    ],
+    "statLine": "14.2 RPG"
+  },
+  {
+    "year": 2010,
+    "school": "Morehead State Eagles",
+    "abbr": "Morehead St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png",
+    "colors": [
+      "#094FA3",
+      "#FED91A"
+    ],
+    "player": "Kenneth Faried",
+    "playerAliases": [
+      "kenneth faried"
+    ],
+    "statLine": "13.0 RPG"
+  },
+  {
+    "year": 2011,
+    "school": "Siena Saints",
+    "abbr": "Siena",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
+    "colors": [
+      "#037961",
+      "#EEA60F"
+    ],
+    "player": "Ryan Rossiter",
+    "playerAliases": [
+      "ryan rossiter"
+    ],
+    "statLine": "13.2 RPG"
+  },
+  {
+    "year": 2012,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Thomas Robinson",
+    "playerAliases": [
+      "thomas robinson"
+    ],
+    "statLine": "11.9 RPG"
+  },
+  {
+    "year": 2013,
+    "school": "Colorado Buffaloes",
+    "abbr": "Colorado",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "colors": [
+      "#CFB87C",
+      "#000000"
+    ],
+    "player": "Andre Roberson",
+    "playerAliases": [
+      "andre roberson"
+    ],
+    "statLine": "11.2 RPG"
+  },
+  {
+    "year": 2014,
+    "school": "UC Santa Barbara Gauchos",
+    "abbr": "Santa Barbara",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2540.png",
+    "colors": [
+      "#1E1840",
+      "#FEBC11"
+    ],
+    "player": "Alan Williams",
+    "playerAliases": [
+      "alan williams"
+    ],
+    "statLine": "11.5 RPG"
+  },
+  {
+    "year": 2015,
+    "school": "Delaware State Hornets",
+    "abbr": "Delaware St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png",
+    "colors": [
+      "#009CDB",
+      "#D51C28"
+    ],
+    "player": "Kendall Gray",
+    "playerAliases": [
+      "kendall gray"
+    ],
+    "statLine": "11.8 RPG"
+  },
+  {
+    "year": 2016,
+    "school": "Hofstra Pride",
+    "abbr": "Hofstra",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2275.png",
+    "colors": [
+      "#003594",
+      "#FFC72C"
+    ],
+    "player": "Rokas Gustys",
+    "playerAliases": [
+      "rokas gustys"
+    ],
+    "statLine": "13.0 RPG"
+  },
+  {
+    "year": 2017,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "colors": [
+      "#CEB888",
+      "#000000"
+    ],
+    "player": "Caleb Swanigan",
+    "playerAliases": [
+      "caleb swanigan"
+    ],
+    "statLine": "12.5 RPG"
+  },
+  {
+    "year": 2018,
+    "school": "New Mexico State Aggies",
+    "abbr": "New Mexico St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
+    "colors": [
+      "#7E141B",
+      "#231F20"
+    ],
+    "player": "Jemerrio Jones",
+    "playerAliases": [
+      "jemerrio jones"
+    ],
+    "statLine": "13.2 RPG"
+  },
+  {
+    "year": 2019,
+    "school": "UNC Wilmington Seahawks",
+    "abbr": "UNC Wilmington",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/350.png",
+    "colors": [
+      "#00665E",
+      "#FFDA00"
+    ],
+    "player": "Devontae Cacok",
+    "playerAliases": [
+      "devontae cacok"
+    ],
+    "statLine": "12.3 RPG"
+  },
+  {
+    "year": 2020,
+    "school": "Notre Dame Fighting Irish",
+    "abbr": "Notre Dame",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "colors": [
+      "#062340",
+      "#C99700"
+    ],
+    "player": "John Mooney",
+    "playerAliases": [
+      "john mooney"
+    ],
+    "statLine": "12.7 RPG"
+  },
+  {
+    "year": 2021,
+    "school": "Jackson State Tigers",
+    "abbr": "Jackson St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png",
+    "colors": [
+      "#123297",
+      "#B5B7BA"
+    ],
+    "player": "Jayveous McKinnis",
+    "playerAliases": [
+      "jayveous mckinnis"
+    ],
+    "statLine": "13.2 RPG"
+  },
+  {
+    "year": 2022,
+    "school": "Utah Valley Wolverines",
+    "abbr": "Utah Valley",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/3084.png",
+    "colors": [
+      "#004812",
+      "#E1C736"
+    ],
+    "player": "Fardaws Aimaq",
+    "playerAliases": [
+      "fardaws aimaq"
+    ],
+    "statLine": "13.6 RPG"
+  },
+  {
+    "year": 2023,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "colors": [
+      "#CEB888",
+      "#000000"
+    ],
+    "player": "Zach Edey",
+    "playerAliases": [
+      "zach edey"
+    ],
+    "statLine": "12.9 RPG"
+  },
+  {
+    "year": 2024,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "colors": [
+      "#CEB888",
+      "#000000"
+    ],
+    "player": "Zach Edey",
+    "playerAliases": [
+      "zach edey"
+    ],
+    "statLine": "12.2 RPG"
+  },
+  {
+    "year": 2025,
+    "school": "South Dakota State Jackrabbits",
+    "abbr": "S Dakota St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
+    "colors": [
+      "#0033A0",
+      "#FFD100"
+    ],
+    "player": "Oscar Cluff",
+    "playerAliases": [
+      "oscar cluff"
+    ],
+    "statLine": "12.3 RPG"
+  }
+]

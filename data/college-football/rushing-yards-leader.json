@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2025,
+    "school": "Jacksonville State",
+    "abbr": "JVST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
+    "colors": [
+      "#A6192E",
+      "#FFFFFF"
+    ],
+    "player": "Cam Cook",
+    "playerAliases": [
+      "cam cook",
+      "cook"
+    ],
+    "statLine": "1,659 rush yds"
+  },
+  {
+    "year": 2024,
+    "school": "Boise State",
+    "abbr": "BSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
+    "colors": [
+      "#0033A0",
+      "#D64309"
+    ],
+    "player": "Ashton Jeanty",
+    "playerAliases": [
+      "ashton jeanty",
+      "jeanty"
+    ],
+    "statLine": "2,601 rush yds"
+  },
+  {
+    "year": 2023,
+    "school": "Oklahoma State",
+    "abbr": "OKST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "colors": [
+      "#FF7300",
+      "#000000"
+    ],
+    "player": "Ollie Gordon II",
+    "playerAliases": [
+      "gordon",
+      "ollie gordon"
+    ],
+    "statLine": "1,732 rush yds"
+  },
+  {
+    "year": 2022,
+    "school": "Air Force",
+    "abbr": "AF",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png",
+    "colors": [
+      "#003087",
+      "#8A8D8F"
+    ],
+    "player": "Brad Roberts",
+    "playerAliases": [
+      "brad roberts",
+      "roberts"
+    ],
+    "statLine": "1,728 rush yds"
+  },
+  {
+    "year": 2021,
+    "school": "Central Michigan",
+    "abbr": "CMU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "colors": [
+      "#6A0032",
+      "#FFC82E"
+    ],
+    "player": "Lew Nichols III",
+    "playerAliases": [
+      "lew nichols",
+      "nichols"
+    ],
+    "statLine": "1,848 rush yds"
+  },
+  {
+    "year": 2020,
+    "school": "Iowa State",
+    "abbr": "ISU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "colors": [
+      "#C8102E",
+      "#F1BE48"
+    ],
+    "player": "Breece Hall",
+    "playerAliases": [
+      "breece hall",
+      "hall"
+    ],
+    "statLine": "1,572 rush yds"
+  },
+  {
+    "year": 2019,
+    "school": "Oklahoma State",
+    "abbr": "OKST",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "colors": [
+      "#FF7300",
+      "#000000"
+    ],
+    "player": "Chuba Hubbard",
+    "playerAliases": [
+      "chuba hubbard",
+      "hubbard"
+    ],
+    "statLine": "2,094 rush yds"
+  },
+  {
+    "year": 2018,
+    "school": "Wisconsin",
+    "abbr": "WISC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "colors": [
+      "#C5050C",
+      "#FFFFFF"
+    ],
+    "player": "Jonathan Taylor",
+    "playerAliases": [
+      "jonathan taylor",
+      "taylor"
+    ],
+    "statLine": "2,194 rush yds"
+  },
+  {
+    "year": 2017,
+    "school": "San Diego State",
+    "abbr": "SDSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "colors": [
+      "#A6192E",
+      "#000000"
+    ],
+    "player": "Rashaad Penny",
+    "playerAliases": [
+      "penny",
+      "rashaad penny"
+    ],
+    "statLine": "2,248 rush yds"
+  },
+  {
+    "year": 2016,
+    "school": "San Diego State",
+    "abbr": "SDSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "colors": [
+      "#A6192E",
+      "#000000"
+    ],
+    "player": "Donnel Pumphrey",
+    "playerAliases": [
+      "donnel pumphrey",
+      "pumphrey"
+    ],
+    "statLine": "2,133 rush yds"
+  },
+  {
+    "year": 2015,
+    "school": "Alabama",
+    "abbr": "BAMA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "colors": [
+      "#9E1B32",
+      "#FFFFFF"
+    ],
+    "player": "Derrick Henry",
+    "playerAliases": [
+      "derrick henry",
+      "henry"
+    ],
+    "statLine": "2,219 rush yds"
+  },
+  {
+    "year": 2014,
+    "school": "Wisconsin",
+    "abbr": "WISC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "colors": [
+      "#C5050C",
+      "#FFFFFF"
+    ],
+    "player": "Melvin Gordon",
+    "playerAliases": [
+      "gordon",
+      "melvin gordon"
+    ],
+    "statLine": "2,587 rush yds"
+  },
+  {
+    "year": 2013,
+    "school": "Boston College",
+    "abbr": "BC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "colors": [
+      "#8C2232",
+      "#BC9B6A"
+    ],
+    "player": "Andre Williams",
+    "playerAliases": [
+      "andre williams",
+      "williams"
+    ],
+    "statLine": "2,177 rush yds"
+  },
+  {
+    "year": 2012,
+    "school": "Arizona",
+    "abbr": "ARIZ",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#AB0520",
+      "#0C234B"
+    ],
+    "player": "Ka'Deem Carey",
+    "playerAliases": [
+      "carey",
+      "ka'deem carey"
+    ],
+    "statLine": "1,929 rush yds"
+  },
+  {
+    "year": 2011,
+    "school": "Wisconsin",
+    "abbr": "WISC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "colors": [
+      "#C5050C",
+      "#FFFFFF"
+    ],
+    "player": "Montee Ball",
+    "playerAliases": [
+      "ball",
+      "montee ball"
+    ],
+    "statLine": "1,923 rush yds"
+  },
+  {
+    "year": 2010,
+    "school": "Oregon",
+    "abbr": "ORE",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+    "colors": [
+      "#154733",
+      "#FEE123"
+    ],
+    "player": "LaMichael James",
+    "playerAliases": [
+      "james",
+      "lamichael james"
+    ],
+    "statLine": "1,731 rush yds"
+  },
+  {
+    "year": 2009,
+    "school": "Stanford",
+    "abbr": "STAN",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "colors": [
+      "#8C1515",
+      "#FFFFFF"
+    ],
+    "player": "Toby Gerhart",
+    "playerAliases": [
+      "gerhart",
+      "toby gerhart"
+    ],
+    "statLine": "1,871 rush yds"
+  },
+  {
+    "year": 2008,
+    "school": "UConn",
+    "abbr": "UCONN",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#000E2F",
+      "#FFFFFF"
+    ],
+    "player": "Donald Brown",
+    "playerAliases": [
+      "brown",
+      "donald brown"
+    ],
+    "statLine": "2,083 rush yds"
+  },
+  {
+    "year": 2007,
+    "school": "UCF",
+    "abbr": "UCF",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
+    "colors": [
+      "#000000",
+      "#BA9B37"
+    ],
+    "player": "Kevin Smith",
+    "playerAliases": [
+      "kevin smith",
+      "smith"
+    ],
+    "statLine": "2,567 rush yds"
+  },
+  {
+    "year": 2006,
+    "school": "Northern Illinois",
+    "abbr": "NIU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "colors": [
+      "#BA0C2F",
+      "#000000"
+    ],
+    "player": "Garrett Wolfe",
+    "playerAliases": [
+      "garrett wolfe",
+      "wolfe"
+    ],
+    "statLine": "1,928 rush yds"
+  },
+  {
+    "year": 2005,
+    "school": "Memphis",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "colors": [
+      "#003087",
+      "#898D8D"
+    ],
+    "player": "DeAngelo Williams",
+    "playerAliases": [
+      "deangelo williams",
+      "williams"
+    ],
+    "statLine": "1,964 rush yds"
+  },
+  {
+    "year": 2004,
+    "school": "California",
+    "abbr": "CAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "colors": [
+      "#003262",
+      "#FDB515"
+    ],
+    "player": "J.J. Arrington",
+    "playerAliases": [
+      "arrington",
+      "j.j. arrington"
+    ],
+    "statLine": "2,018 rush yds"
+  },
+  {
+    "year": 2003,
+    "school": "Kansas State",
+    "abbr": "KSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+    "colors": [
+      "#512888",
+      "#FFFFFF"
+    ],
+    "player": "Darren Sproles",
+    "playerAliases": [
+      "darren sproles",
+      "sproles"
+    ],
+    "statLine": "1,986 rush yds"
+  },
+  {
+    "year": 2002,
+    "school": "Penn State",
+    "abbr": "PSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+    "colors": [
+      "#041E42",
+      "#FFFFFF"
+    ],
+    "player": "Larry Johnson",
+    "playerAliases": [
+      "johnson",
+      "larry johnson"
+    ],
+    "statLine": "2,087 rush yds"
+  },
+  {
+    "year": 2001,
+    "school": "Nevada",
+    "abbr": "NEV",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
+    "colors": [
+      "#003366",
+      "#A2AAAD"
+    ],
+    "player": "Chance Kretschmer",
+    "playerAliases": [
+      "chance kretschmer",
+      "kretschmer"
+    ],
+    "statLine": "1,732 rush yds"
+  },
+  {
+    "year": 2000,
+    "school": "TCU",
+    "abbr": "TCU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+    "colors": [
+      "#4D1979",
+      "#FFFFFF"
+    ],
+    "player": "LaDainian Tomlinson",
+    "playerAliases": [
+      "ladainian tomlinson",
+      "tomlinson"
+    ],
+    "statLine": "2,158 rush yds"
+  },
+  {
+    "year": 1999,
+    "school": "Wisconsin",
+    "abbr": "WISC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "colors": [
+      "#C5050C",
+      "#FFFFFF"
+    ],
+    "player": "Ron Dayne",
+    "playerAliases": [
+      "dayne",
+      "ron dayne"
+    ],
+    "statLine": "2,034 rush yds"
+  },
+  {
+    "year": 1998,
+    "school": "Texas",
+    "abbr": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "colors": [
+      "#BF5700",
+      "#FFFFFF"
+    ],
+    "player": "Ricky Williams",
+    "playerAliases": [
+      "ricky williams",
+      "williams"
+    ],
+    "statLine": "2,124 rush yds"
+  },
+  {
+    "year": 1997,
+    "school": "Texas",
+    "abbr": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "colors": [
+      "#BF5700",
+      "#FFFFFF"
+    ],
+    "player": "Ricky Williams",
+    "playerAliases": [
+      "ricky williams",
+      "williams"
+    ],
+    "statLine": "1,893 rush yds"
+  },
+  {
+    "year": 1996,
+    "school": "Iowa State",
+    "abbr": "ISU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "colors": [
+      "#C8102E",
+      "#F1BE48"
+    ],
+    "player": "Troy Davis",
+    "playerAliases": [
+      "davis",
+      "troy davis"
+    ],
+    "statLine": "2,185 rush yds"
+  }
+]

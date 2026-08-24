@@ -1,0 +1,726 @@
+[
+  {
+    "year": 2025,
+    "team": "Miami (FL)",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "colors": [
+      "#F47321",
+      "#005030"
+    ],
+    "opponent": {
+      "team": "Indiana",
+      "abbr": "IU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+      "colors": [
+        "#990000",
+        "#EEEDEB"
+      ]
+    },
+    "player": "Miami (FL)",
+    "playerAliases": [
+      "miami",
+      "miami (fl)"
+    ],
+    "statLine": "Lost 21-27"
+  },
+  {
+    "year": 2024,
+    "team": "Notre Dame",
+    "abbr": "ND",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "colors": [
+      "#0C2340",
+      "#C99700"
+    ],
+    "opponent": {
+      "team": "Ohio State",
+      "abbr": "OSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+      "colors": [
+        "#BB0000",
+        "#666666"
+      ]
+    },
+    "player": "Notre Dame",
+    "playerAliases": [
+      "notre dame"
+    ],
+    "statLine": "Lost 23-34"
+  },
+  {
+    "year": 2023,
+    "team": "Washington",
+    "abbr": "UW",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "colors": [
+      "#4B2E83",
+      "#B7A57A"
+    ],
+    "opponent": {
+      "team": "Michigan",
+      "abbr": "MICH",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+      "colors": [
+        "#00274C",
+        "#FFCB05"
+      ]
+    },
+    "player": "Washington",
+    "playerAliases": [
+      "washington"
+    ],
+    "statLine": "Lost 13-34"
+  },
+  {
+    "year": 2022,
+    "team": "TCU",
+    "abbr": "TCU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
+    "colors": [
+      "#4D1979",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Georgia",
+      "abbr": "UGA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+      "colors": [
+        "#BA0C2F",
+        "#000000"
+      ]
+    },
+    "player": "TCU",
+    "playerAliases": [
+      "tcu"
+    ],
+    "statLine": "Lost 7-65"
+  },
+  {
+    "year": 2021,
+    "team": "Alabama",
+    "abbr": "BAMA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "colors": [
+      "#9E1B32",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Georgia",
+      "abbr": "UGA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+      "colors": [
+        "#BA0C2F",
+        "#000000"
+      ]
+    },
+    "player": "Alabama",
+    "playerAliases": [
+      "alabama"
+    ],
+    "statLine": "Lost 18-33"
+  },
+  {
+    "year": 2020,
+    "team": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "opponent": {
+      "team": "Alabama",
+      "abbr": "BAMA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "colors": [
+        "#9E1B32",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Ohio State",
+    "playerAliases": [
+      "ohio state"
+    ],
+    "statLine": "Lost 24-52"
+  },
+  {
+    "year": 2019,
+    "team": "Clemson",
+    "abbr": "CLEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+    "colors": [
+      "#F56600",
+      "#522D80"
+    ],
+    "opponent": {
+      "team": "LSU",
+      "abbr": "LSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+      "colors": [
+        "#461D7C",
+        "#FDD023"
+      ]
+    },
+    "player": "Clemson",
+    "playerAliases": [
+      "clemson"
+    ],
+    "statLine": "Lost 25-42"
+  },
+  {
+    "year": 2018,
+    "team": "Alabama",
+    "abbr": "BAMA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "colors": [
+      "#9E1B32",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Clemson",
+      "abbr": "CLEM",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+      "colors": [
+        "#F56600",
+        "#522D80"
+      ]
+    },
+    "player": "Alabama",
+    "playerAliases": [
+      "alabama"
+    ],
+    "statLine": "Lost 16-44"
+  },
+  {
+    "year": 2017,
+    "team": "Georgia",
+    "abbr": "UGA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+    "colors": [
+      "#BA0C2F",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Alabama",
+      "abbr": "BAMA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "colors": [
+        "#9E1B32",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Georgia",
+    "playerAliases": [
+      "georgia"
+    ],
+    "statLine": "Lost 23-26"
+  },
+  {
+    "year": 2016,
+    "team": "Alabama",
+    "abbr": "BAMA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+    "colors": [
+      "#9E1B32",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Clemson",
+      "abbr": "CLEM",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+      "colors": [
+        "#F56600",
+        "#522D80"
+      ]
+    },
+    "player": "Alabama",
+    "playerAliases": [
+      "alabama"
+    ],
+    "statLine": "Lost 31-35"
+  },
+  {
+    "year": 2015,
+    "team": "Clemson",
+    "abbr": "CLEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+    "colors": [
+      "#F56600",
+      "#522D80"
+    ],
+    "opponent": {
+      "team": "Alabama",
+      "abbr": "BAMA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "colors": [
+        "#9E1B32",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Clemson",
+    "playerAliases": [
+      "clemson"
+    ],
+    "statLine": "Lost 40-45"
+  },
+  {
+    "year": 2014,
+    "team": "Oregon",
+    "abbr": "ORE",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+    "colors": [
+      "#154733",
+      "#FEE123"
+    ],
+    "opponent": {
+      "team": "Ohio State",
+      "abbr": "OSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+      "colors": [
+        "#BB0000",
+        "#666666"
+      ]
+    },
+    "player": "Oregon",
+    "playerAliases": [
+      "oregon"
+    ],
+    "statLine": "Lost 20-42"
+  },
+  {
+    "year": 2013,
+    "team": "Auburn",
+    "abbr": "AUB",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "colors": [
+      "#03244D",
+      "#DD550C"
+    ],
+    "opponent": {
+      "team": "Florida State",
+      "abbr": "FSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+      "colors": [
+        "#782F40",
+        "#CEB888"
+      ]
+    },
+    "player": "Auburn",
+    "playerAliases": [
+      "auburn"
+    ],
+    "statLine": "Lost 31-34"
+  },
+  {
+    "year": 2012,
+    "team": "Notre Dame",
+    "abbr": "ND",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "colors": [
+      "#0C2340",
+      "#C99700"
+    ],
+    "opponent": {
+      "team": "Alabama",
+      "abbr": "BAMA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "colors": [
+        "#9E1B32",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Notre Dame",
+    "playerAliases": [
+      "notre dame"
+    ],
+    "statLine": "Lost 14-42"
+  },
+  {
+    "year": 2011,
+    "team": "LSU",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D7C",
+      "#FDD023"
+    ],
+    "opponent": {
+      "team": "Alabama",
+      "abbr": "BAMA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "colors": [
+        "#9E1B32",
+        "#FFFFFF"
+      ]
+    },
+    "player": "LSU",
+    "playerAliases": [
+      "lsu"
+    ],
+    "statLine": "Lost 0-21"
+  },
+  {
+    "year": 2010,
+    "team": "Oregon",
+    "abbr": "ORE",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+    "colors": [
+      "#154733",
+      "#FEE123"
+    ],
+    "opponent": {
+      "team": "Auburn",
+      "abbr": "AUB",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+      "colors": [
+        "#03244D",
+        "#DD550C"
+      ]
+    },
+    "player": "Oregon",
+    "playerAliases": [
+      "oregon"
+    ],
+    "statLine": "Lost 19-22"
+  },
+  {
+    "year": 2009,
+    "team": "Texas",
+    "abbr": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "colors": [
+      "#BF5700",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Alabama",
+      "abbr": "BAMA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+      "colors": [
+        "#9E1B32",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Texas",
+    "playerAliases": [
+      "texas"
+    ],
+    "statLine": "Lost 21-37"
+  },
+  {
+    "year": 2008,
+    "team": "Oklahoma",
+    "abbr": "OU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "colors": [
+      "#841617",
+      "#FDF9D8"
+    ],
+    "opponent": {
+      "team": "Florida",
+      "abbr": "FLA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "colors": [
+        "#0021A5",
+        "#FA4616"
+      ]
+    },
+    "player": "Oklahoma",
+    "playerAliases": [
+      "oklahoma"
+    ],
+    "statLine": "Lost 14-24"
+  },
+  {
+    "year": 2007,
+    "team": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "opponent": {
+      "team": "LSU",
+      "abbr": "LSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+      "colors": [
+        "#461D7C",
+        "#FDD023"
+      ]
+    },
+    "player": "Ohio State",
+    "playerAliases": [
+      "ohio state"
+    ],
+    "statLine": "Lost 24-38"
+  },
+  {
+    "year": 2006,
+    "team": "Ohio State",
+    "abbr": "OSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BB0000",
+      "#666666"
+    ],
+    "opponent": {
+      "team": "Florida",
+      "abbr": "FLA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "colors": [
+        "#0021A5",
+        "#FA4616"
+      ]
+    },
+    "player": "Ohio State",
+    "playerAliases": [
+      "ohio state"
+    ],
+    "statLine": "Lost 14-41"
+  },
+  {
+    "year": 2005,
+    "team": "USC",
+    "abbr": "USC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "colors": [
+      "#990000",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "Texas",
+      "abbr": "TEX",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+      "colors": [
+        "#BF5700",
+        "#FFFFFF"
+      ]
+    },
+    "player": "USC",
+    "playerAliases": [
+      "southern cal",
+      "southern california",
+      "usc"
+    ],
+    "statLine": "Lost 38-41"
+  },
+  {
+    "year": 2004,
+    "team": "Oklahoma",
+    "abbr": "OU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "colors": [
+      "#841617",
+      "#FDF9D8"
+    ],
+    "opponent": {
+      "team": "USC",
+      "abbr": "USC",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+      "colors": [
+        "#990000",
+        "#FFC72C"
+      ]
+    },
+    "player": "Oklahoma",
+    "playerAliases": [
+      "oklahoma"
+    ],
+    "statLine": "Lost 19-55"
+  },
+  {
+    "year": 2003,
+    "team": "Oklahoma",
+    "abbr": "OU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "colors": [
+      "#841617",
+      "#FDF9D8"
+    ],
+    "opponent": {
+      "team": "LSU",
+      "abbr": "LSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+      "colors": [
+        "#461D7C",
+        "#FDD023"
+      ]
+    },
+    "player": "Oklahoma",
+    "playerAliases": [
+      "oklahoma"
+    ],
+    "statLine": "Lost 14-21"
+  },
+  {
+    "year": 2002,
+    "team": "Miami (FL)",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+    "colors": [
+      "#F47321",
+      "#005030"
+    ],
+    "opponent": {
+      "team": "Ohio State",
+      "abbr": "OSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+      "colors": [
+        "#BB0000",
+        "#666666"
+      ]
+    },
+    "player": "Miami (FL)",
+    "playerAliases": [
+      "miami",
+      "miami (fl)"
+    ],
+    "statLine": "Lost 24-31"
+  },
+  {
+    "year": 2001,
+    "team": "Nebraska",
+    "abbr": "NEB",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+    "colors": [
+      "#E41C38",
+      "#F5F1E7"
+    ],
+    "opponent": {
+      "team": "Miami (FL)",
+      "abbr": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
+      "colors": [
+        "#F47321",
+        "#005030"
+      ]
+    },
+    "player": "Nebraska",
+    "playerAliases": [
+      "nebraska"
+    ],
+    "statLine": "Lost 14-37"
+  },
+  {
+    "year": 2000,
+    "team": "Florida State",
+    "abbr": "FSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "colors": [
+      "#782F40",
+      "#CEB888"
+    ],
+    "opponent": {
+      "team": "Oklahoma",
+      "abbr": "OU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+      "colors": [
+        "#841617",
+        "#FDF9D8"
+      ]
+    },
+    "player": "Florida State",
+    "playerAliases": [
+      "florida state"
+    ],
+    "statLine": "Lost 2-13"
+  },
+  {
+    "year": 1999,
+    "team": "Virginia Tech",
+    "abbr": "VT",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
+    "colors": [
+      "#630031",
+      "#CF4420"
+    ],
+    "opponent": {
+      "team": "Florida State",
+      "abbr": "FSU",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+      "colors": [
+        "#782F40",
+        "#CEB888"
+      ]
+    },
+    "player": "Virginia Tech",
+    "playerAliases": [
+      "virginia tech"
+    ],
+    "statLine": "Lost 29-46"
+  },
+  {
+    "year": 1998,
+    "team": "Florida State",
+    "abbr": "FSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "colors": [
+      "#782F40",
+      "#CEB888"
+    ],
+    "opponent": {
+      "team": "Tennessee",
+      "abbr": "TENN",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+      "colors": [
+        "#FF8200",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Florida State",
+    "playerAliases": [
+      "florida state"
+    ],
+    "statLine": "Lost 16-23"
+  },
+  {
+    "year": 1997,
+    "team": "Washington State",
+    "abbr": "WSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+    "colors": [
+      "#981E32",
+      "#5E6A71"
+    ],
+    "opponent": {
+      "team": "Michigan",
+      "abbr": "MICH",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+      "colors": [
+        "#00274C",
+        "#FFCB05"
+      ]
+    },
+    "player": "Washington State",
+    "playerAliases": [
+      "washington state"
+    ],
+    "statLine": "Lost 16-21"
+  },
+  {
+    "year": 1996,
+    "team": "Florida State",
+    "abbr": "FSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+    "colors": [
+      "#782F40",
+      "#CEB888"
+    ],
+    "opponent": {
+      "team": "Florida",
+      "abbr": "FLA",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "colors": [
+        "#0021A5",
+        "#FA4616"
+      ]
+    },
+    "player": "Florida State",
+    "playerAliases": [
+      "florida state"
+    ],
+    "statLine": "Lost 20-52"
+  }
+]

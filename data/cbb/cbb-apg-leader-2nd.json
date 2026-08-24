@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1996,
+    "school": "George Mason Patriots",
+    "abbr": "George Mason",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2244.png",
+    "colors": [
+      "#016600",
+      "#ECB010"
+    ],
+    "player": "Curtis McCants",
+    "playerAliases": [
+      "curtis mccants"
+    ],
+    "statLine": "8.3 APG"
+  },
+  {
+    "year": 1997,
+    "school": "Stanford Cardinal",
+    "abbr": "Stanford",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+    "colors": [
+      "#8C1515",
+      "#FFFFFF"
+    ],
+    "player": "Brevin Knight",
+    "playerAliases": [
+      "brevin knight"
+    ],
+    "statLine": "7.8 APG"
+  },
+  {
+    "year": 1998,
+    "school": "Arkansas State Red Wolves",
+    "abbr": "Arkansas St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
+    "colors": [
+      "#CC092F",
+      "#000000"
+    ],
+    "player": "Chico Fletcher",
+    "playerAliases": [
+      "chico fletcher"
+    ],
+    "statLine": "8.3 APG"
+  },
+  {
+    "year": 1999,
+    "school": "Arkansas State Red Wolves",
+    "abbr": "Arkansas St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
+    "colors": [
+      "#CC092F",
+      "#000000"
+    ],
+    "player": "Chico Fletcher",
+    "playerAliases": [
+      "chico fletcher"
+    ],
+    "statLine": "8.3 APG"
+  },
+  {
+    "year": 2000,
+    "school": "Oklahoma State Cowboys",
+    "abbr": "Oklahoma St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "colors": [
+      "#FE5C00",
+      "#000000"
+    ],
+    "player": "Doug Gottlieb",
+    "playerAliases": [
+      "doug gottlieb"
+    ],
+    "statLine": "8.6 APG"
+  },
+  {
+    "year": 2001,
+    "school": "St. John's Red Storm",
+    "abbr": "St John's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+    "colors": [
+      "#D10000",
+      "#101010"
+    ],
+    "player": "Omar Cook",
+    "playerAliases": [
+      "omar cook"
+    ],
+    "statLine": "8.7 APG"
+  },
+  {
+    "year": 2002,
+    "school": "Maryland Terrapins",
+    "abbr": "Maryland",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "player": "Steve Blake",
+    "playerAliases": [
+      "steve blake"
+    ],
+    "statLine": "7.9 APG"
+  },
+  {
+    "year": 2003,
+    "school": "St. Bonaventure Bonnies",
+    "abbr": "St Bonaventure",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
+    "colors": [
+      "#70261D",
+      "#FFFFFF"
+    ],
+    "player": "Marques Green",
+    "playerAliases": [
+      "marques green"
+    ],
+    "statLine": "8.0 APG"
+  },
+  {
+    "year": 2004,
+    "school": "UIC Flames",
+    "abbr": "UIC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/82.png",
+    "colors": [
+      "#001E62",
+      "#D50032"
+    ],
+    "player": "Martell Bailey",
+    "playerAliases": [
+      "martell bailey"
+    ],
+    "statLine": "7.8 APG"
+  },
+  {
+    "year": 2005,
+    "school": "Portland State Vikings",
+    "abbr": "Portland St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+    "colors": [
+      "#00311E",
+      "#EBEBEB"
+    ],
+    "player": "Will Funn",
+    "playerAliases": [
+      "will funn"
+    ],
+    "statLine": "8.0 APG"
+  },
+  {
+    "year": 2006,
+    "school": "Northeastern Huskies",
+    "abbr": "Northeastern",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/111.png",
+    "colors": [
+      "#CC0001",
+      "#C2C3C0"
+    ],
+    "player": "J.J. Barea",
+    "playerAliases": [
+      "j.j. barea"
+    ],
+    "statLine": "8.4 APG"
+  },
+  {
+    "year": 2007,
+    "school": "Davidson Wildcats",
+    "abbr": "Davidson",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+    "colors": [
+      "#000000",
+      "#E51837"
+    ],
+    "player": "Jason Richards",
+    "playerAliases": [
+      "jason richards"
+    ],
+    "statLine": "7.3 APG"
+  },
+  {
+    "year": 2008,
+    "school": "UT Rio Grande Valley Vaqueros",
+    "abbr": "UT Rio Grande",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/292.png",
+    "colors": [
+      "#DC6000",
+      "#E1732D"
+    ],
+    "player": "Paul Stoll",
+    "playerAliases": [
+      "paul stoll"
+    ],
+    "statLine": "7.2 APG"
+  },
+  {
+    "year": 2009,
+    "school": "East Carolina Pirates",
+    "abbr": "East Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/151.png",
+    "colors": [
+      "#582C83",
+      "#FFC72C"
+    ],
+    "player": "Brock Young",
+    "playerAliases": [
+      "brock young"
+    ],
+    "statLine": "7.6 APG"
+  },
+  {
+    "year": 2010,
+    "school": "Illinois Fighting Illini",
+    "abbr": "Illinois",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "colors": [
+      "#FF5F05",
+      "#13294B"
+    ],
+    "player": "Demetri McCamey",
+    "playerAliases": [
+      "demetri mccamey"
+    ],
+    "statLine": "7.1 APG"
+  },
+  {
+    "year": 2011,
+    "school": "Iona Gaels",
+    "abbr": "Iona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
+    "colors": [
+      "#6F2C3E",
+      "#F0AB00"
+    ],
+    "player": "Scott Machado",
+    "playerAliases": [
+      "scott machado"
+    ],
+    "statLine": "7.6 APG"
+  },
+  {
+    "year": 2012,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Kendall Marshall",
+    "playerAliases": [
+      "kendall marshall"
+    ],
+    "statLine": "9.8 APG"
+  },
+  {
+    "year": 2013,
+    "school": "Sacred Heart Pioneers",
+    "abbr": "Sacred Heart",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png",
+    "colors": [
+      "#A40012",
+      "#C29472"
+    ],
+    "player": "Phil Gaetano",
+    "playerAliases": [
+      "phil gaetano"
+    ],
+    "statLine": "7.9 APG"
+  },
+  {
+    "year": 2014,
+    "school": "Louisiana Tech Bulldogs",
+    "abbr": "Louisiana Tech",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "colors": [
+      "#003087",
+      "#CB333B"
+    ],
+    "player": "Speedy Smith",
+    "playerAliases": [
+      "speedy smith"
+    ],
+    "statLine": "7.7 APG"
+  },
+  {
+    "year": 2015,
+    "school": "Oakland Golden Grizzlies",
+    "abbr": "Oakland",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "colors": [
+      "#04091C",
+      "#BC955C"
+    ],
+    "player": "Kay Felder",
+    "playerAliases": [
+      "kay felder"
+    ],
+    "statLine": "7.6 APG"
+  },
+  {
+    "year": 2016,
+    "school": "Milwaukee Panthers",
+    "abbr": "Milwaukee",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/270.png",
+    "colors": [
+      "#000000",
+      "#FFC20E"
+    ],
+    "player": "Jordan Johnson",
+    "playerAliases": [
+      "jordan johnson"
+    ],
+    "statLine": "8.1 APG"
+  },
+  {
+    "year": 2017,
+    "school": "Belmont Bruins",
+    "abbr": "Belmont",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
+    "colors": [
+      "#182142",
+      "#C9262D"
+    ],
+    "player": "Austin Luke",
+    "playerAliases": [
+      "austin luke"
+    ],
+    "statLine": "7.1 APG"
+  },
+  {
+    "year": 2018,
+    "school": "Saint Mary's Gaels",
+    "abbr": "Saint Mary's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2608.png",
+    "colors": [
+      "#D80024",
+      "#003057"
+    ],
+    "player": "Emmett Naar",
+    "playerAliases": [
+      "emmett naar"
+    ],
+    "statLine": "7.9 APG"
+  },
+  {
+    "year": 2019,
+    "school": "UNC Wilmington Seahawks",
+    "abbr": "UNC Wilmington",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/350.png",
+    "colors": [
+      "#00665E",
+      "#FFDA00"
+    ],
+    "player": "Kai Toews",
+    "playerAliases": [
+      "kai toews"
+    ],
+    "statLine": "7.7 APG"
+  },
+  {
+    "year": 2020,
+    "school": "UT Rio Grande Valley Vaqueros",
+    "abbr": "UT Rio Grande",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/292.png",
+    "colors": [
+      "#DC6000",
+      "#E1732D"
+    ],
+    "player": "Javon Levi",
+    "playerAliases": [
+      "javon levi"
+    ],
+    "statLine": "7.9 APG"
+  },
+  {
+    "year": 2021,
+    "school": "Prairie View A&M Panthers",
+    "abbr": "Prairie View",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png",
+    "colors": [
+      "#582C83",
+      "#EAAA00"
+    ],
+    "player": "Cam Mack",
+    "playerAliases": [
+      "cam mack"
+    ],
+    "statLine": "7.7 APG"
+  },
+  {
+    "year": 2022,
+    "school": "Oakland Golden Grizzlies",
+    "abbr": "Oakland",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "colors": [
+      "#04091C",
+      "#BC955C"
+    ],
+    "player": "Jalen Moore",
+    "playerAliases": [
+      "jalen moore"
+    ],
+    "statLine": "7.6 APG"
+  },
+  {
+    "year": 2023,
+    "school": "Kansas State Wildcats",
+    "abbr": "Kansas St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+    "colors": [
+      "#330A57",
+      "#E2E3E4"
+    ],
+    "player": "Markquis Nowell",
+    "playerAliases": [
+      "markquis nowell"
+    ],
+    "statLine": "8.2 APG"
+  },
+  {
+    "year": 2024,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "colors": [
+      "#CEB888",
+      "#000000"
+    ],
+    "player": "Braden Smith",
+    "playerAliases": [
+      "braden smith"
+    ],
+    "statLine": "7.5 APG"
+  },
+  {
+    "year": 2025,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "colors": [
+      "#CEB888",
+      "#000000"
+    ],
+    "player": "Braden Smith",
+    "playerAliases": [
+      "braden smith"
+    ],
+    "statLine": "8.7 APG"
+  }
+]

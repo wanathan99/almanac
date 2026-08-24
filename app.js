@@ -20,6 +20,7 @@ const summaryList = document.getElementById('summaryList');
 const playAgainBtn = document.getElementById('playAgainBtn');
 
 let currentEntries = [];
+let guessableTotal = 0;
 let currentCategory = null;
 let score = 0;
 let answered = 0;
@@ -100,7 +101,7 @@ function setupStrikesSetting() {
 
 async function loadCategories() {
   try {
-    const res = await fetch('data/categories.json');
+    const res = await fetch('data/categories.json', { cache: 'no-store' });
     const categories = await res.json();
     renderCategories(categories);
   } catch (err) {
@@ -134,18 +135,77 @@ function renderCategories(sports) {
     if (idx > 0) section.classList.add('collapsed');
 
     sport.categories.forEach((cat) => {
-      const card = document.createElement('button');
-      card.type = 'button';
-      card.className = 'category-card';
-      card.innerHTML = `
-        <span class="category-icon">${cat.icon || '🏆'}</span>
-        <span class="category-copy">
-          <h3>${cat.title}</h3>
-          <p>${cat.subtitle}</p>
-        </span>
-      `;
-      card.addEventListener('click', () => openCategory(cat));
-      cardWrap.appendChild(card);
+      if (cat.types) {
+        const card = document.createElement('div');
+        card.className = 'category-card category-card-grouped';
+        card.innerHTML = `
+          <div class="category-card-header">
+            <span class="category-icon">${cat.icon || '🏆'}</span>
+            <span class="category-copy">
+              <h3>${cat.title}</h3>
+              <p>${cat.subtitle}</p>
+            </span>
+          </div>
+          <div class="variant-row">
+            ${cat.types
+              .map((t, i) => `<button type="button" class="variant-option" data-index="${i}">${t.label}</button>`)
+              .join('')}
+          </div>
+          <div class="variant-row variant-row-nested hidden"></div>
+        `;
+        const typeButtons = card.querySelectorAll('.variant-row:not(.variant-row-nested) .variant-option');
+        const nestedRow = card.querySelector('.variant-row-nested');
+        typeButtons.forEach((btn, i) => {
+          btn.addEventListener('click', () => {
+            typeButtons.forEach((b) => b.classList.remove('selected'));
+            btn.classList.add('selected');
+            const type = cat.types[i];
+            nestedRow.classList.remove('hidden');
+            nestedRow.innerHTML = type.variants
+              .map((v, j) => `<button type="button" class="variant-option" data-index="${j}">${v.label}</button>`)
+              .join('');
+            nestedRow.querySelectorAll('.variant-option').forEach((vbtn, j) => {
+              vbtn.addEventListener('click', () => openCategory(type.variants[j]));
+            });
+          });
+        });
+        cardWrap.appendChild(card);
+      } else if (cat.variants) {
+        const card = document.createElement('div');
+        card.className = 'category-card category-card-grouped';
+        card.innerHTML = `
+          <div class="category-card-header">
+            <span class="category-icon">${cat.icon || '🏆'}</span>
+            <span class="category-copy">
+              <h3>${cat.title}</h3>
+              <p>${cat.subtitle}</p>
+            </span>
+          </div>
+          <div class="variant-row">
+            ${cat.variants
+              .map((v, i) => `<button type="button" class="variant-option" data-index="${i}">${v.label}</button>`)
+              .join('')}
+          </div>
+        `;
+        const buttons = card.querySelectorAll('.variant-option');
+        buttons.forEach((btn, i) => {
+          btn.addEventListener('click', () => openCategory(cat.variants[i]));
+        });
+        cardWrap.appendChild(card);
+      } else {
+        const card = document.createElement('button');
+        card.type = 'button';
+        card.className = 'category-card';
+        card.innerHTML = `
+          <span class="category-icon">${cat.icon || '🏆'}</span>
+          <span class="category-copy">
+            <h3>${cat.title}</h3>
+            <p>${cat.subtitle}</p>
+          </span>
+        `;
+        card.addEventListener('click', () => openCategory(cat));
+        cardWrap.appendChild(card);
+      }
     });
 
     section.appendChild(cardWrap);
@@ -155,10 +215,11 @@ function renderCategories(sports) {
 
 async function openCategory(cat) {
   try {
-    const res = await fetch(cat.file);
+    const res = await fetch(cat.file, { cache: 'no-store' });
     const entries = await res.json();
     currentCategory = cat;
     currentEntries = entries;
+    guessableTotal = entries.filter((e) => !e.invalid).length;
     score = 0;
     answered = 0;
     strikes = 0;
@@ -186,6 +247,13 @@ function renderGrid(entries) {
     yearLabel.className = 'cell-year';
     yearLabel.textContent = entry.year;
     cell.appendChild(yearLabel);
+
+    if (entry.invalid) {
+      cell.classList.add('cell-invalid');
+      cell.innerHTML += `<div class="cell-invalid-content"><div class="cell-invalid-mark">N/A</div><div class="cell-invalid-reason">${entry.reason}</div></div>`;
+      grid.appendChild(cell);
+      return;
+    }
 
     const logo = document.createElement('div');
     logo.className = 'cell-logo';
@@ -270,13 +338,13 @@ function revealCell(cell, entry, correct) {
   if (correct) score += 1;
   updateScore();
 
-  if (answered === currentEntries.length) {
+  if (answered === guessableTotal) {
     setTimeout(() => endGame('complete'), 400);
   }
 }
 
 function updateScore() {
-  scorePill.textContent = `${score} / ${currentEntries.length}`;
+  scorePill.textContent = `${score} / ${guessableTotal}`;
 }
 
 function updateStrikes() {
@@ -300,7 +368,11 @@ function endGame(reason) {
   stopTimer();
 
   document.querySelectorAll('#grid .cell').forEach((cell) => {
-    if (!cell.classList.contains('correct') && !cell.classList.contains('revealed')) {
+    if (
+      !cell.classList.contains('correct') &&
+      !cell.classList.contains('revealed') &&
+      !cell.classList.contains('cell-invalid')
+    ) {
       const year = Number(cell.dataset.year);
       const entry = currentEntries.find((e) => e.year === year);
       revealCell(cell, entry, false);
@@ -319,7 +391,7 @@ function showSummary(reason) {
   });
 
   summaryHeading.textContent = reason === 'strikeout' ? 'Game over — too many strikes' : 'Final score';
-  summaryScore.textContent = `${score} / ${currentEntries.length}`;
+  summaryScore.textContent = `${score} / ${guessableTotal}`;
   summaryStrikes.textContent = `${strikes} strike${strikes === 1 ? '' : 's'}${Number.isFinite(strikeLimit) ? ` (limit ${strikeLimit})` : ''}`;
   summaryTime.textContent = `Completed in ${formatTime(elapsedSeconds)}`;
   summaryList.innerHTML = '';
