@@ -1,0 +1,442 @@
+[
+  {
+    "year": 2025,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Tyler Herro",
+    "playerAliases": [
+      "herro",
+      "tyler herro"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Damian Lillard",
+    "playerAliases": [
+      "damian lillard",
+      "lillard"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Damian Lillard",
+    "playerAliases": [
+      "damian lillard",
+      "lillard"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Karl-Anthony Towns",
+    "playerAliases": [
+      "karl-anthony towns",
+      "towns"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Stephen Curry",
+    "playerAliases": [
+      "curry",
+      "stephen curry"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Buddy Hield",
+    "playerAliases": [
+      "buddy hield",
+      "hield"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Brooklyn Nets",
+    "abbr": "BKN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "player": "Joe Harris",
+    "playerAliases": [
+      "harris",
+      "joe harris"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "player": "Devin Booker",
+    "playerAliases": [
+      "booker",
+      "devin booker"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Eric Gordon",
+    "playerAliases": [
+      "eric gordon",
+      "gordon"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Klay Thompson",
+    "playerAliases": [
+      "klay thompson",
+      "thompson"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Stephen Curry",
+    "playerAliases": [
+      "curry",
+      "stephen curry"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "San Antonio Spurs",
+    "abbr": "SAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "colors": [
+      "#C4CED4",
+      "#000000"
+    ],
+    "player": "Marco Belinelli",
+    "playerAliases": [
+      "belinelli",
+      "marco belinelli"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Kyrie Irving",
+    "playerAliases": [
+      "irving",
+      "kyrie irving"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Kevin Love",
+    "playerAliases": [
+      "kevin love",
+      "love"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "James Jones",
+    "playerAliases": [
+      "james jones",
+      "jones"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Paul Pierce",
+    "playerAliases": [
+      "paul pierce",
+      "pierce"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Daequan Cook",
+    "playerAliases": [
+      "cook",
+      "daequan cook"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Jason Kapono",
+    "playerAliases": [
+      "jason kapono",
+      "kapono"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Jason Kapono",
+    "playerAliases": [
+      "jason kapono",
+      "kapono"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Dirk Nowitzki",
+    "playerAliases": [
+      "dirk nowitzki",
+      "nowitzki"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "player": "Quentin Richardson",
+    "playerAliases": [
+      "quentin richardson",
+      "richardson"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Voshon Lenard",
+    "playerAliases": [
+      "lenard",
+      "voshon lenard"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Peja Stojakovi\u0107",
+    "playerAliases": [
+      "peja stojakovi\u0107",
+      "stojakovi\u0107"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Peja Stojakovi\u0107",
+    "playerAliases": [
+      "peja stojakovi\u0107",
+      "stojakovi\u0107"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Ray Allen",
+    "playerAliases": [
+      "allen",
+      "ray allen"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Jeff Hornacek",
+    "playerAliases": [
+      "hornacek",
+      "jeff hornacek"
+    ]
+  },
+  {
+    "year": 1999,
+    "invalid": true,
+    "reason": "Contest canceled due to the 1998\u201399 NBA lockout"
+  },
+  {
+    "year": 1998,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Jeff Hornacek",
+    "playerAliases": [
+      "hornacek",
+      "jeff hornacek"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Chicago Bulls",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Steve Kerr",
+    "playerAliases": [
+      "kerr",
+      "steve kerr"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Washington Bullets",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "Tim Legler",
+    "playerAliases": [
+      "legler",
+      "tim legler"
+    ]
+  }
+]

@@ -1,0 +1,431 @@
+[
+  {
+    "year": 1996,
+    "school": "California Golden Bears",
+    "abbr": "California",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "colors": [
+      "#041E42",
+      "#FFC72C"
+    ],
+    "player": "Shareef Abdur-Rahim",
+    "playerAliases": [
+      "shareef abdur-rahim"
+    ]
+  },
+  {
+    "year": 1997,
+    "school": "Colorado Buffaloes",
+    "abbr": "Colorado",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "colors": [
+      "#CFB87C",
+      "#000000"
+    ],
+    "player": "Chauncey Billups",
+    "playerAliases": [
+      "chauncey billups"
+    ]
+  },
+  {
+    "year": 1998,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Raef LaFrentz",
+    "playerAliases": [
+      "raef lafrentz"
+    ]
+  },
+  {
+    "year": 1999,
+    "school": "UCLA Bruins",
+    "abbr": "UCLA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "colors": [
+      "#2774AE",
+      "#F2A900"
+    ],
+    "player": "Baron Davis",
+    "playerAliases": [
+      "baron davis"
+    ]
+  },
+  {
+    "year": 2000,
+    "school": "East St. Louis Senior High School",
+    "abbr": "East St. Louis",
+    "logo": "assets/logos/nba-draft-east-st-louis.png",
+    "colors": [
+      "#F97900",
+      "#0057B8"
+    ],
+    "player": "Darius Miles",
+    "playerAliases": [
+      "darius miles",
+      "miles"
+    ]
+  },
+  {
+    "year": 2001,
+    "school": "FC Barcelona",
+    "abbr": "FC Barcelona",
+    "logo": "assets/logos/nba-draft-fc-barcelona.png",
+    "colors": [
+      "#004D98",
+      "#A50044"
+    ],
+    "player": "Pau Gasol",
+    "playerAliases": [
+      "pau gasol",
+      "gasol"
+    ]
+  },
+  {
+    "year": 2002,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Mike Dunleavy",
+    "playerAliases": [
+      "mike dunleavy"
+    ]
+  },
+  {
+    "year": 2003,
+    "school": "Syracuse Orange",
+    "abbr": "Syracuse",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "colors": [
+      "#000E54",
+      "#FF431B"
+    ],
+    "player": "Carmelo Anthony",
+    "playerAliases": [
+      "carmelo anthony"
+    ]
+  },
+  {
+    "year": 2004,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Ben Gordon",
+    "playerAliases": [
+      "ben gordon"
+    ]
+  },
+  {
+    "year": 2005,
+    "school": "Illinois Fighting Illini",
+    "abbr": "Illinois",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "colors": [
+      "#FF5F05",
+      "#13294B"
+    ],
+    "player": "Deron Williams",
+    "playerAliases": [
+      "deron williams"
+    ]
+  },
+  {
+    "year": 2006,
+    "school": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "player": "Adam Morrison",
+    "playerAliases": [
+      "adam morrison"
+    ]
+  },
+  {
+    "year": 2007,
+    "school": "Florida Gators",
+    "abbr": "Florida",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "colors": [
+      "#0021A5",
+      "#FA4616"
+    ],
+    "player": "Al Horford",
+    "playerAliases": [
+      "al horford"
+    ]
+  },
+  {
+    "year": 2008,
+    "school": "USC Trojans",
+    "abbr": "USC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "colors": [
+      "#9D2235",
+      "#FFC72C"
+    ],
+    "player": "O.J. Mayo",
+    "playerAliases": [
+      "o.j. mayo"
+    ]
+  },
+  {
+    "year": 2009,
+    "school": "Arizona State Sun Devils",
+    "abbr": "Arizona St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "colors": [
+      "#FFC627",
+      "#8C1D40"
+    ],
+    "player": "James Harden",
+    "playerAliases": [
+      "james harden"
+    ]
+  },
+  {
+    "year": 2010,
+    "school": "Georgia Tech Yellow Jackets",
+    "abbr": "Georgia Tech",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "colors": [
+      "#B3A369",
+      "#FFFFFF"
+    ],
+    "player": "Derrick Favors",
+    "playerAliases": [
+      "derrick favors"
+    ]
+  },
+  {
+    "year": 2011,
+    "school": "Fenerbahce",
+    "abbr": "Fenerbahce",
+    "logo": "assets/logos/nba-draft-fenerbahce.svg",
+    "colors": [
+      "#0A3161",
+      "#FFD400"
+    ],
+    "player": "Enes Kanter",
+    "playerAliases": [
+      "enes kanter",
+      "kanter"
+    ]
+  },
+  {
+    "year": 2012,
+    "school": "Florida Gators",
+    "abbr": "Florida",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "colors": [
+      "#0021A5",
+      "#FA4616"
+    ],
+    "player": "Bradley Beal",
+    "playerAliases": [
+      "bradley beal"
+    ]
+  },
+  {
+    "year": 2013,
+    "school": "Georgetown Hoyas",
+    "abbr": "Georgetown",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+    "colors": [
+      "#110E42",
+      "#001C58"
+    ],
+    "player": "Otto Porter Jr.",
+    "playerAliases": [
+      "otto porter jr."
+    ]
+  },
+  {
+    "year": 2014,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Joel Embiid",
+    "playerAliases": [
+      "joel embiid"
+    ]
+  },
+  {
+    "year": 2015,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Jahlil Okafor",
+    "playerAliases": [
+      "jahlil okafor"
+    ]
+  },
+  {
+    "year": 2016,
+    "school": "California Golden Bears",
+    "abbr": "California",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "colors": [
+      "#041E42",
+      "#FFC72C"
+    ],
+    "player": "Jaylen Brown",
+    "playerAliases": [
+      "jaylen brown"
+    ]
+  },
+  {
+    "year": 2017,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Jayson Tatum",
+    "playerAliases": [
+      "jayson tatum"
+    ]
+  },
+  {
+    "year": 2018,
+    "school": "Real Madrid",
+    "abbr": "Real Madrid",
+    "logo": "assets/logos/nba-draft-real-madrid.png",
+    "colors": [
+      "#004C99",
+      "#FFFFFF"
+    ],
+    "player": "Luka Doncic",
+    "playerAliases": [
+      "luka doncic",
+      "doncic",
+      "luka"
+    ]
+  },
+  {
+    "year": 2019,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "RJ Barrett",
+    "playerAliases": [
+      "rj barrett"
+    ]
+  },
+  {
+    "year": 2020,
+    "school": "Illawarra Hawks",
+    "abbr": "Illawarra Hawks",
+    "logo": "assets/logos/nba-draft-illawarra-hawks.png",
+    "colors": [
+      "#EE2737",
+      "#000000"
+    ],
+    "player": "LaMelo Ball",
+    "playerAliases": [
+      "lamelo ball",
+      "ball",
+      "lamelo"
+    ]
+  },
+  {
+    "year": 2021,
+    "school": "USC Trojans",
+    "abbr": "USC",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+    "colors": [
+      "#9D2235",
+      "#FFC72C"
+    ],
+    "player": "Evan Mobley",
+    "playerAliases": [
+      "evan mobley"
+    ]
+  },
+  {
+    "year": 2022,
+    "school": "Auburn Tigers",
+    "abbr": "Auburn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
+    "colors": [
+      "#002B5C",
+      "#F26522"
+    ],
+    "player": "Jabari Smith Jr.",
+    "playerAliases": [
+      "jabari smith jr."
+    ]
+  },
+  {
+    "year": 2023,
+    "school": "NBA G League Ignite",
+    "abbr": "G League Ignite",
+    "logo": "assets/logos/nba-draft-g-league-ignite.png",
+    "colors": [
+      "#000000",
+      "#7B2D8E"
+    ],
+    "player": "Scoot Henderson",
+    "playerAliases": [
+      "scoot henderson",
+      "henderson",
+      "scoot"
+    ]
+  },
+  {
+    "year": 2024,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Reed Sheppard",
+    "playerAliases": [
+      "reed sheppard"
+    ]
+  },
+  {
+    "year": 2025,
+    "school": "Baylor Bears",
+    "abbr": "Baylor",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "colors": [
+      "#154734",
+      "#FFB81C"
+    ],
+    "player": "VJ Edgecombe",
+    "playerAliases": [
+      "vj edgecombe"
+    ]
+  }
+]

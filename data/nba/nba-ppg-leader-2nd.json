@@ -1,0 +1,488 @@
+[
+  {
+    "year": 2025,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Giannis Antetokounmpo",
+    "playerAliases": [
+      "antetokounmpo",
+      "giannis",
+      "giannis antetokounmpo"
+    ],
+    "statLine": "30.4 PPG"
+  },
+  {
+    "year": 2024,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Giannis Antetokounmpo",
+    "playerAliases": [
+      "antetokounmpo",
+      "giannis",
+      "giannis antetokounmpo"
+    ],
+    "statLine": "30.4 PPG"
+  },
+  {
+    "year": 2023,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Luka Don\u010di\u0107",
+    "playerAliases": [
+      "don\u010di\u0107",
+      "luka don\u010di\u0107"
+    ],
+    "statLine": "32.4 PPG"
+  },
+  {
+    "year": 2022,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Giannis Antetokounmpo",
+    "playerAliases": [
+      "antetokounmpo",
+      "giannis",
+      "giannis antetokounmpo"
+    ],
+    "statLine": "29.9 PPG"
+  },
+  {
+    "year": 2021,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "Bradley Beal",
+    "playerAliases": [
+      "beal",
+      "bradley beal"
+    ],
+    "statLine": "31.3 PPG"
+  },
+  {
+    "year": 2020,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "Bradley Beal",
+    "playerAliases": [
+      "beal",
+      "bradley beal"
+    ],
+    "statLine": "30.5 PPG"
+  },
+  {
+    "year": 2019,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Paul George",
+    "playerAliases": [
+      "george",
+      "paul george"
+    ],
+    "statLine": "28.0 PPG"
+  },
+  {
+    "year": 2018,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ],
+    "statLine": "28.1 PPG"
+  },
+  {
+    "year": 2017,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "James Harden",
+    "playerAliases": [
+      "harden",
+      "james harden"
+    ],
+    "statLine": "29.1 PPG"
+  },
+  {
+    "year": 2016,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "James Harden",
+    "playerAliases": [
+      "harden",
+      "james harden"
+    ],
+    "statLine": "29.0 PPG"
+  },
+  {
+    "year": 2015,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "James Harden",
+    "playerAliases": [
+      "harden",
+      "james harden"
+    ],
+    "statLine": "27.4 PPG"
+  },
+  {
+    "year": 2014,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Carmelo Anthony",
+    "playerAliases": [
+      "anthony",
+      "carmelo anthony"
+    ],
+    "statLine": "27.4 PPG"
+  },
+  {
+    "year": 2013,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Kevin Durant",
+    "playerAliases": [
+      "durant",
+      "kevin durant"
+    ],
+    "statLine": "28.1 PPG"
+  },
+  {
+    "year": 2012,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ],
+    "statLine": "27.9 PPG"
+  },
+  {
+    "year": 2011,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "26.7 PPG"
+  },
+  {
+    "year": 2010,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "29.7 PPG"
+  },
+  {
+    "year": 2009,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "28.4 PPG"
+  },
+  {
+    "year": 2008,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ],
+    "statLine": "28.3 PPG"
+  },
+  {
+    "year": 2007,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Carmelo Anthony",
+    "playerAliases": [
+      "anthony",
+      "carmelo anthony"
+    ],
+    "statLine": "28.9 PPG"
+  },
+  {
+    "year": 2006,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Allen Iverson",
+    "playerAliases": [
+      "allen iverson",
+      "iverson"
+    ],
+    "statLine": "33.0 PPG"
+  },
+  {
+    "year": 2005,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ],
+    "statLine": "27.6 PPG"
+  },
+  {
+    "year": 2004,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Peja Stojakovi\u0107",
+    "playerAliases": [
+      "peja stojakovi\u0107",
+      "stojakovi\u0107"
+    ],
+    "statLine": "24.2 PPG"
+  },
+  {
+    "year": 2003,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ],
+    "statLine": "30.0 PPG"
+  },
+  {
+    "year": 2002,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Shaquille O'Neal",
+    "playerAliases": [
+      "o'neal",
+      "shaq",
+      "shaquille o'neal"
+    ],
+    "statLine": "27.2 PPG"
+  },
+  {
+    "year": 2001,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Jerry Stackhouse",
+    "playerAliases": [
+      "jerry stackhouse",
+      "stackhouse"
+    ],
+    "statLine": "29.8 PPG"
+  },
+  {
+    "year": 2000,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Allen Iverson",
+    "playerAliases": [
+      "allen iverson",
+      "iverson"
+    ],
+    "statLine": "28.4 PPG"
+  },
+  {
+    "year": 1999,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Shaquille O'Neal",
+    "playerAliases": [
+      "o'neal",
+      "shaq",
+      "shaquille o'neal"
+    ],
+    "statLine": "26.3 PPG"
+  },
+  {
+    "year": 1998,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Shaquille O'Neal",
+    "playerAliases": [
+      "o'neal",
+      "shaq",
+      "shaquille o'neal"
+    ],
+    "statLine": "28.3 PPG"
+  },
+  {
+    "year": 1997,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Karl Malone",
+    "playerAliases": [
+      "karl malone",
+      "malone"
+    ],
+    "statLine": "27.4 PPG"
+  },
+  {
+    "year": 1996,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Hakeem Olajuwon",
+    "playerAliases": [
+      "hakeem olajuwon",
+      "olajuwon"
+    ],
+    "statLine": "26.9 PPG"
+  }
+]

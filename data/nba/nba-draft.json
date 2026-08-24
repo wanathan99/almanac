@@ -1,0 +1,421 @@
+[
+  {
+    "year": 1996,
+    "school": "Georgetown Hoyas",
+    "abbr": "Georgetown",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+    "colors": [
+      "#110E42",
+      "#001C58"
+    ],
+    "player": "Allen Iverson",
+    "playerAliases": [
+      "allen iverson"
+    ]
+  },
+  {
+    "year": 1997,
+    "school": "Wake Forest Demon Deacons",
+    "abbr": "Wake Forest",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+    "colors": [
+      "#CEB888",
+      "#2C2A29"
+    ],
+    "player": "Tim Duncan",
+    "playerAliases": [
+      "tim duncan"
+    ]
+  },
+  {
+    "year": 1998,
+    "school": "Pacific Tigers",
+    "abbr": "Pacific",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/279.png",
+    "colors": [
+      "#F47820",
+      "#C2C3C0"
+    ],
+    "player": "Michael Olowokandi",
+    "playerAliases": [
+      "michael olowokandi"
+    ]
+  },
+  {
+    "year": 1999,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Elton Brand",
+    "playerAliases": [
+      "elton brand"
+    ]
+  },
+  {
+    "year": 2000,
+    "school": "Cincinnati Bearcats",
+    "abbr": "Cincinnati",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+    "colors": [
+      "#000000",
+      "#E00122"
+    ],
+    "player": "Kenyon Martin",
+    "playerAliases": [
+      "kenyon martin"
+    ]
+  },
+  {
+    "year": 2001,
+    "school": "Glynn Academy",
+    "abbr": "Glynn Academy",
+    "logo": "assets/logos/nba-draft-glynn-academy.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Kwame Brown",
+    "playerAliases": [
+      "kwame brown",
+      "brown"
+    ]
+  },
+  {
+    "year": 2002,
+    "school": "Shanghai Sharks",
+    "abbr": "Shanghai Sharks",
+    "logo": "assets/logos/nba-draft-shanghai-sharks.png",
+    "colors": [
+      "#002F6C",
+      "#F47920"
+    ],
+    "player": "Yao Ming",
+    "playerAliases": [
+      "yao ming",
+      "yao"
+    ]
+  },
+  {
+    "year": 2003,
+    "school": "St. Vincent-St. Mary High School",
+    "abbr": "St. Vincent-St. Mary",
+    "logo": "assets/logos/nba-draft-st-vincent-st-mary.png",
+    "colors": [
+      "#00693E",
+      "#FFFFFF"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "lebron james",
+      "james",
+      "lebron"
+    ]
+  },
+  {
+    "year": 2004,
+    "invalid": true,
+    "reason": "Dwight Howard went straight from high school (Southwest Atlanta Christian Academy) to the NBA \u2014 no logo available for that school"
+  },
+  {
+    "year": 2005,
+    "school": "Utah Utes",
+    "abbr": "Utah",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "colors": [
+      "#BE0000",
+      "#FFFFFF"
+    ],
+    "player": "Andrew Bogut",
+    "playerAliases": [
+      "andrew bogut"
+    ]
+  },
+  {
+    "year": 2006,
+    "school": "Benetton Treviso",
+    "abbr": "Benetton Treviso",
+    "logo": "assets/logos/nba-draft-benetton-treviso.png",
+    "colors": [
+      "#00843D",
+      "#FFFFFF"
+    ],
+    "player": "Andrea Bargnani",
+    "playerAliases": [
+      "andrea bargnani",
+      "bargnani"
+    ]
+  },
+  {
+    "year": 2007,
+    "school": "Ohio State Buckeyes",
+    "abbr": "Ohio State",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BA0C2F",
+      "#A8ADB4"
+    ],
+    "player": "Greg Oden",
+    "playerAliases": [
+      "greg oden"
+    ]
+  },
+  {
+    "year": 2008,
+    "school": "Memphis Tigers",
+    "abbr": "Memphis",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "colors": [
+      "#004991",
+      "#8E908F"
+    ],
+    "player": "Derrick Rose",
+    "playerAliases": [
+      "derrick rose"
+    ]
+  },
+  {
+    "year": 2009,
+    "school": "Oklahoma Sooners",
+    "abbr": "Oklahoma",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "colors": [
+      "#990000",
+      "#FFFFFF"
+    ],
+    "player": "Blake Griffin",
+    "playerAliases": [
+      "blake griffin"
+    ]
+  },
+  {
+    "year": 2010,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "John Wall",
+    "playerAliases": [
+      "john wall"
+    ]
+  },
+  {
+    "year": 2011,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Kyrie Irving",
+    "playerAliases": [
+      "kyrie irving"
+    ]
+  },
+  {
+    "year": 2012,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis"
+    ]
+  },
+  {
+    "year": 2013,
+    "school": "UNLV Rebels",
+    "abbr": "UNLV",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "colors": [
+      "#CF0A2C",
+      "#CAC8C8"
+    ],
+    "player": "Anthony Bennett",
+    "playerAliases": [
+      "anthony bennett"
+    ]
+  },
+  {
+    "year": 2014,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Andrew Wiggins",
+    "playerAliases": [
+      "andrew wiggins"
+    ]
+  },
+  {
+    "year": 2015,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Karl-Anthony Towns",
+    "playerAliases": [
+      "karl-anthony towns"
+    ]
+  },
+  {
+    "year": 2016,
+    "school": "LSU Tigers",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D76",
+      "#FDD023"
+    ],
+    "player": "Ben Simmons",
+    "playerAliases": [
+      "ben simmons"
+    ]
+  },
+  {
+    "year": 2017,
+    "school": "Washington Huskies",
+    "abbr": "Washington",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "colors": [
+      "#33006F",
+      "#E8D3A2"
+    ],
+    "player": "Markelle Fultz",
+    "playerAliases": [
+      "markelle fultz"
+    ]
+  },
+  {
+    "year": 2018,
+    "school": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Deandre Ayton",
+    "playerAliases": [
+      "deandre ayton"
+    ]
+  },
+  {
+    "year": 2019,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Zion Williamson",
+    "playerAliases": [
+      "zion williamson"
+    ]
+  },
+  {
+    "year": 2020,
+    "school": "Georgia Bulldogs",
+    "abbr": "Georgia",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+    "colors": [
+      "#BA0C2F",
+      "#2C2A29"
+    ],
+    "player": "Anthony Edwards",
+    "playerAliases": [
+      "anthony edwards"
+    ]
+  },
+  {
+    "year": 2021,
+    "school": "Oklahoma State Cowboys",
+    "abbr": "Oklahoma St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "colors": [
+      "#FE5C00",
+      "#000000"
+    ],
+    "player": "Cade Cunningham",
+    "playerAliases": [
+      "cade cunningham"
+    ]
+  },
+  {
+    "year": 2022,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Paolo Banchero",
+    "playerAliases": [
+      "paolo banchero"
+    ]
+  },
+  {
+    "year": 2023,
+    "school": "Metropolitans 92",
+    "abbr": "Metropolitans 92",
+    "logo": "assets/logos/nba-draft-metropolitans-92.png",
+    "colors": [
+      "#0A1F44",
+      "#FFC72C"
+    ],
+    "player": "Victor Wembanyama",
+    "playerAliases": [
+      "victor wembanyama",
+      "wembanyama",
+      "wemby"
+    ]
+  },
+  {
+    "year": 2024,
+    "school": "JL Bourg",
+    "abbr": "JL Bourg",
+    "logo": "assets/logos/nba-draft-jl-bourg.png",
+    "colors": [
+      "#D5001C",
+      "#FFFFFF"
+    ],
+    "player": "Zaccharie Risacher",
+    "playerAliases": [
+      "zaccharie risacher",
+      "risacher"
+    ]
+  },
+  {
+    "year": 2025,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Cooper Flagg",
+    "playerAliases": [
+      "cooper flagg"
+    ]
+  }
+]

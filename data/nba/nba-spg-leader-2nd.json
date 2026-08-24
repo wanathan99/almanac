@@ -1,0 +1,460 @@
+[
+  {
+    "year": 2025,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Nikola Joki\u0107",
+    "playerAliases": [
+      "joki\u0107",
+      "nikola joki\u0107"
+    ],
+    "statLine": "1.8 SPG"
+  },
+  {
+    "year": 2024,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Shai Gilgeous-Alexander",
+    "playerAliases": [
+      "gilgeous-alexander",
+      "shai gilgeous-alexander"
+    ],
+    "statLine": "2.0 SPG"
+  },
+  {
+    "year": 2023,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Jimmy Butler",
+    "playerAliases": [
+      "butler",
+      "jimmy butler"
+    ],
+    "statLine": "1.8 SPG"
+  },
+  {
+    "year": 2022,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "player": "Chris Paul",
+    "playerAliases": [
+      "chris paul",
+      "paul"
+    ],
+    "statLine": "1.9 SPG"
+  },
+  {
+    "year": 2021,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "T.J. McConnell",
+    "playerAliases": [
+      "mcconnell",
+      "t.j. mcconnell"
+    ],
+    "statLine": "1.9 SPG"
+  },
+  {
+    "year": 2020,
+    "team": "Chicago Bulls",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Kris Dunn",
+    "playerAliases": [
+      "dunn",
+      "kris dunn"
+    ],
+    "statLine": "2.0 SPG"
+  },
+  {
+    "year": 2019,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "James Harden",
+    "playerAliases": [
+      "harden",
+      "james harden"
+    ],
+    "statLine": "2.0 SPG"
+  },
+  {
+    "year": 2018,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Paul George",
+    "playerAliases": [
+      "george",
+      "paul george"
+    ],
+    "statLine": "2.0 SPG"
+  },
+  {
+    "year": 2017,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "John Wall",
+    "playerAliases": [
+      "john wall",
+      "wall"
+    ],
+    "statLine": "2.0 SPG"
+  },
+  {
+    "year": 2016,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Ricky Rubio",
+    "playerAliases": [
+      "ricky rubio",
+      "rubio"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2015,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Russell Westbrook",
+    "playerAliases": [
+      "russell westbrook",
+      "westbrook"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2014,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Ricky Rubio",
+    "playerAliases": [
+      "ricky rubio",
+      "rubio"
+    ],
+    "statLine": "2.3 SPG"
+  },
+  {
+    "year": 2013,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Ricky Rubio",
+    "playerAliases": [
+      "ricky rubio",
+      "rubio"
+    ],
+    "statLine": "2.4 SPG"
+  },
+  {
+    "year": 2012,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Mike Conley",
+    "playerAliases": [
+      "conley",
+      "mike conley"
+    ],
+    "statLine": "2.2 SPG"
+  },
+  {
+    "year": 2011,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Russell Westbrook",
+    "playerAliases": [
+      "russell westbrook",
+      "westbrook"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2010,
+    "team": "New Orleans Hornets",
+    "abbr": "NOH",
+    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "colors": [
+      "#00788C",
+      "#FDBB30"
+    ],
+    "player": "Chris Paul",
+    "playerAliases": [
+      "chris paul",
+      "paul"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2009,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Dwyane Wade",
+    "playerAliases": [
+      "dwyane wade",
+      "wade"
+    ],
+    "statLine": "2.2 SPG"
+  },
+  {
+    "year": 2008,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Baron Davis",
+    "playerAliases": [
+      "baron davis",
+      "davis"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2007,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Metta World Peace",
+    "playerAliases": [
+      "metta world peace",
+      "peace"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2006,
+    "team": "New Orleans Hornets",
+    "abbr": "NOH",
+    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "colors": [
+      "#00788C",
+      "#FDBB30"
+    ],
+    "player": "Chris Paul",
+    "playerAliases": [
+      "chris paul",
+      "paul"
+    ],
+    "statLine": "2.2 SPG"
+  },
+  {
+    "year": 2005,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Baron Davis",
+    "playerAliases": [
+      "baron davis",
+      "davis"
+    ],
+    "statLine": "2.5 SPG"
+  },
+  {
+    "year": 2004,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "player": "Shawn Marion",
+    "playerAliases": [
+      "marion",
+      "shawn marion"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 2003,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "Metta World Peace",
+    "playerAliases": [
+      "metta world peace",
+      "peace"
+    ],
+    "statLine": "2.3 SPG"
+  },
+  {
+    "year": 2002,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 2001,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Jerry Stackhouse",
+    "playerAliases": [
+      "jerry stackhouse",
+      "stackhouse"
+    ],
+    "statLine": "2.4 SPG"
+  },
+  {
+    "year": 2000,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Paul Pierce",
+    "playerAliases": [
+      "paul pierce",
+      "pierce"
+    ],
+    "statLine": "2.1 SPG"
+  },
+  {
+    "year": 1999,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 1998,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Brevin Knight",
+    "playerAliases": [
+      "brevin knight",
+      "knight"
+    ],
+    "statLine": "2.5 SPG"
+  },
+  {
+    "year": 1997,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Doug Christie",
+    "playerAliases": [
+      "christie",
+      "doug christie"
+    ],
+    "statLine": "2.5 SPG"
+  },
+  {
+    "year": 1996,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Mookie Blaylock",
+    "playerAliases": [
+      "blaylock",
+      "mookie blaylock"
+    ],
+    "statLine": "2.6 SPG"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "year": 2025,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Mac McClung",
+    "playerAliases": [
+      "mac mcclung",
+      "mcclung"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Mac McClung",
+    "playerAliases": [
+      "mac mcclung",
+      "mcclung"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Mac McClung",
+    "playerAliases": [
+      "mac mcclung",
+      "mcclung"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Obi Toppin",
+    "playerAliases": [
+      "obi toppin",
+      "toppin"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Anfernee Simons",
+    "playerAliases": [
+      "anfernee simons",
+      "simons"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Derrick Jones Jr.",
+    "playerAliases": [
+      "derrick jones",
+      "jones"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Hamidou Diallo",
+    "playerAliases": [
+      "diallo",
+      "hamidou diallo"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Donovan Mitchell",
+    "playerAliases": [
+      "donovan mitchell",
+      "mitchell"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "Glenn Robinson III",
+    "playerAliases": [
+      "glenn robinson",
+      "robinson"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Zach LaVine",
+    "playerAliases": [
+      "lavine",
+      "zach lavine"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Zach LaVine",
+    "playerAliases": [
+      "lavine",
+      "zach lavine"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "John Wall",
+    "playerAliases": [
+      "john wall",
+      "wall"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Terrence Ross",
+    "playerAliases": [
+      "ross",
+      "terrence ross"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Jeremy Evans",
+    "playerAliases": [
+      "evans",
+      "jeremy evans"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Los Angeles Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Blake Griffin",
+    "playerAliases": [
+      "blake griffin",
+      "griffin"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Nate Robinson",
+    "playerAliases": [
+      "nate robinson",
+      "robinson"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Nate Robinson",
+    "playerAliases": [
+      "nate robinson",
+      "robinson"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Dwight Howard",
+    "playerAliases": [
+      "dwight howard",
+      "howard"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Gerald Green",
+    "playerAliases": [
+      "gerald green",
+      "green"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Nate Robinson",
+    "playerAliases": [
+      "nate robinson",
+      "robinson"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Josh Smith",
+    "playerAliases": [
+      "josh smith",
+      "smith"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "Fred Jones",
+    "playerAliases": [
+      "fred jones",
+      "jones"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Jason Richardson",
+    "playerAliases": [
+      "jason richardson",
+      "richardson"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Jason Richardson",
+    "playerAliases": [
+      "jason richardson",
+      "richardson"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Seattle SuperSonics",
+    "abbr": "SEA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/do916u1572164500.png",
+    "colors": [
+      "#00653A",
+      "#FFD520"
+    ],
+    "player": "Desmond Mason",
+    "playerAliases": [
+      "desmond mason",
+      "mason"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Vince Carter",
+    "playerAliases": [
+      "carter",
+      "vince carter"
+    ]
+  },
+  {
+    "year": 1999,
+    "invalid": true,
+    "reason": "No Slam Dunk Contest was held this year"
+  },
+  {
+    "year": 1998,
+    "invalid": true,
+    "reason": "No Slam Dunk Contest was held this year"
+  },
+  {
+    "year": 1997,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Los Angeles Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Brent Barry",
+    "playerAliases": [
+      "barry",
+      "brent barry"
+    ]
+  }
+]

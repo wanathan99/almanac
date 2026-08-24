@@ -1,0 +1,442 @@
+[
+  {
+    "year": 2025,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Jaylen Wells",
+    "playerAliases": [
+      "jaylen wells",
+      "wells"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Charlotte Hornets",
+    "abbr": "CHA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+    "colors": [
+      "#1D1160",
+      "#00788C"
+    ],
+    "player": "Brandon Miller",
+    "playerAliases": [
+      "brandon miller",
+      "miller"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Walker Kessler",
+    "playerAliases": [
+      "kessler",
+      "walker kessler"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Cade Cunningham",
+    "playerAliases": [
+      "cade cunningham",
+      "cunningham"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Tyrese Haliburton",
+    "playerAliases": [
+      "haliburton",
+      "tyrese haliburton"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Zion Williamson",
+    "playerAliases": [
+      "williamson",
+      "zion williamson"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "player": "Deandre Ayton",
+    "playerAliases": [
+      "ayton",
+      "deandre ayton"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Jayson Tatum",
+    "playerAliases": [
+      "jayson tatum",
+      "tatum"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Joel Embiid",
+    "playerAliases": [
+      "embiid",
+      "joel embiid"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Nikola Joki\u0107",
+    "playerAliases": [
+      "joki\u0107",
+      "nikola joki\u0107"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Nerlens Noel",
+    "playerAliases": [
+      "nerlens noel",
+      "noel"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Trey Burke",
+    "playerAliases": [
+      "burke",
+      "trey burke"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "Bradley Beal",
+    "playerAliases": [
+      "beal",
+      "bradley beal"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Kenneth Faried",
+    "playerAliases": [
+      "faried",
+      "kenneth faried"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "DeMarcus Cousins",
+    "playerAliases": [
+      "cousins",
+      "demarcus cousins"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Brandon Jennings",
+    "playerAliases": [
+      "brandon jennings",
+      "jennings"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "player": "Brook Lopez",
+    "playerAliases": [
+      "brook lopez",
+      "lopez"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Luis Scola",
+    "playerAliases": [
+      "luis scola",
+      "scola"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Rudy Gay",
+    "playerAliases": [
+      "gay",
+      "rudy gay"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Andrew Bogut",
+    "playerAliases": [
+      "andrew bogut",
+      "bogut"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Dwight Howard",
+    "playerAliases": [
+      "dwight howard",
+      "howard"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Dwyane Wade",
+    "playerAliases": [
+      "dwyane wade",
+      "wade"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Caron Butler",
+    "playerAliases": [
+      "butler",
+      "caron butler"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Andrei Kirilenko",
+    "playerAliases": [
+      "andrei kirilenko",
+      "kirilenko"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Marc Jackson",
+    "playerAliases": [
+      "jackson",
+      "marc jackson"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "LA Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Lamar Odom",
+    "playerAliases": [
+      "lamar odom",
+      "odom"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Paul Pierce",
+    "playerAliases": [
+      "paul pierce",
+      "pierce"
+    ]
+  },
+  {
+    "year": 1998,
+    "invalid": true,
+    "reason": "Only two players received Rookie of the Year votes this year"
+  },
+  {
+    "year": 1997,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Shareef Abdur-Rahim",
+    "playerAliases": [
+      "abdur-rahim",
+      "shareef abdur-rahim"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Joe Smith",
+    "playerAliases": [
+      "joe smith",
+      "smith"
+    ]
+  }
+]
