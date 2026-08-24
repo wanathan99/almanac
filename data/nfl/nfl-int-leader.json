@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1996,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Tyrone Braxton",
+    "playerAliases": [
+      "tyrone braxton"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 1997,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Ryan McNeil",
+    "playerAliases": [
+      "ryan mcneil"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 1998,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Ty Law",
+    "playerAliases": [
+      "ty law"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 1999,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Donnie Abraham",
+    "playerAliases": [
+      "donnie abraham"
+    ],
+    "statLine": "7 INT"
+  },
+  {
+    "year": 2000,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Darren Sharper",
+    "playerAliases": [
+      "darren sharper"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2001,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Ronde Barber",
+    "playerAliases": [
+      "ronde barber"
+    ],
+    "statLine": "10 INT"
+  },
+  {
+    "year": 2002,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Brian Kelly",
+    "playerAliases": [
+      "brian kelly"
+    ],
+    "statLine": "8 INT"
+  },
+  {
+    "year": 2003,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Tony Parrish",
+    "playerAliases": [
+      "tony parrish"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2004,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Ed Reed",
+    "playerAliases": [
+      "ed reed"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2005,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Ty Law",
+    "playerAliases": [
+      "ty law"
+    ],
+    "statLine": "10 INT"
+  },
+  {
+    "year": 2006,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Champ Bailey",
+    "playerAliases": [
+      "champ bailey"
+    ],
+    "statLine": "10 INT"
+  },
+  {
+    "year": 2007,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Antonio Cromartie",
+    "playerAliases": [
+      "antonio cromartie"
+    ],
+    "statLine": "10 INT"
+  },
+  {
+    "year": 2008,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Ed Reed",
+    "playerAliases": [
+      "ed reed"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2009,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Jairus Byrd",
+    "playerAliases": [
+      "jairus byrd"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2010,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Ed Reed",
+    "playerAliases": [
+      "ed reed"
+    ],
+    "statLine": "8 INT"
+  },
+  {
+    "year": 2011,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Kyle Arrington",
+    "playerAliases": [
+      "kyle arrington"
+    ],
+    "statLine": "7 INT"
+  },
+  {
+    "year": 2012,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Tim Jennings",
+    "playerAliases": [
+      "tim jennings"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2013,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Richard Sherman",
+    "playerAliases": [
+      "richard sherman"
+    ],
+    "statLine": "8 INT"
+  },
+  {
+    "year": 2014,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Glover Quin",
+    "playerAliases": [
+      "glover quin"
+    ],
+    "statLine": "7 INT"
+  },
+  {
+    "year": 2015,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Reggie Nelson",
+    "playerAliases": [
+      "reggie nelson"
+    ],
+    "statLine": "8 INT"
+  },
+  {
+    "year": 2016,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Casey Hayward",
+    "playerAliases": [
+      "casey hayward"
+    ],
+    "statLine": "7 INT"
+  },
+  {
+    "year": 2017,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Kevin Byard",
+    "playerAliases": [
+      "kevin byard"
+    ],
+    "statLine": "8 INT"
+  },
+  {
+    "year": 2018,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Kyle Fuller",
+    "playerAliases": [
+      "kyle fuller"
+    ],
+    "statLine": "7 INT"
+  },
+  {
+    "year": 2019,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Stephon Gilmore",
+    "playerAliases": [
+      "stephon gilmore"
+    ],
+    "statLine": "6 INT"
+  },
+  {
+    "year": 2020,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Xavien Howard",
+    "playerAliases": [
+      "xavien howard"
+    ],
+    "statLine": "10 INT"
+  },
+  {
+    "year": 2021,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Trevon Diggs",
+    "playerAliases": [
+      "trevon diggs"
+    ],
+    "statLine": "11 INT"
+  },
+  {
+    "year": 2022,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Minkah Fitzpatrick",
+    "playerAliases": [
+      "minkah fitzpatrick"
+    ],
+    "statLine": "6 INT"
+  },
+  {
+    "year": 2023,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "DaRon Bland",
+    "playerAliases": [
+      "daron bland"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2024,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Kerby Joseph",
+    "playerAliases": [
+      "kerby joseph"
+    ],
+    "statLine": "9 INT"
+  },
+  {
+    "year": 2025,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Kevin Byard",
+    "playerAliases": [
+      "kevin byard"
+    ],
+    "statLine": "7 INT"
+  }
+]

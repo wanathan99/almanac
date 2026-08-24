@@ -1,0 +1,422 @@
+[
+  {
+    "year": 1996,
+    "team": "Houston Oilers",
+    "abbr": "HOU",
+    "logo": "assets/logos/nfl-houston-oilers.png",
+    "colors": [
+      "#C8102E",
+      "#0080C6"
+    ],
+    "player": "Eddie George",
+    "playerAliases": [
+      "eddie george"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Warrick Dunn",
+    "playerAliases": [
+      "warrick dunn"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Edgerrin James",
+    "playerAliases": [
+      "edgerrin james"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Mike Anderson",
+    "playerAliases": [
+      "mike anderson"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Anthony Thomas",
+    "playerAliases": [
+      "anthony thomas"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Clinton Portis",
+    "playerAliases": [
+      "clinton portis"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Anquan Boldin",
+    "playerAliases": [
+      "anquan boldin"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Ben Roethlisberger",
+    "playerAliases": [
+      "ben roethlisberger"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Cadillac Williams",
+    "playerAliases": [
+      "cadillac williams"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Vince Young",
+    "playerAliases": [
+      "vince young"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Adrian Peterson",
+    "playerAliases": [
+      "adrian peterson"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Matt Ryan",
+    "playerAliases": [
+      "matt ryan"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Percy Harvin",
+    "playerAliases": [
+      "percy harvin"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Sam Bradford",
+    "playerAliases": [
+      "sam bradford"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Cam Newton",
+    "playerAliases": [
+      "cam newton"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Washington Redskins",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl-washington-redskins.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Robert Griffin III",
+    "playerAliases": [
+      "robert griffin iii"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Eddie Lacy",
+    "playerAliases": [
+      "eddie lacy"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Odell Beckham Jr.",
+    "playerAliases": [
+      "odell beckham jr."
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Todd Gurley",
+    "playerAliases": [
+      "todd gurley"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Dak Prescott",
+    "playerAliases": [
+      "dak prescott"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Alvin Kamara",
+    "playerAliases": [
+      "alvin kamara"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Saquon Barkley",
+    "playerAliases": [
+      "saquon barkley"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Kyler Murray",
+    "playerAliases": [
+      "kyler murray"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Los Angeles Chargers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Justin Herbert",
+    "playerAliases": [
+      "justin herbert"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Ja'Marr Chase",
+    "playerAliases": [
+      "ja'marr chase"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Garrett Wilson",
+    "playerAliases": [
+      "garrett wilson"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "C.J. Stroud",
+    "playerAliases": [
+      "c.j. stroud"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Washington Commanders",
+    "abbr": "WSH",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Jayden Daniels",
+    "playerAliases": [
+      "jayden daniels"
+    ]
+  },
+  {
+    "year": 2025,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Tetairoa McMillan",
+    "playerAliases": [
+      "tetairoa mcmillan"
+    ]
+  }
+]

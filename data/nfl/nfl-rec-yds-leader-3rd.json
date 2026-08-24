@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1996,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Herman Moore",
+    "playerAliases": [
+      "herman moore"
+    ],
+    "statLine": "1,296 rec yds"
+  },
+  {
+    "year": 1997,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Yancey Thigpen",
+    "playerAliases": [
+      "yancey thigpen"
+    ],
+    "statLine": "1,398 rec yds"
+  },
+  {
+    "year": 1998,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ],
+    "statLine": "1,313 rec yds"
+  },
+  {
+    "year": 1999,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ],
+    "statLine": "1,413 rec yds"
+  },
+  {
+    "year": 2000,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Isaac Bruce",
+    "playerAliases": [
+      "isaac bruce"
+    ],
+    "statLine": "1,471 rec yds"
+  },
+  {
+    "year": 2001,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Terrell Owens",
+    "playerAliases": [
+      "terrell owens"
+    ],
+    "statLine": "1,412 rec yds"
+  },
+  {
+    "year": 2002,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Amani Toomer",
+    "playerAliases": [
+      "amani toomer"
+    ],
+    "statLine": "1,343 rec yds"
+  },
+  {
+    "year": 2003,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Anquan Boldin",
+    "playerAliases": [
+      "anquan boldin"
+    ],
+    "statLine": "1,377 rec yds"
+  },
+  {
+    "year": 2004,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Javon Walker",
+    "playerAliases": [
+      "javon walker"
+    ],
+    "statLine": "1,382 rec yds"
+  },
+  {
+    "year": 2005,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Chad Johnson",
+    "playerAliases": [
+      "chad johnson"
+    ],
+    "statLine": "1,432 rec yds"
+  },
+  {
+    "year": 2006,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Reggie Wayne",
+    "playerAliases": [
+      "reggie wayne"
+    ],
+    "statLine": "1,310 rec yds"
+  },
+  {
+    "year": 2007,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Chad Johnson",
+    "playerAliases": [
+      "chad johnson"
+    ],
+    "statLine": "1,440 rec yds"
+  },
+  {
+    "year": 2008,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Steve Smith Sr.",
+    "playerAliases": [
+      "steve smith sr."
+    ],
+    "statLine": "1,421 rec yds"
+  },
+  {
+    "year": 2009,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Miles Austin",
+    "playerAliases": [
+      "miles austin"
+    ],
+    "statLine": "1,320 rec yds"
+  },
+  {
+    "year": 2010,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Reggie Wayne",
+    "playerAliases": [
+      "reggie wayne"
+    ],
+    "statLine": "1,355 rec yds"
+  },
+  {
+    "year": 2011,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Victor Cruz",
+    "playerAliases": [
+      "victor cruz"
+    ],
+    "statLine": "1,536 rec yds"
+  },
+  {
+    "year": 2012,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Brandon Marshall",
+    "playerAliases": [
+      "brandon marshall"
+    ],
+    "statLine": "1,508 rec yds"
+  },
+  {
+    "year": 2013,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Calvin Johnson",
+    "playerAliases": [
+      "calvin johnson"
+    ],
+    "statLine": "1,492 rec yds"
+  },
+  {
+    "year": 2014,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Julio Jones",
+    "playerAliases": [
+      "julio jones"
+    ],
+    "statLine": "1,593 rec yds"
+  },
+  {
+    "year": 2015,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "DeAndre Hopkins",
+    "playerAliases": [
+      "deandre hopkins"
+    ],
+    "statLine": "1,521 rec yds"
+  },
+  {
+    "year": 2016,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Odell Beckham Jr.",
+    "playerAliases": [
+      "odell beckham jr."
+    ],
+    "statLine": "1,367 rec yds"
+  },
+  {
+    "year": 2017,
+    "team": "Los Angeles Chargers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Keenan Allen",
+    "playerAliases": [
+      "keenan allen"
+    ],
+    "statLine": "1,393 rec yds"
+  },
+  {
+    "year": 2018,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Mike Evans",
+    "playerAliases": [
+      "mike evans"
+    ],
+    "statLine": "1,524 rec yds"
+  },
+  {
+    "year": 2019,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Chris Godwin",
+    "playerAliases": [
+      "chris godwin"
+    ],
+    "statLine": "1,333 rec yds"
+  },
+  {
+    "year": 2020,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "DeAndre Hopkins",
+    "playerAliases": [
+      "deandre hopkins"
+    ],
+    "statLine": "1,407 rec yds"
+  },
+  {
+    "year": 2021,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Davante Adams",
+    "playerAliases": [
+      "davante adams"
+    ],
+    "statLine": "1,553 rec yds"
+  },
+  {
+    "year": 2022,
+    "team": "Las Vegas Raiders",
+    "abbr": "LV",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "colors": [
+      "#000000",
+      "#A5ACAF"
+    ],
+    "player": "Davante Adams",
+    "playerAliases": [
+      "davante adams"
+    ],
+    "statLine": "1,516 rec yds"
+  },
+  {
+    "year": 2023,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Amon-Ra St. Brown",
+    "playerAliases": [
+      "amon-ra st. brown"
+    ],
+    "statLine": "1,515 rec yds"
+  },
+  {
+    "year": 2024,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Brian Thomas",
+    "playerAliases": [
+      "brian thomas"
+    ],
+    "statLine": "1,282 rec yds"
+  },
+  {
+    "year": 2025,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "George Pickens",
+    "playerAliases": [
+      "george pickens"
+    ],
+    "statLine": "1,429 rec yds"
+  }
+]

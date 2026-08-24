@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1996,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Drew Bledsoe",
+    "playerAliases": [
+      "drew bledsoe"
+    ],
+    "statLine": "27 pass TD"
+  },
+  {
+    "year": 1997,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Drew Bledsoe",
+    "playerAliases": [
+      "drew bledsoe"
+    ],
+    "statLine": "28 pass TD"
+  },
+  {
+    "year": 1998,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Brett Favre",
+    "playerAliases": [
+      "brett favre"
+    ],
+    "statLine": "31 pass TD"
+  },
+  {
+    "year": 1999,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "26 pass TD"
+  },
+  {
+    "year": 2000,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Jeff Garcia",
+    "playerAliases": [
+      "jeff garcia"
+    ],
+    "statLine": "31 pass TD"
+  },
+  {
+    "year": 2001,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Jeff Garcia",
+    "playerAliases": [
+      "jeff garcia"
+    ],
+    "statLine": "32 pass TD"
+  },
+  {
+    "year": 2002,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Brett Favre",
+    "playerAliases": [
+      "brett favre"
+    ],
+    "statLine": "27 pass TD"
+  },
+  {
+    "year": 2003,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Matt Hasselbeck",
+    "playerAliases": [
+      "matt hasselbeck"
+    ],
+    "statLine": "26 pass TD"
+  },
+  {
+    "year": 2004,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "colors": [
+      "#06424D",
+      "#000000"
+    ],
+    "player": "Donovan McNabb",
+    "playerAliases": [
+      "donovan mcnabb"
+    ],
+    "statLine": "31 pass TD"
+  },
+  {
+    "year": 2005,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Tom Brady",
+    "playerAliases": [
+      "tom brady"
+    ],
+    "statLine": "26 pass TD"
+  },
+  {
+    "year": 2006,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ],
+    "statLine": "26 pass TD"
+  },
+  {
+    "year": 2007,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Ben Roethlisberger",
+    "playerAliases": [
+      "ben roethlisberger"
+    ],
+    "statLine": "32 pass TD"
+  },
+  {
+    "year": 2008,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Kurt Warner",
+    "playerAliases": [
+      "kurt warner"
+    ],
+    "statLine": "30 pass TD"
+  },
+  {
+    "year": 2009,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "33 pass TD"
+  },
+  {
+    "year": 2010,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "33 pass TD"
+  },
+  {
+    "year": 2011,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Matthew Stafford",
+    "playerAliases": [
+      "matthew stafford"
+    ],
+    "statLine": "41 pass TD"
+  },
+  {
+    "year": 2012,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "37 pass TD"
+  },
+  {
+    "year": 2013,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Andy Dalton",
+    "playerAliases": [
+      "andy dalton"
+    ],
+    "statLine": "33 pass TD"
+  },
+  {
+    "year": 2014,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Aaron Rodgers",
+    "playerAliases": [
+      "aaron rodgers"
+    ],
+    "statLine": "38 pass TD"
+  },
+  {
+    "year": 2015,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Eli Manning",
+    "playerAliases": [
+      "eli manning"
+    ],
+    "statLine": "35 pass TD"
+  },
+  {
+    "year": 2016,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ],
+    "statLine": "37 pass TD"
+  },
+  {
+    "year": 2017,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Tom Brady",
+    "playerAliases": [
+      "tom brady"
+    ],
+    "statLine": "32 pass TD"
+  },
+  {
+    "year": 2018,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Matt Ryan",
+    "playerAliases": [
+      "matt ryan"
+    ],
+    "statLine": "35 pass TD"
+  },
+  {
+    "year": 2019,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Russell Wilson",
+    "playerAliases": [
+      "russell wilson"
+    ],
+    "statLine": "31 pass TD"
+  },
+  {
+    "year": 2020,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Russell Wilson",
+    "playerAliases": [
+      "russell wilson"
+    ],
+    "statLine": "40 pass TD"
+  },
+  {
+    "year": 2021,
+    "team": "Los Angeles Chargers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Justin Herbert",
+    "playerAliases": [
+      "justin herbert"
+    ],
+    "statLine": "38 pass TD"
+  },
+  {
+    "year": 2022,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Joe Burrow",
+    "playerAliases": [
+      "joe burrow"
+    ],
+    "statLine": "35 pass TD"
+  },
+  {
+    "year": 2023,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Brock Purdy",
+    "playerAliases": [
+      "brock purdy"
+    ],
+    "statLine": "31 pass TD"
+  },
+  {
+    "year": 2024,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Baker Mayfield",
+    "playerAliases": [
+      "baker mayfield"
+    ],
+    "statLine": "41 pass TD"
+  },
+  {
+    "year": 2025,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Drake Maye",
+    "playerAliases": [
+      "drake maye"
+    ],
+    "statLine": "31 pass TD"
+  }
+]
