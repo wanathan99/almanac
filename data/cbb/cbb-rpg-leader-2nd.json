@@ -31,8 +31,18 @@
   },
   {
     "year": 1998,
-    "invalid": true,
-    "reason": "No logo available for St. Francis (PA) (small program not in current D1 database)"
+    "school": "St. Francis (PA)",
+    "abbr": "St. Francis (PA)",
+    "colors": [
+      "#BD1F25",
+      "#8E908F"
+    ],
+    "player": "Eric Taylor",
+    "playerAliases": [
+      "eric taylor",
+      "taylor"
+    ],
+    "statLine": "11.9 RPG"
   },
   {
     "year": 1999,
@@ -96,8 +106,18 @@
   },
   {
     "year": 2003,
-    "invalid": true,
-    "reason": "No logo available for Morris Brown (small program not in current D1 database)"
+    "school": "Morris Brown",
+    "abbr": "Morris Brown",
+    "colors": [
+      "#4B2E83",
+      "#000000"
+    ],
+    "player": "Amien Hicks",
+    "playerAliases": [
+      "amien hicks",
+      "hicks"
+    ],
+    "statLine": "12.4 RPG"
   },
   {
     "year": 2004,
@@ -131,8 +151,18 @@
   },
   {
     "year": 2006,
-    "invalid": true,
-    "reason": "No logo available for Hartford (small program not in current D1 database)"
+    "school": "Hartford",
+    "abbr": "Hartford",
+    "colors": [
+      "#C02427",
+      "#FFFFFF"
+    ],
+    "player": "Kenny Adeleke",
+    "playerAliases": [
+      "kenny adeleke",
+      "adeleke"
+    ],
+    "statLine": "13.1 RPG"
   },
   {
     "year": 2007,

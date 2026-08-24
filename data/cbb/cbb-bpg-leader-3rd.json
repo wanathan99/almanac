@@ -16,8 +16,18 @@
   },
   {
     "year": 1997,
-    "invalid": true,
-    "reason": "No logo available for St. Francis (PA) (small program not in current D1 database)"
+    "school": "St. Francis (PA)",
+    "abbr": "St. Francis (PA)",
+    "colors": [
+      "#BD1F25",
+      "#8E908F"
+    ],
+    "player": "Richard Lugo",
+    "playerAliases": [
+      "richard lugo",
+      "lugo"
+    ],
+    "statLine": "4.5 BPG"
   },
   {
     "year": 1998,

@@ -406,8 +406,18 @@
   },
   {
     "year": 2023,
-    "invalid": true,
-    "reason": "No logo available for Southern Indiana (small program not in current D1 database)"
+    "school": "Southern Indiana",
+    "abbr": "Southern Indiana",
+    "colors": [
+      "#CF102D",
+      "#002D5D"
+    ],
+    "player": "Jacob Polakovich",
+    "playerAliases": [
+      "jacob polakovich",
+      "polakovich"
+    ],
+    "statLine": "12.8 RPG"
   },
   {
     "year": 2024,

@@ -436,7 +436,17 @@
   },
   {
     "year": 2025,
-    "invalid": true,
-    "reason": "No logo available for Queens (NC) (small program not in current D1 database)"
+    "school": "Queens (NC)",
+    "abbr": "Queens (NC)",
+    "colors": [
+      "#192C66",
+      "#857040"
+    ],
+    "player": "Malcolm Wilson",
+    "playerAliases": [
+      "malcolm wilson",
+      "wilson"
+    ],
+    "statLine": "3.3 BPG"
   }
 ]
