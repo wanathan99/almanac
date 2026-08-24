@@ -3,7 +3,7 @@
     "year": 1996,
     "team": "Carolina Panthers",
     "abbr": "CAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
     "colors": [
       "#0085CA",
       "#000000"
@@ -31,7 +31,7 @@
     "year": 1998,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-1997-2001.png",
     "colors": [
       "#4F2683",
       "#FFC62F"
@@ -59,7 +59,7 @@
     "year": 2000,
     "team": "New Orleans Saints",
     "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "logo": "assets/logos/nfl/nfl-saints-2000-2001.png",
     "colors": [
       "#D3BC8D",
       "#000000"
@@ -87,7 +87,7 @@
     "year": 2002,
     "team": "Miami Dolphins",
     "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "logo": "assets/logos/nfl/nfl-dolphins-2002-2012.png",
     "colors": [
       "#008E97",
       "#FC4C02"
@@ -213,7 +213,7 @@
     "year": 2011,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-2010-2012.png",
     "colors": [
       "#4F2683",
       "#FFC62F"

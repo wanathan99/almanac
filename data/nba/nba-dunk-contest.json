@@ -3,7 +3,7 @@
     "year": 2025,
     "team": "Orlando Magic",
     "abbr": "ORL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "logo": "assets/logos/nba/nba-magic-2011-2025.png",
     "colors": [
       "#0077C0",
       "#C4CED4"
@@ -18,7 +18,7 @@
     "year": 2024,
     "team": "Orlando Magic",
     "abbr": "ORL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "logo": "assets/logos/nba/nba-magic-2011-2025.png",
     "colors": [
       "#0077C0",
       "#C4CED4"
@@ -48,7 +48,7 @@
     "year": 2022,
     "team": "New York Knicks",
     "abbr": "NYK",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "logo": "assets/logos/nba/nba-knicks-2012-2023.png",
     "colors": [
       "#006BB6",
       "#F58426"
@@ -108,7 +108,7 @@
     "year": 2018,
     "team": "Utah Jazz",
     "abbr": "UTA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "logo": "assets/logos/nba/nba-jazz-2016-2022.png",
     "colors": [
       "#002B5C",
       "#F9A01B"
@@ -123,7 +123,7 @@
     "year": 2017,
     "team": "Indiana Pacers",
     "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "logo": "assets/logos/nba/nba-pacers-2017-pres.png",
     "colors": [
       "#002D62",
       "#FDBB30"
@@ -138,7 +138,7 @@
     "year": 2016,
     "team": "Minnesota Timberwolves",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "logo": "assets/logos/nba/nba-timberwolves-2009-2017.png",
     "colors": [
       "#0C2340",
       "#236192"
@@ -153,7 +153,7 @@
     "year": 2015,
     "team": "Minnesota Timberwolves",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "logo": "assets/logos/nba/nba-timberwolves-2009-2017.png",
     "colors": [
       "#0C2340",
       "#236192"
@@ -168,7 +168,7 @@
     "year": 2014,
     "team": "Washington Wizards",
     "abbr": "WAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "logo": "assets/logos/nba/nba-wizards-2012-2014.png",
     "colors": [
       "#002B5C",
       "#E31837"
@@ -183,7 +183,7 @@
     "year": 2013,
     "team": "Toronto Raptors",
     "abbr": "TOR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "logo": "assets/logos/nba/nba-raptors-2009-2014.png",
     "colors": [
       "#CE1141",
       "#000000"
@@ -198,7 +198,7 @@
     "year": 2012,
     "team": "Utah Jazz",
     "abbr": "UTA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "logo": "assets/logos/nba/nba-jazz-2010-2015.png",
     "colors": [
       "#002B5C",
       "#F9A01B"
@@ -213,7 +213,7 @@
     "year": 2011,
     "team": "Los Angeles Clippers",
     "abbr": "LAC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "logo": "assets/logos/nba/nba-clippers-2011-2015.png",
     "colors": [
       "#C8102E",
       "#1D428A"
@@ -228,7 +228,7 @@
     "year": 2010,
     "team": "New York Knicks",
     "abbr": "NYK",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "logo": "assets/logos/nba/nba-knicks-1996-2011.png",
     "colors": [
       "#006BB6",
       "#F58426"
@@ -243,7 +243,7 @@
     "year": 2009,
     "team": "New York Knicks",
     "abbr": "NYK",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "logo": "assets/logos/nba/nba-knicks-1996-2011.png",
     "colors": [
       "#006BB6",
       "#F58426"
@@ -258,7 +258,7 @@
     "year": 2008,
     "team": "Orlando Magic",
     "abbr": "ORL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "logo": "assets/logos/nba/nba-magic-2001-2010.png",
     "colors": [
       "#0077C0",
       "#C4CED4"
@@ -288,7 +288,7 @@
     "year": 2006,
     "team": "New York Knicks",
     "abbr": "NYK",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "logo": "assets/logos/nba/nba-knicks-1996-2011.png",
     "colors": [
       "#006BB6",
       "#F58426"
@@ -303,7 +303,7 @@
     "year": 2005,
     "team": "Atlanta Hawks",
     "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "logo": "assets/logos/nba/nba-hawks-1996-2007.png",
     "colors": [
       "#E03A3E",
       "#C1D32F"
@@ -318,7 +318,7 @@
     "year": 2004,
     "team": "Indiana Pacers",
     "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "logo": "assets/logos/nba/nba-pacers-1996-2005.png",
     "colors": [
       "#002D62",
       "#FDBB30"
@@ -333,7 +333,7 @@
     "year": 2003,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-1998-2010.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -348,7 +348,7 @@
     "year": 2002,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-1998-2010.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -378,7 +378,7 @@
     "year": 2000,
     "team": "Toronto Raptors",
     "abbr": "TOR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "logo": "assets/logos/nba/nba-raptors-1996-2008.png",
     "colors": [
       "#CE1141",
       "#000000"
@@ -403,7 +403,7 @@
     "year": 1997,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-1996-1999.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -418,7 +418,7 @@
     "year": 1996,
     "team": "Los Angeles Clippers",
     "abbr": "LAC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "logo": "assets/logos/nba/nba-clippers-1985-2010.png",
     "colors": [
       "#C8102E",
       "#1D428A"

@@ -116,7 +116,7 @@
     "year": 2018,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-2018-2022.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -164,7 +164,7 @@
     "year": 2015,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-2011-2017.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -196,7 +196,7 @@
     "year": 2013,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -233,7 +233,7 @@
     "year": 2010,
     "team": "Denver Nuggets",
     "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "logo": "assets/logos/nba/nba-nuggets-2009-2018.png",
     "colors": [
       "#0E2240",
       "#FEC524"
@@ -249,7 +249,7 @@
     "year": 2009,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -265,7 +265,7 @@
     "year": 2008,
     "team": "Denver Nuggets",
     "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "logo": "assets/logos/nba/nba-nuggets-2004-2008.png",
     "colors": [
       "#0E2240",
       "#FEC524"
@@ -281,7 +281,7 @@
     "year": 2007,
     "team": "Washington Wizards",
     "abbr": "WAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "logo": "assets/logos/nba/nba-wizards-1998-2007.png",
     "colors": [
       "#002B5C",
       "#E31837"
@@ -297,7 +297,7 @@
     "year": 2006,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-2004-2010.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -313,7 +313,7 @@
     "year": 2005,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-2004-2010.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -329,7 +329,7 @@
     "year": 2004,
     "team": "Minnesota Timberwolves",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "logo": "assets/logos/nba/nba-timberwolves-1997-2008.png",
     "colors": [
       "#0C2340",
       "#236192"
@@ -345,7 +345,7 @@
     "year": 2003,
     "team": "Philadelphia 76ers",
     "abbr": "PHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "logo": "assets/logos/nba/nba-sixers-1998-2009.png",
     "colors": [
       "#006BB6",
       "#ED174C"
@@ -377,7 +377,7 @@
     "year": 2001,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -394,7 +394,7 @@
     "year": 2000,
     "team": "Detroit Pistons",
     "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "logo": "assets/logos/nba/nba-pistons-1997-2001.png",
     "colors": [
       "#C8102E",
       "#1D42BA"
@@ -410,7 +410,7 @@
     "year": 1999,
     "team": "Utah Jazz",
     "abbr": "UTA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "logo": "assets/logos/nba/nba-jazz-1997-2004.png",
     "colors": [
       "#002B5C",
       "#F9A01B"
@@ -426,7 +426,7 @@
     "year": 1998,
     "team": "Utah Jazz",
     "abbr": "UTA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "logo": "assets/logos/nba/nba-jazz-1997-2004.png",
     "colors": [
       "#002B5C",
       "#F9A01B"
@@ -442,7 +442,7 @@
     "year": 1997,
     "team": "Charlotte Hornets (orig)",
     "abbr": "CHH",
-    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "logo": "assets/logos/nba/nba-new-orleans-hornets.webp",
     "colors": [
       "#00788C",
       "#FDBB30"
@@ -458,7 +458,7 @@
     "year": 1996,
     "team": "Orlando Magic",
     "abbr": "ORL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "logo": "assets/logos/nba/nba-magic-1996-2000.png",
     "colors": [
       "#0077C0",
       "#C4CED4"

@@ -73,7 +73,7 @@
     "year": 2001,
     "school": "Glynn Academy",
     "abbr": "Glynn Academy",
-    "logo": "assets/logos/nba-draft-glynn-academy.png",
+    "logo": "assets/logos/nba/nba-draft-glynn-academy.png",
     "colors": [
       "#C8102E",
       "#FFFFFF"
@@ -88,7 +88,7 @@
     "year": 2002,
     "school": "Shanghai Sharks",
     "abbr": "Shanghai Sharks",
-    "logo": "assets/logos/nba-draft-shanghai-sharks.png",
+    "logo": "assets/logos/nba/nba-draft-shanghai-sharks.png",
     "colors": [
       "#002F6C",
       "#F47920"
@@ -103,7 +103,7 @@
     "year": 2003,
     "school": "St. Vincent-St. Mary High School",
     "abbr": "St. Vincent-St. Mary",
-    "logo": "assets/logos/nba-draft-st-vincent-st-mary.png",
+    "logo": "assets/logos/nba/nba-draft-st-vincent-st-mary.png",
     "colors": [
       "#00693E",
       "#FFFFFF"
@@ -138,7 +138,7 @@
     "year": 2006,
     "school": "Benetton Treviso",
     "abbr": "Benetton Treviso",
-    "logo": "assets/logos/nba-draft-benetton-treviso.png",
+    "logo": "assets/logos/nba/nba-draft-benetton-treviso.png",
     "colors": [
       "#00843D",
       "#FFFFFF"
@@ -377,7 +377,7 @@
     "year": 2023,
     "school": "Metropolitans 92",
     "abbr": "Metropolitans 92",
-    "logo": "assets/logos/nba-draft-metropolitans-92.png",
+    "logo": "assets/logos/nba/nba-draft-metropolitans-92.png",
     "colors": [
       "#0A1F44",
       "#FFC72C"
@@ -393,7 +393,7 @@
     "year": 2024,
     "school": "JL Bourg",
     "abbr": "JL Bourg",
-    "logo": "assets/logos/nba-draft-jl-bourg.png",
+    "logo": "assets/logos/nba/nba-draft-jl-bourg.png",
     "colors": [
       "#D5001C",
       "#FFFFFF"

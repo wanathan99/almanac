@@ -67,7 +67,7 @@
     "year": 2021,
     "team": "Indiana Pacers",
     "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "logo": "assets/logos/nba/nba-pacers-2017-pres.png",
     "colors": [
       "#002D62",
       "#FDBB30"
@@ -99,7 +99,7 @@
     "year": 2019,
     "team": "Houston Rockets",
     "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "logo": "assets/logos/nba/nba-rockets-2004-2019.png",
     "colors": [
       "#CE1141",
       "#000000"
@@ -147,7 +147,7 @@
     "year": 2016,
     "team": "Minnesota Timberwolves",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "logo": "assets/logos/nba/nba-timberwolves-2009-2017.png",
     "colors": [
       "#0C2340",
       "#236192"
@@ -179,7 +179,7 @@
     "year": 2014,
     "team": "Minnesota Timberwolves",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "logo": "assets/logos/nba/nba-timberwolves-2009-2017.png",
     "colors": [
       "#0C2340",
       "#236192"
@@ -195,7 +195,7 @@
     "year": 2013,
     "team": "Minnesota Timberwolves",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "logo": "assets/logos/nba/nba-timberwolves-2009-2017.png",
     "colors": [
       "#0C2340",
       "#236192"
@@ -211,7 +211,7 @@
     "year": 2012,
     "team": "Memphis Grizzlies",
     "abbr": "MEM",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "logo": "assets/logos/nba/nba-grizzlies-2005-2017.png",
     "colors": [
       "#5D76A9",
       "#12173F"
@@ -243,7 +243,7 @@
     "year": 2010,
     "team": "New Orleans Hornets",
     "abbr": "NOH",
-    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "logo": "assets/logos/nba/nba-new-orleans-hornets.webp",
     "colors": [
       "#00788C",
       "#FDBB30"
@@ -275,7 +275,7 @@
     "year": 2008,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-1998-2010.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -291,7 +291,7 @@
     "year": 2007,
     "team": "Sacramento Kings",
     "abbr": "SAC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "logo": "assets/logos/nba/nba-kings-1995-2015.png",
     "colors": [
       "#5A2D81",
       "#63727A"
@@ -307,7 +307,7 @@
     "year": 2006,
     "team": "New Orleans Hornets",
     "abbr": "NOH",
-    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "logo": "assets/logos/nba/nba-new-orleans-hornets.webp",
     "colors": [
       "#00788C",
       "#FDBB30"
@@ -323,7 +323,7 @@
     "year": 2005,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-1998-2010.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -339,7 +339,7 @@
     "year": 2004,
     "team": "Phoenix Suns",
     "abbr": "PHO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "logo": "assets/logos/nba/nba-suns-2001-2013.png",
     "colors": [
       "#1D1160",
       "#E56020"
@@ -355,7 +355,7 @@
     "year": 2003,
     "team": "Indiana Pacers",
     "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "logo": "assets/logos/nba/nba-pacers-1996-2005.png",
     "colors": [
       "#002D62",
       "#FDBB30"
@@ -376,7 +376,7 @@
     "year": 2001,
     "team": "Detroit Pistons",
     "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "logo": "assets/logos/nba/nba-pistons-1997-2001.png",
     "colors": [
       "#C8102E",
       "#1D42BA"
@@ -413,7 +413,7 @@
     "year": 1998,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-1995-2003.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -429,7 +429,7 @@
     "year": 1997,
     "team": "Toronto Raptors",
     "abbr": "TOR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "logo": "assets/logos/nba/nba-raptors-1996-2008.png",
     "colors": [
       "#CE1141",
       "#000000"
@@ -445,7 +445,7 @@
     "year": 1996,
     "team": "Atlanta Hawks",
     "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "logo": "assets/logos/nba/nba-hawks-1996-2007.png",
     "colors": [
       "#E03A3E",
       "#C1D32F"

@@ -93,7 +93,7 @@
     "year": 2002,
     "team": "Miami Dolphins",
     "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "logo": "assets/logos/nfl/nfl-dolphins-2002-2012.png",
     "colors": [
       "#008E97",
       "#FC4C02"
@@ -183,7 +183,7 @@
     "year": 2008,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
     "colors": [
       "#4F2683",
       "#FFC62F"
@@ -228,7 +228,7 @@
     "year": 2011,
     "team": "Jacksonville Jaguars",
     "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "logo": "assets/logos/nfl/nfl-jaguars-2002-2012.png",
     "colors": [
       "#007487",
       "#D7A22A"
@@ -243,7 +243,7 @@
     "year": 2012,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-2010-2012.png",
     "colors": [
       "#4F2683",
       "#FFC62F"

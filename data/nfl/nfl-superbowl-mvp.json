@@ -87,7 +87,7 @@
     "year": 2002,
     "team": "Tampa Bay Buccaneers",
     "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
     "colors": [
       "#BD1C36",
       "#3E3A35"
@@ -185,7 +185,7 @@
     "year": 2009,
     "team": "New Orleans Saints",
     "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "logo": "assets/logos/nfl/nfl-saints-2002-2011.png",
     "colors": [
       "#D3BC8D",
       "#000000"

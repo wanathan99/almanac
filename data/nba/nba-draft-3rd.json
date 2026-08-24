@@ -59,7 +59,7 @@
     "year": 2000,
     "school": "East St. Louis Senior High School",
     "abbr": "East St. Louis",
-    "logo": "assets/logos/nba-draft-east-st-louis.png",
+    "logo": "assets/logos/nba/nba-draft-east-st-louis.png",
     "colors": [
       "#F97900",
       "#0057B8"
@@ -74,7 +74,7 @@
     "year": 2001,
     "school": "FC Barcelona",
     "abbr": "FC Barcelona",
-    "logo": "assets/logos/nba-draft-fc-barcelona.png",
+    "logo": "assets/logos/nba/nba-draft-fc-barcelona.png",
     "colors": [
       "#004D98",
       "#A50044"
@@ -215,7 +215,7 @@
     "year": 2011,
     "school": "Fenerbahce",
     "abbr": "Fenerbahce",
-    "logo": "assets/logos/nba-draft-fenerbahce.svg",
+    "logo": "assets/logos/nba/nba-draft-fenerbahce.svg",
     "colors": [
       "#0A3161",
       "#FFD400"
@@ -314,7 +314,7 @@
     "year": 2018,
     "school": "Real Madrid",
     "abbr": "Real Madrid",
-    "logo": "assets/logos/nba-draft-real-madrid.png",
+    "logo": "assets/logos/nba/nba-draft-real-madrid.png",
     "colors": [
       "#004C99",
       "#FFFFFF"
@@ -344,7 +344,7 @@
     "year": 2020,
     "school": "Illawarra Hawks",
     "abbr": "Illawarra Hawks",
-    "logo": "assets/logos/nba-draft-illawarra-hawks.png",
+    "logo": "assets/logos/nba/nba-draft-illawarra-hawks.png",
     "colors": [
       "#EE2737",
       "#000000"
@@ -388,7 +388,7 @@
     "year": 2023,
     "school": "NBA G League Ignite",
     "abbr": "G League Ignite",
-    "logo": "assets/logos/nba-draft-g-league-ignite.png",
+    "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
     "colors": [
       "#000000",
       "#7B2D8E"

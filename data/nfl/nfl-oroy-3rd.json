@@ -3,7 +3,7 @@
     "year": 1996,
     "team": "Tampa Bay Buccaneers",
     "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "logo": "assets/logos/nfl/nfl-buccaneers-1976-1996.png",
     "colors": [
       "#BD1C36",
       "#3E3A35"
@@ -17,7 +17,7 @@
     "year": 1997,
     "team": "Arizona Cardinals",
     "abbr": "ARI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "logo": "assets/logos/nfl/nfl-cardinals-1994-2004.png",
     "colors": [
       "#A40227",
       "#FFFFFF"
@@ -31,7 +31,7 @@
     "year": 1998,
     "team": "Jacksonville Jaguars",
     "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "logo": "assets/logos/nfl/nfl-jaguars-1995-2001.png",
     "colors": [
       "#007487",
       "#D7A22A"
@@ -55,7 +55,7 @@
     "year": 2001,
     "team": "Miami Dolphins",
     "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "logo": "assets/logos/nfl/nfl-dolphins-1997-2002.png",
     "colors": [
       "#008E97",
       "#FC4C02"
@@ -69,7 +69,7 @@
     "year": 2002,
     "team": "New Orleans Saints",
     "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "logo": "assets/logos/nfl/nfl-saints-2002-2011.png",
     "colors": [
       "#D3BC8D",
       "#000000"
@@ -107,7 +107,7 @@
     "year": 2006,
     "team": "Jacksonville Jaguars",
     "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "logo": "assets/logos/nfl/nfl-jaguars-2002-2012.png",
     "colors": [
       "#007487",
       "#D7A22A"
@@ -187,7 +187,7 @@
     "year": 2013,
     "team": "Cincinnati Bengals",
     "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "logo": "assets/logos/nfl/nfl-bengals-2004-2020.png",
     "colors": [
       "#FB4F14",
       "#000000"
@@ -201,7 +201,7 @@
     "year": 2014,
     "team": "Tampa Bay Buccaneers",
     "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "logo": "assets/logos/nfl/nfl-buccaneers-2014-2019.png",
     "colors": [
       "#BD1C36",
       "#3E3A35"

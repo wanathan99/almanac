@@ -33,7 +33,7 @@
     "year": 1998,
     "team": "Miami Dolphins",
     "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "logo": "assets/logos/nfl/nfl-dolphins-1997-2002.png",
     "colors": [
       "#008E97",
       "#FC4C02"
@@ -108,7 +108,7 @@
     "year": 2003,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
     "colors": [
       "#4F2683",
       "#FFC62F"
@@ -123,7 +123,7 @@
     "year": 2004,
     "team": "Cincinnati Bengals",
     "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "logo": "assets/logos/nfl/nfl-bengals-2004-2020.png",
     "colors": [
       "#FB4F14",
       "#000000"
@@ -138,7 +138,7 @@
     "year": 2005,
     "team": "Cincinnati Bengals",
     "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "logo": "assets/logos/nfl/nfl-bengals-2004-2020.png",
     "colors": [
       "#FB4F14",
       "#000000"

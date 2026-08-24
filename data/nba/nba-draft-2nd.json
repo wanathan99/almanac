@@ -92,7 +92,7 @@
     "year": 2003,
     "school": "KK Vrsac (Hemofarm)",
     "abbr": "KK Vrsac",
-    "logo": "assets/logos/nba-draft-hemofarm.png",
+    "logo": "assets/logos/nba/nba-draft-hemofarm.png",
     "colors": [
       "#8B1E3F",
       "#FFFFFF"
@@ -345,7 +345,7 @@
     "year": 2021,
     "school": "NBA G League Ignite",
     "abbr": "G League Ignite",
-    "logo": "assets/logos/nba-draft-g-league-ignite.png",
+    "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
     "colors": [
       "#000000",
       "#7B2D8E"
@@ -388,7 +388,7 @@
     "year": 2024,
     "school": "Perth Wildcats",
     "abbr": "Perth Wildcats",
-    "logo": "assets/logos/nba-draft-perth-wildcats.png",
+    "logo": "assets/logos/nba/nba-draft-perth-wildcats.png",
     "colors": [
       "#EC1C24",
       "#000000"

@@ -3,7 +3,7 @@
     "year": 1996,
     "team": "Denver Broncos",
     "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "logo": "assets/logos/nfl/nfl-broncos-1993-1996.png",
     "colors": [
       "#0A2343",
       "#FC4C02"
@@ -33,7 +33,7 @@
     "year": 1998,
     "team": "Atlanta Falcons",
     "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "logo": "assets/logos/nfl/nfl-falcons-1990-2002.png",
     "colors": [
       "#A71930",
       "#000000"
@@ -63,7 +63,7 @@
     "year": 2000,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-1997-2001.png",
     "colors": [
       "#4F2683",
       "#FFC62F"
@@ -168,7 +168,7 @@
     "year": 2007,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
     "colors": [
       "#4F2683",
       "#FFC62F"
@@ -243,7 +243,7 @@
     "year": 2012,
     "team": "Washington Redskins",
     "abbr": "WSH",
-    "logo": "assets/logos/nfl-washington-redskins.png",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
     "colors": [
       "#5A1414",
       "#FFB612"
@@ -288,7 +288,7 @@
     "year": 2015,
     "team": "Tampa Bay Buccaneers",
     "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "logo": "assets/logos/nfl/nfl-buccaneers-2014-2019.png",
     "colors": [
       "#BD1C36",
       "#3E3A35"

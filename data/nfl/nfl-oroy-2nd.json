@@ -3,7 +3,7 @@
     "year": 1996,
     "team": "New England Patriots",
     "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "logo": "assets/logos/nfl/nfl-patriots-1993-1999.png",
     "colors": [
       "#002A5C",
       "#C60C30"
@@ -17,7 +17,7 @@
     "year": 1997,
     "team": "Cincinnati Bengals",
     "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "logo": "assets/logos/nfl/nfl-bengals-1997-2003.png",
     "colors": [
       "#FB4F14",
       "#000000"
@@ -125,7 +125,7 @@
     "year": 2006,
     "team": "New Orleans Saints",
     "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "logo": "assets/logos/nfl/nfl-saints-2002-2011.png",
     "colors": [
       "#D3BC8D",
       "#000000"
@@ -181,7 +181,7 @@
     "year": 2010,
     "team": "Tampa Bay Buccaneers",
     "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
     "colors": [
       "#BD1C36",
       "#3E3A35"
@@ -195,7 +195,7 @@
     "year": 2011,
     "team": "Cincinnati Bengals",
     "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "logo": "assets/logos/nfl/nfl-bengals-2004-2020.png",
     "colors": [
       "#FB4F14",
       "#000000"
@@ -251,7 +251,7 @@
     "year": 2015,
     "team": "Tampa Bay Buccaneers",
     "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "logo": "assets/logos/nfl/nfl-buccaneers-2014-2019.png",
     "colors": [
       "#BD1C36",
       "#3E3A35"

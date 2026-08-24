@@ -3,7 +3,7 @@
     "year": 1996,
     "team": "Washington Redskins",
     "abbr": "WSH",
-    "logo": "assets/logos/nfl-washington-redskins.png",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
     "colors": [
       "#5A1414",
       "#FFB612"
@@ -18,7 +18,7 @@
     "year": 1997,
     "team": "Miami Dolphins",
     "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "logo": "assets/logos/nfl/nfl-dolphins-1997-2002.png",
     "colors": [
       "#008E97",
       "#FC4C02"
@@ -48,7 +48,7 @@
     "year": 1999,
     "team": "Washington Redskins",
     "abbr": "WSH",
-    "logo": "assets/logos/nfl-washington-redskins.png",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
     "colors": [
       "#5A1414",
       "#FFB612"
@@ -78,7 +78,7 @@
     "year": 2001,
     "team": "Seattle Seahawks",
     "abbr": "SEA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "logo": "assets/logos/nfl/nfl-seahawks-1976-2001.png",
     "colors": [
       "#002A5C",
       "#69BE28"
@@ -183,7 +183,7 @@
     "year": 2008,
     "team": "Carolina Panthers",
     "abbr": "CAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
     "colors": [
       "#0085CA",
       "#000000"
@@ -198,7 +198,7 @@
     "year": 2009,
     "team": "Minnesota Vikings",
     "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
     "colors": [
       "#4F2683",
       "#FFC62F"

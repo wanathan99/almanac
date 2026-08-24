@@ -3,7 +3,7 @@
     "year": 1996,
     "team": "Denver Broncos",
     "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "logo": "assets/logos/nfl/nfl-broncos-1993-1996.png",
     "colors": [
       "#0A2343",
       "#FC4C02"
@@ -31,7 +31,7 @@
     "year": 1998,
     "team": "Atlanta Falcons",
     "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "logo": "assets/logos/nfl/nfl-falcons-1990-2002.png",
     "colors": [
       "#A71930",
       "#000000"

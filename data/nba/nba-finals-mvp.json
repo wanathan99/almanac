@@ -80,7 +80,7 @@
     "year": 2020,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2018-2023.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -95,7 +95,7 @@
     "year": 2019,
     "team": "Toronto Raptors",
     "abbr": "TOR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "logo": "assets/logos/nba/nba-raptors-2015-2020.png",
     "colors": [
       "#CE1141",
       "#000000"
@@ -110,7 +110,7 @@
     "year": 2018,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -125,7 +125,7 @@
     "year": 2017,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -140,7 +140,7 @@
     "year": 2016,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-2011-2017.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -155,7 +155,7 @@
     "year": 2015,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -170,7 +170,7 @@
     "year": 2014,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -215,7 +215,7 @@
     "year": 2011,
     "team": "Dallas Mavericks",
     "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "logo": "assets/logos/nba/nba-mavericks-2002-2017.png",
     "colors": [
       "#00538C",
       "#002B5E"
@@ -230,7 +230,7 @@
     "year": 2010,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -245,7 +245,7 @@
     "year": 2009,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -275,7 +275,7 @@
     "year": 2007,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -305,7 +305,7 @@
     "year": 2005,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -320,7 +320,7 @@
     "year": 2004,
     "team": "Detroit Pistons",
     "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "logo": "assets/logos/nba/nba-pistons-2002-2005.png",
     "colors": [
       "#C8102E",
       "#1D42BA"
@@ -335,7 +335,7 @@
     "year": 2003,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -350,7 +350,7 @@
     "year": 2002,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -366,7 +366,7 @@
     "year": 2001,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -382,7 +382,7 @@
     "year": 2000,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -398,7 +398,7 @@
     "year": 1999,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-1996-2002.png",
     "colors": [
       "#C4CED4",
       "#000000"

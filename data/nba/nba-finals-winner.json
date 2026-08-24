@@ -11,7 +11,7 @@
     "opponent": {
       "team": "Indiana Pacers",
       "abbr": "IND",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+      "logo": "assets/logos/nba/nba-pacers-2017-pres.png",
       "colors": [
         "#002D62",
         "#FDBB30"
@@ -128,7 +128,7 @@
     "year": 2020,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2018-2023.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -153,7 +153,7 @@
     "year": 2019,
     "team": "Toronto Raptors",
     "abbr": "TOR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "logo": "assets/logos/nba/nba-raptors-2015-2020.png",
     "colors": [
       "#CE1141",
       "#000000"
@@ -161,7 +161,7 @@
     "opponent": {
       "team": "Golden State Warriors",
       "abbr": "GSW",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
       "colors": [
         "#1D428A",
         "#FFC72C"
@@ -178,7 +178,7 @@
     "year": 2018,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -186,7 +186,7 @@
     "opponent": {
       "team": "Cleveland Cavaliers",
       "abbr": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "logo": "assets/logos/nba/nba-cavaliers-2018-2022.png",
       "colors": [
         "#6F263D",
         "#FFB81C"
@@ -203,7 +203,7 @@
     "year": 2017,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -211,7 +211,7 @@
     "opponent": {
       "team": "Cleveland Cavaliers",
       "abbr": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "logo": "assets/logos/nba/nba-cavaliers-2011-2017.png",
       "colors": [
         "#6F263D",
         "#FFB81C"
@@ -228,7 +228,7 @@
     "year": 2016,
     "team": "Cleveland Cavaliers",
     "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "logo": "assets/logos/nba/nba-cavaliers-2011-2017.png",
     "colors": [
       "#6F263D",
       "#FFB81C"
@@ -236,7 +236,7 @@
     "opponent": {
       "team": "Golden State Warriors",
       "abbr": "GSW",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
       "colors": [
         "#1D428A",
         "#FFC72C"
@@ -254,7 +254,7 @@
     "year": 2015,
     "team": "Golden State Warriors",
     "abbr": "GSW",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "logo": "assets/logos/nba/nba-warriors-2011-2019.png",
     "colors": [
       "#1D428A",
       "#FFC72C"
@@ -262,7 +262,7 @@
     "opponent": {
       "team": "Cleveland Cavaliers",
       "abbr": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "logo": "assets/logos/nba/nba-cavaliers-2011-2017.png",
       "colors": [
         "#6F263D",
         "#FFB81C"
@@ -279,7 +279,7 @@
     "year": 2014,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -312,7 +312,7 @@
     "opponent": {
       "team": "San Antonio Spurs",
       "abbr": "SAS",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
       "colors": [
         "#C4CED4",
         "#000000"
@@ -354,7 +354,7 @@
     "year": 2011,
     "team": "Dallas Mavericks",
     "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "logo": "assets/logos/nba/nba-mavericks-2002-2017.png",
     "colors": [
       "#00538C",
       "#002B5E"
@@ -380,7 +380,7 @@
     "year": 2010,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -405,7 +405,7 @@
     "year": 2009,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -413,7 +413,7 @@
     "opponent": {
       "team": "Orlando Magic",
       "abbr": "ORL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+      "logo": "assets/logos/nba/nba-magic-2001-2010.png",
       "colors": [
         "#0077C0",
         "#C4CED4"
@@ -438,7 +438,7 @@
     "opponent": {
       "team": "Los Angeles Lakers",
       "abbr": "LAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
       "colors": [
         "#552583",
         "#FDB927"
@@ -455,7 +455,7 @@
     "year": 2007,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -463,7 +463,7 @@
     "opponent": {
       "team": "Cleveland Cavaliers",
       "abbr": "CLE",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "logo": "assets/logos/nba/nba-cavaliers-2004-2010.png",
       "colors": [
         "#6F263D",
         "#FFB81C"
@@ -488,7 +488,7 @@
     "opponent": {
       "team": "Dallas Mavericks",
       "abbr": "DAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+      "logo": "assets/logos/nba/nba-mavericks-2002-2017.png",
       "colors": [
         "#00538C",
         "#002B5E"
@@ -505,7 +505,7 @@
     "year": 2005,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -513,7 +513,7 @@
     "opponent": {
       "team": "Detroit Pistons",
       "abbr": "DET",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+      "logo": "assets/logos/nba/nba-pistons-2002-2005.png",
       "colors": [
         "#C8102E",
         "#1D42BA"
@@ -530,7 +530,7 @@
     "year": 2004,
     "team": "Detroit Pistons",
     "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "logo": "assets/logos/nba/nba-pistons-2002-2005.png",
     "colors": [
       "#C8102E",
       "#1D42BA"
@@ -538,7 +538,7 @@
     "opponent": {
       "team": "Los Angeles Lakers",
       "abbr": "LAL",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
       "colors": [
         "#552583",
         "#FDB927"
@@ -555,7 +555,7 @@
     "year": 2003,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-2003-2016.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -563,7 +563,7 @@
     "opponent": {
       "team": "New Jersey Nets",
       "abbr": "NJN",
-      "logo": "assets/logos/nba-new-jersey-nets.png",
+      "logo": "assets/logos/nba/nba-new-jersey-nets.png",
       "colors": [
         "#002D62",
         "#CD1041"
@@ -580,7 +580,7 @@
     "year": 2002,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -588,7 +588,7 @@
     "opponent": {
       "team": "New Jersey Nets",
       "abbr": "NJN",
-      "logo": "assets/logos/nba-new-jersey-nets.png",
+      "logo": "assets/logos/nba/nba-new-jersey-nets.png",
       "colors": [
         "#002D62",
         "#CD1041"
@@ -605,7 +605,7 @@
     "year": 2001,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -613,7 +613,7 @@
     "opponent": {
       "team": "Philadelphia 76ers",
       "abbr": "PHI",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+      "logo": "assets/logos/nba/nba-sixers-1998-2009.png",
       "colors": [
         "#006BB6",
         "#ED174C"
@@ -630,7 +630,7 @@
     "year": 2000,
     "team": "Los Angeles Lakers",
     "abbr": "LAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "logo": "assets/logos/nba/nba-lakers-2000-2017.png",
     "colors": [
       "#552583",
       "#FDB927"
@@ -638,7 +638,7 @@
     "opponent": {
       "team": "Indiana Pacers",
       "abbr": "IND",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+      "logo": "assets/logos/nba/nba-pacers-1996-2005.png",
       "colors": [
         "#002D62",
         "#FDBB30"
@@ -655,7 +655,7 @@
     "year": 1999,
     "team": "San Antonio Spurs",
     "abbr": "SAS",
-    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "logo": "assets/logos/nba/nba-spurs-1996-2002.png",
     "colors": [
       "#C4CED4",
       "#000000"
@@ -663,7 +663,7 @@
     "opponent": {
       "team": "New York Knicks",
       "abbr": "NYK",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+      "logo": "assets/logos/nba/nba-knicks-1996-2011.png",
       "colors": [
         "#006BB6",
         "#F58426"
@@ -688,7 +688,7 @@
     "opponent": {
       "team": "Utah Jazz",
       "abbr": "UTA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+      "logo": "assets/logos/nba/nba-jazz-1997-2004.png",
       "colors": [
         "#002B5C",
         "#F9A01B"
@@ -713,7 +713,7 @@
     "opponent": {
       "team": "Utah Jazz",
       "abbr": "UTA",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+      "logo": "assets/logos/nba/nba-jazz-1997-2004.png",
       "colors": [
         "#002B5C",
         "#F9A01B"
