@@ -117,8 +117,12 @@
   },
   {
     "year": 2004,
-    "invalid": true,
-    "reason": "Dwight Howard went straight from high school (Southwest Atlanta Christian Academy) to the NBA \u2014 no logo available for that school"
+    "school": "Southwest Atlanta Christian Academy",
+    "abbr": "Southwest Atlanta Christian",
+    "logo": "assets/logos/nba/nba-draft-southwest-atlanta-christian.jpeg",
+    "colors": ["#5D072A", "#999999"],
+    "player": "Dwight Howard",
+    "playerAliases": ["dwight howard", "howard"]
   },
   {
     "year": 2005,

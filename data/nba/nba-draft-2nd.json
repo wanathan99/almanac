@@ -71,8 +71,12 @@
   },
   {
     "year": 2001,
-    "invalid": true,
-    "reason": "Tyson Chandler went straight from high school (Dominguez HS, Compton) to the NBA \u2014 no logo available for that school"
+    "school": "Dominguez High School",
+    "abbr": "Dominguez HS",
+    "logo": "assets/logos/nba/nba-draft-dominguez-hs.png",
+    "colors": ["#C84A2C", "#ECB539"],
+    "player": "Tyson Chandler",
+    "playerAliases": ["tyson chandler", "chandler"]
   },
   {
     "year": 2002,
