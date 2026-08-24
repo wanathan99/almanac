@@ -1,0 +1,422 @@
+[
+  {
+    "year": 1996,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Simeon Rice",
+    "playerAliases": [
+      "simeon rice"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Peter Boulware",
+    "playerAliases": [
+      "peter boulware"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Oakland Raiders",
+    "abbr": "OAK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "colors": [
+      "#000000",
+      "#A5ACAF"
+    ],
+    "player": "Charles Woodson",
+    "playerAliases": [
+      "charles woodson"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Jevon Kearse",
+    "playerAliases": [
+      "jevon kearse"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Brian Urlacher",
+    "playerAliases": [
+      "brian urlacher"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Kendrell Bell",
+    "playerAliases": [
+      "kendrell bell"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Julius Peppers",
+    "playerAliases": [
+      "julius peppers"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Terrell Suggs",
+    "playerAliases": [
+      "terrell suggs"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Jonathan Vilma",
+    "playerAliases": [
+      "jonathan vilma"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Shawne Merriman",
+    "playerAliases": [
+      "shawne merriman"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "DeMeco Ryans",
+    "playerAliases": [
+      "demeco ryans"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Patrick Willis",
+    "playerAliases": [
+      "patrick willis"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Jerod Mayo",
+    "playerAliases": [
+      "jerod mayo"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "Brian Cushing",
+    "playerAliases": [
+      "brian cushing"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Ndamukong Suh",
+    "playerAliases": [
+      "ndamukong suh"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Von Miller",
+    "playerAliases": [
+      "von miller"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Luke Kuechly",
+    "playerAliases": [
+      "luke kuechly"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Sheldon Richardson",
+    "playerAliases": [
+      "sheldon richardson"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Aaron Donald",
+    "playerAliases": [
+      "aaron donald"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Marcus Peters",
+    "playerAliases": [
+      "marcus peters"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Joey Bosa",
+    "playerAliases": [
+      "joey bosa"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Marshon Lattimore",
+    "playerAliases": [
+      "marshon lattimore"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Shaquille Leonard",
+    "playerAliases": [
+      "shaquille leonard"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Nick Bosa",
+    "playerAliases": [
+      "nick bosa"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Washington Football Team",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl-washington-football-team.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Chase Young",
+    "playerAliases": [
+      "chase young"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Micah Parsons",
+    "playerAliases": [
+      "micah parsons"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Sauce Gardner",
+    "playerAliases": [
+      "sauce gardner"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "Will Anderson",
+    "playerAliases": [
+      "will anderson"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Los Angeles Rams",
+    "abbr": "LAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Jared Verse",
+    "playerAliases": [
+      "jared verse"
+    ]
+  },
+  {
+    "year": 2025,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "colors": [
+      "#472A08",
+      "#FF3C00"
+    ],
+    "player": "Carson Schwesinger",
+    "playerAliases": [
+      "carson schwesinger"
+    ]
+  }
+]

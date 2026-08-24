@@ -1,0 +1,404 @@
+[
+  {
+    "year": 1996,
+    "invalid": true,
+    "reason": "The AP Comeback Player of the Year award was not created until 1998"
+  },
+  {
+    "year": 1997,
+    "invalid": true,
+    "reason": "The AP Comeback Player of the Year award was not created until 1998"
+  },
+  {
+    "year": 1998,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Doug Flutie",
+    "playerAliases": [
+      "doug flutie"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Bryant Young",
+    "playerAliases": [
+      "bryant young"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Joe Johnson",
+    "playerAliases": [
+      "joe johnson"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Garrison Hearst",
+    "playerAliases": [
+      "garrison hearst"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Tommy Maddox",
+    "playerAliases": [
+      "tommy maddox"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Jon Kitna",
+    "playerAliases": [
+      "jon kitna"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Tedy Bruschi",
+    "playerAliases": [
+      "tedy bruschi"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Chad Pennington",
+    "playerAliases": [
+      "chad pennington"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Greg Ellis",
+    "playerAliases": [
+      "greg ellis"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Chad Pennington",
+    "playerAliases": [
+      "chad pennington"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Tom Brady",
+    "playerAliases": [
+      "tom brady"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "colors": [
+      "#06424D",
+      "#000000"
+    ],
+    "player": "Michael Vick",
+    "playerAliases": [
+      "michael vick"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Matthew Stafford",
+    "playerAliases": [
+      "matthew stafford"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Philip Rivers",
+    "playerAliases": [
+      "philip rivers"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Rob Gronkowski",
+    "playerAliases": [
+      "rob gronkowski"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Eric Berry",
+    "playerAliases": [
+      "eric berry"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Jordy Nelson",
+    "playerAliases": [
+      "jordy nelson"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Los Angeles Chargers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Keenan Allen",
+    "playerAliases": [
+      "keenan allen"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Andrew Luck",
+    "playerAliases": [
+      "andrew luck"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Ryan Tannehill",
+    "playerAliases": [
+      "ryan tannehill"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Washington Football Team",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl-washington-football-team.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Alex Smith",
+    "playerAliases": [
+      "alex smith"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Joe Burrow",
+    "playerAliases": [
+      "joe burrow"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Geno Smith",
+    "playerAliases": [
+      "geno smith"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "colors": [
+      "#472A08",
+      "#FF3C00"
+    ],
+    "player": "Joe Flacco",
+    "playerAliases": [
+      "joe flacco"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Joe Burrow",
+    "playerAliases": [
+      "joe burrow"
+    ]
+  },
+  {
+    "year": 2025,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Christian McCaffrey",
+    "playerAliases": [
+      "christian mccaffrey"
+    ]
+  }
+]

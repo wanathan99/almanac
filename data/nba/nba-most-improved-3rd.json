@@ -1,0 +1,452 @@
+[
+  {
+    "year": 2025,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Cade Cunningham",
+    "playerAliases": [
+      "cade cunningham",
+      "cunningham"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Alperen \u015eeng\u00fcn",
+    "playerAliases": [
+      "alperen \u015feng\u00fcn",
+      "\u015feng\u00fcn"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Jalen Brunson",
+    "playerAliases": [
+      "brunson",
+      "jalen brunson"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Darius Garland",
+    "playerAliases": [
+      "darius garland",
+      "garland"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Michael Porter Jr.",
+    "playerAliases": [
+      "michael porter",
+      "porter"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Luka Don\u010di\u0107",
+    "playerAliases": [
+      "don\u010di\u0107",
+      "luka don\u010di\u0107"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "De'Aaron Fox",
+    "playerAliases": [
+      "de'aaron fox",
+      "fox"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Brooklyn Nets",
+    "abbr": "BKN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "player": "Spencer Dinwiddie",
+    "playerAliases": [
+      "dinwiddie",
+      "spencer dinwiddie"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Nikola Vu\u010devi\u0107",
+    "playerAliases": [
+      "nikola vu\u010devi\u0107",
+      "vu\u010devi\u0107"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "Otto Porter",
+    "playerAliases": [
+      "otto porter",
+      "porter"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Rudy Gobert",
+    "playerAliases": [
+      "gobert",
+      "rudy gobert"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Larry Sanders",
+    "playerAliases": [
+      "larry sanders",
+      "sanders"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Nikola Pekovi\u0107",
+    "playerAliases": [
+      "nikola pekovi\u0107",
+      "pekovi\u0107"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Dorell Wright",
+    "playerAliases": [
+      "dorell wright",
+      "wright"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Marc Gasol",
+    "playerAliases": [
+      "gasol",
+      "marc gasol"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Kevin Durant",
+    "playerAliases": [
+      "durant",
+      "kevin durant"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "LaMarcus Aldridge",
+    "playerAliases": [
+      "aldridge",
+      "lamarcus aldridge"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Deron Williams",
+    "playerAliases": [
+      "deron williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "player": "Nenad Krsti\u0107",
+    "playerAliases": [
+      "krsti\u0107",
+      "nenad krsti\u0107"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Tayshaun Prince",
+    "playerAliases": [
+      "prince",
+      "tayshaun prince"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "James Posey",
+    "playerAliases": [
+      "james posey",
+      "posey"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Troy Murphy",
+    "playerAliases": [
+      "murphy",
+      "troy murphy"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Steve Nash",
+    "playerAliases": [
+      "nash",
+      "steve nash"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Steve Nash",
+    "playerAliases": [
+      "nash",
+      "steve nash"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Jerry Stackhouse",
+    "playerAliases": [
+      "jerry stackhouse",
+      "stackhouse"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Gary Trent",
+    "playerAliases": [
+      "gary trent",
+      "trent"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Donyell Marshall",
+    "playerAliases": [
+      "donyell marshall",
+      "marshall"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Rasheed Wallace",
+    "playerAliases": [
+      "rasheed wallace",
+      "wallace"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Terrell Brandon",
+    "playerAliases": [
+      "brandon",
+      "terrell brandon"
+    ]
+  }
+]

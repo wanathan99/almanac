@@ -1,0 +1,474 @@
+[
+  {
+    "year": 2025,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Nikola Joki\u0107",
+    "playerAliases": [
+      "joki\u0107",
+      "nikola joki\u0107"
+    ],
+    "statLine": "29.6 PPG"
+  },
+  {
+    "year": 2024,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Shai Gilgeous-Alexander",
+    "playerAliases": [
+      "gilgeous-alexander",
+      "shai gilgeous-alexander"
+    ],
+    "statLine": "30.1 PPG"
+  },
+  {
+    "year": 2023,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Damian Lillard",
+    "playerAliases": [
+      "damian lillard",
+      "lillard"
+    ],
+    "statLine": "32.2 PPG"
+  },
+  {
+    "year": 2022,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Luka Don\u010di\u0107",
+    "playerAliases": [
+      "don\u010di\u0107",
+      "luka don\u010di\u0107"
+    ],
+    "statLine": "28.4 PPG"
+  },
+  {
+    "year": 2021,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Damian Lillard",
+    "playerAliases": [
+      "damian lillard",
+      "lillard"
+    ],
+    "statLine": "28.8 PPG"
+  },
+  {
+    "year": 2020,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Damian Lillard",
+    "playerAliases": [
+      "damian lillard",
+      "lillard"
+    ],
+    "statLine": "30.0 PPG"
+  },
+  {
+    "year": 2019,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Giannis Antetokounmpo",
+    "playerAliases": [
+      "antetokounmpo",
+      "giannis",
+      "giannis antetokounmpo"
+    ],
+    "statLine": "27.7 PPG"
+  },
+  {
+    "year": 2018,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "27.5 PPG"
+  },
+  {
+    "year": 2017,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Isaiah Thomas",
+    "playerAliases": [
+      "isaiah thomas",
+      "thomas"
+    ],
+    "statLine": "28.9 PPG"
+  },
+  {
+    "year": 2016,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Kevin Durant",
+    "playerAliases": [
+      "durant",
+      "kevin durant"
+    ],
+    "statLine": "28.2 PPG"
+  },
+  {
+    "year": 2015,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "25.3 PPG"
+  },
+  {
+    "year": 2014,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "27.1 PPG"
+  },
+  {
+    "year": 2013,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ],
+    "statLine": "27.3 PPG"
+  },
+  {
+    "year": 2012,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "27.1 PPG"
+  },
+  {
+    "year": 2011,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 2010,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Carmelo Anthony",
+    "playerAliases": [
+      "anthony",
+      "carmelo anthony"
+    ],
+    "statLine": "28.2 PPG"
+  },
+  {
+    "year": 2009,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Kobe Bryant",
+    "playerAliases": [
+      "bryant",
+      "kobe bryant"
+    ],
+    "statLine": "26.8 PPG"
+  },
+  {
+    "year": 2008,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Allen Iverson",
+    "playerAliases": [
+      "allen iverson",
+      "iverson"
+    ],
+    "statLine": "26.4 PPG"
+  },
+  {
+    "year": 2007,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "Gilbert Arenas",
+    "playerAliases": [
+      "arenas",
+      "gilbert arenas"
+    ],
+    "statLine": "28.4 PPG"
+  },
+  {
+    "year": 2006,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "31.4 PPG"
+  },
+  {
+    "year": 2005,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "LeBron James",
+    "playerAliases": [
+      "james",
+      "lebron james"
+    ],
+    "statLine": "27.2 PPG"
+  },
+  {
+    "year": 2004,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Kevin Garnett",
+    "playerAliases": [
+      "garnett",
+      "kevin garnett"
+    ],
+    "statLine": "24.2 PPG"
+  },
+  {
+    "year": 2003,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Allen Iverson",
+    "playerAliases": [
+      "allen iverson",
+      "iverson"
+    ],
+    "statLine": "27.6 PPG"
+  },
+  {
+    "year": 2002,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Paul Pierce",
+    "playerAliases": [
+      "paul pierce",
+      "pierce"
+    ],
+    "statLine": "26.1 PPG"
+  },
+  {
+    "year": 2001,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "player": "Shaquille O'Neal",
+    "playerAliases": [
+      "o'neal",
+      "shaq",
+      "shaquille o'neal"
+    ],
+    "statLine": "28.7 PPG"
+  },
+  {
+    "year": 2000,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Grant Hill",
+    "playerAliases": [
+      "grant hill",
+      "hill"
+    ],
+    "statLine": "25.8 PPG"
+  },
+  {
+    "year": 1999,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Karl Malone",
+    "playerAliases": [
+      "karl malone",
+      "malone"
+    ],
+    "statLine": "23.8 PPG"
+  },
+  {
+    "year": 1998,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Karl Malone",
+    "playerAliases": [
+      "karl malone",
+      "malone"
+    ],
+    "statLine": "27.0 PPG"
+  },
+  {
+    "year": 1997,
+    "team": "Charlotte Hornets (orig)",
+    "abbr": "CHH",
+    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "colors": [
+      "#00788C",
+      "#FDBB30"
+    ],
+    "player": "Glen Rice",
+    "playerAliases": [
+      "glen rice",
+      "rice"
+    ],
+    "statLine": "26.8 PPG"
+  },
+  {
+    "year": 1996,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Shaquille O'Neal",
+    "playerAliases": [
+      "o'neal",
+      "shaq",
+      "shaquille o'neal"
+    ],
+    "statLine": "26.6 PPG"
+  }
+]

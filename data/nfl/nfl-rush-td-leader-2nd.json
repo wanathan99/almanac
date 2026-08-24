@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1996,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Curtis Martin",
+    "playerAliases": [
+      "curtis martin"
+    ],
+    "statLine": "14 rush TD"
+  },
+  {
+    "year": 1997,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Terrell Davis",
+    "playerAliases": [
+      "terrell davis"
+    ],
+    "statLine": "15 rush TD"
+  },
+  {
+    "year": 1998,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Jamal Anderson",
+    "playerAliases": [
+      "jamal anderson"
+    ],
+    "statLine": "14 rush TD"
+  },
+  {
+    "year": 1999,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Edgerrin James",
+    "playerAliases": [
+      "edgerrin james"
+    ],
+    "statLine": "13 rush TD"
+  },
+  {
+    "year": 2000,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Mike Anderson",
+    "playerAliases": [
+      "mike anderson"
+    ],
+    "statLine": "15 rush TD"
+  },
+  {
+    "year": 2001,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Marshall Faulk",
+    "playerAliases": [
+      "marshall faulk"
+    ],
+    "statLine": "12 rush TD"
+  },
+  {
+    "year": 2002,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Shaun Alexander",
+    "playerAliases": [
+      "shaun alexander"
+    ],
+    "statLine": "16 rush TD"
+  },
+  {
+    "year": 2003,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Ahman Green",
+    "playerAliases": [
+      "ahman green"
+    ],
+    "statLine": "15 rush TD"
+  },
+  {
+    "year": 2004,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Shaun Alexander",
+    "playerAliases": [
+      "shaun alexander"
+    ],
+    "statLine": "16 rush TD"
+  },
+  {
+    "year": 2005,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Larry Johnson",
+    "playerAliases": [
+      "larry johnson"
+    ],
+    "statLine": "20 rush TD"
+  },
+  {
+    "year": 2006,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Larry Johnson",
+    "playerAliases": [
+      "larry johnson"
+    ],
+    "statLine": "17 rush TD"
+  },
+  {
+    "year": 2007,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Joseph Addai",
+    "playerAliases": [
+      "joseph addai"
+    ],
+    "statLine": "12 rush TD"
+  },
+  {
+    "year": 2008,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Michael Turner",
+    "playerAliases": [
+      "michael turner"
+    ],
+    "statLine": "17 rush TD"
+  },
+  {
+    "year": 2009,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Maurice Jones-Drew",
+    "playerAliases": [
+      "maurice jones-drew"
+    ],
+    "statLine": "15 rush TD"
+  },
+  {
+    "year": 2010,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "BenJarvus Green-Ellis",
+    "playerAliases": [
+      "benjarvus green-ellis"
+    ],
+    "statLine": "13 rush TD"
+  },
+  {
+    "year": 2011,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Cam Newton",
+    "playerAliases": [
+      "cam newton"
+    ],
+    "statLine": "14 rush TD"
+  },
+  {
+    "year": 2012,
+    "team": "Washington Redskins",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl-washington-redskins.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Alfred Morris",
+    "playerAliases": [
+      "alfred morris"
+    ],
+    "statLine": "13 rush TD"
+  },
+  {
+    "year": 2013,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Marshawn Lynch",
+    "playerAliases": [
+      "marshawn lynch"
+    ],
+    "statLine": "12 rush TD"
+  },
+  {
+    "year": 2014,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "DeMarco Murray",
+    "playerAliases": [
+      "demarco murray"
+    ],
+    "statLine": "13 rush TD"
+  },
+  {
+    "year": 2015,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Jeremy Hill",
+    "playerAliases": [
+      "jeremy hill"
+    ],
+    "statLine": "11 rush TD"
+  },
+  {
+    "year": 2016,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "David Johnson",
+    "playerAliases": [
+      "david johnson"
+    ],
+    "statLine": "16 rush TD"
+  },
+  {
+    "year": 2017,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Mark Ingram",
+    "playerAliases": [
+      "mark ingram"
+    ],
+    "statLine": "12 rush TD"
+  },
+  {
+    "year": 2018,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Alvin Kamara",
+    "playerAliases": [
+      "alvin kamara"
+    ],
+    "statLine": "14 rush TD"
+  },
+  {
+    "year": 2019,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Aaron Jones",
+    "playerAliases": [
+      "aaron jones"
+    ],
+    "statLine": "16 rush TD"
+  },
+  {
+    "year": 2020,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Dalvin Cook",
+    "playerAliases": [
+      "dalvin cook"
+    ],
+    "statLine": "16 rush TD"
+  },
+  {
+    "year": 2021,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "James Conner",
+    "playerAliases": [
+      "james conner"
+    ],
+    "statLine": "15 rush TD"
+  },
+  {
+    "year": 2022,
+    "team": "Los Angeles Chargers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Austin Ekeler",
+    "playerAliases": [
+      "austin ekeler"
+    ],
+    "statLine": "13 rush TD"
+  },
+  {
+    "year": 2023,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Josh Allen",
+    "playerAliases": [
+      "josh allen"
+    ],
+    "statLine": "15 rush TD"
+  },
+  {
+    "year": 2024,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Jahmyr Gibbs",
+    "playerAliases": [
+      "jahmyr gibbs"
+    ],
+    "statLine": "16 rush TD"
+  },
+  {
+    "year": 2025,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Derrick Henry",
+    "playerAliases": [
+      "derrick henry"
+    ],
+    "statLine": "16 rush TD"
+  }
+]

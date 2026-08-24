@@ -1,0 +1,422 @@
+[
+  {
+    "year": 1996,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Brett Favre",
+    "playerAliases": [
+      "brett favre"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Terrell Davis",
+    "playerAliases": [
+      "terrell davis"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Randall Cunningham",
+    "playerAliases": [
+      "randall cunningham"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Kurt Warner",
+    "playerAliases": [
+      "kurt warner"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Eddie George",
+    "playerAliases": [
+      "eddie george"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Kurt Warner",
+    "playerAliases": [
+      "kurt warner"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "LaDainian Tomlinson",
+    "playerAliases": [
+      "ladainian tomlinson"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Daunte Culpepper",
+    "playerAliases": [
+      "daunte culpepper"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "colors": [
+      "#06424D",
+      "#000000"
+    ],
+    "player": "Michael Vick",
+    "playerAliases": [
+      "michael vick"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Aaron Rodgers",
+    "playerAliases": [
+      "aaron rodgers"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "colors": [
+      "#06424D",
+      "#000000"
+    ],
+    "player": "LeSean McCoy",
+    "playerAliases": [
+      "lesean mccoy"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Aaron Rodgers",
+    "playerAliases": [
+      "aaron rodgers"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Antonio Brown",
+    "playerAliases": [
+      "antonio brown"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Aaron Rodgers",
+    "playerAliases": [
+      "aaron rodgers"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Antonio Brown",
+    "playerAliases": [
+      "antonio brown"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Lamar Jackson",
+    "playerAliases": [
+      "lamar jackson"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Patrick Mahomes",
+    "playerAliases": [
+      "patrick mahomes"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Jonathan Taylor",
+    "playerAliases": [
+      "jonathan taylor"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Patrick Mahomes",
+    "playerAliases": [
+      "patrick mahomes"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Tyreek Hill",
+    "playerAliases": [
+      "tyreek hill"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "Lamar Jackson",
+    "playerAliases": [
+      "lamar jackson"
+    ]
+  },
+  {
+    "year": 2025,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Christian McCaffrey",
+    "playerAliases": [
+      "christian mccaffrey"
+    ]
+  }
+]

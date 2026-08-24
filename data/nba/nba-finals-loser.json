@@ -1,0 +1,761 @@
+[
+  {
+    "year": 2025,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "opponent": {
+      "team": "Oklahoma City Thunder",
+      "abbr": "OKC",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+      "colors": [
+        "#007AC1",
+        "#EF3B24"
+      ]
+    },
+    "player": "Indiana Pacers",
+    "playerAliases": [
+      "indiana pacers",
+      "pacers"
+    ],
+    "statLine": "Lost series 4-3"
+  },
+  {
+    "year": 2024,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "opponent": {
+      "team": "Boston Celtics",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+      "colors": [
+        "#007A33",
+        "#BA9653"
+      ]
+    },
+    "player": "Dallas Mavericks",
+    "playerAliases": [
+      "dallas mavericks",
+      "mavericks",
+      "mavs"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2023,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "opponent": {
+      "team": "Denver Nuggets",
+      "abbr": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+      "colors": [
+        "#0E2240",
+        "#FEC524"
+      ]
+    },
+    "player": "Miami Heat",
+    "playerAliases": [
+      "heat",
+      "miami heat"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2022,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "opponent": {
+      "team": "Golden State Warriors",
+      "abbr": "GSW",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "colors": [
+        "#1D428A",
+        "#FFC72C"
+      ]
+    },
+    "player": "Boston Celtics",
+    "playerAliases": [
+      "boston celtics",
+      "celtics"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2021,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "opponent": {
+      "team": "Milwaukee Bucks",
+      "abbr": "MIL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+      "colors": [
+        "#00471B",
+        "#EEE1C6"
+      ]
+    },
+    "player": "Phoenix Suns",
+    "playerAliases": [
+      "phoenix suns",
+      "suns"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2020,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "opponent": {
+      "team": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "colors": [
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    "player": "Miami Heat",
+    "playerAliases": [
+      "heat",
+      "miami heat"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2019,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "Toronto Raptors",
+      "abbr": "TOR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+      "colors": [
+        "#CE1141",
+        "#000000"
+      ]
+    },
+    "player": "Golden State Warriors",
+    "playerAliases": [
+      "golden state warriors",
+      "warriors"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2018,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "opponent": {
+      "team": "Golden State Warriors",
+      "abbr": "GSW",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "colors": [
+        "#1D428A",
+        "#FFC72C"
+      ]
+    },
+    "player": "Cleveland Cavaliers",
+    "playerAliases": [
+      "cavaliers",
+      "cavs",
+      "cleveland cavaliers"
+    ],
+    "statLine": "Lost series 4-0"
+  },
+  {
+    "year": 2017,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "opponent": {
+      "team": "Golden State Warriors",
+      "abbr": "GSW",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "colors": [
+        "#1D428A",
+        "#FFC72C"
+      ]
+    },
+    "player": "Cleveland Cavaliers",
+    "playerAliases": [
+      "cavaliers",
+      "cavs",
+      "cleveland cavaliers"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2016,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "Cleveland Cavaliers",
+      "abbr": "CLE",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+      "colors": [
+        "#6F263D",
+        "#FFB81C"
+      ]
+    },
+    "player": "Golden State Warriors",
+    "playerAliases": [
+      "golden state warriors",
+      "warriors"
+    ],
+    "statLine": "Lost series 4-3"
+  },
+  {
+    "year": 2015,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "opponent": {
+      "team": "Golden State Warriors",
+      "abbr": "GSW",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+      "colors": [
+        "#1D428A",
+        "#FFC72C"
+      ]
+    },
+    "player": "Cleveland Cavaliers",
+    "playerAliases": [
+      "cavaliers",
+      "cavs",
+      "cleveland cavaliers"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2014,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "opponent": {
+      "team": "San Antonio Spurs",
+      "abbr": "SAS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "colors": [
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    "player": "Miami Heat",
+    "playerAliases": [
+      "heat",
+      "miami heat"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2013,
+    "team": "San Antonio Spurs",
+    "abbr": "SAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "colors": [
+      "#C4CED4",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Miami Heat",
+      "abbr": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+      "colors": [
+        "#98002E",
+        "#F9A01B"
+      ]
+    },
+    "player": "San Antonio Spurs",
+    "playerAliases": [
+      "san antonio spurs",
+      "spurs"
+    ],
+    "statLine": "Lost series 4-3"
+  },
+  {
+    "year": 2012,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "opponent": {
+      "team": "Miami Heat",
+      "abbr": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+      "colors": [
+        "#98002E",
+        "#F9A01B"
+      ]
+    },
+    "player": "Oklahoma City Thunder",
+    "playerAliases": [
+      "oklahoma city thunder",
+      "thunder"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2011,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "opponent": {
+      "team": "Dallas Mavericks",
+      "abbr": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+      "colors": [
+        "#00538C",
+        "#002B5E"
+      ]
+    },
+    "player": "Miami Heat",
+    "playerAliases": [
+      "heat",
+      "miami heat"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2010,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "opponent": {
+      "team": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "colors": [
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    "player": "Boston Celtics",
+    "playerAliases": [
+      "boston celtics",
+      "celtics"
+    ],
+    "statLine": "Lost series 4-3"
+  },
+  {
+    "year": 2009,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "opponent": {
+      "team": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "colors": [
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    "player": "Orlando Magic",
+    "playerAliases": [
+      "magic",
+      "orlando magic"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2008,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "opponent": {
+      "team": "Boston Celtics",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+      "colors": [
+        "#007A33",
+        "#BA9653"
+      ]
+    },
+    "player": "Los Angeles Lakers",
+    "playerAliases": [
+      "lakers",
+      "los angeles lakers"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2007,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "opponent": {
+      "team": "San Antonio Spurs",
+      "abbr": "SAS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "colors": [
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    "player": "Cleveland Cavaliers",
+    "playerAliases": [
+      "cavaliers",
+      "cavs",
+      "cleveland cavaliers"
+    ],
+    "statLine": "Lost series 4-0"
+  },
+  {
+    "year": 2006,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "opponent": {
+      "team": "Miami Heat",
+      "abbr": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+      "colors": [
+        "#98002E",
+        "#F9A01B"
+      ]
+    },
+    "player": "Dallas Mavericks",
+    "playerAliases": [
+      "dallas mavericks",
+      "mavericks",
+      "mavs"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2005,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "opponent": {
+      "team": "San Antonio Spurs",
+      "abbr": "SAS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "colors": [
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    "player": "Detroit Pistons",
+    "playerAliases": [
+      "detroit pistons",
+      "pistons"
+    ],
+    "statLine": "Lost series 4-3"
+  },
+  {
+    "year": 2004,
+    "team": "Los Angeles Lakers",
+    "abbr": "LAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+    "colors": [
+      "#552583",
+      "#FDB927"
+    ],
+    "opponent": {
+      "team": "Detroit Pistons",
+      "abbr": "DET",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+      "colors": [
+        "#C8102E",
+        "#1D42BA"
+      ]
+    },
+    "player": "Los Angeles Lakers",
+    "playerAliases": [
+      "lakers",
+      "los angeles lakers"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2003,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "opponent": {
+      "team": "San Antonio Spurs",
+      "abbr": "SAS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "colors": [
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    "player": "New Jersey Nets",
+    "playerAliases": [
+      "nets",
+      "new jersey nets"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 2002,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "opponent": {
+      "team": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "colors": [
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    "player": "New Jersey Nets",
+    "playerAliases": [
+      "nets",
+      "new jersey nets"
+    ],
+    "statLine": "Lost series 4-0"
+  },
+  {
+    "year": 2001,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "opponent": {
+      "team": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "colors": [
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    "player": "Philadelphia 76ers",
+    "playerAliases": [
+      "76ers",
+      "philadelphia 76ers",
+      "sixers"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 2000,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "opponent": {
+      "team": "Los Angeles Lakers",
+      "abbr": "LAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+      "colors": [
+        "#552583",
+        "#FDB927"
+      ]
+    },
+    "player": "Indiana Pacers",
+    "playerAliases": [
+      "indiana pacers",
+      "pacers"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 1999,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "opponent": {
+      "team": "San Antonio Spurs",
+      "abbr": "SAS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+      "colors": [
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    "player": "New York Knicks",
+    "playerAliases": [
+      "knicks",
+      "new york knicks"
+    ],
+    "statLine": "Lost series 4-1"
+  },
+  {
+    "year": 1998,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "opponent": {
+      "team": "Chicago Bulls",
+      "abbr": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "colors": [
+        "#CE1141",
+        "#000000"
+      ]
+    },
+    "player": "Utah Jazz",
+    "playerAliases": [
+      "jazz",
+      "utah jazz"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 1997,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "opponent": {
+      "team": "Chicago Bulls",
+      "abbr": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "colors": [
+        "#CE1141",
+        "#000000"
+      ]
+    },
+    "player": "Utah Jazz",
+    "playerAliases": [
+      "jazz",
+      "utah jazz"
+    ],
+    "statLine": "Lost series 4-2"
+  },
+  {
+    "year": 1996,
+    "team": "Seattle SuperSonics",
+    "abbr": "SEA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/do916u1572164500.png",
+    "colors": [
+      "#00653A",
+      "#FFD520"
+    ],
+    "opponent": {
+      "team": "Chicago Bulls",
+      "abbr": "CHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+      "colors": [
+        "#CE1141",
+        "#000000"
+      ]
+    },
+    "player": "Seattle SuperSonics",
+    "playerAliases": [
+      "seattle supersonics",
+      "sonics",
+      "super sonics",
+      "supersonics"
+    ],
+    "statLine": "Lost series 4-2"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "year": 2025,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Ty Jerome",
+    "playerAliases": [
+      "jerome",
+      "ty jerome"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Bobby Portis",
+    "playerAliases": [
+      "bobby portis",
+      "portis"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Bobby Portis",
+    "playerAliases": [
+      "bobby portis",
+      "portis"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Phoenix Suns",
+    "abbr": "PHO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
+    "colors": [
+      "#1D1160",
+      "#E56020"
+    ],
+    "player": "Cameron Johnson",
+    "playerAliases": [
+      "cameron johnson",
+      "johnson"
+    ]
+  },
+  {
+    "year": 2021,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 2020,
+    "team": "LA Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Lou Williams",
+    "playerAliases": [
+      "lou williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "LA Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Montrezl Harrell",
+    "playerAliases": [
+      "harrell",
+      "montrezl harrell"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Fred VanVleet",
+    "playerAliases": [
+      "fred vanvleet",
+      "vanvleet"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Andre Iguodala",
+    "playerAliases": [
+      "andre iguodala",
+      "iguodala"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Andre Iguodala",
+    "playerAliases": [
+      "andre iguodala",
+      "iguodala"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "LA Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Jamal Crawford",
+    "playerAliases": [
+      "crawford",
+      "jamal crawford"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "San Antonio Spurs",
+    "abbr": "SAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "colors": [
+      "#C4CED4",
+      "#000000"
+    ],
+    "player": "Manu Gin\u00f3bili",
+    "playerAliases": [
+      "gin\u00f3bili",
+      "manu gin\u00f3bili"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Jarrett Jack",
+    "playerAliases": [
+      "jack",
+      "jarrett jack"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Kevin Martin",
+    "playerAliases": [
+      "kevin martin",
+      "martin"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Thaddeus Young",
+    "playerAliases": [
+      "thaddeus young",
+      "young"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Anderson Varej\u00e3o",
+    "playerAliases": [
+      "anderson varej\u00e3o",
+      "varej\u00e3o"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Nate Robinson",
+    "playerAliases": [
+      "nate robinson",
+      "robinson"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Jason Terry",
+    "playerAliases": [
+      "jason terry",
+      "terry"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Jerry Stackhouse",
+    "playerAliases": [
+      "jerry stackhouse",
+      "stackhouse"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Jerry Stackhouse",
+    "playerAliases": [
+      "jerry stackhouse",
+      "stackhouse"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Earl Boykins",
+    "playerAliases": [
+      "boykins",
+      "earl boykins"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "San Antonio Spurs",
+    "abbr": "SAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "colors": [
+      "#C4CED4",
+      "#000000"
+    ],
+    "player": "Manu Gin\u00f3bili",
+    "playerAliases": [
+      "gin\u00f3bili",
+      "manu gin\u00f3bili"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Andrei Kirilenko",
+    "playerAliases": [
+      "andrei kirilenko",
+      "kirilenko"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "LA Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "Quentin Richardson",
+    "playerAliases": [
+      "quentin richardson",
+      "richardson"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "LaPhonso Ellis",
+    "playerAliases": [
+      "ellis",
+      "laphonso ellis"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Cedric Ceballos",
+    "playerAliases": [
+      "ceballos",
+      "cedric ceballos"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Cedric Ceballos",
+    "playerAliases": [
+      "ceballos",
+      "cedric ceballos"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Seattle SuperSonics",
+    "abbr": "SEA",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/do916u1572164500.png",
+    "colors": [
+      "#00653A",
+      "#FFD520"
+    ],
+    "player": "Dale Ellis",
+    "playerAliases": [
+      "dale ellis",
+      "ellis"
+    ]
+  },
+  {
+    "year": 1997,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 1996,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "player": "Jayson Williams",
+    "playerAliases": [
+      "jayson williams",
+      "williams"
+    ]
+  }
+]

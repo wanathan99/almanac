@@ -1,0 +1,482 @@
+[
+  {
+    "year": 2025,
+    "team": "San Antonio Spurs",
+    "abbr": "SAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "colors": [
+      "#C4CED4",
+      "#000000"
+    ],
+    "player": "Victor Wembanyama",
+    "playerAliases": [
+      "victor wembanyama",
+      "wembanyama"
+    ],
+    "statLine": "3.83 BPG"
+  },
+  {
+    "year": 2024,
+    "team": "San Antonio Spurs",
+    "abbr": "SAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+    "colors": [
+      "#C4CED4",
+      "#000000"
+    ],
+    "player": "Victor Wembanyama",
+    "playerAliases": [
+      "victor wembanyama",
+      "wembanyama"
+    ],
+    "statLine": "3.58 BPG"
+  },
+  {
+    "year": 2023,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Jaren Jackson Jr.",
+    "playerAliases": [
+      "jackson",
+      "jaren jackson"
+    ],
+    "statLine": "3.0 BPG"
+  },
+  {
+    "year": 2022,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "Jaren Jackson Jr.",
+    "playerAliases": [
+      "jackson",
+      "jaren jackson"
+    ],
+    "statLine": "2.27 BPG"
+  },
+  {
+    "year": 2021,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "Myles Turner",
+    "playerAliases": [
+      "myles turner",
+      "turner"
+    ],
+    "statLine": "3.38 BPG"
+  },
+  {
+    "year": 2020,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Hassan Whiteside",
+    "playerAliases": [
+      "hassan whiteside",
+      "whiteside"
+    ],
+    "statLine": "2.93 BPG"
+  },
+  {
+    "year": 2019,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "Myles Turner",
+    "playerAliases": [
+      "myles turner",
+      "turner"
+    ],
+    "statLine": "2.69 BPG"
+  },
+  {
+    "year": 2018,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ],
+    "statLine": "2.57 BPG"
+  },
+  {
+    "year": 2017,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Rudy Gobert",
+    "playerAliases": [
+      "gobert",
+      "rudy gobert"
+    ],
+    "statLine": "2.64 BPG"
+  },
+  {
+    "year": 2016,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Hassan Whiteside",
+    "playerAliases": [
+      "hassan whiteside",
+      "whiteside"
+    ],
+    "statLine": "3.68 BPG"
+  },
+  {
+    "year": 2015,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ],
+    "statLine": "2.94 BPG"
+  },
+  {
+    "year": 2014,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ],
+    "statLine": "2.82 BPG"
+  },
+  {
+    "year": 2013,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Serge Ibaka",
+    "playerAliases": [
+      "ibaka",
+      "serge ibaka"
+    ],
+    "statLine": "3.03 BPG"
+  },
+  {
+    "year": 2012,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Serge Ibaka",
+    "playerAliases": [
+      "ibaka",
+      "serge ibaka"
+    ],
+    "statLine": "3.65 BPG"
+  },
+  {
+    "year": 2011,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Andrew Bogut",
+    "playerAliases": [
+      "andrew bogut",
+      "bogut"
+    ],
+    "statLine": "2.58 BPG"
+  },
+  {
+    "year": 2010,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Dwight Howard",
+    "playerAliases": [
+      "dwight howard",
+      "howard"
+    ],
+    "statLine": "2.78 BPG"
+  },
+  {
+    "year": 2009,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Dwight Howard",
+    "playerAliases": [
+      "dwight howard",
+      "howard"
+    ],
+    "statLine": "2.92 BPG"
+  },
+  {
+    "year": 2008,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Marcus Camby",
+    "playerAliases": [
+      "camby",
+      "marcus camby"
+    ],
+    "statLine": "3.61 BPG"
+  },
+  {
+    "year": 2007,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Marcus Camby",
+    "playerAliases": [
+      "camby",
+      "marcus camby"
+    ],
+    "statLine": "3.3 BPG"
+  },
+  {
+    "year": 2006,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Marcus Camby",
+    "playerAliases": [
+      "camby",
+      "marcus camby"
+    ],
+    "statLine": "3.29 BPG"
+  },
+  {
+    "year": 2005,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Andrei Kirilenko",
+    "playerAliases": [
+      "andrei kirilenko",
+      "kirilenko"
+    ],
+    "statLine": "3.32 BPG"
+  },
+  {
+    "year": 2004,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Theo Ratliff",
+    "playerAliases": [
+      "ratliff",
+      "theo ratliff"
+    ],
+    "statLine": "3.61 BPG"
+  },
+  {
+    "year": 2003,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Theo Ratliff",
+    "playerAliases": [
+      "ratliff",
+      "theo ratliff"
+    ],
+    "statLine": "3.23 BPG"
+  },
+  {
+    "year": 2002,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Ben Wallace",
+    "playerAliases": [
+      "ben wallace",
+      "wallace"
+    ],
+    "statLine": "3.48 BPG"
+  },
+  {
+    "year": 2001,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Theo Ratliff",
+    "playerAliases": [
+      "ratliff",
+      "theo ratliff"
+    ],
+    "statLine": "3.74 BPG"
+  },
+  {
+    "year": 2000,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Alonzo Mourning",
+    "playerAliases": [
+      "alonzo mourning",
+      "mourning"
+    ],
+    "statLine": "3.72 BPG"
+  },
+  {
+    "year": 1999,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Alonzo Mourning",
+    "playerAliases": [
+      "alonzo mourning",
+      "mourning"
+    ],
+    "statLine": "3.91 BPG"
+  },
+  {
+    "year": 1998,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Marcus Camby",
+    "playerAliases": [
+      "camby",
+      "marcus camby"
+    ],
+    "statLine": "3.65 BPG"
+  },
+  {
+    "year": 1997,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Shawn Bradley",
+    "playerAliases": [
+      "bradley",
+      "shawn bradley"
+    ],
+    "statLine": "3.4 BPG"
+  },
+  {
+    "year": 1996,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Dikembe Mutombo",
+    "playerAliases": [
+      "dikembe mutombo",
+      "mutombo"
+    ],
+    "statLine": "4.49 BPG"
+  }
+]

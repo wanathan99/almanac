@@ -1,0 +1,442 @@
+[
+  {
+    "year": 2025,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Zaccharie Risacher",
+    "playerAliases": [
+      "risacher",
+      "zaccharie risacher"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Chet Holmgren",
+    "playerAliases": [
+      "chet holmgren",
+      "holmgren"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Jalen Williams",
+    "playerAliases": [
+      "jalen williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Cleveland Cavaliers",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+    "colors": [
+      "#6F263D",
+      "#FFB81C"
+    ],
+    "player": "Evan Mobley",
+    "playerAliases": [
+      "evan mobley",
+      "mobley"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Anthony Edwards",
+    "playerAliases": [
+      "anthony edwards",
+      "edwards"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Miami Heat",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+    "colors": [
+      "#98002E",
+      "#F9A01B"
+    ],
+    "player": "Kendrick Nunn",
+    "playerAliases": [
+      "kendrick nunn",
+      "nunn"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Trae Young",
+    "playerAliases": [
+      "trae young",
+      "young"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Donovan Mitchell",
+    "playerAliases": [
+      "donovan mitchell",
+      "mitchell"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Philadelphia 76ers",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+    "colors": [
+      "#006BB6",
+      "#ED174C"
+    ],
+    "player": "Dario \u0160ari\u0107",
+    "playerAliases": [
+      "dario \u0161ari\u0107",
+      "\u0161ari\u0107"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Kristaps Porzi\u0146\u0123is",
+    "playerAliases": [
+      "kristaps porzi\u0146\u0123is",
+      "porzi\u0146\u0123is"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Chicago Bulls",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Nikola Miroti\u0107",
+    "playerAliases": [
+      "miroti\u0107",
+      "nikola miroti\u0107"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Orlando Magic",
+    "abbr": "ORL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
+    "colors": [
+      "#0077C0",
+      "#C4CED4"
+    ],
+    "player": "Victor Oladipo",
+    "playerAliases": [
+      "oladipo",
+      "victor oladipo"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "New Orleans Hornets",
+    "abbr": "NOH",
+    "logo": "assets/logos/nba-new-orleans-hornets.webp",
+    "colors": [
+      "#00788C",
+      "#FDBB30"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Ricky Rubio",
+    "playerAliases": [
+      "ricky rubio",
+      "rubio"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Washington Wizards",
+    "abbr": "WAS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+    "colors": [
+      "#002B5C",
+      "#E31837"
+    ],
+    "player": "John Wall",
+    "playerAliases": [
+      "john wall",
+      "wall"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Golden State Warriors",
+    "abbr": "GSW",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
+    "colors": [
+      "#1D428A",
+      "#FFC72C"
+    ],
+    "player": "Stephen Curry",
+    "playerAliases": [
+      "curry",
+      "stephen curry"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Memphis Grizzlies",
+    "abbr": "MEM",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
+    "colors": [
+      "#5D76A9",
+      "#12173F"
+    ],
+    "player": "O.J. Mayo",
+    "playerAliases": [
+      "mayo",
+      "o.j. mayo"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Al Horford",
+    "playerAliases": [
+      "al horford",
+      "horford"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Andrea Bargnani",
+    "playerAliases": [
+      "andrea bargnani",
+      "bargnani"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Toronto Raptors",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Charlie Villanueva",
+    "playerAliases": [
+      "charlie villanueva",
+      "villanueva"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Chicago Bulls",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Ben Gordon",
+    "playerAliases": [
+      "ben gordon",
+      "gordon"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Carmelo Anthony",
+    "playerAliases": [
+      "anthony",
+      "carmelo anthony"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Yao Ming",
+    "playerAliases": [
+      "ming",
+      "yao ming"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "player": "Richard Jefferson",
+    "playerAliases": [
+      "jefferson",
+      "richard jefferson"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "player": "Kenyon Martin",
+    "playerAliases": [
+      "kenyon martin",
+      "martin"
+    ]
+  },
+  {
+    "year": 2000,
+    "invalid": true,
+    "reason": "Brand and Francis tied for 1st place \u2014 no clear runner-up that year"
+  },
+  {
+    "year": 1999,
+    "team": "Sacramento Kings",
+    "abbr": "SAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+    "colors": [
+      "#5A2D81",
+      "#63727A"
+    ],
+    "player": "Jason Williams",
+    "playerAliases": [
+      "jason williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "New Jersey Nets",
+    "abbr": "NJN",
+    "logo": "assets/logos/nba-new-jersey-nets.png",
+    "colors": [
+      "#002D62",
+      "#CD1041"
+    ],
+    "player": "Keith Van Horn",
+    "playerAliases": [
+      "horn",
+      "keith van horn"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Minnesota Timberwolves",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
+    "colors": [
+      "#0C2340",
+      "#236192"
+    ],
+    "player": "Stephon Marbury",
+    "playerAliases": [
+      "marbury",
+      "stephon marbury"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Portland Trail Blazers",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
+    "colors": [
+      "#E03A3E",
+      "#000000"
+    ],
+    "player": "Arvydas Sabonis",
+    "playerAliases": [
+      "arvydas sabonis",
+      "sabonis"
+    ]
+  }
+]

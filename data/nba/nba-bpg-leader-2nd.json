@@ -1,0 +1,449 @@
+[
+  {
+    "year": 2025,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Walker Kessler",
+    "playerAliases": [
+      "kessler",
+      "walker kessler"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2024,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Walker Kessler",
+    "playerAliases": [
+      "kessler",
+      "walker kessler"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2023,
+    "team": "Brooklyn Nets",
+    "abbr": "BKN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "player": "Nic Claxton",
+    "playerAliases": [
+      "claxton",
+      "nic claxton"
+    ],
+    "statLine": "2.5 BPG"
+  },
+  {
+    "year": 2022,
+    "team": "Boston Celtics",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+    "colors": [
+      "#007A33",
+      "#BA9653"
+    ],
+    "player": "Robert Williams",
+    "playerAliases": [
+      "robert williams",
+      "williams"
+    ],
+    "statLine": "2.2 BPG"
+  },
+  {
+    "year": 2021,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Rudy Gobert",
+    "playerAliases": [
+      "gobert",
+      "rudy gobert"
+    ],
+    "statLine": "2.7 BPG"
+  },
+  {
+    "year": 2020,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Brook Lopez",
+    "playerAliases": [
+      "brook lopez",
+      "lopez"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2019,
+    "team": "New York Knicks",
+    "abbr": "NYK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+    "colors": [
+      "#006BB6",
+      "#F58426"
+    ],
+    "player": "Mitchell Robinson",
+    "playerAliases": [
+      "mitchell robinson",
+      "robinson"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2018,
+    "team": "Houston Rockets",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
+    "colors": [
+      "#CE1141",
+      "#000000"
+    ],
+    "player": "Clint Capela",
+    "playerAliases": [
+      "capela",
+      "clint capela"
+    ],
+    "statLine": "1.9 BPG"
+  },
+  {
+    "year": 2017,
+    "team": "New Orleans Pelicans",
+    "abbr": "NOP",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+    "colors": [
+      "#0C2340",
+      "#85714D"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis",
+      "davis"
+    ],
+    "statLine": "2.2 BPG"
+  },
+  {
+    "year": 2016,
+    "team": "LA Clippers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
+    "colors": [
+      "#C8102E",
+      "#1D428A"
+    ],
+    "player": "DeAndre Jordan",
+    "playerAliases": [
+      "deandre jordan",
+      "jordan"
+    ],
+    "statLine": "2.3 BPG"
+  },
+  {
+    "year": 2015,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Serge Ibaka",
+    "playerAliases": [
+      "ibaka",
+      "serge ibaka"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2014,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Serge Ibaka",
+    "playerAliases": [
+      "ibaka",
+      "serge ibaka"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2013,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Serge Ibaka",
+    "playerAliases": [
+      "ibaka",
+      "serge ibaka"
+    ],
+    "statLine": "2.7 BPG"
+  },
+  {
+    "year": 2012,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 2011,
+    "team": "Oklahoma City Thunder",
+    "abbr": "OKC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
+    "colors": [
+      "#007AC1",
+      "#EF3B24"
+    ],
+    "player": "Serge Ibaka",
+    "playerAliases": [
+      "ibaka",
+      "serge ibaka"
+    ],
+    "statLine": "2.4 BPG"
+  },
+  {
+    "year": 2010,
+    "team": "Milwaukee Bucks",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
+    "colors": [
+      "#00471B",
+      "#EEE1C6"
+    ],
+    "player": "Andrew Bogut",
+    "playerAliases": [
+      "andrew bogut",
+      "bogut"
+    ],
+    "statLine": "2.5 BPG"
+  },
+  {
+    "year": 2009,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Chris Andersen",
+    "playerAliases": [
+      "andersen",
+      "chris andersen"
+    ],
+    "statLine": "2.5 BPG"
+  },
+  {
+    "year": 2008,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Josh Smith",
+    "playerAliases": [
+      "josh smith",
+      "smith"
+    ],
+    "statLine": "2.8 BPG"
+  },
+  {
+    "year": 2007,
+    "team": "Utah Jazz",
+    "abbr": "UTA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+    "colors": [
+      "#002B5C",
+      "#F9A01B"
+    ],
+    "player": "Andrei Kirilenko",
+    "playerAliases": [
+      "andrei kirilenko",
+      "kirilenko"
+    ],
+    "statLine": "3.2 BPG"
+  },
+  {
+    "year": 2006,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Josh Smith",
+    "playerAliases": [
+      "josh smith",
+      "smith"
+    ],
+    "statLine": "2.9 BPG"
+  },
+  {
+    "year": 2005,
+    "team": "Denver Nuggets",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
+    "colors": [
+      "#0E2240",
+      "#FEC524"
+    ],
+    "player": "Marcus Camby",
+    "playerAliases": [
+      "camby",
+      "marcus camby"
+    ],
+    "statLine": "3.0 BPG"
+  },
+  {
+    "year": 2004,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Ben Wallace",
+    "playerAliases": [
+      "ben wallace",
+      "wallace"
+    ],
+    "statLine": "3.0 BPG"
+  },
+  {
+    "year": 2003,
+    "team": "Detroit Pistons",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
+    "colors": [
+      "#C8102E",
+      "#1D42BA"
+    ],
+    "player": "Ben Wallace",
+    "playerAliases": [
+      "ben wallace",
+      "wallace"
+    ],
+    "statLine": "3.2 BPG"
+  },
+  {
+    "year": 2002,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  },
+  {
+    "year": 2001,
+    "team": "Indiana Pacers",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png",
+    "colors": [
+      "#002D62",
+      "#FDBB30"
+    ],
+    "player": "Jermaine O'Neal",
+    "playerAliases": [
+      "jermaine o'neal",
+      "o'neal"
+    ],
+    "statLine": "2.8 BPG"
+  },
+  {
+    "year": 2000,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Dikembe Mutombo",
+    "playerAliases": [
+      "dikembe mutombo",
+      "mutombo"
+    ],
+    "statLine": "3.3 BPG"
+  },
+  {
+    "year": 1999,
+    "team": "Dallas Mavericks",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
+    "colors": [
+      "#00538C",
+      "#002B5E"
+    ],
+    "player": "Shawn Bradley",
+    "playerAliases": [
+      "bradley",
+      "shawn bradley"
+    ],
+    "statLine": "3.2 BPG"
+  },
+  {
+    "year": 1998,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Dikembe Mutombo",
+    "playerAliases": [
+      "dikembe mutombo",
+      "mutombo"
+    ],
+    "statLine": "3.4 BPG"
+  },
+  {
+    "year": 1997,
+    "team": "Atlanta Hawks",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+    "colors": [
+      "#E03A3E",
+      "#C1D32F"
+    ],
+    "player": "Dikembe Mutombo",
+    "playerAliases": [
+      "dikembe mutombo",
+      "mutombo"
+    ],
+    "statLine": "3.3 BPG"
+  },
+  {
+    "year": 1996,
+    "invalid": true,
+    "reason": "Leader that season was traded mid-year (stats split across teams)"
+  }
+]
