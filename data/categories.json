@@ -163,6 +163,35 @@
         "file": "data/nba/nba-finals-mvp.json"
       },
       {
+        "id": "nba-draft",
+        "title": "NBA Draft",
+        "subtitle": "Guess the overall draft pick from the logo of where they played before the draft (1996\u20132025)",
+        "icon": "\ud83c\udf93",
+        "variants": [
+          {
+            "id": "nba-draft-1st",
+            "label": "1st",
+            "title": "1st Overall Draft Pick",
+            "subtitle": "Guess the #1 overall NBA Draft pick from the logo of where they played before the draft (1996\u20132025)",
+            "file": "data/nba/nba-draft.json"
+          },
+          {
+            "id": "nba-draft-2nd",
+            "label": "2nd",
+            "title": "2nd Overall Draft Pick",
+            "subtitle": "Guess the #2 overall NBA Draft pick from the logo of where they played before the draft (1996\u20132025)",
+            "file": "data/nba/nba-draft-2nd.json"
+          },
+          {
+            "id": "nba-draft-3rd",
+            "label": "3rd",
+            "title": "3rd Overall Draft Pick",
+            "subtitle": "Guess the #3 overall NBA Draft pick from the logo of where they played before the draft (1996\u20132025)",
+            "file": "data/nba/nba-draft-3rd.json"
+          }
+        ]
+      },
+      {
         "id": "nba-major-awards",
         "title": "Major Awards",
         "subtitle": "Guess the award finisher from the team logo (1996\u20132025)",
@@ -899,35 +928,6 @@
         "subtitle": "Guess the AP Coach of the Year from the team logo (1996\u20132025)",
         "icon": "\ud83e\udde2",
         "file": "data/cbb/cbb-coy.json"
-      },
-      {
-        "id": "cbb-nba-draft",
-        "title": "NBA Draft",
-        "subtitle": "Guess the overall draft pick from their college logo (1996\u20132025)",
-        "icon": "\ud83c\udf93",
-        "variants": [
-          {
-            "id": "cbb-nba-draft-1st",
-            "label": "1st",
-            "title": "1st Overall Draft Pick",
-            "subtitle": "Guess the #1 overall NBA Draft pick from their college logo (1996\u20132025)",
-            "file": "data/cbb/cbb-nba-draft.json"
-          },
-          {
-            "id": "cbb-nba-draft-2nd",
-            "label": "2nd",
-            "title": "2nd Overall Draft Pick",
-            "subtitle": "Guess the #2 overall NBA Draft pick from their college logo (1996\u20132025)",
-            "file": "data/cbb/cbb-nba-draft-2nd.json"
-          },
-          {
-            "id": "cbb-nba-draft-3rd",
-            "label": "3rd",
-            "title": "3rd Overall Draft Pick",
-            "subtitle": "Guess the #3 overall NBA Draft pick from their college logo (1996\u20132025)",
-            "file": "data/cbb/cbb-nba-draft-3rd.json"
-          }
-        ]
       },
       {
         "id": "cbb-stat-leaders",
