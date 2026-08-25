@@ -18,7 +18,7 @@
     "year": 2024,
     "school": "Western Carolina Catamounts",
     "abbr": "W Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
+    "logo": "assets/logos/cbb/4/cbb-westerncarolina-2018-2025.png",
     "colors": [
       "#492F91",
       "#BF9E70"
@@ -63,7 +63,7 @@
     "year": 2021,
     "school": "Arkansas State Red Wolves",
     "abbr": "Arkansas St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
+    "logo": "assets/logos/cbb/1/cbb-arkansasstate-2015-2025.png",
     "colors": [
       "#CC092F",
       "#000000"
@@ -78,7 +78,7 @@
     "year": 2020,
     "school": "Toledo Rockets",
     "abbr": "Toledo",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+    "logo": "assets/logos/cbb/4/cbb-toledo-2019-2025.png",
     "colors": [
       "#0B2240",
       "#FFCD00"
@@ -93,7 +93,7 @@
     "year": 2019,
     "school": "Bethune-Cookman Wildcats",
     "abbr": "Bethune",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png",
+    "logo": "assets/logos/cbb/1/cbb-bethunecookman-2016-2025.png",
     "colors": [
       "#7B1831",
       "#E9AA12"
@@ -123,7 +123,7 @@
     "year": 2017,
     "school": "Toledo Rockets",
     "abbr": "Toledo",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+    "logo": "assets/logos/cbb/4/cbb-toledo-2015-2018.png",
     "colors": [
       "#0B2240",
       "#FFCD00"
@@ -138,7 +138,7 @@
     "year": 2016,
     "school": "Weber State Wildcats",
     "abbr": "Weber St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "logo": "assets/logos/cbb/4/cbb-weberstate-2012-2022.png",
     "colors": [
       "#18005A",
       "#EBEBEB"
@@ -153,7 +153,7 @@
     "year": 2015,
     "school": "Stony Brook Seawolves",
     "abbr": "Stony Brook",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png",
+    "logo": "assets/logos/cbb/3/cbb-stonybrook-2008-2025.png",
     "colors": [
       "#990000",
       "#FFFFFF"
@@ -168,7 +168,7 @@
     "year": 2014,
     "school": "Towson Tigers",
     "abbr": "Towson",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/119.png",
+    "logo": "assets/logos/cbb/4/cbb-towson-2011-2025.png",
     "colors": [
       "#FFC229",
       "#FFFFFF"
@@ -183,7 +183,7 @@
     "year": 2013,
     "school": "Towson Tigers",
     "abbr": "Towson",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/119.png",
+    "logo": "assets/logos/cbb/4/cbb-towson-2011-2025.png",
     "colors": [
       "#FFC229",
       "#FFFFFF"
@@ -198,7 +198,7 @@
     "year": 2012,
     "school": "Colorado Buffaloes",
     "abbr": "Colorado",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "logo": "assets/logos/cbb/1/cbb-colorado-buffaloes-2006-2025.png",
     "colors": [
       "#CFB87C",
       "#000000"
@@ -213,7 +213,7 @@
     "year": 2011,
     "school": "Maryland Terrapins",
     "abbr": "Maryland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "logo": "assets/logos/cfb/1/cfb-maryland-2005-2011.png",
     "colors": [
       "#CE1126",
       "#FFFFFF"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "Morehead State Eagles",
     "abbr": "Morehead St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2413.png",
+    "logo": "assets/logos/cbb/2/cbb-morehead-state-2005-2025.png",
     "colors": [
       "#094FA3",
       "#FED91A"
@@ -273,7 +273,7 @@
     "year": 2007,
     "school": "South Florida Bulls",
     "abbr": "South Florida",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/58.png",
+    "logo": "assets/logos/cbb/3/cbb-southflorida-2003-2025.png",
     "colors": [
       "#006747",
       "#CFC493"
@@ -303,7 +303,7 @@
     "year": 2005,
     "school": "Weber State Wildcats",
     "abbr": "Weber St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "logo": "assets/logos/cbb/4/cbb-weberstate-1996-2011.png",
     "colors": [
       "#18005A",
       "#EBEBEB"
@@ -318,7 +318,7 @@
     "year": 2004,
     "school": "UConn Huskies",
     "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "logo": "assets/logos/cfb/2/cfb-uconn-2002-2012.png",
     "colors": [
       "#0C2340",
       "#A2AAAD"
@@ -333,7 +333,7 @@
     "year": 2003,
     "school": "Belmont Bruins",
     "abbr": "Belmont",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2057.png",
+    "logo": "assets/logos/cbb/1/cbb-belmont-2003-2025.png",
     "colors": [
       "#182142",
       "#C9262D"
@@ -363,7 +363,7 @@
     "year": 2001,
     "school": "Marshall Thundering Herd",
     "abbr": "Marshall",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "logo": "assets/logos/cfb/1/cfb-marshall-2001-2010.png",
     "colors": [
       "#00B140",
       "#000000"
@@ -378,7 +378,7 @@
     "year": 2000,
     "school": "Fresno State Bulldogs",
     "abbr": "Fresno St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "logo": "assets/logos/cfb/1/cfb-fresnostate-1996-2005.png",
     "colors": [
       "#B1102B",
       "#13284C"
@@ -393,7 +393,7 @@
     "year": 1999,
     "school": "Texas State Bobcats",
     "abbr": "Texas St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/326.png",
+    "logo": "assets/logos/cbb/4/cbb-texasstate-1997-2002.png",
     "colors": [
       "#501214",
       "#6A5638"
@@ -423,7 +423,7 @@
     "year": 1997,
     "school": "Tennessee Tech Golden Eagles",
     "abbr": "Tennessee Tech",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png",
+    "logo": "assets/logos/cbb/3/cbb-tennesseetech-1997-2005.png",
     "colors": [
       "#5A4099",
       "#FFDE00"
@@ -438,7 +438,7 @@
     "year": 1996,
     "school": "Colgate Raiders",
     "abbr": "Colgate",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png",
+    "logo": "assets/logos/cbb/1/cbb-colgate-1996-2001.png",
     "colors": [
       "#821019",
       "#FFFFFF"

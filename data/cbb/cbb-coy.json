@@ -22,7 +22,7 @@
       {
         "team": "St. John's Red Storm",
         "abbr": "St John's",
-        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+        "logo": "assets/logos/cbb/3/cbb-stjohns-2015-2025.png",
         "colors": [
           "#D10000",
           "#101010"
@@ -48,7 +48,7 @@
     "year": 2023,
     "school": "Marquette Golden Eagles",
     "abbr": "Marquette",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
+    "logo": "assets/logos/cbb/2/cbb-marquette-2005-2025.png",
     "colors": [
       "#003366",
       "#FFCC00"
@@ -62,7 +62,7 @@
     "year": 2022,
     "school": "Arizona Wildcats",
     "abbr": "Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "logo": "assets/logos/cbb/1/cbb-arizona-2011-2025.png",
     "colors": [
       "#CC0033",
       "#003366"
@@ -76,7 +76,7 @@
     "year": 2021,
     "school": "Michigan Wolverines",
     "abbr": "Michigan",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "logo": "assets/logos/cbb/2/cbb-michigan-2016-2025.png",
     "colors": [
       "#00274C",
       "#FFCB05"
@@ -90,7 +90,7 @@
     "year": 2020,
     "school": "Dayton Flyers",
     "abbr": "Dayton",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
+    "logo": "assets/logos/cbb/1/cbb-dayton-flyers-2015-2025.png",
     "colors": [
       "#004B8D",
       "#FFFFFF"
@@ -118,7 +118,7 @@
     "year": 2018,
     "school": "Virginia Cavaliers",
     "abbr": "Virginia",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "logo": "assets/logos/cbb/4/cbb-virginia-1996-2019.png",
     "colors": [
       "#232D4B",
       "#F84C1E"
@@ -160,7 +160,7 @@
     "year": 2015,
     "school": "Kentucky Wildcats",
     "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-2005-2015.png",
     "colors": [
       "#0033A0",
       "#FFFFFF"
@@ -174,7 +174,7 @@
     "year": 2014,
     "school": "Wichita State Shockers",
     "abbr": "Wichita St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2724.png",
+    "logo": "assets/logos/cbb/5/cbb-wichitastate-2011-2025.png",
     "colors": [
       "#FFCD00",
       "#27251F"
@@ -202,7 +202,7 @@
     "year": 2012,
     "school": "Missouri Tigers",
     "abbr": "Missouri",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+    "logo": "assets/logos/cfb/1/cfb-missouri-1999-2017.png",
     "colors": [
       "#F1B82D",
       "#000000"
@@ -216,7 +216,7 @@
     "year": 2011,
     "school": "Notre Dame Fighting Irish",
     "abbr": "Notre Dame",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
+    "logo": "assets/logos/cbb/2/cbb-notredame-1996-2014.png",
     "colors": [
       "#062340",
       "#C99700"
@@ -300,7 +300,7 @@
     "year": 2005,
     "school": "Illinois Fighting Illini",
     "abbr": "Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "logo": "assets/logos/cfb/1/cfb-illinois-1996-2013.png",
     "colors": [
       "#FF5F05",
       "#13294B"
@@ -314,7 +314,7 @@
     "year": 2004,
     "school": "Saint Joseph's Hawks",
     "abbr": "Saint Joseph's",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2603.png",
+    "logo": "assets/logos/cbb/3/cbb-saintjosephs-2002-2018.png",
     "colors": [
       "#9E1B32",
       "#6C6F70"
@@ -328,7 +328,7 @@
     "year": 2003,
     "school": "Kentucky Wildcats",
     "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-1996-2004.png",
     "colors": [
       "#0033A0",
       "#FFFFFF"
@@ -342,7 +342,7 @@
     "year": 2002,
     "school": "Pittsburgh Panthers",
     "abbr": "Pitt",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
+    "logo": "assets/logos/cfb/2/cfb-pittsburgh-1997-2015.png",
     "colors": [
       "#003594",
       "#FFB81C"
@@ -356,7 +356,7 @@
     "year": 2001,
     "school": "North Carolina Tar Heels",
     "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "logo": "assets/logos/cfb/2/cfb-unc-1999-2004.png",
     "colors": [
       "#7BAFD4",
       "#13294B"
@@ -370,7 +370,7 @@
     "year": 2000,
     "school": "Iowa State Cyclones",
     "abbr": "Iowa State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
+    "logo": "assets/logos/cfb/1/cfb-iowastate-1996-2006.png",
     "colors": [
       "#AE192D",
       "#FFC72A"
@@ -398,7 +398,7 @@
     "year": 1998,
     "school": "Michigan State Spartans",
     "abbr": "Michigan St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "logo": "assets/logos/cbb/2/cbb-michigan-state-1996-2010.png",
     "colors": [
       "#173F35",
       "#FFFFFF"
@@ -426,7 +426,7 @@
     "year": 1996,
     "school": "Purdue Boilermakers",
     "abbr": "Purdue",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "logo": "assets/logos/cfb/2/cfb-purdue-1996-2011.png",
     "colors": [
       "#CEB888",
       "#000000"

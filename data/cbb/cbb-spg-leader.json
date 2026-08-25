@@ -48,7 +48,7 @@
     "year": 2022,
     "school": "Coppin State Eagles",
     "abbr": "Coppin St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2154.png",
+    "logo": "assets/logos/cbb/1/cbb-coppin-state-eagles-2017-2025.png",
     "colors": [
       "#2E3192",
       "#FFD204"
@@ -63,7 +63,7 @@
     "year": 2021,
     "school": "Richmond Spiders",
     "abbr": "Richmond",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+    "logo": "assets/logos/cbb/3/cbb-richmond-2017-2025.png",
     "colors": [
       "#9E0712",
       "#B90B2E"
@@ -123,7 +123,7 @@
     "year": 2017,
     "school": "Texas A&M-Corpus Christi Islanders",
     "abbr": "Texas A&M-CC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
+    "logo": "assets/logos/cbb/3/cbb-tamucc-2014-2021.png",
     "colors": [
       "#0067C5",
       "#007F3E"
@@ -138,7 +138,7 @@
     "year": 2016,
     "school": "Omaha Mavericks",
     "abbr": "Omaha",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png",
+    "logo": "assets/logos/cbb/2/cbb-omaha-2011-2025.png",
     "colors": [
       "#E3193E",
       "#474648"
@@ -168,7 +168,7 @@
     "year": 2014,
     "school": "VCU Rams",
     "abbr": "VCU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2670.png",
+    "logo": "assets/logos/cbb/4/cbb-vcu-2014-2025.png",
     "colors": [
       "#FFAF00",
       "#000000"
@@ -183,7 +183,7 @@
     "year": 2013,
     "school": "Oakland Golden Grizzlies",
     "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "logo": "assets/logos/cbb/2/cbb-oakland-2013-2020.png",
     "colors": [
       "#04091C",
       "#BC955C"
@@ -198,7 +198,7 @@
     "year": 2012,
     "school": "Seton Hall Pirates",
     "abbr": "Seton Hall",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
+    "logo": "assets/logos/cbb/3/cbb-setonhall-2009-2025.png",
     "colors": [
       "#0857B1",
       "#8A8D8F"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "VMI Keydets",
     "abbr": "VMI",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "logo": "assets/logos/cbb/4/cbb-vmi-1996-2013.png",
     "colors": [
       "#AE122A",
       "#FFD619"
@@ -258,7 +258,7 @@
     "year": 2008,
     "school": "UTSA Roadrunners",
     "abbr": "UTSA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+    "logo": "assets/logos/cbb/4/cbb-utsa-2008-2021.png",
     "colors": [
       "#0C2340",
       "#F15A22"
@@ -273,7 +273,7 @@
     "year": 2007,
     "school": "VMI Keydets",
     "abbr": "VMI",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "logo": "assets/logos/cbb/4/cbb-vmi-1996-2013.png",
     "colors": [
       "#AE122A",
       "#FFD619"
@@ -288,7 +288,7 @@
     "year": 2006,
     "school": "East Tennessee State Buccaneers",
     "abbr": "ETSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+    "logo": "assets/logos/cbb/1/cbb-east-tennessee-state-buccaneers-2001-2006.png",
     "colors": [
       "#002D61",
       "#FFC423"
@@ -303,7 +303,7 @@
     "year": 2005,
     "school": "Alabama A&M Bulldogs",
     "abbr": "Alabama A&M",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+    "logo": "assets/logos/cbb/1/cbb-alabamaam-2002-2023.png",
     "colors": [
       "#790000",
       "#FFFFFF"
@@ -318,7 +318,7 @@
     "year": 2004,
     "school": "St. Bonaventure Bonnies",
     "abbr": "St Bonaventure",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
+    "logo": "assets/logos/cbb/3/cbb-stbonaventure-1999-2016.png",
     "colors": [
       "#70261D",
       "#FFFFFF"
@@ -333,7 +333,7 @@
     "year": 2003,
     "school": "Stetson Hatters",
     "abbr": "Stetson",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/56.png",
+    "logo": "assets/logos/cbb/3/cbb-stetson-1996-2008.png",
     "colors": [
       "#0A5640",
       "#56854E"
@@ -348,7 +348,7 @@
     "year": 2002,
     "school": "Alabama A&M Bulldogs",
     "abbr": "Alabama A&M",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+    "logo": "assets/logos/cbb/1/cbb-alabamaam-2002-2023.png",
     "colors": [
       "#790000",
       "#FFFFFF"
@@ -378,7 +378,7 @@
     "year": 2000,
     "school": "Liberty Flames",
     "abbr": "Liberty",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
+    "logo": "assets/logos/cbb/2/cbb-liberty-1996-2003.png",
     "colors": [
       "#0A254E",
       "#B72025"
@@ -393,7 +393,7 @@
     "year": 1999,
     "school": "George Washington Revolutionaries",
     "abbr": "G Washington",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
+    "logo": "assets/logos/cbb/2/cbb-george-washington-1997-2008.png",
     "colors": [
       "#002843",
       "#E8D2A1"
@@ -408,7 +408,7 @@
     "year": 1998,
     "school": "Ball State Cardinals",
     "abbr": "Ball State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png",
+    "logo": "assets/logos/cbb/1/cbb-ballstate-1996-2014.png",
     "colors": [
       "#BA0C2F",
       "#FFFFFF"

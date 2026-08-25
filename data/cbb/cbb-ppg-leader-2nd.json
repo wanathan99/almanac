@@ -3,7 +3,7 @@
     "year": 2025,
     "school": "Northern Arizona Lumberjacks",
     "abbr": "N Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "logo": "assets/logos/cbb/2/cbb-northernarizona-2020-2025.png",
     "colors": [
       "#003976",
       "#1B3069"
@@ -18,7 +18,7 @@
     "year": 2024,
     "school": "Denver Pioneers",
     "abbr": "Denver",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2172.png",
+    "logo": "assets/logos/cbb/1/cbb-denver-pioneers-2022-2025.png",
     "colors": [
       "#98002E",
       "#A8996E"
@@ -33,7 +33,7 @@
     "year": 2023,
     "school": "Pennsylvania Quakers",
     "abbr": "Penn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/219.png",
+    "logo": "assets/logos/cbb/2/cbb-pennsylvania-2017-2025.png",
     "colors": [
       "#082A74",
       "#A6163D"
@@ -78,7 +78,7 @@
     "year": 2020,
     "school": "UTSA Roadrunners",
     "abbr": "UTSA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
+    "logo": "assets/logos/cbb/4/cbb-utsa-2008-2021.png",
     "colors": [
       "#0C2340",
       "#F15A22"
@@ -108,7 +108,7 @@
     "year": 2018,
     "school": "Oakland Golden Grizzlies",
     "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "logo": "assets/logos/cbb/2/cbb-oakland-2013-2020.png",
     "colors": [
       "#04091C",
       "#BC955C"
@@ -123,7 +123,7 @@
     "year": 2017,
     "school": "Campbell Fighting Camels",
     "abbr": "Campbell",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
+    "logo": "assets/logos/cbb/1/cbb-campbell-2008-2023.png",
     "colors": [
       "#000000",
       "#FFFFFF"
@@ -153,7 +153,7 @@
     "year": 2015,
     "school": "Northwestern State Demons",
     "abbr": "N'Western St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
+    "logo": "assets/logos/cbb/2/cbb-northwesternstate-2014-2025.png",
     "colors": [
       "#492F91",
       "#ED6118"
@@ -183,7 +183,7 @@
     "year": 2013,
     "school": "Creighton Bluejays",
     "abbr": "Creighton",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
+    "logo": "assets/logos/cbb/1/cbb-creighton-bluejays-2013-2025.png",
     "colors": [
       "#005CA9",
       "#6CADDE"
@@ -198,7 +198,7 @@
     "year": 2012,
     "school": "Weber State Wildcats",
     "abbr": "Weber St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "logo": "assets/logos/cbb/4/cbb-weberstate-2012-2022.png",
     "colors": [
       "#18005A",
       "#EBEBEB"
@@ -213,7 +213,7 @@
     "year": 2011,
     "school": "Providence Friars",
     "abbr": "Providence",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
+    "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png",
     "colors": [
       "#000000",
       "#A3A19E"
@@ -228,7 +228,7 @@
     "year": 2010,
     "school": "Lipscomb Bisons",
     "abbr": "Lipscomb",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/288.png",
+    "logo": "assets/logos/cbb/2/cbb-lipscomb-2002-2011.png",
     "colors": [
       "#20366C",
       "#F6B734"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "UT Martin Skyhawks",
     "abbr": "UT Martin",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png",
+    "logo": "assets/logos/cbb/4/cbb-utmartin-2007-2020.png",
     "colors": [
       "#FF6700",
       "#102A5C"
@@ -303,7 +303,7 @@
     "year": 2005,
     "school": "Vermont Catamounts",
     "abbr": "Vermont",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/261.png",
+    "logo": "assets/logos/cbb/4/cbb-vermont-2004-2023.png",
     "colors": [
       "#154734",
       "#FFC72C"
@@ -318,7 +318,7 @@
     "year": 2004,
     "school": "Western Carolina Catamounts",
     "abbr": "W Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
+    "logo": "assets/logos/cbb/4/cbb-westerncarolina-2003-2007.png",
     "colors": [
       "#492F91",
       "#BF9E70"
@@ -333,7 +333,7 @@
     "year": 2003,
     "school": "Eastern Illinois Panthers",
     "abbr": "E Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+    "logo": "assets/logos/cbb/1/cbb-eastern-illinois-panthers-2000-2007.png",
     "colors": [
       "#000000",
       "#BEBAB9"
@@ -348,7 +348,7 @@
     "year": 2002,
     "school": "Eastern Illinois Panthers",
     "abbr": "E Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+    "logo": "assets/logos/cbb/1/cbb-eastern-illinois-panthers-2000-2007.png",
     "colors": [
       "#000000",
       "#BEBAB9"
@@ -363,7 +363,7 @@
     "year": 2001,
     "school": "Eastern Illinois Panthers",
     "abbr": "E Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+    "logo": "assets/logos/cbb/1/cbb-eastern-illinois-panthers-2000-2007.png",
     "colors": [
       "#000000",
       "#BEBAB9"
@@ -378,7 +378,7 @@
     "year": 2000,
     "school": "George Washington Revolutionaries",
     "abbr": "G Washington",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/45.png",
+    "logo": "assets/logos/cbb/2/cbb-george-washington-1997-2008.png",
     "colors": [
       "#002843",
       "#E8D2A1"
@@ -393,7 +393,7 @@
     "year": 1999,
     "school": "Long Island University Sharks",
     "abbr": "Long Island",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "logo": "assets/logos/cbb/2/cbb-long-island-1996-2007.png",
     "colors": [
       "#50C9F7",
       "#FFBF00"
@@ -423,7 +423,7 @@
     "year": 1997,
     "school": "California Golden Bears",
     "abbr": "California",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+    "logo": "assets/logos/cfb/1/cfb-cal-1996-2012.png",
     "colors": [
       "#041E42",
       "#FFC72C"

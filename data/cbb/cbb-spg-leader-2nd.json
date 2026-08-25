@@ -3,7 +3,7 @@
     "year": 2025,
     "school": "UC San Diego Tritons",
     "abbr": "UC San Diego",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/28.png",
+    "logo": "assets/logos/cbb/4/cbb-ucsandiego-2018-2025.png",
     "colors": [
       "#000000",
       "#FFCD00"
@@ -48,7 +48,7 @@
     "year": 2022,
     "school": "Richmond Spiders",
     "abbr": "Richmond",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+    "logo": "assets/logos/cbb/3/cbb-richmond-2017-2025.png",
     "colors": [
       "#9E0712",
       "#B90B2E"
@@ -78,7 +78,7 @@
     "year": 2020,
     "school": "Richmond Spiders",
     "abbr": "Richmond",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+    "logo": "assets/logos/cbb/3/cbb-richmond-2017-2025.png",
     "colors": [
       "#9E0712",
       "#B90B2E"
@@ -108,7 +108,7 @@
     "year": 2018,
     "school": "West Virginia Mountaineers",
     "abbr": "West Virginia",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+    "logo": "assets/logos/cbb/4/cbb-westvirginia-2016-2025.png",
     "colors": [
       "#EAAA00",
       "#002855"
@@ -123,7 +123,7 @@
     "year": 2017,
     "school": "Omaha Mavericks",
     "abbr": "Omaha",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2437.png",
+    "logo": "assets/logos/cbb/2/cbb-omaha-2011-2025.png",
     "colors": [
       "#E3193E",
       "#474648"
@@ -138,7 +138,7 @@
     "year": 2016,
     "school": "Texas A&M-Corpus Christi Islanders",
     "abbr": "Texas A&M-CC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/357.png",
+    "logo": "assets/logos/cbb/3/cbb-tamucc-2014-2021.png",
     "colors": [
       "#0067C5",
       "#007F3E"
@@ -153,7 +153,7 @@
     "year": 2015,
     "school": "Oregon State Beavers",
     "abbr": "Oregon St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+    "logo": "assets/logos/cbb/2/cbb-oregonstate-2013-2025.png",
     "colors": [
       "#DC4405",
       "#000000"
@@ -168,7 +168,7 @@
     "year": 2014,
     "school": "Oakland Golden Grizzlies",
     "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "logo": "assets/logos/cbb/2/cbb-oakland-2013-2020.png",
     "colors": [
       "#04091C",
       "#BC955C"
@@ -183,7 +183,7 @@
     "year": 2013,
     "school": "Oklahoma State Cowboys",
     "abbr": "Oklahoma St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "logo": "assets/logos/cfb/2/cfb-oklahomastate-2001-2014.png",
     "colors": [
       "#FE5C00",
       "#000000"
@@ -228,7 +228,7 @@
     "year": 2010,
     "school": "Duquesne Dukes",
     "abbr": "Duquesne",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
+    "logo": "assets/logos/cbb/1/cbb-duquesne-dukes-2007-2016.png",
     "colors": [
       "#002D62",
       "#B90B2E"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "VMI Keydets",
     "abbr": "VMI",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "logo": "assets/logos/cbb/4/cbb-vmi-1996-2013.png",
     "colors": [
       "#AE122A",
       "#FFD619"
@@ -273,7 +273,7 @@
     "year": 2007,
     "school": "Seton Hall Pirates",
     "abbr": "Seton Hall",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2550.png",
+    "logo": "assets/logos/cbb/3/cbb-setonhall-1998-2009.png",
     "colors": [
       "#0857B1",
       "#8A8D8F"
@@ -288,7 +288,7 @@
     "year": 2006,
     "school": "Houston Cougars",
     "abbr": "Houston",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "logo": "assets/logos/cfb/1/cfb-houston-2003-2011.png",
     "colors": [
       "#C8102E",
       "#FFFFFF"
@@ -318,7 +318,7 @@
     "year": 2004,
     "school": "Alabama A&M Bulldogs",
     "abbr": "Alabama A&M",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+    "logo": "assets/logos/cbb/1/cbb-alabamaam-2002-2023.png",
     "colors": [
       "#790000",
       "#FFFFFF"
@@ -333,7 +333,7 @@
     "year": 2003,
     "school": "East Tennessee State Buccaneers",
     "abbr": "ETSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+    "logo": "assets/logos/cbb/1/cbb-east-tennessee-state-buccaneers-2001-2006.png",
     "colors": [
       "#002D61",
       "#FFC423"
@@ -348,7 +348,7 @@
     "year": 2002,
     "school": "Providence Friars",
     "abbr": "Providence",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2507.png",
+    "logo": "assets/logos/cbb/3/cbb-providence-2002-2016.png",
     "colors": [
       "#000000",
       "#A3A19E"
@@ -363,7 +363,7 @@
     "year": 2001,
     "school": "Alabama A&M Bulldogs",
     "abbr": "Alabama A&M",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+    "logo": "assets/logos/cbb/1/cbb-alabamaam-1996-2002.png",
     "colors": [
       "#790000",
       "#FFFFFF"
@@ -378,7 +378,7 @@
     "year": 2000,
     "school": "Central Connecticut Blue Devils",
     "abbr": "C Connecticut",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
+    "logo": "assets/logos/cbb/1/cbb-centralconnecticut-2000-2011.png",
     "colors": [
       "#1B49A2",
       "#D1D5D8"
@@ -393,7 +393,7 @@
     "year": 1999,
     "school": "St. Bonaventure Bonnies",
     "abbr": "St Bonaventure",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/179.png",
+    "logo": "assets/logos/cbb/3/cbb-stbonaventure-1999-2016.png",
     "colors": [
       "#70261D",
       "#FFFFFF"
@@ -408,7 +408,7 @@
     "year": 1998,
     "school": "Temple Owls",
     "abbr": "Temple",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/218.png",
+    "logo": "assets/logos/cbb/3/cbb-temple-1996-2017.png",
     "colors": [
       "#A41E35",
       "#FFFFFF"
@@ -423,7 +423,7 @@
     "year": 1997,
     "school": "Florida Atlantic Owls",
     "abbr": "FAU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+    "logo": "assets/logos/cbb/2/cbb-florida-atlantic-1996-2004.png",
     "colors": [
       "#003366",
       "#CC0000"
@@ -438,7 +438,7 @@
     "year": 1996,
     "school": "Maryland Terrapins",
     "abbr": "Maryland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "logo": "assets/logos/cfb/1/cfb-maryland-1996-2004.png",
     "colors": [
       "#CE1126",
       "#FFFFFF"

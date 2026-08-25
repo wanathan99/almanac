@@ -146,7 +146,7 @@
     "opponent": {
       "team": "Virginia Cavaliers",
       "abbr": "Virginia",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+      "logo": "assets/logos/cbb/4/cbb-virginia-1996-2019.png",
       "colors": [
         "#232D4B",
         "#F84C1E"
@@ -164,7 +164,7 @@
     "year": 2018,
     "team": "Michigan Wolverines",
     "abbr": "Michigan",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "logo": "assets/logos/cbb/2/cbb-michigan-2016-2025.png",
     "colors": [
       "#00274C",
       "#FFCB05"
@@ -172,7 +172,7 @@
     "opponent": {
       "team": "Villanova Wildcats",
       "abbr": "Villanova",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+      "logo": "assets/logos/cbb/4/cbb-villanova-2004-2025.png",
       "colors": [
         "#00205B",
         "#13B5EA"
@@ -224,7 +224,7 @@
     "opponent": {
       "team": "Villanova Wildcats",
       "abbr": "Villanova",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+      "logo": "assets/logos/cbb/4/cbb-villanova-2004-2025.png",
       "colors": [
         "#00205B",
         "#13B5EA"
@@ -242,7 +242,7 @@
     "year": 2015,
     "team": "Wisconsin Badgers",
     "abbr": "Wisconsin",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "logo": "assets/logos/cbb/5/cbb-wisconsin-1996-2016.png",
     "colors": [
       "#A00000",
       "#FFFFFF"
@@ -268,7 +268,7 @@
     "year": 2014,
     "team": "Kentucky Wildcats",
     "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-2005-2015.png",
     "colors": [
       "#0033A0",
       "#FFFFFF"
@@ -294,7 +294,7 @@
     "year": 2013,
     "team": "Michigan Wolverines",
     "abbr": "Michigan",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "logo": "assets/logos/cbb/2/cbb-michigan-1996-2016.png",
     "colors": [
       "#00274C",
       "#FFCB05"
@@ -328,7 +328,7 @@
     "opponent": {
       "team": "Kentucky Wildcats",
       "abbr": "Kentucky",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+      "logo": "assets/logos/cfb/1/cfb-kentucky-2005-2015.png",
       "colors": [
         "#0033A0",
         "#FFFFFF"
@@ -346,7 +346,7 @@
     "year": 2011,
     "team": "Butler Bulldogs",
     "abbr": "Butler",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
+    "logo": "assets/logos/cbb/1/cbb-butler-2008-2015.png",
     "colors": [
       "#0D1361",
       "#00A3E0"
@@ -354,7 +354,7 @@
     "opponent": {
       "team": "UConn Huskies",
       "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "logo": "assets/logos/cfb/2/cfb-uconn-2002-2012.png",
       "colors": [
         "#0C2340",
         "#A2AAAD"
@@ -372,7 +372,7 @@
     "year": 2010,
     "team": "Butler Bulldogs",
     "abbr": "Butler",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
+    "logo": "assets/logos/cbb/1/cbb-butler-2008-2015.png",
     "colors": [
       "#0D1361",
       "#00A3E0"
@@ -398,7 +398,7 @@
     "year": 2009,
     "team": "Michigan State Spartans",
     "abbr": "Michigan St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "logo": "assets/logos/cbb/2/cbb-michigan-state-1996-2010.png",
     "colors": [
       "#173F35",
       "#FFFFFF"
@@ -424,7 +424,7 @@
     "year": 2008,
     "team": "Memphis Tigers",
     "abbr": "Memphis",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "logo": "assets/logos/cbb/2/cbb-memphis-1996-2021.png",
     "colors": [
       "#004991",
       "#8E908F"
@@ -450,7 +450,7 @@
     "year": 2007,
     "team": "Ohio State Buckeyes",
     "abbr": "Ohio State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "logo": "assets/logos/cbb/2/cbb-ohiostate-1996-2012.png",
     "colors": [
       "#BA0C2F",
       "#A8ADB4"
@@ -458,7 +458,7 @@
     "opponent": {
       "team": "Florida Gators",
       "abbr": "Florida",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
       "colors": [
         "#0021A5",
         "#FA4616"
@@ -476,7 +476,7 @@
     "year": 2006,
     "team": "UCLA Bruins",
     "abbr": "UCLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "logo": "assets/logos/cbb/4/cbb-ucla-1996-2016.png",
     "colors": [
       "#2774AE",
       "#F2A900"
@@ -484,7 +484,7 @@
     "opponent": {
       "team": "Florida Gators",
       "abbr": "Florida",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
       "colors": [
         "#0021A5",
         "#FA4616"
@@ -502,7 +502,7 @@
     "year": 2005,
     "team": "Illinois Fighting Illini",
     "abbr": "Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "logo": "assets/logos/cfb/1/cfb-illinois-1996-2013.png",
     "colors": [
       "#FF5F05",
       "#13294B"
@@ -528,7 +528,7 @@
     "year": 2004,
     "team": "Georgia Tech Yellow Jackets",
     "abbr": "Georgia Tech",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "logo": "assets/logos/cfb/1/cfb-georgiatech-1996-2014.png",
     "colors": [
       "#B3A369",
       "#FFFFFF"
@@ -536,7 +536,7 @@
     "opponent": {
       "team": "UConn Huskies",
       "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "logo": "assets/logos/cfb/2/cfb-uconn-2002-2012.png",
       "colors": [
         "#0C2340",
         "#A2AAAD"
@@ -588,7 +588,7 @@
     "opponent": {
       "team": "Maryland Terrapins",
       "abbr": "Maryland",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+      "logo": "assets/logos/cfb/1/cfb-maryland-1996-2004.png",
       "colors": [
         "#CE1126",
         "#FFFFFF"
@@ -606,7 +606,7 @@
     "year": 2001,
     "team": "Arizona Wildcats",
     "abbr": "Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "logo": "assets/logos/cbb/1/cbb-arizona-1996-2010.png",
     "colors": [
       "#CC0033",
       "#003366"
@@ -632,7 +632,7 @@
     "year": 2000,
     "team": "Florida Gators",
     "abbr": "Florida",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "logo": "assets/logos/cfb/1/cfb-florida-1996-2012.png",
     "colors": [
       "#0021A5",
       "#FA4616"
@@ -640,7 +640,7 @@
     "opponent": {
       "team": "Michigan State Spartans",
       "abbr": "Michigan St",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+      "logo": "assets/logos/cbb/2/cbb-michigan-state-1996-2010.png",
       "colors": [
         "#173F35",
         "#FFFFFF"
@@ -666,7 +666,7 @@
     "opponent": {
       "team": "UConn Huskies",
       "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "logo": "assets/logos/cfb/2/cfb-uconn-1996-2001.png",
       "colors": [
         "#0C2340",
         "#A2AAAD"
@@ -684,7 +684,7 @@
     "year": 1998,
     "team": "Utah Utes",
     "abbr": "Utah",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "logo": "assets/logos/cfb/2/cfb-utah-1996-2000.png",
     "colors": [
       "#BE0000",
       "#FFFFFF"
@@ -692,7 +692,7 @@
     "opponent": {
       "team": "Kentucky Wildcats",
       "abbr": "Kentucky",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+      "logo": "assets/logos/cfb/1/cfb-kentucky-1996-2004.png",
       "colors": [
         "#0033A0",
         "#FFFFFF"
@@ -710,7 +710,7 @@
     "year": 1997,
     "team": "Kentucky Wildcats",
     "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-1996-2004.png",
     "colors": [
       "#0033A0",
       "#FFFFFF"
@@ -718,7 +718,7 @@
     "opponent": {
       "team": "Arizona Wildcats",
       "abbr": "Arizona",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+      "logo": "assets/logos/cbb/1/cbb-arizona-1996-2010.png",
       "colors": [
         "#CC0033",
         "#003366"
@@ -736,7 +736,7 @@
     "year": 1996,
     "team": "Syracuse Orange",
     "abbr": "Syracuse",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "logo": "assets/logos/cfb/2/cfb-syracuse-1996-1997.png",
     "colors": [
       "#000E54",
       "#FF431B"
@@ -744,7 +744,7 @@
     "opponent": {
       "team": "Kentucky Wildcats",
       "abbr": "Kentucky",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+      "logo": "assets/logos/cfb/1/cfb-kentucky-1996-2004.png",
       "colors": [
         "#0033A0",
         "#FFFFFF"

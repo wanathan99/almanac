@@ -18,7 +18,7 @@
     "year": 2024,
     "school": "Marquette Golden Eagles",
     "abbr": "Marquette",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
+    "logo": "assets/logos/cbb/2/cbb-marquette-2005-2025.png",
     "colors": [
       "#003366",
       "#FFCC00"
@@ -33,7 +33,7 @@
     "year": 2023,
     "school": "Saint Louis Billikens",
     "abbr": "Saint Louis",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+    "logo": "assets/logos/cbb/3/cbb-saintlouis-2022-2025.png",
     "colors": [
       "#00539C",
       "#EBEBEB"
@@ -48,7 +48,7 @@
     "year": 2022,
     "school": "Saint Louis Billikens",
     "abbr": "Saint Louis",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/139.png",
+    "logo": "assets/logos/cbb/3/cbb-saintlouis-2022-2025.png",
     "colors": [
       "#00539C",
       "#EBEBEB"
@@ -63,7 +63,7 @@
     "year": 2021,
     "school": "Oakland Golden Grizzlies",
     "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "logo": "assets/logos/cbb/2/cbb-oakland-2021-2025.png",
     "colors": [
       "#04091C",
       "#BC955C"
@@ -78,7 +78,7 @@
     "year": 2020,
     "school": "North Carolina A&T Aggies",
     "abbr": "NC A&T",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png",
+    "logo": "assets/logos/cbb/2/cbb-ncat-2006-2025.png",
     "colors": [
       "#0505AA",
       "#004684"
@@ -123,7 +123,7 @@
     "year": 2017,
     "school": "UCLA Bruins",
     "abbr": "UCLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "logo": "assets/logos/cbb/4/cbb-ucla-2017-2025.png",
     "colors": [
       "#2774AE",
       "#F2A900"
@@ -138,7 +138,7 @@
     "year": 2016,
     "school": "Oakland Golden Grizzlies",
     "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "logo": "assets/logos/cbb/2/cbb-oakland-2013-2020.png",
     "colors": [
       "#04091C",
       "#BC955C"
@@ -153,7 +153,7 @@
     "year": 2015,
     "school": "Northwestern State Demons",
     "abbr": "N'Western St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
+    "logo": "assets/logos/cbb/2/cbb-northwesternstate-2014-2025.png",
     "colors": [
       "#492F91",
       "#ED6118"
@@ -168,7 +168,7 @@
     "year": 2014,
     "school": "Long Island University Sharks",
     "abbr": "Long Island",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "logo": "assets/logos/cbb/2/cbb-long-island-2008-2018.png",
     "colors": [
       "#50C9F7",
       "#FFBF00"
@@ -183,7 +183,7 @@
     "year": 2013,
     "school": "Long Island University Sharks",
     "abbr": "Long Island",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "logo": "assets/logos/cbb/2/cbb-long-island-2008-2018.png",
     "colors": [
       "#50C9F7",
       "#FFBF00"
@@ -198,7 +198,7 @@
     "year": 2012,
     "school": "Iona Gaels",
     "abbr": "Iona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/314.png",
+    "logo": "assets/logos/cbb/2/cbb-iona-2003-2012.png",
     "colors": [
       "#6F2C3E",
       "#F0AB00"
@@ -213,7 +213,7 @@
     "year": 2011,
     "school": "UAB Blazers",
     "abbr": "UAB",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+    "logo": "assets/logos/cfb/2/cfb-uab-2009-2014.png",
     "colors": [
       "#1A5632",
       "#FDB913"
@@ -228,7 +228,7 @@
     "year": 2010,
     "school": "Siena Saints",
     "abbr": "Siena",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2561.png",
+    "logo": "assets/logos/cbb/3/cbb-siena-2001-2023.png",
     "colors": [
       "#037961",
       "#EEA60F"
@@ -243,7 +243,7 @@
     "year": 2009,
     "school": "Oakland Golden Grizzlies",
     "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "logo": "assets/logos/cbb/2/cbb-oakland-1998-2012.png",
     "colors": [
       "#04091C",
       "#BC955C"
@@ -258,7 +258,7 @@
     "year": 2008,
     "school": "Davidson Wildcats",
     "abbr": "Davidson",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+    "logo": "assets/logos/cbb/1/cbb-davidson-wildcats-1996-2009.png",
     "colors": [
       "#000000",
       "#E51837"
@@ -318,7 +318,7 @@
     "year": 2004,
     "school": "Troy Trojans",
     "abbr": "Troy",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
+    "logo": "assets/logos/cbb/4/cbb-troy-2004-2007.png",
     "colors": [
       "#862633",
       "#B1B1B1"
@@ -333,7 +333,7 @@
     "year": 2003,
     "school": "UIC Flames",
     "abbr": "UIC",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/82.png",
+    "logo": "assets/logos/cbb/4/cbb-uic-1996-2009.png",
     "colors": [
       "#001E62",
       "#D50032"
@@ -348,7 +348,7 @@
     "year": 2002,
     "school": "Texas Longhorns",
     "abbr": "Texas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "logo": "assets/logos/cbb/3/cbb-texas-1996-2010.png",
     "colors": [
       "#AF5C37",
       "#FFFFFF"
@@ -363,7 +363,7 @@
     "year": 2001,
     "school": "Cal State Northridge Matadors",
     "abbr": "CSU Northridge",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2463.png",
+    "logo": "assets/logos/cbb/1/cbb-csun-1999-2005.png",
     "colors": [
       "#B50000",
       "#FFFFFF"
@@ -378,7 +378,7 @@
     "year": 2000,
     "school": "UNLV Rebels",
     "abbr": "UNLV",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
+    "logo": "assets/logos/cbb/4/cbb-unlv-1997-2005.png",
     "colors": [
       "#CF0A2C",
       "#CAC8C8"
@@ -393,7 +393,7 @@
     "year": 1999,
     "school": "Oklahoma State Cowboys",
     "abbr": "Oklahoma St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
+    "logo": "assets/logos/cfb/2/cfb-oklahomastate-1996-2000.png",
     "colors": [
       "#FE5C00",
       "#000000"
@@ -408,7 +408,7 @@
     "year": 1998,
     "school": "Arizona State Sun Devils",
     "abbr": "Arizona St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "logo": "assets/logos/cbb/1/cbb-arizonastate-1996-2010.png",
     "colors": [
       "#FFC627",
       "#8C1D40"
