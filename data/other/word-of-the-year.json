@@ -1,0 +1,226 @@
+[
+  {
+    "year": 2025,
+    "definition": "Low-quality digital content produced in bulk, usually by AI.",
+    "player": "Slop",
+    "playerAliases": [
+      "slop"
+    ]
+  },
+  {
+    "year": 2024,
+    "definition": "A split into two sharply opposing groups or extremes.",
+    "player": "Polarization",
+    "playerAliases": [
+      "polarization"
+    ]
+  },
+  {
+    "year": 2023,
+    "definition": "Not false or imitation — real, genuine.",
+    "player": "Authentic",
+    "playerAliases": [
+      "authentic"
+    ]
+  },
+  {
+    "year": 2022,
+    "definition": "Psychological manipulation that makes someone doubt their own reality.",
+    "player": "Gaslighting",
+    "playerAliases": [
+      "gaslight",
+      "gaslighting"
+    ]
+  },
+  {
+    "year": 2021,
+    "definition": "A substance that trains the immune system to fight a specific disease.",
+    "player": "Vaccine",
+    "playerAliases": [
+      "vaccine"
+    ]
+  },
+  {
+    "year": 2020,
+    "definition": "A disease outbreak that spreads across a wide area or worldwide.",
+    "player": "Pandemic",
+    "playerAliases": [
+      "pandemic"
+    ]
+  },
+  {
+    "year": 2019,
+    "definition": "A pronoun for a person whose gender isn't specified or is nonbinary.",
+    "player": "They",
+    "playerAliases": [
+      "they"
+    ]
+  },
+  {
+    "year": 2018,
+    "definition": "Fair and impartial treatment, especially under the law.",
+    "player": "Justice",
+    "playerAliases": [
+      "justice"
+    ]
+  },
+  {
+    "year": 2017,
+    "definition": "The belief in political, economic, and social equality of the sexes.",
+    "player": "Feminism",
+    "playerAliases": [
+      "feminism"
+    ]
+  },
+  {
+    "year": 2016,
+    "definition": "Marked by the intense, irrational reality of a dream.",
+    "player": "Surreal",
+    "playerAliases": [
+      "surreal"
+    ]
+  },
+  {
+    "year": 2015,
+    "definition": "A suffix forming nouns of action, state, condition, or doctrine.",
+    "player": "-ism",
+    "playerAliases": [
+      "-ism",
+      "ism"
+    ]
+  },
+  {
+    "year": 2014,
+    "definition": "The beliefs, customs, and arts of a particular society or group.",
+    "player": "Culture",
+    "playerAliases": [
+      "culture"
+    ]
+  },
+  {
+    "year": 2013,
+    "definition": "Knowledge of the natural world based on facts and experiment.",
+    "player": "Science",
+    "playerAliases": [
+      "science"
+    ]
+  },
+  {
+    "year": 2012,
+    "definition": "One favors collective or state ownership of resources; the other, private ownership and free markets.",
+    "player": "Socialism & Capitalism",
+    "playerAliases": [
+      "capitalism",
+      "socialism",
+      "socialism & capitalism"
+    ]
+  },
+  {
+    "year": 2011,
+    "definition": "Practical — dealing with things sensibly and realistically.",
+    "player": "Pragmatic",
+    "playerAliases": [
+      "pragmatic"
+    ]
+  },
+  {
+    "year": 2010,
+    "definition": "Extreme strictness or severity, especially in economic policy.",
+    "player": "Austerity",
+    "playerAliases": [
+      "austerity"
+    ]
+  },
+  {
+    "year": 2009,
+    "definition": "To gently warn or express disapproval.",
+    "player": "Admonish",
+    "playerAliases": [
+      "admonish"
+    ]
+  },
+  {
+    "year": 2008,
+    "definition": "A rescue from financial distress.",
+    "player": "Bailout",
+    "playerAliases": [
+      "bail out",
+      "bailout"
+    ]
+  },
+  {
+    "year": 2007,
+    "definition": "An interjection expressing joy.",
+    "player": "W00t",
+    "playerAliases": [
+      "w00t"
+    ]
+  },
+  {
+    "year": 2006,
+    "definition": "Truth felt intuitively, without regard to evidence or facts.",
+    "player": "Truthiness",
+    "playerAliases": [
+      "truthiness"
+    ]
+  },
+  {
+    "year": 2005,
+    "definition": "Adherence to moral principles; incorruptibility.",
+    "player": "Integrity",
+    "playerAliases": [
+      "integrity"
+    ]
+  },
+  {
+    "year": 2004,
+    "definition": "An online journal recording a writer's activities, thoughts, or beliefs.",
+    "player": "Blog",
+    "playerAliases": [
+      "blog"
+    ]
+  },
+  {
+    "year": 2003,
+    "definition": "A state governed by the people or by officials elected by them.",
+    "player": "Democracy",
+    "playerAliases": [
+      "democracy"
+    ]
+  },
+  {
+    "year": 2002,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  },
+  {
+    "year": 2001,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  },
+  {
+    "year": 2000,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  },
+  {
+    "year": 1999,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  },
+  {
+    "year": 1998,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  },
+  {
+    "year": 1997,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  },
+  {
+    "year": 1996,
+    "invalid": true,
+    "reason": "Merriam-Webster's Word of the Year program did not begin until 2003"
+  }
+]
