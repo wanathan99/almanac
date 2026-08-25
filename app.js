@@ -469,7 +469,7 @@ function buildShareData() {
   }
 
   const strikesText = `${strikes} strike${strikes === 1 ? '' : 's'}${Number.isFinite(strikeLimit) ? ` (limit ${strikeLimit})` : ''}`;
-  const header = `Almanac: ${currentCategory.title} — ${score}/${guessableTotal}`;
+  const header = `Almanac — ${currentCategory.title} — ${score}/${guessableTotal}`;
   const footer = `${formatTime(elapsedSeconds)} · ${strikesText} · Hints: ${showHints ? 'On' : 'Off'}`;
 
   const text = [
