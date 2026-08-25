@@ -1300,32 +1300,36 @@
     "sport": "Other",
     "categories": [
       {
-        "id": "oscar-best-picture",
-        "title": "Oscar Best Picture",
-        "subtitle": "Guess the winning film from the director's name (1996–2025)",
-        "icon": "🎬",
-        "file": "data/other/oscar-best-picture.json"
-      },
-      {
-        "id": "grammy-album",
-        "title": "Grammy Album of the Year",
-        "subtitle": "Guess the winning artist from the album title (1996–2025)",
-        "icon": "🎤",
-        "file": "data/other/grammy-album-of-the-year.json"
-      },
-      {
-        "id": "emmy-drama",
-        "title": "Emmy Outstanding Drama Series",
-        "subtitle": "Guess the winning show from its network (1996–2025)",
-        "icon": "📺",
-        "file": "data/other/emmy-outstanding-drama.json"
-      },
-      {
-        "id": "tony-musical",
-        "title": "Tony Best Musical",
-        "subtitle": "Guess the winning musical from its Broadway theater (1996–2025)",
-        "icon": "🎭",
-        "file": "data/other/tony-best-musical.json"
+        "id": "egot",
+        "title": "EGOT",
+        "subtitle": "Guess the winner from the hint (1996–2025)",
+        "icon": "🏆",
+        "variants": [
+          {
+            "label": "Emmy<br><span class=\"variant-sub\">Drama series</span>",
+            "title": "Emmy — Outstanding Drama Series",
+            "subtitle": "Guess the winning show from its network (1996–2025)",
+            "file": "data/other/emmy-outstanding-drama.json"
+          },
+          {
+            "label": "Grammy<br><span class=\"variant-sub\">Album of the year</span>",
+            "title": "Grammy — Album of the Year",
+            "subtitle": "Guess the winning artist from the album title (1996–2025)",
+            "file": "data/other/grammy-album-of-the-year.json"
+          },
+          {
+            "label": "Oscar<br><span class=\"variant-sub\">Best picture</span>",
+            "title": "Oscar — Best Picture",
+            "subtitle": "Guess the winning film from the director's name (1996–2025)",
+            "file": "data/other/oscar-best-picture.json"
+          },
+          {
+            "label": "Tony<br><span class=\"variant-sub\">Best musical</span>",
+            "title": "Tony — Best Musical",
+            "subtitle": "Guess the winning musical from its Broadway theater (1996–2025)",
+            "file": "data/other/tony-best-musical.json"
+          }
+        ]
       },
       {
         "id": "pantone-coty",
