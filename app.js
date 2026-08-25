@@ -450,34 +450,47 @@ function showSummary(reason) {
   showScreen(summaryScreen);
 }
 
-function buildShareText() {
+const SHARE_EMOJI = { correct: '🟩', miss: '🟥', invalid: '⬜' };
+
+function buildShareData() {
   const cells = Array.from(document.querySelectorAll('#grid .cell'))
     .map((cell) => ({ year: Number(cell.dataset.year), cell }))
     .sort((a, b) => b.year - a.year);
 
-  const squares = cells.map(({ cell }) => {
-    if (cell.classList.contains('correct')) return '🟩';
-    if (cell.classList.contains('cell-invalid')) return '⬜';
-    return '🟥';
+  const states = cells.map(({ cell }) => {
+    if (cell.classList.contains('correct')) return 'correct';
+    if (cell.classList.contains('cell-invalid')) return 'invalid';
+    return 'miss';
   });
 
-  const rows = [];
-  for (let i = 0; i < squares.length; i += 10) {
-    rows.push(squares.slice(i, i + 10).join(''));
+  const squareRows = [];
+  for (let i = 0; i < states.length; i += 10) {
+    squareRows.push(states.slice(i, i + 10));
   }
 
   const strikesText = `${strikes} strike${strikes === 1 ? '' : 's'}${Number.isFinite(strikeLimit) ? ` (limit ${strikeLimit})` : ''}`;
-  const hintsText = `Hints: ${showHints ? 'On' : 'Off'}`;
+  const header = `Almanac: ${currentCategory.title} — ${score}/${guessableTotal}`;
+  const footer = `${formatTime(elapsedSeconds)} · ${strikesText} · Hints: ${showHints ? 'On' : 'Off'}`;
 
-  return [
-    `Almanac: ${currentCategory.title} — ${score}/${guessableTotal}`,
-    ...rows,
-    `${formatTime(elapsedSeconds)} · ${strikesText} · ${hintsText}`,
+  const text = [
+    header,
+    ...squareRows.map((row) => row.map((s) => SHARE_EMOJI[s]).join('')),
+    footer,
   ].join('\n');
+
+  return { text, header, squareRows, footer };
 }
 
 shareBtn.addEventListener('click', () => {
-  shareText.textContent = buildShareText();
+  const data = buildShareData();
+  shareText.dataset.raw = data.text;
+  const rowsHTML = data.squareRows
+    .map(
+      (row) =>
+        `<div class="share-row">${row.map((s) => `<span class="share-square share-square-${s}"></span>`).join('')}</div>`
+    )
+    .join('');
+  shareText.innerHTML = `<div class="share-line">${data.header}</div>${rowsHTML}<div class="share-line share-footer">${data.footer}</div>`;
   sharePanel.classList.remove('hidden');
   shareBtn.classList.add('hidden');
 });
@@ -486,7 +499,7 @@ const copyIconSVG = copyShareBtn.innerHTML;
 const checkIconSVG = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
 
 copyShareBtn.addEventListener('click', () => {
-  const text = shareText.textContent;
+  const text = shareText.dataset.raw || '';
   const markCopied = () => {
     copyShareBtn.innerHTML = checkIconSVG;
     copyShareBtn.classList.add('copy-btn-done');

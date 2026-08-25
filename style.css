@@ -675,11 +675,36 @@ html, body {
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.85rem;
   line-height: 1.6;
-  white-space: pre-wrap;
   word-break: break-word;
   text-align: left;
   margin: 0;
 }
+
+.share-line {
+  margin: 0 0 8px;
+}
+
+.share-footer {
+  margin: 8px 0 0;
+  color: var(--text-dim);
+}
+
+.share-row {
+  display: flex;
+  gap: 4px;
+  margin: 0 0 4px;
+}
+
+.share-square {
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.share-square-correct { background: var(--success); }
+.share-square-miss { background: var(--danger); }
+.share-square-invalid { background: var(--bg-elev-2); border: 1px solid var(--border); }
 
 .copy-icon-btn {
   position: absolute;
