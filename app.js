@@ -261,6 +261,12 @@ function renderGrid(entries) {
     if (currentCategory?.noLogoHint) {
       // The entry's own team/logo IS the answer here — showing it would give it away.
       cell.style.setProperty('--accent-color', 'var(--border)');
+    } else if (entry.definition) {
+      // Pure-text hint (e.g. Word of the Year): show the definition, guess the word.
+      cell.style.setProperty('--accent-color', '#8b6f47');
+      logo.classList.add('cell-logo-def-wrap');
+      const defSize = entry.definition.length > 120 ? '0.6rem' : entry.definition.length > 85 ? '0.66rem' : entry.definition.length > 55 ? '0.76rem' : '0.85rem';
+      logo.innerHTML = `<div class="cell-logo-def" style="font-size: ${defSize}">${entry.definition}</div>`;
     } else if (entry.teams) {
       // Rare tie case: show every team's logo side by side.
       logo.classList.add('cell-logo-dual');
@@ -279,6 +285,7 @@ function renderGrid(entries) {
       } else {
         logo.style.background = `linear-gradient(135deg, ${hc1}, ${hc2})`;
         logo.style.color = pickTextColor(hc1);
+        logo.classList.add('cell-logo-abbr-wrap');
         const abbrSize = hint.abbr.length > 24 ? '0.72rem' : hint.abbr.length > 10 ? '0.9rem' : '1.15rem';
         logo.innerHTML = `<div class="cell-logo-abbr" style="font-size: ${abbrSize}">${hint.abbr}</div>`;
       }

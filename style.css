@@ -476,6 +476,22 @@ html, body {
   line-height: 1.15;
 }
 
+.cell-logo-def-wrap,
+.cell-logo-abbr-wrap {
+  padding: 10% 8% 26%;
+}
+
+.cell-logo-def {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  line-height: 1.32;
+  color: #2a2f3a;
+  text-align: center;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
 .cell-stat {
   color: #fff;
   font-family: 'JetBrains Mono', monospace;
