@@ -248,6 +248,14 @@ html, body {
   color: #04211d;
 }
 
+.variant-sub {
+  display: block;
+  font-weight: 400;
+  font-size: 0.68rem;
+  opacity: 0.75;
+  margin-top: 2px;
+}
+
 .category-icon {
   font-size: 1.8rem;
   line-height: 1;
