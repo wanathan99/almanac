@@ -319,7 +319,7 @@ function renderGrid(entries) {
 
     const guessArea = document.createElement('div');
     guessArea.className = 'cell-guess-area';
-    guessArea.innerHTML = `${statHTML}<input class="cell-input" type="text" placeholder="Who?" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" />`;
+    guessArea.innerHTML = `${statHTML}<form class="cell-guess-form"><input class="cell-input" type="text" inputmode="text" enterkeyhint="done" placeholder="Who?" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" /></form>`;
     cell.appendChild(guessArea);
 
     const revealBtn = document.createElement('button');
@@ -333,9 +333,8 @@ function renderGrid(entries) {
     cell.appendChild(revealBtn);
 
     const input = guessArea.querySelector('.cell-input');
-    input.addEventListener('keydown', (e) => {
-      const isEnter = e.key === 'Enter' || e.keyCode === 13 || e.which === 13;
-      if (!isEnter) return;
+    const guessForm = guessArea.querySelector('.cell-guess-form');
+    guessForm.addEventListener('submit', (e) => {
       e.preventDefault();
       const guess = input.value;
       if (isCorrectGuess(entry, guess)) {
