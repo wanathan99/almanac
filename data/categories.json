@@ -1344,6 +1344,13 @@
         "subtitle": "Guess the word from Merriam-Webster's definition (2003–2025)",
         "icon": "📖",
         "file": "data/other/word-of-the-year.json"
+      },
+      {
+        "id": "time-poy",
+        "title": "TIME Person of the Year",
+        "subtitle": "Guess who from TIME's own cover line (1996–2025)",
+        "icon": "🗞️",
+        "file": "data/other/time-person-of-the-year.json"
       }
     ]
   }
