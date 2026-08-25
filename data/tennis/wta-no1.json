@@ -1,33 +1,35 @@
 [
   {
     "year": 2025,
-    "team": "Belarus",
-    "abbr": "BLR",
-    "logo": "assets/logos/tennis/flag-blr.png",
+    "team": null,
+    "abbr": null,
+    "logo": null,
     "colors": [
-      "#CE1720",
-      "#007C30"
+      "#374151",
+      "#e5e7eb"
     ],
     "player": "Aryna Sabalenka",
     "playerAliases": [
       "aryna sabalenka",
       "sabalenka"
-    ]
+    ],
+    "statLine": "10,870 pts"
   },
   {
     "year": 2024,
-    "team": "Belarus",
-    "abbr": "BLR",
-    "logo": "assets/logos/tennis/flag-blr.png",
+    "team": null,
+    "abbr": null,
+    "logo": null,
     "colors": [
-      "#CE1720",
-      "#007C30"
+      "#374151",
+      "#e5e7eb"
     ],
     "player": "Aryna Sabalenka",
     "playerAliases": [
       "aryna sabalenka",
       "sabalenka"
-    ]
+    ],
+    "statLine": "9,416 pts"
   },
   {
     "year": 2023,
@@ -42,7 +44,8 @@
     "playerAliases": [
       "iga świątek",
       "świątek"
-    ]
+    ],
+    "statLine": "9,295 pts"
   },
   {
     "year": 2022,
@@ -57,7 +60,8 @@
     "playerAliases": [
       "iga świątek",
       "świątek"
-    ]
+    ],
+    "statLine": "11,085 pts"
   },
   {
     "year": 2021,
@@ -72,7 +76,8 @@
     "playerAliases": [
       "ashleigh barty",
       "barty"
-    ]
+    ],
+    "statLine": "7,582 pts"
   },
   {
     "year": 2020,
@@ -87,7 +92,8 @@
     "playerAliases": [
       "ashleigh barty",
       "barty"
-    ]
+    ],
+    "statLine": "8,717 pts"
   },
   {
     "year": 2019,
@@ -102,7 +108,8 @@
     "playerAliases": [
       "ashleigh barty",
       "barty"
-    ]
+    ],
+    "statLine": "7,851 pts"
   },
   {
     "year": 2018,
@@ -117,7 +124,8 @@
     "playerAliases": [
       "halep",
       "simona halep"
-    ]
+    ],
+    "statLine": "6,921 pts"
   },
   {
     "year": 2017,
@@ -132,7 +140,8 @@
     "playerAliases": [
       "halep",
       "simona halep"
-    ]
+    ],
+    "statLine": "6,175 pts"
   },
   {
     "year": 2016,
@@ -147,7 +156,8 @@
     "playerAliases": [
       "angelique kerber",
       "kerber"
-    ]
+    ],
+    "statLine": "9,080 pts"
   },
   {
     "year": 2015,
@@ -162,7 +172,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "9,945 pts"
   },
   {
     "year": 2014,
@@ -177,7 +188,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "8,485 pts"
   },
   {
     "year": 2013,
@@ -192,7 +204,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "12,040 pts"
   },
   {
     "year": 2012,
@@ -207,7 +220,8 @@
     "playerAliases": [
       "azarenka",
       "victoria azarenka"
-    ]
+    ],
+    "statLine": "10,595 pts"
   },
   {
     "year": 2011,
@@ -222,7 +236,8 @@
     "playerAliases": [
       "caroline wozniacki",
       "wozniacki"
-    ]
+    ],
+    "statLine": "7,485 pts"
   },
   {
     "year": 2010,
@@ -237,7 +252,8 @@
     "playerAliases": [
       "caroline wozniacki",
       "wozniacki"
-    ]
+    ],
+    "statLine": "8,035 pts"
   },
   {
     "year": 2009,
@@ -252,7 +268,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "9,075 pts"
   },
   {
     "year": 2008,
@@ -267,7 +284,8 @@
     "playerAliases": [
       "janković",
       "jelena janković"
-    ]
+    ],
+    "statLine": "4,710 pts"
   },
   {
     "year": 2007,
@@ -282,7 +300,8 @@
     "playerAliases": [
       "henin",
       "justine henin"
-    ]
+    ],
+    "statLine": "6,155 pts"
   },
   {
     "year": 2006,
@@ -297,7 +316,8 @@
     "playerAliases": [
       "henin",
       "justine henin-hardenne"
-    ]
+    ],
+    "statLine": "3,998 pts"
   },
   {
     "year": 2005,
@@ -312,7 +332,8 @@
     "playerAliases": [
       "davenport",
       "lindsay davenport"
-    ]
+    ],
+    "statLine": "4,910 pts"
   },
   {
     "year": 2004,
@@ -327,7 +348,8 @@
     "playerAliases": [
       "davenport",
       "lindsay davenport"
-    ]
+    ],
+    "statLine": "4,760 pts"
   },
   {
     "year": 2003,
@@ -342,7 +364,8 @@
     "playerAliases": [
       "henin",
       "justine henin-hardenne"
-    ]
+    ],
+    "statLine": "6,628 pts"
   },
   {
     "year": 2002,
@@ -357,7 +380,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "6,080 pts"
   },
   {
     "year": 2001,
@@ -372,7 +396,8 @@
     "playerAliases": [
       "davenport",
       "lindsay davenport"
-    ]
+    ],
+    "statLine": "4,902 pts"
   },
   {
     "year": 2000,
@@ -387,7 +412,8 @@
     "playerAliases": [
       "hingis",
       "martina hingis"
-    ]
+    ],
+    "statLine": "6,044 pts"
   },
   {
     "year": 1999,
@@ -402,7 +428,8 @@
     "playerAliases": [
       "hingis",
       "martina hingis"
-    ]
+    ],
+    "statLine": "6,074 pts"
   },
   {
     "year": 1998,
@@ -417,7 +444,8 @@
     "playerAliases": [
       "davenport",
       "lindsay davenport"
-    ]
+    ],
+    "statLine": "5,654 pts"
   },
   {
     "year": 1997,
@@ -432,7 +460,8 @@
     "playerAliases": [
       "hingis",
       "martina hingis"
-    ]
+    ],
+    "statLine": "6,264 pts"
   },
   {
     "year": 1996,
@@ -447,6 +476,7 @@
     "playerAliases": [
       "graf",
       "steffi graf"
-    ]
+    ],
+    "statLine": "4,649 pts"
   }
 ]

@@ -12,7 +12,8 @@
     "playerAliases": [
       "alcaraz",
       "carlos alcaraz"
-    ]
+    ],
+    "statLine": "12,050 pts"
   },
   {
     "year": 2024,
@@ -27,7 +28,8 @@
     "playerAliases": [
       "jannik sinner",
       "sinner"
-    ]
+    ],
+    "statLine": "11,830 pts"
   },
   {
     "year": 2023,
@@ -42,7 +44,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "11,245 pts"
   },
   {
     "year": 2022,
@@ -57,7 +60,8 @@
     "playerAliases": [
       "alcaraz",
       "carlos alcaraz"
-    ]
+    ],
+    "statLine": "6,820 pts"
   },
   {
     "year": 2021,
@@ -72,7 +76,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "11,540 pts"
   },
   {
     "year": 2020,
@@ -87,7 +92,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "12,030 pts"
   },
   {
     "year": 2019,
@@ -102,7 +108,8 @@
     "playerAliases": [
       "nadal",
       "rafael nadal"
-    ]
+    ],
+    "statLine": "9,985 pts"
   },
   {
     "year": 2018,
@@ -117,7 +124,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "9,045 pts"
   },
   {
     "year": 2017,
@@ -132,7 +140,8 @@
     "playerAliases": [
       "nadal",
       "rafael nadal"
-    ]
+    ],
+    "statLine": "10,645 pts"
   },
   {
     "year": 2016,
@@ -147,7 +156,8 @@
     "playerAliases": [
       "andy murray",
       "murray"
-    ]
+    ],
+    "statLine": "12,410 pts"
   },
   {
     "year": 2015,
@@ -162,7 +172,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "16,585 pts"
   },
   {
     "year": 2014,
@@ -177,7 +188,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "11,360 pts"
   },
   {
     "year": 2013,
@@ -192,7 +204,8 @@
     "playerAliases": [
       "nadal",
       "rafael nadal"
-    ]
+    ],
+    "statLine": "13,030 pts"
   },
   {
     "year": 2012,
@@ -207,7 +220,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "12,920 pts"
   },
   {
     "year": 2011,
@@ -222,7 +236,8 @@
     "playerAliases": [
       "djokovic",
       "novak djokovic"
-    ]
+    ],
+    "statLine": "13,630 pts"
   },
   {
     "year": 2010,
@@ -237,7 +252,8 @@
     "playerAliases": [
       "nadal",
       "rafael nadal"
-    ]
+    ],
+    "statLine": "12,450 pts"
   },
   {
     "year": 2009,
@@ -252,7 +268,8 @@
     "playerAliases": [
       "federer",
       "roger federer"
-    ]
+    ],
+    "statLine": "10,550 pts"
   },
   {
     "year": 2008,
@@ -267,7 +284,8 @@
     "playerAliases": [
       "nadal",
       "rafael nadal"
-    ]
+    ],
+    "statLine": "6,675 pts"
   },
   {
     "year": 2007,
@@ -282,7 +300,8 @@
     "playerAliases": [
       "federer",
       "roger federer"
-    ]
+    ],
+    "statLine": "7,180 pts"
   },
   {
     "year": 2006,
@@ -297,7 +316,8 @@
     "playerAliases": [
       "federer",
       "roger federer"
-    ]
+    ],
+    "statLine": "8,370 pts"
   },
   {
     "year": 2005,
@@ -312,7 +332,8 @@
     "playerAliases": [
       "federer",
       "roger federer"
-    ]
+    ],
+    "statLine": "6,725 pts"
   },
   {
     "year": 2004,
@@ -327,7 +348,8 @@
     "playerAliases": [
       "federer",
       "roger federer"
-    ]
+    ],
+    "statLine": "6,335 pts"
   },
   {
     "year": 2003,
@@ -342,7 +364,8 @@
     "playerAliases": [
       "andy roddick",
       "roddick"
-    ]
+    ],
+    "statLine": "4,535 pts"
   },
   {
     "year": 2002,
@@ -357,7 +380,8 @@
     "playerAliases": [
       "hewitt",
       "lleyton hewitt"
-    ]
+    ],
+    "statLine": "4,485 pts"
   },
   {
     "year": 2001,
@@ -372,7 +396,8 @@
     "playerAliases": [
       "hewitt",
       "lleyton hewitt"
-    ]
+    ],
+    "statLine": "4,365 pts"
   },
   {
     "year": 2000,
@@ -387,7 +412,8 @@
     "playerAliases": [
       "gustavo kuerten",
       "kuerten"
-    ]
+    ],
+    "statLine": "4,195 pts"
   },
   {
     "year": 1999,
@@ -402,7 +428,8 @@
     "playerAliases": [
       "agassi",
       "andre agassi"
-    ]
+    ],
+    "statLine": "5,048 pts"
   },
   {
     "year": 1998,
@@ -417,7 +444,8 @@
     "playerAliases": [
       "pete sampras",
       "sampras"
-    ]
+    ],
+    "statLine": "3,915 pts"
   },
   {
     "year": 1997,
@@ -432,7 +460,8 @@
     "playerAliases": [
       "pete sampras",
       "sampras"
-    ]
+    ],
+    "statLine": "4,547 pts"
   },
   {
     "year": 1996,
@@ -447,6 +476,7 @@
     "playerAliases": [
       "pete sampras",
       "sampras"
-    ]
+    ],
+    "statLine": "4,865 pts"
   }
 ]

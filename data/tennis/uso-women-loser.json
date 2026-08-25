@@ -1,542 +1,482 @@
 [
   {
     "year": 2025,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Amanda Anisimova",
     "playerAliases": [
       "amanda anisimova",
       "anisimova"
     ],
-    "opponent": {
-      "team": "Belarus",
-      "abbr": "BLR",
-      "logo": "assets/logos/tennis/flag-blr.png",
-      "colors": [
-        "#CE1720",
-        "#007C30"
-      ]
-    },
     "statLine": "Lost 6–3, 7–6(7–3)"
   },
   {
     "year": 2024,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Jessica Pegula",
     "playerAliases": [
       "jessica pegula",
       "pegula"
     ],
-    "opponent": {
-      "team": "Belarus",
-      "abbr": "BLR",
-      "logo": "assets/logos/tennis/flag-blr.png",
-      "colors": [
-        "#CE1720",
-        "#007C30"
-      ]
-    },
     "statLine": "Lost 7–5, 7–5"
   },
   {
     "year": 2023,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
+    "colors": [
+      "#CE1720",
+      "#007C30"
+    ],
     "player": "Aryna Sabalenka",
     "playerAliases": [
       "aryna sabalenka",
       "sabalenka"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 2–6, 6–3, 6–2"
   },
   {
     "year": 2022,
+    "team": "Tunisia",
+    "abbr": "TUN",
+    "logo": "assets/logos/tennis/flag-tun.png",
+    "colors": [
+      "#E70013",
+      "#FFFFFF"
+    ],
     "player": "Ons Jabeur",
     "playerAliases": [
       "jabeur",
       "ons jabeur"
     ],
-    "opponent": {
-      "team": "Poland",
-      "abbr": "POL",
-      "logo": "assets/logos/tennis/flag-pol.png",
-      "colors": [
-        "#FFFFFF",
-        "#DC143C"
-      ]
-    },
     "statLine": "Lost 6–2, 7–6(7–5)"
   },
   {
     "year": 2021,
+    "team": "Canada",
+    "abbr": "CAN",
+    "logo": "assets/logos/tennis/flag-can.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
     "player": "Leylah Fernandez",
     "playerAliases": [
       "fernandez",
       "leylah fernandez"
     ],
-    "opponent": {
-      "team": "United Kingdom",
-      "abbr": "GBR",
-      "logo": "assets/logos/tennis/flag-gbr.png",
-      "colors": [
-        "#C8102E",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–4, 6–3"
   },
   {
     "year": 2020,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
+    "colors": [
+      "#CE1720",
+      "#007C30"
+    ],
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
       "victoria azarenka"
     ],
-    "opponent": {
-      "team": "Japan",
-      "abbr": "JPN",
-      "logo": "assets/logos/tennis/flag-jpn.png",
-      "colors": [
-        "#FFFFFF",
-        "#BC002D"
-      ]
-    },
     "statLine": "Lost 1–6, 6–3, 6–3"
   },
   {
     "year": 2019,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Serena Williams",
     "playerAliases": [
       "serena williams",
       "williams"
     ],
-    "opponent": {
-      "team": "Canada",
-      "abbr": "CAN",
-      "logo": "assets/logos/tennis/flag-can.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–3, 7–5"
   },
   {
     "year": 2018,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Serena Williams",
     "playerAliases": [
       "serena williams",
       "williams"
     ],
-    "opponent": {
-      "team": "Japan",
-      "abbr": "JPN",
-      "logo": "assets/logos/tennis/flag-jpn.png",
-      "colors": [
-        "#FFFFFF",
-        "#BC002D"
-      ]
-    },
     "statLine": "Lost 6–2, 6–4"
   },
   {
     "year": 2017,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Madison Keys",
     "playerAliases": [
       "keys",
       "madison keys"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–3, 6–0"
   },
   {
     "year": 2016,
+    "team": "Czechia",
+    "abbr": "CZE",
+    "logo": "assets/logos/tennis/flag-cze.png",
+    "colors": [
+      "#FFFFFF",
+      "#D7141A"
+    ],
     "player": "Karolína Plíšková",
     "playerAliases": [
       "karolína plíšková",
       "plíšková"
     ],
-    "opponent": {
-      "team": "Germany",
-      "abbr": "GER",
-      "logo": "assets/logos/tennis/flag-ger.png",
-      "colors": [
-        "#000000",
-        "#DD0000"
-      ]
-    },
     "statLine": "Lost 6–3, 4–6, 6–4"
   },
   {
     "year": 2015,
+    "team": "Italy",
+    "abbr": "ITA",
+    "logo": "assets/logos/tennis/flag-ita.png",
+    "colors": [
+      "#009246",
+      "#FFFFFF"
+    ],
     "player": "Roberta Vinci",
     "playerAliases": [
       "roberta vinci",
       "vinci"
     ],
-    "opponent": {
-      "team": "Italy",
-      "abbr": "ITA",
-      "logo": "assets/logos/tennis/flag-ita.png",
-      "colors": [
-        "#009246",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 7–6(7–4), 6–2"
   },
   {
     "year": 2014,
+    "team": "Denmark",
+    "abbr": "DEN",
+    "logo": "assets/logos/tennis/flag-den.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
     "player": "Caroline Wozniacki",
     "playerAliases": [
       "caroline wozniacki",
       "wozniacki"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–3, 6–3"
   },
   {
     "year": 2013,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
+    "colors": [
+      "#CE1720",
+      "#007C30"
+    ],
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
       "victoria azarenka"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 7–5, 6–7(6–8), 6–1"
   },
   {
     "year": 2012,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
+    "colors": [
+      "#CE1720",
+      "#007C30"
+    ],
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
       "victoria azarenka"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–2, 2–6, 7–5"
   },
   {
     "year": 2011,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Serena Williams",
     "playerAliases": [
       "serena williams",
       "williams"
     ],
-    "opponent": {
-      "team": "Australia",
-      "abbr": "AUS",
-      "logo": "assets/logos/tennis/flag-aus.png",
-      "colors": [
-        "#012169",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–2, 6–3"
   },
   {
     "year": 2010,
+    "team": "Russia",
+    "abbr": "RUS",
+    "logo": "assets/logos/tennis/flag-rus.png",
+    "colors": [
+      "#FFFFFF",
+      "#0039A6"
+    ],
     "player": "Vera Zvonareva",
     "playerAliases": [
       "vera zvonareva",
       "zvonareva"
     ],
-    "opponent": {
-      "team": "Belgium",
-      "abbr": "BEL",
-      "logo": "assets/logos/tennis/flag-bel.png",
-      "colors": [
-        "#000000",
-        "#FDDA25"
-      ]
-    },
     "statLine": "Lost 6–2, 6–1"
   },
   {
     "year": 2009,
+    "team": "Denmark",
+    "abbr": "DEN",
+    "logo": "assets/logos/tennis/flag-den.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
     "player": "Caroline Wozniacki",
     "playerAliases": [
       "caroline wozniacki",
       "wozniacki"
     ],
-    "opponent": {
-      "team": "Belgium",
-      "abbr": "BEL",
-      "logo": "assets/logos/tennis/flag-bel.png",
-      "colors": [
-        "#000000",
-        "#FDDA25"
-      ]
-    },
     "statLine": "Lost 7–5, 6–3"
   },
   {
     "year": 2008,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
     "player": "Jelena Janković",
     "playerAliases": [
       "janković",
       "jelena janković"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–4, 7–5"
   },
   {
     "year": 2007,
+    "team": "Russia",
+    "abbr": "RUS",
+    "logo": "assets/logos/tennis/flag-rus.png",
+    "colors": [
+      "#FFFFFF",
+      "#0039A6"
+    ],
     "player": "Svetlana Kuznetsova",
     "playerAliases": [
       "kuznetsova",
       "svetlana kuznetsova"
     ],
-    "opponent": {
-      "team": "Belgium",
-      "abbr": "BEL",
-      "logo": "assets/logos/tennis/flag-bel.png",
-      "colors": [
-        "#000000",
-        "#FDDA25"
-      ]
-    },
     "statLine": "Lost 6–1, 6–3"
   },
   {
     "year": 2006,
+    "team": "Belgium",
+    "abbr": "BEL",
+    "logo": "assets/logos/tennis/flag-bel.png",
+    "colors": [
+      "#000000",
+      "#FDDA25"
+    ],
     "player": "Justine Henin",
     "playerAliases": [
       "henin",
       "justine henin"
     ],
-    "opponent": {
-      "team": "Russia",
-      "abbr": "RUS",
-      "logo": "assets/logos/tennis/flag-rus.png",
-      "colors": [
-        "#FFFFFF",
-        "#0039A6"
-      ]
-    },
     "statLine": "Lost 6–4, 6–4"
   },
   {
     "year": 2005,
+    "team": "France",
+    "abbr": "FRA",
+    "logo": "assets/logos/tennis/flag-fra.png",
+    "colors": [
+      "#002654",
+      "#FFFFFF"
+    ],
     "player": "Mary Pierce",
     "playerAliases": [
       "mary pierce",
       "pierce"
     ],
-    "opponent": {
-      "team": "Belgium",
-      "abbr": "BEL",
-      "logo": "assets/logos/tennis/flag-bel.png",
-      "colors": [
-        "#000000",
-        "#FDDA25"
-      ]
-    },
     "statLine": "Lost 6–3, 6–1"
   },
   {
     "year": 2004,
+    "team": "Russia",
+    "abbr": "RUS",
+    "logo": "assets/logos/tennis/flag-rus.png",
+    "colors": [
+      "#FFFFFF",
+      "#0039A6"
+    ],
     "player": "Elena Dementieva",
     "playerAliases": [
       "dementieva",
       "elena dementieva"
     ],
-    "opponent": {
-      "team": "Russia",
-      "abbr": "RUS",
-      "logo": "assets/logos/tennis/flag-rus.png",
-      "colors": [
-        "#FFFFFF",
-        "#0039A6"
-      ]
-    },
     "statLine": "Lost 6–3, 7–5"
   },
   {
     "year": 2003,
+    "team": "Belgium",
+    "abbr": "BEL",
+    "logo": "assets/logos/tennis/flag-bel.png",
+    "colors": [
+      "#000000",
+      "#FDDA25"
+    ],
     "player": "Kim Clijsters",
     "playerAliases": [
       "clijsters",
       "kim clijsters"
     ],
-    "opponent": {
-      "team": "Belgium",
-      "abbr": "BEL",
-      "logo": "assets/logos/tennis/flag-bel.png",
-      "colors": [
-        "#000000",
-        "#FDDA25"
-      ]
-    },
     "statLine": "Lost 7–5, 6–1"
   },
   {
     "year": 2002,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Venus Williams",
     "playerAliases": [
       "venus williams",
       "williams"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–4, 6–3"
   },
   {
     "year": 2001,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Serena Williams",
     "playerAliases": [
       "serena williams",
       "williams"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–2, 6–4"
   },
   {
     "year": 2000,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Lindsay Davenport",
     "playerAliases": [
       "davenport",
       "lindsay davenport"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–4, 7–5"
   },
   {
     "year": 1999,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
       "martina hingis"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–3, 7–6(7–4)"
   },
   {
     "year": 1998,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
       "martina hingis"
     ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–3, 7–5"
   },
   {
     "year": 1997,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Venus Williams",
     "playerAliases": [
       "venus williams",
       "williams"
     ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
     "statLine": "Lost 6–0, 6–4"
   },
   {
     "year": 1996,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
     "player": "Monica Seles",
     "playerAliases": [
       "monica seles",
       "seles"
     ],
-    "opponent": {
-      "team": "Germany",
-      "abbr": "GER",
-      "logo": "assets/logos/tennis/flag-ger.png",
-      "colors": [
-        "#000000",
-        "#DD0000"
-      ]
-    },
     "statLine": "Lost 7–5, 6–4"
   }
 ]

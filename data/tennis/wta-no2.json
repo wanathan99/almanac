@@ -12,7 +12,8 @@
     "playerAliases": [
       "iga świątek",
       "świątek"
-    ]
+    ],
+    "statLine": "8,395 pts"
   },
   {
     "year": 2024,
@@ -27,22 +28,24 @@
     "playerAliases": [
       "iga świątek",
       "świątek"
-    ]
+    ],
+    "statLine": "8,370 pts"
   },
   {
     "year": 2023,
-    "team": "Belarus",
-    "abbr": "BLR",
-    "logo": "assets/logos/tennis/flag-blr.png",
+    "team": null,
+    "abbr": null,
+    "logo": null,
     "colors": [
-      "#CE1720",
-      "#007C30"
+      "#374151",
+      "#e5e7eb"
     ],
     "player": "Aryna Sabalenka",
     "playerAliases": [
       "aryna sabalenka",
       "sabalenka"
-    ]
+    ],
+    "statLine": "9,050 pts"
   },
   {
     "year": 2022,
@@ -57,7 +60,8 @@
     "playerAliases": [
       "jabeur",
       "ons jabeur"
-    ]
+    ],
+    "statLine": "5,055 pts"
   },
   {
     "year": 2021,
@@ -72,7 +76,8 @@
     "playerAliases": [
       "aryna sabalenka",
       "sabalenka"
-    ]
+    ],
+    "statLine": "6,380 pts"
   },
   {
     "year": 2020,
@@ -87,7 +92,8 @@
     "playerAliases": [
       "halep",
       "simona halep"
-    ]
+    ],
+    "statLine": "7,255 pts"
   },
   {
     "year": 2019,
@@ -102,7 +108,8 @@
     "playerAliases": [
       "karolína plíšková",
       "plíšková"
-    ]
+    ],
+    "statLine": "5,940 pts"
   },
   {
     "year": 2018,
@@ -117,7 +124,8 @@
     "playerAliases": [
       "angelique kerber",
       "kerber"
-    ]
+    ],
+    "statLine": "5,875 pts"
   },
   {
     "year": 2017,
@@ -132,7 +140,8 @@
     "playerAliases": [
       "garbiñe muguruza",
       "muguruza"
-    ]
+    ],
+    "statLine": "6,135 pts"
   },
   {
     "year": 2016,
@@ -147,7 +156,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "7,050 pts"
   },
   {
     "year": 2015,
@@ -162,7 +172,8 @@
     "playerAliases": [
       "halep",
       "simona halep"
-    ]
+    ],
+    "statLine": "6,060 pts"
   },
   {
     "year": 2014,
@@ -177,7 +188,8 @@
     "playerAliases": [
       "maria sharapova",
       "sharapova"
-    ]
+    ],
+    "statLine": "7,050 pts"
   },
   {
     "year": 2013,
@@ -192,7 +204,8 @@
     "playerAliases": [
       "azarenka",
       "victoria azarenka"
-    ]
+    ],
+    "statLine": "7,676 pts"
   },
   {
     "year": 2012,
@@ -207,7 +220,8 @@
     "playerAliases": [
       "maria sharapova",
       "sharapova"
-    ]
+    ],
+    "statLine": "10,045 pts"
   },
   {
     "year": 2011,
@@ -222,7 +236,8 @@
     "playerAliases": [
       "kvitová",
       "petra kvitová"
-    ]
+    ],
+    "statLine": "7,370 pts"
   },
   {
     "year": 2010,
@@ -237,7 +252,8 @@
     "playerAliases": [
       "vera zvonareva",
       "zvonareva"
-    ]
+    ],
+    "statLine": "6,785 pts"
   },
   {
     "year": 2009,
@@ -252,7 +268,8 @@
     "playerAliases": [
       "dinara safina",
       "safina"
-    ]
+    ],
+    "statLine": "7,800 pts"
   },
   {
     "year": 2008,
@@ -267,7 +284,8 @@
     "playerAliases": [
       "serena williams",
       "williams"
-    ]
+    ],
+    "statLine": "3,866 pts"
   },
   {
     "year": 2007,
@@ -282,7 +300,8 @@
     "playerAliases": [
       "kuznetsova",
       "svetlana kuznetsova"
-    ]
+    ],
+    "statLine": "3,725 pts"
   },
   {
     "year": 2006,
@@ -297,7 +316,8 @@
     "playerAliases": [
       "maria sharapova",
       "sharapova"
-    ]
+    ],
+    "statLine": "3,532 pts"
   },
   {
     "year": 2005,
@@ -312,7 +332,8 @@
     "playerAliases": [
       "clijsters",
       "kim clijsters"
-    ]
+    ],
+    "statLine": "4,829 pts"
   },
   {
     "year": 2004,
@@ -327,7 +348,8 @@
     "playerAliases": [
       "amélie mauresmo",
       "mauresmo"
-    ]
+    ],
+    "statLine": "4,546 pts"
   },
   {
     "year": 2003,
@@ -342,7 +364,8 @@
     "playerAliases": [
       "clijsters",
       "kim clijsters"
-    ]
+    ],
+    "statLine": "6,553 pts"
   },
   {
     "year": 2002,
@@ -357,7 +380,8 @@
     "playerAliases": [
       "venus williams",
       "williams"
-    ]
+    ],
+    "statLine": "5,140 pts"
   },
   {
     "year": 2001,
@@ -372,7 +396,8 @@
     "playerAliases": [
       "capriati",
       "jennifer capriati"
-    ]
+    ],
+    "statLine": "4,892 pts"
   },
   {
     "year": 2000,
@@ -387,7 +412,8 @@
     "playerAliases": [
       "davenport",
       "lindsay davenport"
-    ]
+    ],
+    "statLine": "5,021 pts"
   },
   {
     "year": 1999,
@@ -402,7 +428,8 @@
     "playerAliases": [
       "davenport",
       "lindsay davenport"
-    ]
+    ],
+    "statLine": "4,841 pts"
   },
   {
     "year": 1998,
@@ -417,7 +444,8 @@
     "playerAliases": [
       "hingis",
       "martina hingis"
-    ]
+    ],
+    "statLine": "5,366 pts"
   },
   {
     "year": 1997,
@@ -432,7 +460,8 @@
     "playerAliases": [
       "jana novotná",
       "novotná"
-    ]
+    ],
+    "statLine": "3,754 pts"
   },
   {
     "year": 1996,
@@ -447,6 +476,7 @@
     "playerAliases": [
       "monica seles",
       "seles"
-    ]
+    ],
+    "statLine": "4,056 pts"
   }
 ]
