@@ -279,7 +279,8 @@ function renderGrid(entries) {
       } else {
         logo.style.background = `linear-gradient(135deg, ${hc1}, ${hc2})`;
         logo.style.color = pickTextColor(hc1);
-        logo.innerHTML = `<div class="cell-logo-abbr">${hint.abbr}</div>`;
+        const abbrSize = hint.abbr.length > 24 ? '0.72rem' : hint.abbr.length > 10 ? '0.9rem' : '1.15rem';
+        logo.innerHTML = `<div class="cell-logo-abbr" style="font-size: ${abbrSize}">${hint.abbr}</div>`;
       }
     }
     cell.appendChild(logo);
