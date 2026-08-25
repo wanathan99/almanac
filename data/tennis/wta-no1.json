@@ -1,12 +1,12 @@
 [
   {
     "year": 2025,
-    "team": null,
-    "abbr": null,
-    "logo": null,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
     "colors": [
-      "#374151",
-      "#e5e7eb"
+      "#CE1720",
+      "#007C30"
     ],
     "player": "Aryna Sabalenka",
     "playerAliases": [
@@ -17,12 +17,12 @@
   },
   {
     "year": 2024,
-    "team": null,
-    "abbr": null,
-    "logo": null,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
     "colors": [
-      "#374151",
-      "#e5e7eb"
+      "#CE1720",
+      "#007C30"
     ],
     "player": "Aryna Sabalenka",
     "playerAliases": [
@@ -171,6 +171,7 @@
     ],
     "player": "Serena Williams",
     "playerAliases": [
+      "serena",
       "serena williams",
       "williams"
     ],
@@ -187,6 +188,7 @@
     ],
     "player": "Serena Williams",
     "playerAliases": [
+      "serena",
       "serena williams",
       "williams"
     ],
@@ -203,6 +205,7 @@
     ],
     "player": "Serena Williams",
     "playerAliases": [
+      "serena",
       "serena williams",
       "williams"
     ],
@@ -268,6 +271,7 @@
     ],
     "player": "Serena Williams",
     "playerAliases": [
+      "serena",
       "serena williams",
       "williams"
     ],
@@ -380,6 +384,7 @@
     ],
     "player": "Serena Williams",
     "playerAliases": [
+      "serena",
       "serena williams",
       "williams"
     ],

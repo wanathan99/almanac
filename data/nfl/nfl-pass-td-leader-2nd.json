@@ -85,7 +85,9 @@
     ],
     "player": "Tom Brady",
     "playerAliases": [
-      "tom brady"
+      "brady",
+      "tom brady",
+      "tom terrific"
     ],
     "statLine": "40 pass TD"
   },
@@ -175,7 +177,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "39 pass TD"
   },
@@ -205,7 +209,8 @@
     ],
     "player": "Aaron Rodgers",
     "playerAliases": [
-      "aaron rodgers"
+      "aaron rodgers",
+      "rodgers"
     ],
     "statLine": "39 pass TD"
   },
@@ -220,7 +225,8 @@
     ],
     "player": "Aaron Rodgers",
     "playerAliases": [
-      "aaron rodgers"
+      "aaron rodgers",
+      "rodgers"
     ],
     "statLine": "45 pass TD"
   },
@@ -250,7 +256,8 @@
     ],
     "player": "Brett Favre",
     "playerAliases": [
-      "brett favre"
+      "brett favre",
+      "favre"
     ],
     "statLine": "33 pass TD"
   },
@@ -310,7 +317,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "28 pass TD"
   },
@@ -340,7 +349,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "29 pass TD"
   },
@@ -370,7 +381,8 @@
     ],
     "player": "Brett Favre",
     "playerAliases": [
-      "brett favre"
+      "brett favre",
+      "favre"
     ],
     "statLine": "32 pass TD"
   },
@@ -385,7 +397,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "33 pass TD"
   },

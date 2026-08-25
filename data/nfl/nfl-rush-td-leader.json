@@ -85,7 +85,8 @@
     ],
     "player": "Derrick Henry",
     "playerAliases": [
-      "derrick henry"
+      "derrick henry",
+      "king henry"
     ],
     "statLine": "17 rush TD"
   },
@@ -100,7 +101,8 @@
     ],
     "player": "Derrick Henry",
     "playerAliases": [
-      "derrick henry"
+      "derrick henry",
+      "king henry"
     ],
     "statLine": "16 rush TD"
   },
@@ -280,7 +282,8 @@
     ],
     "player": "LaDainian Tomlinson",
     "playerAliases": [
-      "ladainian tomlinson"
+      "ladainian tomlinson",
+      "lt"
     ],
     "statLine": "15 rush TD"
   },
@@ -295,7 +298,8 @@
     ],
     "player": "LaDainian Tomlinson",
     "playerAliases": [
-      "ladainian tomlinson"
+      "ladainian tomlinson",
+      "lt"
     ],
     "statLine": "28 rush TD"
   },
@@ -325,7 +329,8 @@
     ],
     "player": "LaDainian Tomlinson",
     "playerAliases": [
-      "ladainian tomlinson"
+      "ladainian tomlinson",
+      "lt"
     ],
     "statLine": "17 rush TD"
   },

@@ -55,7 +55,9 @@
     ],
     "player": "Tom Brady",
     "playerAliases": [
-      "tom brady"
+      "brady",
+      "tom brady",
+      "tom terrific"
     ],
     "statLine": "4,694 pass yds"
   },
@@ -85,7 +87,9 @@
     ],
     "player": "Tom Brady",
     "playerAliases": [
-      "tom brady"
+      "brady",
+      "tom brady",
+      "tom terrific"
     ],
     "statLine": "4,633 pass yds"
   },
@@ -160,7 +164,9 @@
     ],
     "player": "Tom Brady",
     "playerAliases": [
-      "tom brady"
+      "brady",
+      "tom brady",
+      "tom terrific"
     ],
     "statLine": "4,770 pass yds"
   },
@@ -310,7 +316,8 @@
     ],
     "player": "Brett Favre",
     "playerAliases": [
-      "brett favre"
+      "brett favre",
+      "favre"
     ],
     "statLine": "3,881 pass yds"
   },
@@ -325,7 +332,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "4,557 pass yds"
   },
@@ -355,7 +364,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "4,200 pass yds"
   },
@@ -370,7 +381,8 @@
     ],
     "player": "Brett Favre",
     "playerAliases": [
-      "brett favre"
+      "brett favre",
+      "favre"
     ],
     "statLine": "3,921 pass yds"
   },
@@ -400,7 +412,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "4,135 pass yds"
   },
@@ -415,7 +429,9 @@
     ],
     "player": "Peyton Manning",
     "playerAliases": [
-      "peyton manning"
+      "peyton",
+      "peyton manning",
+      "the sheriff"
     ],
     "statLine": "3,739 pass yds"
   },

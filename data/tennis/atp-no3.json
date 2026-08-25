@@ -35,12 +35,12 @@
   },
   {
     "year": 2023,
-    "team": null,
-    "abbr": null,
-    "logo": null,
+    "team": "Russia",
+    "abbr": "RUS",
+    "logo": "assets/logos/tennis/flag-rus.png",
     "colors": [
-      "#374151",
-      "#e5e7eb"
+      "#FFFFFF",
+      "#0039A6"
     ],
     "player": "Daniil Medvedev",
     "playerAliases": [

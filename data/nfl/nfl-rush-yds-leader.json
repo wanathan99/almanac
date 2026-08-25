@@ -85,7 +85,8 @@
     ],
     "player": "Derrick Henry",
     "playerAliases": [
-      "derrick henry"
+      "derrick henry",
+      "king henry"
     ],
     "statLine": "2,027 rush yds"
   },
@@ -100,7 +101,8 @@
     ],
     "player": "Derrick Henry",
     "playerAliases": [
-      "derrick henry"
+      "derrick henry",
+      "king henry"
     ],
     "statLine": "1,540 rush yds"
   },
@@ -280,7 +282,8 @@
     ],
     "player": "LaDainian Tomlinson",
     "playerAliases": [
-      "ladainian tomlinson"
+      "ladainian tomlinson",
+      "lt"
     ],
     "statLine": "1,474 rush yds"
   },
@@ -295,7 +298,8 @@
     ],
     "player": "LaDainian Tomlinson",
     "playerAliases": [
-      "ladainian tomlinson"
+      "ladainian tomlinson",
+      "lt"
     ],
     "statLine": "1,815 rush yds"
   },
