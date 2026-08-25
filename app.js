@@ -111,7 +111,7 @@ async function loadCategories() {
 
 function renderCategories(sports) {
   categoryList.innerHTML = '';
-  sports.forEach((sport, idx) => {
+  sports.forEach((sport) => {
     const section = document.createElement('div');
     section.className = 'sport-section';
 
@@ -132,7 +132,7 @@ function renderCategories(sports) {
       section.classList.toggle('collapsed');
     });
 
-    if (idx > 0) section.classList.add('collapsed');
+    section.classList.add('collapsed');
 
     sport.categories.forEach((cat) => {
       if (cat.types) {
