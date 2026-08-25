@@ -1,0 +1,543 @@
+[
+  {
+    "year": 1996,
+    "player": "Pete Sampras",
+    "playerAliases": [
+      "pete sampras",
+      "sampras"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–1, 6–4, 7–6(7–3)"
+  },
+  {
+    "year": 1997,
+    "player": "Patrick Rafter",
+    "playerAliases": [
+      "patrick rafter",
+      "rafter"
+    ],
+    "opponent": {
+      "team": "United Kingdom",
+      "abbr": "GBR",
+      "logo": "assets/logos/tennis/flag-gbr.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 6–2, 4–6, 7–5"
+  },
+  {
+    "year": 1998,
+    "player": "Patrick Rafter",
+    "playerAliases": [
+      "patrick rafter",
+      "rafter"
+    ],
+    "opponent": {
+      "team": "Australia",
+      "abbr": "AUS",
+      "logo": "assets/logos/tennis/flag-aus.png",
+      "colors": [
+        "#012169",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 3–6, 6–2, 6–0"
+  },
+  {
+    "year": 1999,
+    "player": "Andre Agassi",
+    "playerAliases": [
+      "agassi",
+      "andre agassi"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 6–7(5–7), 6–7(2–7), 6–3, 6–2"
+  },
+  {
+    "year": 2000,
+    "player": "Marat Safin",
+    "playerAliases": [
+      "marat safin",
+      "safin"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 6–3, 6–3"
+  },
+  {
+    "year": 2001,
+    "player": "Lleyton Hewitt",
+    "playerAliases": [
+      "hewitt",
+      "lleyton hewitt"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 7–6(7–4), 6–1, 6–1"
+  },
+  {
+    "year": 2002,
+    "player": "Pete Sampras",
+    "playerAliases": [
+      "pete sampras",
+      "sampras"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 6–4, 5–7, 6–4"
+  },
+  {
+    "year": 2003,
+    "player": "Andy Roddick",
+    "playerAliases": [
+      "andy roddick",
+      "roddick"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–3, 7–6(7–2), 6–3"
+  },
+  {
+    "year": 2004,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Australia",
+      "abbr": "AUS",
+      "logo": "assets/logos/tennis/flag-aus.png",
+      "colors": [
+        "#012169",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–0, 7–6(7–3), 6–0"
+  },
+  {
+    "year": 2005,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 2–6, 7–6(7–1), 6–1"
+  },
+  {
+    "year": 2006,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–2, 4–6, 7–5, 6–1"
+  },
+  {
+    "year": 2007,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 7–6(7–4), 7–6(7–2), 6–4"
+  },
+  {
+    "year": 2008,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "United Kingdom",
+      "abbr": "GBR",
+      "logo": "assets/logos/tennis/flag-gbr.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–2, 7–5, 6–2"
+  },
+  {
+    "year": 2009,
+    "player": "Juan Martín del Potro",
+    "playerAliases": [
+      "del potro",
+      "delpotro",
+      "juan martín del potro"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 3–6, 7–6(7–5), 4–6, 7–6(7–4), 6–2"
+  },
+  {
+    "year": 2010,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 6–4, 5–7, 6–4, 6–2"
+  },
+  {
+    "year": 2011,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–2, 6–4, 6–7(3–7), 6–1"
+  },
+  {
+    "year": 2012,
+    "player": "Andy Murray",
+    "playerAliases": [
+      "andy murray",
+      "murray"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 7–6(12–10), 7–5, 2–6, 3–6, 6–2"
+  },
+  {
+    "year": 2013,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 6–2, 3–6, 6–4, 6–1"
+  },
+  {
+    "year": 2014,
+    "player": "Marin Čilić",
+    "playerAliases": [
+      "marin čilić",
+      "čilić"
+    ],
+    "opponent": {
+      "team": "Japan",
+      "abbr": "JPN",
+      "logo": "assets/logos/tennis/flag-jpn.png",
+      "colors": [
+        "#FFFFFF",
+        "#BC002D"
+      ]
+    },
+    "statLine": "Won 6–3, 6–3, 6–3"
+  },
+  {
+    "year": 2015,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 5–7, 6–4, 6–4"
+  },
+  {
+    "year": 2016,
+    "player": "Stan Wawrinka",
+    "playerAliases": [
+      "stan wawrinka",
+      "wawrinka"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 6–7(1–7), 6–4, 7–5, 6–3"
+  },
+  {
+    "year": 2017,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "South Africa",
+      "abbr": "RSA",
+      "logo": "assets/logos/tennis/flag-rsa.png",
+      "colors": [
+        "#007749",
+        "#E03C31"
+      ]
+    },
+    "statLine": "Won 6–3, 6–3, 6–4"
+  },
+  {
+    "year": 2018,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "Argentina",
+      "abbr": "ARG",
+      "logo": "assets/logos/tennis/flag-arg.png",
+      "colors": [
+        "#74ACDF",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 7–6(7–4), 6–3"
+  },
+  {
+    "year": 2019,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Russia",
+      "abbr": "RUS",
+      "logo": "assets/logos/tennis/flag-rus.png",
+      "colors": [
+        "#FFFFFF",
+        "#0039A6"
+      ]
+    },
+    "statLine": "Won 7–5, 6–3, 5–7, 4–6, 6–4"
+  },
+  {
+    "year": 2020,
+    "player": "Dominic Thiem",
+    "playerAliases": [
+      "dominic thiem",
+      "thiem"
+    ],
+    "opponent": {
+      "team": "Germany",
+      "abbr": "GER",
+      "logo": "assets/logos/tennis/flag-ger.png",
+      "colors": [
+        "#000000",
+        "#DD0000"
+      ]
+    },
+    "statLine": "Won 2–6, 4–6, 6–4, 6–3, 7–6(8–6)"
+  },
+  {
+    "year": 2021,
+    "player": "Daniil Medvedev",
+    "playerAliases": [
+      "daniil medvedev",
+      "medvedev"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 6–4, 6–4, 6–4"
+  },
+  {
+    "year": 2022,
+    "player": "Carlos Alcaraz",
+    "playerAliases": [
+      "alcaraz",
+      "carlos alcaraz"
+    ],
+    "opponent": {
+      "team": "Norway",
+      "abbr": "NOR",
+      "logo": "assets/logos/tennis/flag-nor.png",
+      "colors": [
+        "#BA0C2F",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 2–6, 7–6(7–1), 6–3"
+  },
+  {
+    "year": 2023,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "Russia",
+      "abbr": "RUS",
+      "logo": "assets/logos/tennis/flag-rus.png",
+      "colors": [
+        "#FFFFFF",
+        "#0039A6"
+      ]
+    },
+    "statLine": "Won 6–3, 7–6(7–5), 6–3"
+  },
+  {
+    "year": 2024,
+    "player": "Jannik Sinner",
+    "playerAliases": [
+      "jannik sinner",
+      "sinner"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 6–4, 7–5"
+  },
+  {
+    "year": 2025,
+    "player": "Carlos Alcaraz",
+    "playerAliases": [
+      "alcaraz",
+      "carlos alcaraz"
+    ],
+    "opponent": {
+      "team": "Italy",
+      "abbr": "ITA",
+      "logo": "assets/logos/tennis/flag-ita.png",
+      "colors": [
+        "#009246",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–2, 3–6, 6–1, 6–4"
+  }
+]

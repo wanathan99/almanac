@@ -1,0 +1,452 @@
+[
+  {
+    "year": 1996,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Pete Sampras",
+    "playerAliases": [
+      "pete sampras",
+      "sampras"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Pete Sampras",
+    "playerAliases": [
+      "pete sampras",
+      "sampras"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Pete Sampras",
+    "playerAliases": [
+      "pete sampras",
+      "sampras"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Andre Agassi",
+    "playerAliases": [
+      "agassi",
+      "andre agassi"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Brazil",
+    "abbr": "BRA",
+    "logo": "assets/logos/tennis/flag-bra.png",
+    "colors": [
+      "#009440",
+      "#FFCB00"
+    ],
+    "player": "Gustavo Kuerten",
+    "playerAliases": [
+      "gustavo kuerten",
+      "kuerten"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#012169",
+      "#FFFFFF"
+    ],
+    "player": "Lleyton Hewitt",
+    "playerAliases": [
+      "hewitt",
+      "lleyton hewitt"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#012169",
+      "#FFFFFF"
+    ],
+    "player": "Lleyton Hewitt",
+    "playerAliases": [
+      "hewitt",
+      "lleyton hewitt"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Andy Roddick",
+    "playerAliases": [
+      "andy roddick",
+      "roddick"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Andy Murray",
+    "playerAliases": [
+      "andy murray",
+      "murray"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Carlos Alcaraz",
+    "playerAliases": [
+      "alcaraz",
+      "carlos alcaraz"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Italy",
+    "abbr": "ITA",
+    "logo": "assets/logos/tennis/flag-ita.png",
+    "colors": [
+      "#009246",
+      "#FFFFFF"
+    ],
+    "player": "Jannik Sinner",
+    "playerAliases": [
+      "jannik sinner",
+      "sinner"
+    ]
+  },
+  {
+    "year": 2025,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AD1519",
+      "#FABD00"
+    ],
+    "player": "Carlos Alcaraz",
+    "playerAliases": [
+      "alcaraz",
+      "carlos alcaraz"
+    ]
+  }
+]

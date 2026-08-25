@@ -1,0 +1,529 @@
+[
+  {
+    "year": 1996,
+    "player": "Steffi Graf",
+    "playerAliases": [
+      "graf",
+      "steffi graf"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–3, 7–5"
+  },
+  {
+    "year": 1997,
+    "player": "Martina Hingis",
+    "playerAliases": [
+      "hingis",
+      "martina hingis"
+    ],
+    "opponent": {
+      "team": "Czechia",
+      "abbr": "CZE",
+      "logo": "assets/logos/tennis/flag-cze.png",
+      "colors": [
+        "#FFFFFF",
+        "#D7141A"
+      ]
+    },
+    "statLine": "Won 2–6, 6–3, 6–3"
+  },
+  {
+    "year": 1998,
+    "player": "Jana Novotná",
+    "playerAliases": [
+      "jana novotná",
+      "novotná"
+    ],
+    "opponent": {
+      "team": "France",
+      "abbr": "FRA",
+      "logo": "assets/logos/tennis/flag-fra.png",
+      "colors": [
+        "#002654",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 7–6(7–2)"
+  },
+  {
+    "year": 1999,
+    "player": "Lindsay Davenport",
+    "playerAliases": [
+      "davenport",
+      "lindsay davenport"
+    ],
+    "opponent": {
+      "team": "Germany",
+      "abbr": "GER",
+      "logo": "assets/logos/tennis/flag-ger.png",
+      "colors": [
+        "#000000",
+        "#DD0000"
+      ]
+    },
+    "statLine": "Won 6–4, 7–5"
+  },
+  {
+    "year": 2000,
+    "player": "Venus Williams",
+    "playerAliases": [
+      "venus williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 7–6(7–3)"
+  },
+  {
+    "year": 2001,
+    "player": "Venus Williams",
+    "playerAliases": [
+      "venus williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "Belgium",
+      "abbr": "BEL",
+      "logo": "assets/logos/tennis/flag-bel.png",
+      "colors": [
+        "#000000",
+        "#FDDA25"
+      ]
+    },
+    "statLine": "Won 6–1, 3–6, 6–0"
+  },
+  {
+    "year": 2002,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 7–6(7–4), 6–3"
+  },
+  {
+    "year": 2003,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 4–6, 6–4, 6–2"
+  },
+  {
+    "year": 2004,
+    "player": "Maria Sharapova",
+    "playerAliases": [
+      "maria sharapova",
+      "sharapova"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–1, 6–4"
+  },
+  {
+    "year": 2005,
+    "player": "Venus Williams",
+    "playerAliases": [
+      "venus williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 4–6, 7–6(7–4), 9–7"
+  },
+  {
+    "year": 2006,
+    "player": "Amélie Mauresmo",
+    "playerAliases": [
+      "amélie mauresmo",
+      "mauresmo"
+    ],
+    "opponent": {
+      "team": "Belgium",
+      "abbr": "BEL",
+      "logo": "assets/logos/tennis/flag-bel.png",
+      "colors": [
+        "#000000",
+        "#FDDA25"
+      ]
+    },
+    "statLine": "Won 2–6, 6–3, 6–4"
+  },
+  {
+    "year": 2007,
+    "player": "Venus Williams",
+    "playerAliases": [
+      "venus williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "France",
+      "abbr": "FRA",
+      "logo": "assets/logos/tennis/flag-fra.png",
+      "colors": [
+        "#002654",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 6–1"
+  },
+  {
+    "year": 2008,
+    "player": "Venus Williams",
+    "playerAliases": [
+      "venus williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 7–5, 6–4"
+  },
+  {
+    "year": 2009,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 7–6(7–3), 6–2"
+  },
+  {
+    "year": 2010,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "Russia",
+      "abbr": "RUS",
+      "logo": "assets/logos/tennis/flag-rus.png",
+      "colors": [
+        "#FFFFFF",
+        "#0039A6"
+      ]
+    },
+    "statLine": "Won 6–3, 6–2"
+  },
+  {
+    "year": 2011,
+    "player": "Petra Kvitová",
+    "playerAliases": [
+      "kvitová",
+      "petra kvitová"
+    ],
+    "opponent": {
+      "team": "Russia",
+      "abbr": "RUS",
+      "logo": "assets/logos/tennis/flag-rus.png",
+      "colors": [
+        "#FFFFFF",
+        "#0039A6"
+      ]
+    },
+    "statLine": "Won 6–3, 6–4"
+  },
+  {
+    "year": 2012,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "Poland",
+      "abbr": "POL",
+      "logo": "assets/logos/tennis/flag-pol.png",
+      "colors": [
+        "#FFFFFF",
+        "#DC143C"
+      ]
+    },
+    "statLine": "Won 6–1, 5–7, 6–2"
+  },
+  {
+    "year": 2013,
+    "player": "Marion Bartoli",
+    "playerAliases": [
+      "bartoli",
+      "marion bartoli"
+    ],
+    "opponent": {
+      "team": "Germany",
+      "abbr": "GER",
+      "logo": "assets/logos/tennis/flag-ger.png",
+      "colors": [
+        "#000000",
+        "#DD0000"
+      ]
+    },
+    "statLine": "Won 6–1, 6–4"
+  },
+  {
+    "year": 2014,
+    "player": "Petra Kvitová",
+    "playerAliases": [
+      "kvitová",
+      "petra kvitová"
+    ],
+    "opponent": {
+      "team": "Canada",
+      "abbr": "CAN",
+      "logo": "assets/logos/tennis/flag-can.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 6–0"
+  },
+  {
+    "year": 2015,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–4, 6–4"
+  },
+  {
+    "year": 2016,
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ],
+    "opponent": {
+      "team": "Germany",
+      "abbr": "GER",
+      "logo": "assets/logos/tennis/flag-ger.png",
+      "colors": [
+        "#000000",
+        "#DD0000"
+      ]
+    },
+    "statLine": "Won 7–5, 6–3"
+  },
+  {
+    "year": 2017,
+    "player": "Garbiñe Muguruza",
+    "playerAliases": [
+      "garbiñe muguruza",
+      "muguruza"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 7–5, 6–0"
+  },
+  {
+    "year": 2018,
+    "player": "Angelique Kerber",
+    "playerAliases": [
+      "angelique kerber",
+      "kerber"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 6–3"
+  },
+  {
+    "year": 2019,
+    "player": "Simona Halep",
+    "playerAliases": [
+      "halep",
+      "simona halep"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–2, 6–2"
+  },
+  {
+    "year": 2020,
+    "invalid": true,
+    "reason": "Wimbledon 2020 was canceled due to the COVID-19 pandemic"
+  },
+  {
+    "year": 2021,
+    "player": "Ashleigh Barty",
+    "playerAliases": [
+      "ashleigh barty",
+      "barty"
+    ],
+    "opponent": {
+      "team": "Czechia",
+      "abbr": "CZE",
+      "logo": "assets/logos/tennis/flag-cze.png",
+      "colors": [
+        "#FFFFFF",
+        "#D7141A"
+      ]
+    },
+    "statLine": "Won 6–3, 6–7(4–7), 6–3"
+  },
+  {
+    "year": 2022,
+    "player": "Elena Rybakina",
+    "playerAliases": [
+      "elena rybakina",
+      "rybakina"
+    ],
+    "opponent": {
+      "team": "Tunisia",
+      "abbr": "TUN",
+      "logo": "assets/logos/tennis/flag-tun.png",
+      "colors": [
+        "#E70013",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 3–6, 6–2, 6–2"
+  },
+  {
+    "year": 2023,
+    "player": "Markéta Vondroušová",
+    "playerAliases": [
+      "markéta vondroušová",
+      "vondroušová"
+    ],
+    "opponent": {
+      "team": "Tunisia",
+      "abbr": "TUN",
+      "logo": "assets/logos/tennis/flag-tun.png",
+      "colors": [
+        "#E70013",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 6–4"
+  },
+  {
+    "year": 2024,
+    "player": "Barbora Krejčíková",
+    "playerAliases": [
+      "barbora krejčíková",
+      "krejčíková"
+    ],
+    "opponent": {
+      "team": "Italy",
+      "abbr": "ITA",
+      "logo": "assets/logos/tennis/flag-ita.png",
+      "colors": [
+        "#009246",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–2, 2–6, 6–4"
+  },
+  {
+    "year": 2025,
+    "player": "Iga Świątek",
+    "playerAliases": [
+      "iga świątek",
+      "świątek"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–0, 6–0"
+  }
+]
