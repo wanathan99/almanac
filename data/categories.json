@@ -1295,5 +1295,45 @@
         ]
       }
     ]
+  },
+  {
+    "sport": "Other",
+    "categories": [
+      {
+        "id": "oscar-best-picture",
+        "title": "Oscar Best Picture",
+        "subtitle": "Guess the winning film from the director's name (1996–2025)",
+        "icon": "🎬",
+        "file": "data/other/oscar-best-picture.json"
+      },
+      {
+        "id": "grammy-album",
+        "title": "Grammy Album of the Year",
+        "subtitle": "Guess the winning artist from the album title (1996–2025)",
+        "icon": "🎤",
+        "file": "data/other/grammy-album-of-the-year.json"
+      },
+      {
+        "id": "emmy-drama",
+        "title": "Emmy Outstanding Drama Series",
+        "subtitle": "Guess the winning show from its network (1996–2025)",
+        "icon": "📺",
+        "file": "data/other/emmy-outstanding-drama.json"
+      },
+      {
+        "id": "tony-musical",
+        "title": "Tony Best Musical",
+        "subtitle": "Guess the winning musical from its Broadway theater (1996–2025)",
+        "icon": "🎭",
+        "file": "data/other/tony-best-musical.json"
+      },
+      {
+        "id": "pantone-coty",
+        "title": "Pantone Color of the Year",
+        "subtitle": "Guess the color name from the swatch (2000–2025)",
+        "icon": "🎨",
+        "file": "data/other/pantone-color-of-the-year.json"
+      }
+    ]
   }
 ]
