@@ -482,13 +482,16 @@ shareBtn.addEventListener('click', () => {
   shareBtn.classList.add('hidden');
 });
 
+const copyIconSVG = copyShareBtn.innerHTML;
+const checkIconSVG = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
+
 copyShareBtn.addEventListener('click', () => {
   const text = shareText.textContent;
   const markCopied = () => {
-    copyShareBtn.textContent = 'Copied!';
+    copyShareBtn.innerHTML = checkIconSVG;
     copyShareBtn.classList.add('copy-btn-done');
     setTimeout(() => {
-      copyShareBtn.textContent = 'Copy to clipboard';
+      copyShareBtn.innerHTML = copyIconSVG;
       copyShareBtn.classList.remove('copy-btn-done');
     }, 1400);
   };
