@@ -25,10 +25,11 @@
       "#00538C",
       "#002B5E"
     ],
-    "player": "Luka Don\u010di\u0107",
+    "player": "Luka Dončić",
     "playerAliases": [
-      "don\u010di\u0107",
-      "luka don\u010di\u0107"
+      "dončić",
+      "luka",
+      "luka dončić"
     ],
     "statLine": "33.9 PPG"
   },
@@ -44,7 +45,9 @@
     "player": "Joel Embiid",
     "playerAliases": [
       "embiid",
-      "joel embiid"
+      "joel embiid",
+      "jojo",
+      "the process"
     ],
     "statLine": "33.1 PPG"
   },
@@ -60,7 +63,9 @@
     "player": "Joel Embiid",
     "playerAliases": [
       "embiid",
-      "joel embiid"
+      "joel embiid",
+      "jojo",
+      "the process"
     ],
     "statLine": "30.6 PPG"
   },
@@ -75,7 +80,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ],
     "statLine": "32.0 PPG"
@@ -92,7 +99,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "34.3 PPG"
   },
@@ -108,7 +116,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "36.1 PPG"
   },
@@ -124,7 +133,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "30.4 PPG"
   },
@@ -155,7 +165,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ],
     "statLine": "30.1 PPG"
@@ -188,6 +200,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ],
     "statLine": "32.0 PPG"
@@ -220,6 +233,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ],
     "statLine": "28.0 PPG"
@@ -236,6 +250,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ],
     "statLine": "27.7 PPG"
@@ -252,6 +267,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ],
     "statLine": "30.1 PPG"
@@ -284,6 +300,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ],
     "statLine": "30.0 PPG"
@@ -299,7 +317,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ],
     "statLine": "31.6 PPG"
@@ -315,7 +335,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ],
     "statLine": "35.4 PPG"
@@ -331,8 +353,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "30.7 PPG"
   },
@@ -379,8 +403,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "31.4 PPG"
   },
@@ -395,8 +421,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "31.1 PPG"
   },
@@ -428,8 +456,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "26.8 PPG"
   },
@@ -444,8 +474,10 @@
     ],
     "player": "Michael Jordan",
     "playerAliases": [
+      "air jordan",
       "jordan",
-      "michael jordan"
+      "michael jordan",
+      "mj"
     ],
     "statLine": "28.7 PPG"
   },
@@ -460,8 +492,10 @@
     ],
     "player": "Michael Jordan",
     "playerAliases": [
+      "air jordan",
       "jordan",
-      "michael jordan"
+      "michael jordan",
+      "mj"
     ],
     "statLine": "29.6 PPG"
   },
@@ -476,8 +510,10 @@
     ],
     "player": "Michael Jordan",
     "playerAliases": [
+      "air jordan",
       "jordan",
-      "michael jordan"
+      "michael jordan",
+      "mj"
     ],
     "statLine": "30.4 PPG"
   }

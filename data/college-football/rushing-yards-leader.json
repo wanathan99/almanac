@@ -171,7 +171,8 @@
     "player": "Derrick Henry",
     "playerAliases": [
       "derrick henry",
-      "henry"
+      "henry",
+      "king henry"
     ],
     "statLine": "2,219 rush yds"
   },
@@ -411,6 +412,7 @@
     "player": "LaDainian Tomlinson",
     "playerAliases": [
       "ladainian tomlinson",
+      "lt",
       "tomlinson"
     ],
     "statLine": "2,158 rush yds"

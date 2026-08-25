@@ -23,10 +23,10 @@
       "#CE1141",
       "#000000"
     ],
-    "player": "Alperen \u015eeng\u00fcn",
+    "player": "Alperen Şengün",
     "playerAliases": [
-      "alperen \u015feng\u00fcn",
-      "\u015feng\u00fcn"
+      "alperen şengün",
+      "şengün"
     ]
   },
   {
@@ -83,10 +83,11 @@
       "#00538C",
       "#002B5E"
     ],
-    "player": "Luka Don\u010di\u0107",
+    "player": "Luka Dončić",
     "playerAliases": [
-      "don\u010di\u0107",
-      "luka don\u010di\u0107"
+      "dončić",
+      "luka",
+      "luka dončić"
     ]
   },
   {
@@ -128,10 +129,10 @@
       "#0077C0",
       "#C4CED4"
     ],
-    "player": "Nikola Vu\u010devi\u0107",
+    "player": "Nikola Vučević",
     "playerAliases": [
-      "nikola vu\u010devi\u0107",
-      "vu\u010devi\u0107"
+      "nikola vučević",
+      "vučević"
     ]
   },
   {
@@ -175,6 +176,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ]
@@ -203,10 +205,10 @@
       "#0C2340",
       "#236192"
     ],
-    "player": "Nikola Pekovi\u0107",
+    "player": "Nikola Peković",
     "playerAliases": [
-      "nikola pekovi\u0107",
-      "pekovi\u0107"
+      "nikola peković",
+      "peković"
     ]
   },
   {
@@ -251,6 +253,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ]
   },
@@ -293,10 +296,10 @@
       "#002D62",
       "#CD1041"
     ],
-    "player": "Nenad Krsti\u0107",
+    "player": "Nenad Krstić",
     "playerAliases": [
-      "krsti\u0107",
-      "nenad krsti\u0107"
+      "krstić",
+      "nenad krstić"
     ]
   },
   {

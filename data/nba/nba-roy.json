@@ -98,10 +98,11 @@
       "#00538C",
       "#002B5E"
     ],
-    "player": "Luka Don\u010di\u0107",
+    "player": "Luka Dončić",
     "playerAliases": [
-      "don\u010di\u0107",
-      "luka don\u010di\u0107"
+      "dončić",
+      "luka",
+      "luka dončić"
     ]
   },
   {
@@ -266,6 +267,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ]
   },
@@ -296,6 +298,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ]
   },
@@ -326,6 +329,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -446,8 +451,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ]
   },
   {

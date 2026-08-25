@@ -85,6 +85,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ]
@@ -102,7 +103,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ]
   },
   {
@@ -117,7 +119,9 @@
     "player": "Joel Embiid",
     "playerAliases": [
       "embiid",
-      "joel embiid"
+      "joel embiid",
+      "jojo",
+      "the process"
     ]
   },
   {
@@ -192,6 +196,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -222,7 +228,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {
@@ -252,6 +259,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -327,6 +336,7 @@
     "player": "Ben Wallace",
     "playerAliases": [
       "ben wallace",
+      "big ben",
       "wallace"
     ]
   },
@@ -357,7 +367,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {
@@ -372,7 +383,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {

@@ -12,7 +12,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ]
   },
   {
@@ -24,10 +25,11 @@
       "#00538C",
       "#002B5E"
     ],
-    "player": "Luka Don\u010di\u0107",
+    "player": "Luka Dončić",
     "playerAliases": [
-      "don\u010di\u0107",
-      "luka don\u010di\u0107"
+      "dončić",
+      "luka",
+      "luka dončić"
     ]
   },
   {
@@ -43,7 +45,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ]
   },
   {
@@ -59,7 +62,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ]
   },
   {
@@ -73,7 +77,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ]
   },
@@ -89,7 +95,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ]
   },
   {
@@ -118,6 +125,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ]
@@ -149,6 +157,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -164,6 +174,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -209,6 +221,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ]
   },
@@ -224,6 +237,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -238,7 +253,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ]
   },
@@ -269,7 +286,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {
@@ -283,7 +301,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ]
   },
@@ -343,7 +363,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ]
   },

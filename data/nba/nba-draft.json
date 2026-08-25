@@ -195,6 +195,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis"
     ]
   },
@@ -309,7 +310,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ]
   },
   {
@@ -323,9 +325,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
-      "lebron james",
       "james",
-      "lebron"
+      "king james",
+      "lbj",
+      "lebron",
+      "lebron james"
     ]
   },
   {
@@ -425,7 +429,9 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
-      "allen iverson"
+      "ai",
+      "allen iverson",
+      "the answer"
     ]
   }
 ]

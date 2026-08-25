@@ -70,7 +70,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ]
   },
@@ -160,7 +162,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ]
   },
@@ -338,10 +342,10 @@
       "#5A2D81",
       "#63727A"
     ],
-    "player": "Peja Stojakovi\u0107",
+    "player": "Peja Stojaković",
     "playerAliases": [
-      "peja stojakovi\u0107",
-      "stojakovi\u0107"
+      "peja stojaković",
+      "stojaković"
     ]
   },
   {
@@ -353,10 +357,10 @@
       "#5A2D81",
       "#63727A"
     ],
-    "player": "Peja Stojakovi\u0107",
+    "player": "Peja Stojaković",
     "playerAliases": [
-      "peja stojakovi\u0107",
-      "stojakovi\u0107"
+      "peja stojaković",
+      "stojaković"
     ]
   },
   {
@@ -392,7 +396,7 @@
   {
     "year": 1999,
     "invalid": true,
-    "reason": "Contest canceled due to the 1998\u201399 NBA lockout"
+    "reason": "Contest canceled due to the 1998–99 NBA lockout"
   },
   {
     "year": 1998,

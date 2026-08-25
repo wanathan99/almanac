@@ -96,6 +96,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.0 SPG"
@@ -117,6 +118,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.0 SPG"
@@ -133,6 +135,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.1 SPG"
@@ -197,6 +200,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ],
     "statLine": "1.9 SPG"
@@ -405,8 +410,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "2.3 SPG"
   },
@@ -453,8 +460,10 @@
     ],
     "player": "Michael Jordan",
     "playerAliases": [
+      "air jordan",
       "jordan",
-      "michael jordan"
+      "michael jordan",
+      "mj"
     ],
     "statLine": "2.2 SPG"
   }

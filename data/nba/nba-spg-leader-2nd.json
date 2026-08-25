@@ -8,10 +8,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ],
     "statLine": "1.8 SPG"
   },
@@ -59,6 +60,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "1.9 SPG"
@@ -107,7 +109,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "2.0 SPG"
   },
@@ -251,6 +254,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.1 SPG"
@@ -315,6 +319,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.2 SPG"

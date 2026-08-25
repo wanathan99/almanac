@@ -115,6 +115,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ]
@@ -206,7 +207,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ]
   },
   {
@@ -331,7 +333,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {
@@ -345,7 +348,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ]
   },

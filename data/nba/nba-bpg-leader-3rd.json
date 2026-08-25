@@ -90,6 +90,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ],
@@ -219,7 +220,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ],
     "statLine": "2.1 BPG"
   },

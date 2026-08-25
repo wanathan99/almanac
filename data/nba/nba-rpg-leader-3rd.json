@@ -8,10 +8,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ],
     "statLine": "12.7 RPG"
   },
@@ -26,6 +27,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ],
@@ -44,7 +46,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ],
     "statLine": "11.8 RPG"
   },
@@ -62,10 +65,10 @@
       "#5D76A9",
       "#12173F"
     ],
-    "player": "Jonas Valan\u010di\u016bnas",
+    "player": "Jonas Valančiūnas",
     "playerAliases": [
-      "jonas valan\u010di\u016bnas",
-      "valan\u010di\u016bnas"
+      "jonas valančiūnas",
+      "valančiūnas"
     ],
     "statLine": "12.5 RPG"
   },
@@ -102,7 +105,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ],
     "statLine": "12.5 RPG"
   },
@@ -179,10 +183,10 @@
       "#CE1141",
       "#000000"
     ],
-    "player": "\u00d6mer A\u015f\u0131k",
+    "player": "Ömer Aşık",
     "playerAliases": [
-      "a\u015f\u0131k",
-      "\u00f6mer a\u015f\u0131k"
+      "aşık",
+      "ömer aşık"
     ],
     "statLine": "11.7 RPG"
   },
@@ -278,7 +282,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ],
     "statLine": "12.3 RPG"
   },
@@ -326,6 +331,7 @@
     "player": "Ben Wallace",
     "playerAliases": [
       "ben wallace",
+      "big ben",
       "wallace"
     ],
     "statLine": "12.4 RPG"
@@ -358,7 +364,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ],
     "statLine": "12.1 RPG"
   },

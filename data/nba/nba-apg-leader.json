@@ -43,7 +43,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "10.66 APG"
   },
@@ -59,6 +60,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "10.8 APG"
@@ -91,6 +93,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ],
     "statLine": "10.21 APG"
@@ -139,7 +143,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "11.2 APG"
   },
@@ -171,6 +176,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "10.2 APG"
@@ -187,6 +193,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "10.69 APG"
@@ -267,6 +274,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "11.04 APG"
@@ -283,6 +291,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "11.56 APG"

@@ -128,10 +128,10 @@
       "#006BB6",
       "#ED174C"
     ],
-    "player": "Dario \u0160ari\u0107",
+    "player": "Dario Šarić",
     "playerAliases": [
-      "dario \u0161ari\u0107",
-      "\u0161ari\u0107"
+      "dario šarić",
+      "šarić"
     ]
   },
   {
@@ -143,10 +143,10 @@
       "#006BB6",
       "#F58426"
     ],
-    "player": "Kristaps Porzi\u0146\u0123is",
+    "player": "Kristaps Porziņģis",
     "playerAliases": [
-      "kristaps porzi\u0146\u0123is",
-      "porzi\u0146\u0123is"
+      "kristaps porziņģis",
+      "porziņģis"
     ]
   },
   {
@@ -158,10 +158,10 @@
       "#CE1141",
       "#000000"
     ],
-    "player": "Nikola Miroti\u0107",
+    "player": "Nikola Mirotić",
     "playerAliases": [
-      "miroti\u0107",
-      "nikola miroti\u0107"
+      "mirotić",
+      "nikola mirotić"
     ]
   },
   {
@@ -190,6 +190,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ]
@@ -235,7 +236,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ]
   },
@@ -377,7 +380,7 @@
   {
     "year": 2000,
     "invalid": true,
-    "reason": "Brand and Francis tied for 1st place \u2014 no clear runner-up that year"
+    "reason": "Brand and Francis tied for 1st place — no clear runner-up that year"
   },
   {
     "year": 1999,

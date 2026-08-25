@@ -138,6 +138,7 @@
     ],
     "player": "Anthony Davis",
     "playerAliases": [
+      "ad",
       "anthony davis",
       "davis"
     ],
@@ -336,6 +337,7 @@
     "player": "Ben Wallace",
     "playerAliases": [
       "ben wallace",
+      "big ben",
       "wallace"
     ],
     "statLine": "3.0 BPG"
@@ -352,6 +354,7 @@
     "player": "Ben Wallace",
     "playerAliases": [
       "ben wallace",
+      "big ben",
       "wallace"
     ],
     "statLine": "3.2 BPG"

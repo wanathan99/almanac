@@ -132,7 +132,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ]
   },
   {
@@ -174,10 +175,10 @@
       "#1D1160",
       "#E56020"
     ],
-    "player": "Goran Dragi\u0107",
+    "player": "Goran Dragić",
     "playerAliases": [
-      "dragi\u0107",
-      "goran dragi\u0107"
+      "dragić",
+      "goran dragić"
     ]
   },
   {
@@ -264,10 +265,10 @@
       "#0077C0",
       "#C4CED4"
     ],
-    "player": "Hedo T\u00fcrko\u011flu",
+    "player": "Hedo Türkoğlu",
     "playerAliases": [
-      "hedo t\u00fcrko\u011flu",
-      "t\u00fcrko\u011flu"
+      "hedo türkoğlu",
+      "türkoğlu"
     ]
   },
   {
@@ -444,10 +445,10 @@
       "#002B5C",
       "#E31837"
     ],
-    "player": "Gheorghe Mure\u0219an",
+    "player": "Gheorghe Mureșan",
     "playerAliases": [
-      "gheorghe mure\u0219an",
-      "mure\u0219an"
+      "gheorghe mureșan",
+      "mureșan"
     ]
   }
 ]

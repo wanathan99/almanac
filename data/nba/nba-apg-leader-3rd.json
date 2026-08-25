@@ -24,10 +24,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ],
     "statLine": "9.0 APG"
   },
@@ -40,10 +41,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ],
     "statLine": "9.8 APG"
   },
@@ -75,6 +77,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "8.9 APG"
@@ -88,10 +91,11 @@
       "#00538C",
       "#002B5E"
     ],
-    "player": "Luka Don\u010di\u0107",
+    "player": "Luka Dončić",
     "playerAliases": [
-      "don\u010di\u0107",
-      "luka don\u010di\u0107"
+      "dončić",
+      "luka",
+      "luka dončić"
     ],
     "statLine": "8.8 APG"
   },
@@ -107,6 +111,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "8.2 APG"
@@ -123,7 +128,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ],
     "statLine": "8.8 APG"
   },
@@ -200,10 +206,10 @@
       "#00788C",
       "#FDBB30"
     ],
-    "player": "Greivis V\u00e1squez",
+    "player": "Greivis Vásquez",
     "playerAliases": [
-      "greivis v\u00e1squez",
-      "v\u00e1squez"
+      "greivis vásquez",
+      "vásquez"
     ],
     "statLine": "9.0 APG"
   },
@@ -219,6 +225,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "9.1 APG"

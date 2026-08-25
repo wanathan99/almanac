@@ -8,10 +8,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ]
   },
   {
@@ -39,10 +40,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ]
   },
   {
@@ -57,7 +59,9 @@
     "player": "Joel Embiid",
     "playerAliases": [
       "embiid",
-      "joel embiid"
+      "joel embiid",
+      "jojo",
+      "the process"
     ]
   },
   {
@@ -72,7 +76,9 @@
     "player": "Joel Embiid",
     "playerAliases": [
       "embiid",
-      "joel embiid"
+      "joel embiid",
+      "jojo",
+      "the process"
     ]
   },
   {
@@ -87,6 +93,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -102,7 +110,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ]
   },
   {
@@ -117,6 +126,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -132,7 +143,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ]
   },
   {
@@ -162,7 +174,8 @@
     "player": "James Harden",
     "playerAliases": [
       "harden",
-      "james harden"
+      "james harden",
+      "the beard"
     ]
   },
   {
@@ -177,6 +190,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -192,6 +207,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ]
   },
@@ -207,6 +223,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ]
   },
@@ -222,7 +239,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ]
   },
   {
@@ -237,6 +255,7 @@
     "player": "Kevin Durant",
     "playerAliases": [
       "durant",
+      "kd",
       "kevin durant"
     ]
   },
@@ -251,7 +270,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ]
   },
@@ -267,6 +288,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ]
   },
@@ -297,6 +319,8 @@
     "player": "LeBron James",
     "playerAliases": [
       "james",
+      "king james",
+      "lbj",
       "lebron james"
     ]
   },
@@ -343,7 +367,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {
@@ -388,7 +413,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ]
   },
   {
@@ -432,8 +458,10 @@
     ],
     "player": "Michael Jordan",
     "playerAliases": [
+      "air jordan",
       "jordan",
-      "michael jordan"
+      "michael jordan",
+      "mj"
     ]
   },
   {

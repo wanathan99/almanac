@@ -40,10 +40,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ],
     "statLine": "11.8 RPG"
   },
@@ -56,10 +57,11 @@
       "#0E2240",
       "#FEC524"
     ],
-    "player": "Nikola Joki\u0107",
+    "player": "Nikola Jokić",
     "playerAliases": [
-      "joki\u0107",
-      "nikola joki\u0107"
+      "joker",
+      "jokić",
+      "nikola jokić"
     ],
     "statLine": "13.8 RPG"
   },
@@ -92,7 +94,8 @@
     "playerAliases": [
       "antetokounmpo",
       "giannis",
-      "giannis antetokounmpo"
+      "giannis antetokounmpo",
+      "greek freak"
     ],
     "statLine": "13.6 RPG"
   },
@@ -108,7 +111,9 @@
     "player": "Joel Embiid",
     "playerAliases": [
       "embiid",
-      "joel embiid"
+      "joel embiid",
+      "jojo",
+      "the process"
     ],
     "statLine": "13.6 RPG"
   },
@@ -201,10 +206,10 @@
       "#0077C0",
       "#C4CED4"
     ],
-    "player": "Nikola Vu\u010devi\u0107",
+    "player": "Nikola Vučević",
     "playerAliases": [
-      "nikola vu\u010devi\u0107",
-      "vu\u010devi\u0107"
+      "nikola vučević",
+      "vučević"
     ],
     "statLine": "11.9 RPG"
   },
@@ -305,7 +310,8 @@
     "player": "Dwight Howard",
     "playerAliases": [
       "dwight howard",
-      "howard"
+      "howard",
+      "superman"
     ],
     "statLine": "12.5 RPG"
   },
@@ -321,6 +327,7 @@
     "player": "Ben Wallace",
     "playerAliases": [
       "ben wallace",
+      "big ben",
       "wallace"
     ],
     "statLine": "12.2 RPG"
@@ -353,7 +360,8 @@
     "player": "Kevin Garnett",
     "playerAliases": [
       "garnett",
-      "kevin garnett"
+      "kevin garnett",
+      "kg"
     ],
     "statLine": "13.4 RPG"
   },
@@ -385,6 +393,7 @@
     "player": "Ben Wallace",
     "playerAliases": [
       "ben wallace",
+      "big ben",
       "wallace"
     ],
     "statLine": "13.2 RPG"

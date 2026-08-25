@@ -154,7 +154,9 @@
     ],
     "player": "Stephen Curry",
     "playerAliases": [
+      "chef curry",
       "curry",
+      "steph",
       "stephen curry"
     ],
     "statLine": "2.14 SPG"
@@ -187,6 +189,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.48 SPG"
@@ -203,6 +206,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.41 SPG"
@@ -219,6 +223,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.53 SPG"
@@ -235,6 +240,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.35 SPG"
@@ -267,6 +273,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.77 SPG"
@@ -283,6 +290,7 @@
     "player": "Chris Paul",
     "playerAliases": [
       "chris paul",
+      "cp3",
       "paul"
     ],
     "statLine": "2.71 SPG"
@@ -362,8 +370,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "2.74 SPG"
   },
@@ -378,8 +388,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "2.8 SPG"
   },
@@ -394,8 +406,10 @@
     ],
     "player": "Allen Iverson",
     "playerAliases": [
+      "ai",
       "allen iverson",
-      "iverson"
+      "iverson",
+      "the answer"
     ],
     "statLine": "2.51 SPG"
   },

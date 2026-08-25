@@ -83,10 +83,10 @@
       "#007AC1",
       "#EF3B24"
     ],
-    "player": "Dennis Schr\u00f6der",
+    "player": "Dennis Schröder",
     "playerAliases": [
-      "dennis schr\u00f6der",
-      "schr\u00f6der"
+      "dennis schröder",
+      "schröder"
     ]
   },
   {
@@ -268,10 +268,10 @@
       "#C4CED4",
       "#000000"
     ],
-    "player": "Manu Gin\u00f3bili",
+    "player": "Manu Ginóbili",
     "playerAliases": [
-      "gin\u00f3bili",
-      "manu gin\u00f3bili"
+      "ginóbili",
+      "manu ginóbili"
     ]
   },
   {
@@ -405,7 +405,9 @@
     ],
     "player": "Kobe Bryant",
     "playerAliases": [
+      "black mamba",
       "bryant",
+      "kobe",
       "kobe bryant"
     ]
   },
@@ -418,10 +420,10 @@
       "#CE1141",
       "#000000"
     ],
-    "player": "Toni Kuko\u010d",
+    "player": "Toni Kukoč",
     "playerAliases": [
-      "kuko\u010d",
-      "toni kuko\u010d"
+      "kukoč",
+      "toni kukoč"
     ]
   },
   {
