@@ -6,28 +6,28 @@
       {
         "id": "heisman-voting",
         "title": "Heisman Voting",
-        "subtitle": "Guess the Heisman finisher from the school logo (1996\u20132025)",
-        "icon": "\ud83c\udfc6",
+        "subtitle": "Guess the Heisman finisher from the school logo (1996–2025)",
+        "icon": "🏆",
         "variants": [
           {
             "id": "heisman-winner",
             "label": "1st",
             "title": "Heisman Winner",
-            "subtitle": "Guess the Heisman winner from the school logo (1996\u20132025)",
+            "subtitle": "Guess the Heisman winner from the school logo (1996–2025)",
             "file": "data/college-football/heisman-winner.json"
           },
           {
             "id": "heisman-runner-up",
             "label": "2nd",
             "title": "Heisman Runner-Up",
-            "subtitle": "Guess the Heisman runner-up from the school logo (1996\u20132025)",
+            "subtitle": "Guess the Heisman runner-up from the school logo (1996–2025)",
             "file": "data/college-football/heisman-runner-up.json"
           },
           {
             "id": "heisman-third-place",
             "label": "3rd",
             "title": "Heisman Third Place",
-            "subtitle": "Guess the Heisman 3rd-place finisher from the school logo (1996\u20132025)",
+            "subtitle": "Guess the Heisman 3rd-place finisher from the school logo (1996–2025)",
             "file": "data/college-football/heisman-third-place.json"
           }
         ]
@@ -35,28 +35,28 @@
       {
         "id": "nfl-draft",
         "title": "NFL Draft",
-        "subtitle": "Guess the overall draft pick from their college logo (1996\u20132025)",
-        "icon": "\ud83c\udf93",
+        "subtitle": "Guess the overall draft pick from their college logo (1996–2025)",
+        "icon": "🎓",
         "variants": [
           {
             "id": "nfl-draft-1st",
             "label": "1st",
             "title": "1st Overall Draft Pick",
-            "subtitle": "Guess the #1 overall NFL Draft pick from their college logo (1996\u20132025)",
+            "subtitle": "Guess the #1 overall NFL Draft pick from their college logo (1996–2025)",
             "file": "data/college-football/nfl-draft-1st.json"
           },
           {
             "id": "nfl-draft-2nd",
             "label": "2nd",
             "title": "2nd Overall Draft Pick",
-            "subtitle": "Guess the #2 overall NFL Draft pick from their college logo (1996\u20132025)",
+            "subtitle": "Guess the #2 overall NFL Draft pick from their college logo (1996–2025)",
             "file": "data/college-football/nfl-draft-2nd.json"
           },
           {
             "id": "nfl-draft-3rd",
             "label": "3rd",
             "title": "3rd Overall Draft Pick",
-            "subtitle": "Guess the #3 overall NFL Draft pick from their college logo (1996\u20132025)",
+            "subtitle": "Guess the #3 overall NFL Draft pick from their college logo (1996–2025)",
             "file": "data/college-football/nfl-draft-3rd.json"
           }
         ]
@@ -64,21 +64,21 @@
       {
         "id": "cfb-championship-game",
         "title": "National Championship Game",
-        "subtitle": "Guess the team from the opponent's logo and score (1996\u20132025)",
-        "icon": "\ud83c\udfc8",
+        "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
+        "icon": "🏈",
         "variants": [
           {
             "id": "cfb-championship-winner",
             "label": "Winner",
             "title": "National Champion",
-            "subtitle": "Guess the national champion from the runner-up's logo and score (1996\u20132025)",
+            "subtitle": "Guess the national champion from the runner-up's logo and score (1996–2025)",
             "file": "data/college-football/cfb-championship-winner.json"
           },
           {
             "id": "cfb-championship-loser",
             "label": "Loser",
             "title": "National Runner-Up",
-            "subtitle": "Guess the championship game loser from the champion's logo and score (1996\u20132025)",
+            "subtitle": "Guess the championship game loser from the champion's logo and score (1996–2025)",
             "file": "data/college-football/cfb-championship-loser.json"
           }
         ]
@@ -86,28 +86,28 @@
       {
         "id": "cfb-stat-leaders",
         "title": "Statistical Leaders",
-        "subtitle": "Guess the NCAA season stat leader from the school logo (1996\u20132025)",
-        "icon": "\ud83d\udcca",
+        "subtitle": "Guess the NCAA season stat leader from the school logo (1996–2025)",
+        "icon": "📊",
         "variants": [
           {
             "id": "passing-yards-leader",
             "label": "Passing",
             "title": "Passing Yards Leader",
-            "subtitle": "Guess the NCAA passing yards leader from the school logo (1996\u20132025)",
+            "subtitle": "Guess the NCAA passing yards leader from the school logo (1996–2025)",
             "file": "data/college-football/passing-yards-leader.json"
           },
           {
             "id": "rushing-yards-leader",
             "label": "Rushing",
             "title": "Rushing Yards Leader",
-            "subtitle": "Guess the NCAA rushing yards leader from the school logo (1996\u20132025)",
+            "subtitle": "Guess the NCAA rushing yards leader from the school logo (1996–2025)",
             "file": "data/college-football/rushing-yards-leader.json"
           },
           {
             "id": "receiving-yards-leader",
             "label": "Receiving",
             "title": "Receiving Yards Leader",
-            "subtitle": "Guess the NCAA receiving yards leader from the school logo (1996\u20132025)",
+            "subtitle": "Guess the NCAA receiving yards leader from the school logo (1996–2025)",
             "file": "data/college-football/receiving-yards-leader.json"
           }
         ]
@@ -115,15 +115,15 @@
       {
         "id": "ap-coach-of-the-year",
         "title": "AP Coach of the Year",
-        "subtitle": "Guess the AP Coach of the Year from the school logo (1998\u20132025)",
-        "icon": "\ud83e\udde2",
+        "subtitle": "Guess the AP Coach of the Year from the school logo (1998–2025)",
+        "icon": "🧢",
         "file": "data/college-football/ap-coach-of-the-year.json"
       },
       {
         "id": "cfb-preseason-ap-1",
         "title": "Preseason AP #1",
-        "subtitle": "Guess the preseason AP Poll #1 team from the first-place vote count alone (1996\u20132025)",
-        "icon": "\ud83d\udccb",
+        "subtitle": "Guess the preseason AP Poll #1 team from the first-place vote count alone (1996–2025)",
+        "icon": "📋",
         "file": "data/college-football/cfb-preseason-ap-1.json",
         "noLogoHint": true
       }
@@ -136,21 +136,21 @@
       {
         "id": "nba-finals",
         "title": "NBA Finals",
-        "subtitle": "Guess the team from the opponent's logo and series score (1996\u20132025)",
-        "icon": "\ud83c\udfc6",
+        "subtitle": "Guess the team from the opponent's logo and series score (1996–2025)",
+        "icon": "🏆",
         "variants": [
           {
             "id": "nba-finals-winner",
             "label": "Winner",
             "title": "NBA Champion",
-            "subtitle": "Guess the NBA champion from the runner-up's logo and series score (1996\u20132025)",
+            "subtitle": "Guess the NBA champion from the runner-up's logo and series score (1996–2025)",
             "file": "data/nba/nba-finals-winner.json"
           },
           {
             "id": "nba-finals-loser",
             "label": "Loser",
             "title": "NBA Runner-Up",
-            "subtitle": "Guess the Finals loser from the champion's logo and series score (1996\u20132025)",
+            "subtitle": "Guess the Finals loser from the champion's logo and series score (1996–2025)",
             "file": "data/nba/nba-finals-loser.json"
           }
         ]
@@ -158,35 +158,35 @@
       {
         "id": "nba-finals-mvp",
         "title": "Finals MVP",
-        "subtitle": "Guess the NBA Finals MVP from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udfc5",
+        "subtitle": "Guess the NBA Finals MVP from the team logo (1996–2025)",
+        "icon": "🏅",
         "file": "data/nba/nba-finals-mvp.json"
       },
       {
         "id": "nba-draft",
         "title": "NBA Draft",
-        "subtitle": "Guess the overall draft pick from the logo of where they played before the draft (1996\u20132025)",
-        "icon": "\ud83c\udf93",
+        "subtitle": "Guess the overall draft pick from the logo of where they played before the draft (1996–2025)",
+        "icon": "🎓",
         "variants": [
           {
             "id": "nba-draft-1st",
             "label": "1st",
             "title": "1st Overall Draft Pick",
-            "subtitle": "Guess the #1 overall NBA Draft pick from the logo of where they played before the draft (1996\u20132025)",
+            "subtitle": "Guess the #1 overall NBA Draft pick from the logo of where they played before the draft (1996–2025)",
             "file": "data/nba/nba-draft.json"
           },
           {
             "id": "nba-draft-2nd",
             "label": "2nd",
             "title": "2nd Overall Draft Pick",
-            "subtitle": "Guess the #2 overall NBA Draft pick from the logo of where they played before the draft (1996\u20132025)",
+            "subtitle": "Guess the #2 overall NBA Draft pick from the logo of where they played before the draft (1996–2025)",
             "file": "data/nba/nba-draft-2nd.json"
           },
           {
             "id": "nba-draft-3rd",
             "label": "3rd",
             "title": "3rd Overall Draft Pick",
-            "subtitle": "Guess the #3 overall NBA Draft pick from the logo of where they played before the draft (1996\u20132025)",
+            "subtitle": "Guess the #3 overall NBA Draft pick from the logo of where they played before the draft (1996–2025)",
             "file": "data/nba/nba-draft-3rd.json"
           }
         ]
@@ -194,8 +194,8 @@
       {
         "id": "nba-major-awards",
         "title": "Major Awards",
-        "subtitle": "Guess the award finisher from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udf96\ufe0f",
+        "subtitle": "Guess the award finisher from the team logo (1996–2025)",
+        "icon": "🎖️",
         "types": [
           {
             "id": "mvp",
@@ -204,19 +204,19 @@
               {
                 "label": "Winner",
                 "title": "MVP",
-                "subtitle": "Guess the NBA MVP from the team logo (1996\u20132025)",
+                "subtitle": "Guess the NBA MVP from the team logo (1996–2025)",
                 "file": "data/nba/nba-mvp.json"
               },
               {
                 "label": "2nd",
                 "title": "MVP Runner-Up",
-                "subtitle": "Guess the MVP voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the MVP voting runner-up from the team logo (1996–2025)",
                 "file": "data/nba/nba-mvp-runnerup.json"
               },
               {
                 "label": "3rd",
                 "title": "MVP Third Place",
-                "subtitle": "Guess the MVP voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the MVP voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nba/nba-mvp-third.json"
               }
             ]
@@ -228,19 +228,19 @@
               {
                 "label": "Winner",
                 "title": "Defensive Player of the Year",
-                "subtitle": "Guess the DPOY from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DPOY from the team logo (1996–2025)",
                 "file": "data/nba/nba-dpoy.json"
               },
               {
                 "label": "2nd",
                 "title": "DPOY Runner-Up",
-                "subtitle": "Guess the DPOY voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DPOY voting runner-up from the team logo (1996–2025)",
                 "file": "data/nba/nba-dpoy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "DPOY Third Place",
-                "subtitle": "Guess the DPOY voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DPOY voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nba/nba-dpoy-3rd.json"
               }
             ]
@@ -252,19 +252,19 @@
               {
                 "label": "Winner",
                 "title": "Sixth Man of the Year",
-                "subtitle": "Guess the 6th Man of the Year from the team logo (1996\u20132025)",
+                "subtitle": "Guess the 6th Man of the Year from the team logo (1996–2025)",
                 "file": "data/nba/nba-sixth-man.json"
               },
               {
                 "label": "2nd",
                 "title": "6MOY Runner-Up",
-                "subtitle": "Guess the 6th Man of the Year voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the 6th Man of the Year voting runner-up from the team logo (1996–2025)",
                 "file": "data/nba/nba-sixth-man-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "6MOY Third Place",
-                "subtitle": "Guess the 6th Man of the Year voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the 6th Man of the Year voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nba/nba-sixth-man-3rd.json"
               }
             ]
@@ -276,19 +276,19 @@
               {
                 "label": "Winner",
                 "title": "Most Improved Player",
-                "subtitle": "Guess the Most Improved Player from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Most Improved Player from the team logo (1996–2025)",
                 "file": "data/nba/nba-most-improved.json"
               },
               {
                 "label": "2nd",
                 "title": "MIP Runner-Up",
-                "subtitle": "Guess the Most Improved Player voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Most Improved Player voting runner-up from the team logo (1996–2025)",
                 "file": "data/nba/nba-most-improved-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "MIP Third Place",
-                "subtitle": "Guess the Most Improved Player voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Most Improved Player voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nba/nba-most-improved-3rd.json"
               }
             ]
@@ -300,19 +300,19 @@
               {
                 "label": "Winner",
                 "title": "Rookie of the Year",
-                "subtitle": "Guess the Rookie of the Year from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Rookie of the Year from the team logo (1996–2025)",
                 "file": "data/nba/nba-roy.json"
               },
               {
                 "label": "2nd",
                 "title": "ROY Runner-Up",
-                "subtitle": "Guess the Rookie of the Year voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Rookie of the Year voting runner-up from the team logo (1996–2025)",
                 "file": "data/nba/nba-roy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "ROY Third Place",
-                "subtitle": "Guess the Rookie of the Year voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Rookie of the Year voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nba/nba-roy-3rd.json"
               }
             ]
@@ -322,8 +322,8 @@
       {
         "id": "nba-stat-leaders",
         "title": "Statistical Leaders",
-        "subtitle": "Guess the season stat finisher from the team logo (1996\u20132025)",
-        "icon": "\ud83d\udcca",
+        "subtitle": "Guess the season stat finisher from the team logo (1996–2025)",
+        "icon": "📊",
         "types": [
           {
             "id": "ppg",
@@ -332,19 +332,19 @@
               {
                 "label": "1st",
                 "title": "Points Per Game Leader",
-                "subtitle": "Guess the scoring leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the scoring leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-ppg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "PPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest scorer from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest scorer from the team logo (1996–2025)",
                 "file": "data/nba/nba-ppg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "PPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest scorer from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest scorer from the team logo (1996–2025)",
                 "file": "data/nba/nba-ppg-leader-3rd.json"
               }
             ]
@@ -356,19 +356,19 @@
               {
                 "label": "1st",
                 "title": "Rebounds Per Game Leader",
-                "subtitle": "Guess the rebounding leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the rebounding leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-rpg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "RPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest rebounder from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest rebounder from the team logo (1996–2025)",
                 "file": "data/nba/nba-rpg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "RPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest rebounder from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest rebounder from the team logo (1996–2025)",
                 "file": "data/nba/nba-rpg-leader-3rd.json"
               }
             ]
@@ -380,19 +380,19 @@
               {
                 "label": "1st",
                 "title": "Assists Per Game Leader",
-                "subtitle": "Guess the assists leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the assists leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-apg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "APG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest assist man from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest assist man from the team logo (1996–2025)",
                 "file": "data/nba/nba-apg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "APG Third Place",
-                "subtitle": "Guess the season's 3rd-highest assist man from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest assist man from the team logo (1996–2025)",
                 "file": "data/nba/nba-apg-leader-3rd.json"
               }
             ]
@@ -404,19 +404,19 @@
               {
                 "label": "1st",
                 "title": "Steals Per Game Leader",
-                "subtitle": "Guess the steals leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the steals leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-spg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "SPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest steals leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest steals leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-spg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "SPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest steals leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest steals leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-spg-leader-3rd.json"
               }
             ]
@@ -428,19 +428,19 @@
               {
                 "label": "1st",
                 "title": "Blocks Per Game Leader",
-                "subtitle": "Guess the blocks leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the blocks leader from the team logo (1996–2025)",
                 "file": "data/nba/nba-bpg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "BPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest shot blocker from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest shot blocker from the team logo (1996–2025)",
                 "file": "data/nba/nba-bpg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "BPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest shot blocker from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest shot blocker from the team logo (1996–2025)",
                 "file": "data/nba/nba-bpg-leader-3rd.json"
               }
             ]
@@ -450,21 +450,21 @@
       {
         "id": "nba-all-star-weekend",
         "title": "All-Star Weekend",
-        "subtitle": "Guess the contest champion from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udf1f",
+        "subtitle": "Guess the contest champion from the team logo (1996–2025)",
+        "icon": "🌟",
         "variants": [
           {
             "id": "nba-dunk-contest",
             "label": "Dunk",
             "title": "Slam Dunk Contest Winner",
-            "subtitle": "Guess the Dunk Contest champion from the team logo (1996\u20132025)",
+            "subtitle": "Guess the Dunk Contest champion from the team logo (1996–2025)",
             "file": "data/nba/nba-dunk-contest.json"
           },
           {
             "id": "nba-threept-contest",
             "label": "3PT",
             "title": "Three-Point Contest Winner",
-            "subtitle": "Guess the 3-Point Contest champion from the team logo (1996\u20132025)",
+            "subtitle": "Guess the 3-Point Contest champion from the team logo (1996–2025)",
             "file": "data/nba/nba-threept-contest.json"
           }
         ]
@@ -478,21 +478,21 @@
       {
         "id": "nfl-superbowl",
         "title": "Super Bowl",
-        "subtitle": "Guess the team from the opponent's logo and score (1996\u20132025)",
-        "icon": "\ud83c\udfc6",
+        "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
+        "icon": "🏆",
         "variants": [
           {
             "id": "nfl-superbowl-winner",
             "label": "Winner",
             "title": "Super Bowl Champion",
-            "subtitle": "Guess the Super Bowl champion from the runner-up's logo and score (1996\u20132025)",
+            "subtitle": "Guess the Super Bowl champion from the runner-up's logo and score (1996–2025)",
             "file": "data/nfl/nfl-superbowl-winner.json"
           },
           {
             "id": "nfl-superbowl-loser",
             "label": "Loser",
             "title": "Super Bowl Runner-Up",
-            "subtitle": "Guess the Super Bowl loser from the champion's logo and score (1996\u20132025)",
+            "subtitle": "Guess the Super Bowl loser from the champion's logo and score (1996–2025)",
             "file": "data/nfl/nfl-superbowl-loser.json"
           }
         ]
@@ -500,15 +500,15 @@
       {
         "id": "nfl-superbowl-mvp",
         "title": "Super Bowl MVP",
-        "subtitle": "Guess the Super Bowl MVP from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udfc5",
+        "subtitle": "Guess the Super Bowl MVP from the team logo (1996–2025)",
+        "icon": "🏅",
         "file": "data/nfl/nfl-superbowl-mvp.json"
       },
       {
         "id": "nfl-major-awards",
         "title": "Major Awards",
-        "subtitle": "Guess the AP award finisher from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udf96\ufe0f",
+        "subtitle": "Guess the AP award finisher from the team logo (1996–2025)",
+        "icon": "🎖️",
         "types": [
           {
             "id": "mvp",
@@ -517,19 +517,19 @@
               {
                 "label": "Winner",
                 "title": "AP MVP",
-                "subtitle": "Guess the AP NFL MVP from the team logo (1996\u20132025)",
+                "subtitle": "Guess the AP NFL MVP from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-mvp.json"
               },
               {
                 "label": "2nd",
                 "title": "MVP Runner-Up",
-                "subtitle": "Guess the MVP voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the MVP voting runner-up from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-mvp-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "MVP Third Place",
-                "subtitle": "Guess the MVP voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the MVP voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-mvp-3rd.json"
               }
             ]
@@ -541,19 +541,19 @@
               {
                 "label": "Winner",
                 "title": "Offensive Player of the Year",
-                "subtitle": "Guess the AP OPOY from the team logo (1996\u20132025)",
+                "subtitle": "Guess the AP OPOY from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-opoy.json"
               },
               {
                 "label": "2nd",
                 "title": "OPOY Runner-Up",
-                "subtitle": "Guess the OPOY voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the OPOY voting runner-up from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-opoy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "OPOY Third Place",
-                "subtitle": "Guess the OPOY voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the OPOY voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-opoy-3rd.json"
               }
             ]
@@ -565,19 +565,19 @@
               {
                 "label": "Winner",
                 "title": "Defensive Player of the Year",
-                "subtitle": "Guess the AP DPOY from the team logo (1996\u20132025)",
+                "subtitle": "Guess the AP DPOY from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-dpoy.json"
               },
               {
                 "label": "2nd",
                 "title": "DPOY Runner-Up",
-                "subtitle": "Guess the DPOY voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DPOY voting runner-up from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-dpoy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "DPOY Third Place",
-                "subtitle": "Guess the DPOY voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DPOY voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-dpoy-3rd.json"
               }
             ]
@@ -589,19 +589,19 @@
               {
                 "label": "Winner",
                 "title": "Offensive Rookie of the Year",
-                "subtitle": "Guess the AP OROY from the team logo (1996\u20132025)",
+                "subtitle": "Guess the AP OROY from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-oroy.json"
               },
               {
                 "label": "2nd",
                 "title": "OROY Runner-Up",
-                "subtitle": "Guess the OROY voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the OROY voting runner-up from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-oroy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "OROY Third Place",
-                "subtitle": "Guess the OROY voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the OROY voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-oroy-3rd.json"
               }
             ]
@@ -613,19 +613,19 @@
               {
                 "label": "Winner",
                 "title": "Defensive Rookie of the Year",
-                "subtitle": "Guess the AP DROY from the team logo (1996\u20132025)",
+                "subtitle": "Guess the AP DROY from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-droy.json"
               },
               {
                 "label": "2nd",
                 "title": "DROY Runner-Up",
-                "subtitle": "Guess the DROY voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DROY voting runner-up from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-droy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "DROY Third Place",
-                "subtitle": "Guess the DROY voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the DROY voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-droy-3rd.json"
               }
             ]
@@ -637,19 +637,19 @@
               {
                 "label": "Winner",
                 "title": "Comeback Player of the Year",
-                "subtitle": "Guess the AP Comeback Player of the Year from the team logo (1998\u20132025)",
+                "subtitle": "Guess the AP Comeback Player of the Year from the team logo (1998–2025)",
                 "file": "data/nfl/nfl-cpoy.json"
               },
               {
                 "label": "2nd",
                 "title": "CPOY Runner-Up",
-                "subtitle": "Guess the CPOY voting runner-up from the team logo (1998\u20132025)",
+                "subtitle": "Guess the CPOY voting runner-up from the team logo (1998–2025)",
                 "file": "data/nfl/nfl-cpoy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "CPOY Third Place",
-                "subtitle": "Guess the CPOY voting 3rd-place finisher from the team logo (1998\u20132025)",
+                "subtitle": "Guess the CPOY voting 3rd-place finisher from the team logo (1998–2025)",
                 "file": "data/nfl/nfl-cpoy-3rd.json"
               }
             ]
@@ -661,19 +661,19 @@
               {
                 "label": "Winner",
                 "title": "AP Coach of the Year",
-                "subtitle": "Guess the AP Coach of the Year from the team logo (1996\u20132025)",
+                "subtitle": "Guess the AP Coach of the Year from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-coy.json"
               },
               {
                 "label": "2nd",
                 "title": "COY Runner-Up",
-                "subtitle": "Guess the Coach of the Year voting runner-up from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Coach of the Year voting runner-up from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-coy-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "COY Third Place",
-                "subtitle": "Guess the Coach of the Year voting 3rd-place finisher from the team logo (1996\u20132025)",
+                "subtitle": "Guess the Coach of the Year voting 3rd-place finisher from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-coy-3rd.json"
               }
             ]
@@ -683,8 +683,8 @@
       {
         "id": "nfl-stat-leaders",
         "title": "Statistical Leaders",
-        "subtitle": "Guess the season stat finisher from the team logo (1996\u20132025)",
-        "icon": "\ud83d\udcca",
+        "subtitle": "Guess the season stat finisher from the team logo (1996–2025)",
+        "icon": "📊",
         "types": [
           {
             "id": "pass_yds",
@@ -693,19 +693,19 @@
               {
                 "label": "1st",
                 "title": "Passing Yards Leader",
-                "subtitle": "Guess the passing yards leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the passing yards leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-pass-yds-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Passing Yards Runner-Up",
-                "subtitle": "Guess the season's 2nd-most passing yards from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most passing yards from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-pass-yds-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Passing Yards Third Place",
-                "subtitle": "Guess the season's 3rd-most passing yards from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most passing yards from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-pass-yds-leader-3rd.json"
               }
             ]
@@ -717,19 +717,19 @@
               {
                 "label": "1st",
                 "title": "Passing TD Leader",
-                "subtitle": "Guess the passing touchdown leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the passing touchdown leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-pass-td-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Passing TD Runner-Up",
-                "subtitle": "Guess the season's 2nd-most passing touchdowns from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most passing touchdowns from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-pass-td-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Passing TD Third Place",
-                "subtitle": "Guess the season's 3rd-most passing touchdowns from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most passing touchdowns from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-pass-td-leader-3rd.json"
               }
             ]
@@ -741,19 +741,19 @@
               {
                 "label": "1st",
                 "title": "Rushing Yards Leader",
-                "subtitle": "Guess the rushing yards leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the rushing yards leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rush-yds-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Rushing Yards Runner-Up",
-                "subtitle": "Guess the season's 2nd-most rushing yards from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most rushing yards from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rush-yds-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Rushing Yards Third Place",
-                "subtitle": "Guess the season's 3rd-most rushing yards from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most rushing yards from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rush-yds-leader-3rd.json"
               }
             ]
@@ -765,19 +765,19 @@
               {
                 "label": "1st",
                 "title": "Rushing TD Leader",
-                "subtitle": "Guess the rushing touchdown leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the rushing touchdown leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rush-td-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Rushing TD Runner-Up",
-                "subtitle": "Guess the season's 2nd-most rushing touchdowns from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most rushing touchdowns from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rush-td-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Rushing TD Third Place",
-                "subtitle": "Guess the season's 3rd-most rushing touchdowns from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most rushing touchdowns from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rush-td-leader-3rd.json"
               }
             ]
@@ -789,19 +789,19 @@
               {
                 "label": "1st",
                 "title": "Receiving Yards Leader",
-                "subtitle": "Guess the receiving yards leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the receiving yards leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rec-yds-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Receiving Yards Runner-Up",
-                "subtitle": "Guess the season's 2nd-most receiving yards from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most receiving yards from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rec-yds-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Receiving Yards Third Place",
-                "subtitle": "Guess the season's 3rd-most receiving yards from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most receiving yards from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rec-yds-leader-3rd.json"
               }
             ]
@@ -813,19 +813,19 @@
               {
                 "label": "1st",
                 "title": "Receiving TD Leader",
-                "subtitle": "Guess the receiving touchdown leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the receiving touchdown leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rec-td-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Receiving TD Runner-Up",
-                "subtitle": "Guess the season's 2nd-most receiving touchdowns from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most receiving touchdowns from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rec-td-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Receiving TD Third Place",
-                "subtitle": "Guess the season's 3rd-most receiving touchdowns from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most receiving touchdowns from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-rec-td-leader-3rd.json"
               }
             ]
@@ -837,19 +837,19 @@
               {
                 "label": "1st",
                 "title": "Sacks Leader",
-                "subtitle": "Guess the sacks leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the sacks leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-sacks-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Sacks Runner-Up",
-                "subtitle": "Guess the season's 2nd-most sacks from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most sacks from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-sacks-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Sacks Third Place",
-                "subtitle": "Guess the season's 3rd-most sacks from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most sacks from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-sacks-leader-3rd.json"
               }
             ]
@@ -861,19 +861,19 @@
               {
                 "label": "1st",
                 "title": "Interceptions Leader",
-                "subtitle": "Guess the interceptions leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the interceptions leader from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-int-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "Interceptions Runner-Up",
-                "subtitle": "Guess the season's 2nd-most interceptions from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-most interceptions from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-int-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "Interceptions Third Place",
-                "subtitle": "Guess the season's 3rd-most interceptions from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-most interceptions from the team logo (1996–2025)",
                 "file": "data/nfl/nfl-int-leader-3rd.json"
               }
             ]
@@ -889,21 +889,21 @@
       {
         "id": "cbb-championship",
         "title": "National Championship",
-        "subtitle": "Guess the team from the opponent's logo and score (1996\u20132025)",
-        "icon": "\ud83c\udfc6",
+        "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
+        "icon": "🏆",
         "variants": [
           {
             "id": "cbb-championship-winner",
             "label": "Winner",
             "title": "National Champion",
-            "subtitle": "Guess the national champion from the runner-up's logo and score (1996\u20132025)",
+            "subtitle": "Guess the national champion from the runner-up's logo and score (1996–2025)",
             "file": "data/cbb/cbb-championship-winner.json"
           },
           {
             "id": "cbb-championship-loser",
             "label": "Loser",
             "title": "National Runner-Up",
-            "subtitle": "Guess the championship game loser from the champion's logo and score (1996\u20132025)",
+            "subtitle": "Guess the championship game loser from the champion's logo and score (1996–2025)",
             "file": "data/cbb/cbb-championship-loser.json"
           }
         ]
@@ -911,29 +911,29 @@
       {
         "id": "cbb-tournament-mop",
         "title": "Tournament Most Outstanding Player",
-        "subtitle": "Guess the NCAA Tournament MOP from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udfc5",
+        "subtitle": "Guess the NCAA Tournament MOP from the team logo (1996–2025)",
+        "icon": "🏅",
         "file": "data/cbb/cbb-tournament-mop.json"
       },
       {
         "id": "cbb-poy",
         "title": "AP Player of the Year",
-        "subtitle": "Guess the AP National Player of the Year from the team logo (1996\u20132025)",
-        "icon": "\ud83c\udf96\ufe0f",
+        "subtitle": "Guess the AP National Player of the Year from the team logo (1996–2025)",
+        "icon": "🎖️",
         "file": "data/cbb/cbb-poy.json"
       },
       {
         "id": "cbb-coy",
         "title": "AP Coach of the Year",
-        "subtitle": "Guess the AP Coach of the Year from the team logo (1996\u20132025)",
-        "icon": "\ud83e\udde2",
+        "subtitle": "Guess the AP Coach of the Year from the team logo (1996–2025)",
+        "icon": "🧢",
         "file": "data/cbb/cbb-coy.json"
       },
       {
         "id": "cbb-stat-leaders",
         "title": "Statistical Leaders",
-        "subtitle": "Guess the season stat finisher from the team logo (1996\u20132025)",
-        "icon": "\ud83d\udcca",
+        "subtitle": "Guess the season stat finisher from the team logo (1996–2025)",
+        "icon": "📊",
         "types": [
           {
             "id": "ppg",
@@ -942,19 +942,19 @@
               {
                 "label": "1st",
                 "title": "Points Per Game Leader",
-                "subtitle": "Guess the scoring leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the scoring leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-ppg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "PPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest scorer from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest scorer from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-ppg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "PPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest scorer from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest scorer from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-ppg-leader-3rd.json"
               }
             ]
@@ -966,19 +966,19 @@
               {
                 "label": "1st",
                 "title": "Rebounds Per Game Leader",
-                "subtitle": "Guess the rebounding leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the rebounding leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-rpg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "RPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest rebounder from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest rebounder from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-rpg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "RPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest rebounder from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest rebounder from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-rpg-leader-3rd.json"
               }
             ]
@@ -990,19 +990,19 @@
               {
                 "label": "1st",
                 "title": "Assists Per Game Leader",
-                "subtitle": "Guess the assists leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the assists leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-apg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "APG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest assist man from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest assist man from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-apg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "APG Third Place",
-                "subtitle": "Guess the season's 3rd-highest assist man from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest assist man from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-apg-leader-3rd.json"
               }
             ]
@@ -1014,19 +1014,19 @@
               {
                 "label": "1st",
                 "title": "Steals Per Game Leader",
-                "subtitle": "Guess the steals leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the steals leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-spg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "SPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest steals leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest steals leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-spg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "SPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest steals leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest steals leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-spg-leader-3rd.json"
               }
             ]
@@ -1038,20 +1038,257 @@
               {
                 "label": "1st",
                 "title": "Blocks Per Game Leader",
-                "subtitle": "Guess the blocks leader from the team logo (1996\u20132025)",
+                "subtitle": "Guess the blocks leader from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-bpg-leader.json"
               },
               {
                 "label": "2nd",
                 "title": "BPG Runner-Up",
-                "subtitle": "Guess the season's 2nd-highest shot blocker from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 2nd-highest shot blocker from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-bpg-leader-2nd.json"
               },
               {
                 "label": "3rd",
                 "title": "BPG Third Place",
-                "subtitle": "Guess the season's 3rd-highest shot blocker from the team logo (1996\u20132025)",
+                "subtitle": "Guess the season's 3rd-highest shot blocker from the team logo (1996–2025)",
                 "file": "data/cbb/cbb-bpg-leader-3rd.json"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sport": "Tennis",
+    "categories": [
+      {
+        "id": "ao",
+        "title": "Australian Open",
+        "subtitle": "Guess the champion or runner-up from the opponent's flag and score (1996–2025)",
+        "icon": "🏆",
+        "types": [
+          {
+            "id": "men",
+            "label": "Men's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "Australian Open – Men's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/ao-men-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "Australian Open – Men's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/ao-men-loser.json"
+              }
+            ]
+          },
+          {
+            "id": "women",
+            "label": "Women's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "Australian Open – Women's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/ao-women-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "Australian Open – Women's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/ao-women-loser.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fo",
+        "title": "French Open",
+        "subtitle": "Guess the champion or runner-up from the opponent's flag and score (1996–2025)",
+        "icon": "🏆",
+        "types": [
+          {
+            "id": "men",
+            "label": "Men's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "French Open – Men's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/fo-men-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "French Open – Men's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/fo-men-loser.json"
+              }
+            ]
+          },
+          {
+            "id": "women",
+            "label": "Women's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "French Open – Women's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/fo-women-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "French Open – Women's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/fo-women-loser.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "wim",
+        "title": "Wimbledon",
+        "subtitle": "Guess the champion or runner-up from the opponent's flag and score (1996–2025)",
+        "icon": "🏆",
+        "types": [
+          {
+            "id": "men",
+            "label": "Men's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "Wimbledon – Men's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/wim-men-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "Wimbledon – Men's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/wim-men-loser.json"
+              }
+            ]
+          },
+          {
+            "id": "women",
+            "label": "Women's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "Wimbledon – Women's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/wim-women-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "Wimbledon – Women's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/wim-women-loser.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "uso",
+        "title": "US Open",
+        "subtitle": "Guess the champion or runner-up from the opponent's flag and score (1996–2025)",
+        "icon": "🏆",
+        "types": [
+          {
+            "id": "men",
+            "label": "Men's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "US Open – Men's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/uso-men-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "US Open – Men's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/uso-men-loser.json"
+              }
+            ]
+          },
+          {
+            "id": "women",
+            "label": "Women's",
+            "variants": [
+              {
+                "label": "Winner",
+                "title": "US Open – Women's Champion",
+                "subtitle": "Guess the champion from the runner-up's flag and score (1996–2025)",
+                "file": "data/tennis/uso-women-winner.json"
+              },
+              {
+                "label": "Loser",
+                "title": "US Open – Women's Runner-Up",
+                "subtitle": "Guess the runner-up from the champion's flag and score (1996–2025)",
+                "file": "data/tennis/uso-women-loser.json"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tennis-rankings",
+        "title": "Year-End Rankings",
+        "subtitle": "Guess the player from their country's flag (1996–2025)",
+        "icon": "📈",
+        "types": [
+          {
+            "id": "atp",
+            "label": "ATP",
+            "variants": [
+              {
+                "label": "No. 1",
+                "title": "ATP Year-End No. 1",
+                "subtitle": "Guess the year-end world No. 1 from their country's flag (1996–2025)",
+                "file": "data/tennis/atp-no1.json"
+              },
+              {
+                "label": "No. 2",
+                "title": "ATP Year-End No. 2",
+                "subtitle": "Guess the year-end world No. 2 from their country's flag (1996–2025)",
+                "file": "data/tennis/atp-no2.json"
+              },
+              {
+                "label": "No. 3",
+                "title": "ATP Year-End No. 3",
+                "subtitle": "Guess the year-end world No. 3 from their country's flag (1996–2025)",
+                "file": "data/tennis/atp-no3.json"
+              }
+            ]
+          },
+          {
+            "id": "wta",
+            "label": "WTA",
+            "variants": [
+              {
+                "label": "No. 1",
+                "title": "WTA Year-End No. 1",
+                "subtitle": "Guess the year-end world No. 1 from their country's flag (1996–2025)",
+                "file": "data/tennis/wta-no1.json"
+              },
+              {
+                "label": "No. 2",
+                "title": "WTA Year-End No. 2",
+                "subtitle": "Guess the year-end world No. 2 from their country's flag (1996–2025)",
+                "file": "data/tennis/wta-no2.json"
+              },
+              {
+                "label": "No. 3",
+                "title": "WTA Year-End No. 3",
+                "subtitle": "Guess the year-end world No. 3 from their country's flag (1996–2025)",
+                "file": "data/tennis/wta-no3.json"
               }
             ]
           }
