@@ -1,0 +1,392 @@
+[
+  {
+    "year": 2025,
+    "team": "HBO Max",
+    "abbr": "HBO Max",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Pitt",
+    "playerAliases": [
+      "the pitt"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "FX",
+    "abbr": "FX",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Shōgun",
+    "playerAliases": [
+      "shōgun"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Succession",
+    "playerAliases": [
+      "succession"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Succession",
+    "playerAliases": [
+      "succession"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Netflix",
+    "abbr": "Netflix",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Crown",
+    "playerAliases": [
+      "the crown"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Succession",
+    "playerAliases": [
+      "succession"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Game of Thrones",
+    "playerAliases": [
+      "game of thrones"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Game of Thrones",
+    "playerAliases": [
+      "game of thrones"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Hulu",
+    "abbr": "Hulu",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Handmaid's Tale",
+    "playerAliases": [
+      "the handmaid's tale"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Game of Thrones",
+    "playerAliases": [
+      "game of thrones"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Game of Thrones",
+    "playerAliases": [
+      "game of thrones"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "AMC",
+    "abbr": "AMC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Breaking Bad",
+    "playerAliases": [
+      "breaking bad"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "AMC",
+    "abbr": "AMC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Breaking Bad",
+    "playerAliases": [
+      "breaking bad"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Showtime",
+    "abbr": "Showtime",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Homeland",
+    "playerAliases": [
+      "homeland"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "AMC",
+    "abbr": "AMC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Mad Men",
+    "playerAliases": [
+      "mad men"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "AMC",
+    "abbr": "AMC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Mad Men",
+    "playerAliases": [
+      "mad men"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "AMC",
+    "abbr": "AMC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Mad Men",
+    "playerAliases": [
+      "mad men"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "AMC",
+    "abbr": "AMC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Mad Men",
+    "playerAliases": [
+      "mad men"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Sopranos",
+    "playerAliases": [
+      "the sopranos"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Fox",
+    "abbr": "Fox",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "24",
+    "playerAliases": [
+      "24"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "ABC",
+    "abbr": "ABC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Lost",
+    "playerAliases": [
+      "lost"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "HBO",
+    "abbr": "HBO",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Sopranos",
+    "playerAliases": [
+      "the sopranos"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "NBC",
+    "abbr": "NBC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The West Wing",
+    "playerAliases": [
+      "the west wing"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "NBC",
+    "abbr": "NBC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The West Wing",
+    "playerAliases": [
+      "the west wing"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "NBC",
+    "abbr": "NBC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The West Wing",
+    "playerAliases": [
+      "the west wing"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "NBC",
+    "abbr": "NBC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The West Wing",
+    "playerAliases": [
+      "the west wing"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "ABC",
+    "abbr": "ABC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Practice",
+    "playerAliases": [
+      "the practice"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "ABC",
+    "abbr": "ABC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "The Practice",
+    "playerAliases": [
+      "the practice"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "NBC",
+    "abbr": "NBC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "Law & Order",
+    "playerAliases": [
+      "law & order"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "NBC",
+    "abbr": "NBC",
+    "colors": [
+      "#D4AF37",
+      "#2C2C2C"
+    ],
+    "player": "ER",
+    "playerAliases": [
+      "er"
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "year": 2025,
+    "team": "Mocha Mousse",
+    "abbr": "17-1230",
+    "logo": "assets/logos/other/pantone-mocha-mousse.png",
+    "colors": [
+      "#A47764",
+      "#A47764"
+    ],
+    "player": "Mocha Mousse",
+    "playerAliases": [
+      "mocha mousse"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Peach Fuzz",
+    "abbr": "13-1023",
+    "logo": "assets/logos/other/pantone-peach-fuzz.png",
+    "colors": [
+      "#FFBE98",
+      "#FFBE98"
+    ],
+    "player": "Peach Fuzz",
+    "playerAliases": [
+      "peach fuzz"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Viva Magenta",
+    "abbr": "18-1750",
+    "logo": "assets/logos/other/pantone-viva-magenta.png",
+    "colors": [
+      "#BB2649",
+      "#BB2649"
+    ],
+    "player": "Viva Magenta",
+    "playerAliases": [
+      "viva magenta"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Very Peri",
+    "abbr": "17-3938",
+    "logo": "assets/logos/other/pantone-very-peri.png",
+    "colors": [
+      "#6667AB",
+      "#6667AB"
+    ],
+    "player": "Very Peri",
+    "playerAliases": [
+      "very peri"
+    ]
+  },
+  {
+    "year": 2021,
+    "teams": [
+      {
+        "team": "Ultimate Gray",
+        "abbr": "17-5104",
+        "logo": "assets/logos/other/pantone-ultimate-gray.png",
+        "colors": [
+          "#939597",
+          "#939597"
+        ]
+      },
+      {
+        "team": "Illuminating",
+        "abbr": "13-0858",
+        "logo": "assets/logos/other/pantone-illuminating.png",
+        "colors": [
+          "#F5DF4D",
+          "#F5DF4D"
+        ]
+      }
+    ],
+    "player": "Ultimate Gray & Illuminating",
+    "playerAliases": [
+      "illuminating",
+      "ultimate gray"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Classic Blue",
+    "abbr": "19-4052",
+    "logo": "assets/logos/other/pantone-classic-blue.png",
+    "colors": [
+      "#0F4C81",
+      "#0F4C81"
+    ],
+    "player": "Classic Blue",
+    "playerAliases": [
+      "classic blue"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Living Coral",
+    "abbr": "16-1546",
+    "logo": "assets/logos/other/pantone-living-coral.png",
+    "colors": [
+      "#FF6F61",
+      "#FF6F61"
+    ],
+    "player": "Living Coral",
+    "playerAliases": [
+      "living coral"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Ultra Violet",
+    "abbr": "18-3838",
+    "logo": "assets/logos/other/pantone-ultra-violet.png",
+    "colors": [
+      "#5F4B8B",
+      "#5F4B8B"
+    ],
+    "player": "Ultra Violet",
+    "playerAliases": [
+      "ultra violet"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Greenery",
+    "abbr": "15-0343",
+    "logo": "assets/logos/other/pantone-greenery.png",
+    "colors": [
+      "#88B04B",
+      "#88B04B"
+    ],
+    "player": "Greenery",
+    "playerAliases": [
+      "greenery"
+    ]
+  },
+  {
+    "year": 2016,
+    "teams": [
+      {
+        "team": "Rose Quartz",
+        "abbr": "13-2010",
+        "logo": "assets/logos/other/pantone-rose-quartz.png",
+        "colors": [
+          "#F7CAC9",
+          "#F7CAC9"
+        ]
+      },
+      {
+        "team": "Serenity",
+        "abbr": "15-3817",
+        "logo": "assets/logos/other/pantone-serenity.png",
+        "colors": [
+          "#92A8D1",
+          "#92A8D1"
+        ]
+      }
+    ],
+    "player": "Rose Quartz & Serenity",
+    "playerAliases": [
+      "rose quartz",
+      "serenity"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Marsala",
+    "abbr": "18-1438",
+    "logo": "assets/logos/other/pantone-marsala.png",
+    "colors": [
+      "#955251",
+      "#955251"
+    ],
+    "player": "Marsala",
+    "playerAliases": [
+      "marsala"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Radiant Orchid",
+    "abbr": "18-3025",
+    "logo": "assets/logos/other/pantone-radiant-orchid.png",
+    "colors": [
+      "#B163A3",
+      "#B163A3"
+    ],
+    "player": "Radiant Orchid",
+    "playerAliases": [
+      "radiant orchid"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Emerald",
+    "abbr": "17-0145",
+    "logo": "assets/logos/other/pantone-emerald.png",
+    "colors": [
+      "#009473",
+      "#009473"
+    ],
+    "player": "Emerald",
+    "playerAliases": [
+      "emerald"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Tangerine Tango",
+    "abbr": "17-1463",
+    "logo": "assets/logos/other/pantone-tangerine-tango.png",
+    "colors": [
+      "#DD4132",
+      "#DD4132"
+    ],
+    "player": "Tangerine Tango",
+    "playerAliases": [
+      "tangerine tango"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Honeysuckle",
+    "abbr": "18-2120",
+    "logo": "assets/logos/other/pantone-honeysuckle.png",
+    "colors": [
+      "#D94F70",
+      "#D94F70"
+    ],
+    "player": "Honeysuckle",
+    "playerAliases": [
+      "honeysuckle"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Turquoise",
+    "abbr": "15-5519",
+    "logo": "assets/logos/other/pantone-turquoise.png",
+    "colors": [
+      "#44B3C1",
+      "#44B3C1"
+    ],
+    "player": "Turquoise",
+    "playerAliases": [
+      "turquoise"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Mimosa",
+    "abbr": "14-0848",
+    "logo": "assets/logos/other/pantone-mimosa.png",
+    "colors": [
+      "#EFC050",
+      "#EFC050"
+    ],
+    "player": "Mimosa",
+    "playerAliases": [
+      "mimosa"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Blue Iris",
+    "abbr": "18-3943",
+    "logo": "assets/logos/other/pantone-blue-iris.png",
+    "colors": [
+      "#5A5B9F",
+      "#5A5B9F"
+    ],
+    "player": "Blue Iris",
+    "playerAliases": [
+      "blue iris"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Chili Pepper",
+    "abbr": "19-1557",
+    "logo": "assets/logos/other/pantone-chili-pepper.png",
+    "colors": [
+      "#9B1B30",
+      "#9B1B30"
+    ],
+    "player": "Chili Pepper",
+    "playerAliases": [
+      "chili pepper"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Sand Dollar",
+    "abbr": "13-1108",
+    "logo": "assets/logos/other/pantone-sand-dollar.png",
+    "colors": [
+      "#DECDB0",
+      "#DECDB0"
+    ],
+    "player": "Sand Dollar",
+    "playerAliases": [
+      "sand dollar"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Blue Turquoise",
+    "abbr": "15-5217",
+    "logo": "assets/logos/other/pantone-blue-turquoise.png",
+    "colors": [
+      "#53B0AE",
+      "#53B0AE"
+    ],
+    "player": "Blue Turquoise",
+    "playerAliases": [
+      "blue turquoise"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Tigerlily",
+    "abbr": "16-1546",
+    "logo": "assets/logos/other/pantone-tigerlily.png",
+    "colors": [
+      "#E2583E",
+      "#E2583E"
+    ],
+    "player": "Tigerlily",
+    "playerAliases": [
+      "tigerlily"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Aqua Sky",
+    "abbr": "14-4811",
+    "logo": "assets/logos/other/pantone-aqua-sky.png",
+    "colors": [
+      "#7BC4E2",
+      "#7BC4E2"
+    ],
+    "player": "Aqua Sky",
+    "playerAliases": [
+      "aqua sky"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "True Red",
+    "abbr": "19-1664",
+    "logo": "assets/logos/other/pantone-true-red.png",
+    "colors": [
+      "#BF1932",
+      "#BF1932"
+    ],
+    "player": "True Red",
+    "playerAliases": [
+      "true red"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Fuchsia Rose",
+    "abbr": "17-2034",
+    "logo": "assets/logos/other/pantone-fuchsia-rose.png",
+    "colors": [
+      "#C74375",
+      "#C74375"
+    ],
+    "player": "Fuchsia Rose",
+    "playerAliases": [
+      "fuchsia rose"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Cerulean",
+    "abbr": "15-4020",
+    "logo": "assets/logos/other/pantone-cerulean.png",
+    "colors": [
+      "#9BB7D4",
+      "#9BB7D4"
+    ],
+    "player": "Cerulean",
+    "playerAliases": [
+      "cerulean"
+    ]
+  },
+  {
+    "year": 1999,
+    "invalid": true,
+    "reason": "Pantone did not begin naming a Color of the Year until 2000"
+  },
+  {
+    "year": 1998,
+    "invalid": true,
+    "reason": "Pantone did not begin naming a Color of the Year until 2000"
+  },
+  {
+    "year": 1997,
+    "invalid": true,
+    "reason": "Pantone did not begin naming a Color of the Year until 2000"
+  },
+  {
+    "year": 1996,
+    "invalid": true,
+    "reason": "Pantone did not begin naming a Color of the Year until 2000"
+  }
+]

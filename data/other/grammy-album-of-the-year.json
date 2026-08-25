@@ -1,0 +1,415 @@
+[
+  {
+    "year": 2025,
+    "team": "Cowboy Carter",
+    "abbr": "Cowboy Carter",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Beyoncé",
+    "playerAliases": [
+      "beyoncé"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Midnights",
+    "abbr": "Midnights",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Taylor Swift",
+    "playerAliases": [
+      "swift",
+      "taylor swift"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Harry's House",
+    "abbr": "Harry's House",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Harry Styles",
+    "playerAliases": [
+      "harry styles",
+      "styles"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "We Are",
+    "abbr": "We Are",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Jon Batiste",
+    "playerAliases": [
+      "batiste",
+      "jon batiste"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Folklore",
+    "abbr": "Folklore",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Taylor Swift",
+    "playerAliases": [
+      "swift",
+      "taylor swift"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "When We All Fall Asleep, Where Do We Go?",
+    "abbr": "When We All Fall Asleep, Where Do We Go?",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Billie Eilish",
+    "playerAliases": [
+      "billie eilish",
+      "eilish"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Golden Hour",
+    "abbr": "Golden Hour",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Kacey Musgraves",
+    "playerAliases": [
+      "kacey musgraves",
+      "musgraves"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "24K Magic",
+    "abbr": "24K Magic",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Bruno Mars",
+    "playerAliases": [
+      "bruno mars",
+      "mars"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "25",
+    "abbr": "25",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Adele",
+    "playerAliases": [
+      "adele"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "1989",
+    "abbr": "1989",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Taylor Swift",
+    "playerAliases": [
+      "swift",
+      "taylor swift"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Morning Phase",
+    "abbr": "Morning Phase",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Beck",
+    "playerAliases": [
+      "beck"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Random Access Memories",
+    "abbr": "Random Access Memories",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Daft Punk",
+    "playerAliases": [
+      "daft punk",
+      "punk"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Babel",
+    "abbr": "Babel",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Mumford & Sons",
+    "playerAliases": [
+      "mumford & sons",
+      "sons"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "21",
+    "abbr": "21",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Adele",
+    "playerAliases": [
+      "adele"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "The Suburbs",
+    "abbr": "The Suburbs",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Arcade Fire",
+    "playerAliases": [
+      "arcade fire",
+      "fire"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Fearless",
+    "abbr": "Fearless",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Taylor Swift",
+    "playerAliases": [
+      "swift",
+      "taylor swift"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Raising Sand",
+    "abbr": "Raising Sand",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Robert Plant & Alison Krauss",
+    "playerAliases": [
+      "krauss",
+      "robert plant & alison krauss"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "River: The Joni Letters",
+    "abbr": "River: The Joni Letters",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Herbie Hancock",
+    "playerAliases": [
+      "hancock",
+      "herbie hancock"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Taking the Long Way",
+    "abbr": "Taking the Long Way",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Dixie Chicks",
+    "playerAliases": [
+      "chicks",
+      "dixie chicks"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "How to Dismantle an Atomic Bomb",
+    "abbr": "How to Dismantle an Atomic Bomb",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "U2",
+    "playerAliases": [
+      "u2"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Genius Loves Company",
+    "abbr": "Genius Loves Company",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Ray Charles & Various Artists",
+    "playerAliases": [
+      "artists",
+      "ray charles & various artists"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Speakerboxxx/The Love Below",
+    "abbr": "Speakerboxxx/The Love Below",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "OutKast",
+    "playerAliases": [
+      "outkast"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Come Away with Me",
+    "abbr": "Come Away with Me",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Norah Jones",
+    "playerAliases": [
+      "jones",
+      "norah jones"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "O Brother, Where Art Thou? – Soundtrack",
+    "abbr": "O Brother, Where Art Thou? – Soundtrack",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Various Artists",
+    "playerAliases": [
+      "artists",
+      "various artists"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Two Against Nature",
+    "abbr": "Two Against Nature",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Steely Dan",
+    "playerAliases": [
+      "dan",
+      "steely dan"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Supernatural",
+    "abbr": "Supernatural",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Santana",
+    "playerAliases": [
+      "santana"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "The Miseducation of Lauryn Hill",
+    "abbr": "The Miseducation of Lauryn Hill",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Lauryn Hill",
+    "playerAliases": [
+      "hill",
+      "lauryn hill"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Time Out of Mind",
+    "abbr": "Time Out of Mind",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Bob Dylan",
+    "playerAliases": [
+      "bob dylan",
+      "dylan"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Falling into You",
+    "abbr": "Falling into You",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Celine Dion",
+    "playerAliases": [
+      "celine dion",
+      "dion"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Jagged Little Pill",
+    "abbr": "Jagged Little Pill",
+    "colors": [
+      "#C8A951",
+      "#000000"
+    ],
+    "player": "Alanis Morissette",
+    "playerAliases": [
+      "alanis morissette",
+      "morissette"
+    ]
+  }
+]

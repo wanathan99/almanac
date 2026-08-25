@@ -1,0 +1,392 @@
+[
+  {
+    "year": 2025,
+    "team": "Paul Thomas Anderson",
+    "abbr": "Paul Thomas Anderson",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "One Battle After Another",
+    "playerAliases": [
+      "one battle after another"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Sean Baker",
+    "abbr": "Sean Baker",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Anora",
+    "playerAliases": [
+      "anora"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Christopher Nolan",
+    "abbr": "Christopher Nolan",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Oppenheimer",
+    "playerAliases": [
+      "oppenheimer"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Daniel Kwan & Daniel Scheinert",
+    "abbr": "Daniel Kwan & Daniel Scheinert",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Everything Everywhere All at Once",
+    "playerAliases": [
+      "everything everywhere all at once"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Sian Heder",
+    "abbr": "Sian Heder",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "CODA",
+    "playerAliases": [
+      "coda"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Chloé Zhao",
+    "abbr": "Chloé Zhao",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Nomadland",
+    "playerAliases": [
+      "nomadland"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Bong Joon Ho",
+    "abbr": "Bong Joon Ho",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Parasite",
+    "playerAliases": [
+      "parasite"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Peter Farrelly",
+    "abbr": "Peter Farrelly",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Green Book",
+    "playerAliases": [
+      "green book"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Guillermo del Toro",
+    "abbr": "Guillermo del Toro",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The Shape of Water",
+    "playerAliases": [
+      "the shape of water"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Barry Jenkins",
+    "abbr": "Barry Jenkins",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Moonlight",
+    "playerAliases": [
+      "moonlight"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Tom McCarthy",
+    "abbr": "Tom McCarthy",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Spotlight",
+    "playerAliases": [
+      "spotlight"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Alejandro G. Iñárritu",
+    "abbr": "Alejandro G. Iñárritu",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Birdman or (The Unexpected Virtue of Ignorance)",
+    "playerAliases": [
+      "birdman or (the unexpected virtue of ignorance)"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Steve McQueen",
+    "abbr": "Steve McQueen",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "12 Years a Slave",
+    "playerAliases": [
+      "12 years a slave"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Ben Affleck",
+    "abbr": "Ben Affleck",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Argo",
+    "playerAliases": [
+      "argo"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Michel Hazanavicius",
+    "abbr": "Michel Hazanavicius",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The Artist",
+    "playerAliases": [
+      "the artist"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Tom Hooper",
+    "abbr": "Tom Hooper",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The King's Speech",
+    "playerAliases": [
+      "the king's speech"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Kathryn Bigelow",
+    "abbr": "Kathryn Bigelow",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The Hurt Locker",
+    "playerAliases": [
+      "the hurt locker"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Danny Boyle",
+    "abbr": "Danny Boyle",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Slumdog Millionaire",
+    "playerAliases": [
+      "slumdog millionaire"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Joel Coen & Ethan Coen",
+    "abbr": "Joel Coen & Ethan Coen",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "No Country for Old Men",
+    "playerAliases": [
+      "no country for old men"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Martin Scorsese",
+    "abbr": "Martin Scorsese",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The Departed",
+    "playerAliases": [
+      "the departed"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Paul Haggis",
+    "abbr": "Paul Haggis",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Crash",
+    "playerAliases": [
+      "crash"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Clint Eastwood",
+    "abbr": "Clint Eastwood",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Million Dollar Baby",
+    "playerAliases": [
+      "million dollar baby"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Peter Jackson",
+    "abbr": "Peter Jackson",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The Lord of the Rings: The Return of the King",
+    "playerAliases": [
+      "the lord of the rings: the return of the king"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Rob Marshall",
+    "abbr": "Rob Marshall",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Chicago",
+    "playerAliases": [
+      "chicago"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Ron Howard",
+    "abbr": "Ron Howard",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "A Beautiful Mind",
+    "playerAliases": [
+      "a beautiful mind"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Ridley Scott",
+    "abbr": "Ridley Scott",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Gladiator",
+    "playerAliases": [
+      "gladiator"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Sam Mendes",
+    "abbr": "Sam Mendes",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "American Beauty",
+    "playerAliases": [
+      "american beauty"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "John Madden",
+    "abbr": "John Madden",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Shakespeare in Love",
+    "playerAliases": [
+      "shakespeare in love"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "James Cameron",
+    "abbr": "James Cameron",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "Titanic",
+    "playerAliases": [
+      "titanic"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Anthony Minghella",
+    "abbr": "Anthony Minghella",
+    "colors": [
+      "#B08D57",
+      "#1A1A1A"
+    ],
+    "player": "The English Patient",
+    "playerAliases": [
+      "the english patient"
+    ]
+  }
+]

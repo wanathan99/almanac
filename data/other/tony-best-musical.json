@@ -1,0 +1,384 @@
+[
+  {
+    "year": 2025,
+    "team": "Belasco Theatre",
+    "abbr": "Belasco Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Maybe Happy Ending",
+    "playerAliases": [
+      "maybe happy ending"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Bernard B. Jacobs Theatre",
+    "abbr": "Bernard B. Jacobs Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "The Outsiders",
+    "playerAliases": [
+      "the outsiders"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Booth Theatre",
+    "abbr": "Booth Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Kimberly Akimbo",
+    "playerAliases": [
+      "kimberly akimbo"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Lyceum Theatre",
+    "abbr": "Lyceum Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "A Strange Loop",
+    "playerAliases": [
+      "a strange loop"
+    ]
+  },
+  {
+    "year": 2021,
+    "invalid": true,
+    "reason": "No Tony Awards ceremony was held in the normal annual cycle for this season (COVID-19 disruption; delayed into the following year)"
+  },
+  {
+    "year": 2020,
+    "team": "Al Hirschfeld Theatre",
+    "abbr": "Al Hirschfeld Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Moulin Rouge! The Musical",
+    "playerAliases": [
+      "moulin rouge! the musical"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Walter Kerr Theatre",
+    "abbr": "Walter Kerr Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Hadestown",
+    "playerAliases": [
+      "hadestown"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Ethel Barrymore Theatre",
+    "abbr": "Ethel Barrymore Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "The Band's Visit",
+    "playerAliases": [
+      "the band's visit"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Music Box Theatre",
+    "abbr": "Music Box Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Dear Evan Hansen",
+    "playerAliases": [
+      "dear evan hansen"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Richard Rodgers Theatre",
+    "abbr": "Richard Rodgers Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Hamilton",
+    "playerAliases": [
+      "hamilton"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Circle in the Square Theatre",
+    "abbr": "Circle in the Square Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Fun Home",
+    "playerAliases": [
+      "fun home"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Walter Kerr Theatre",
+    "abbr": "Walter Kerr Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "A Gentleman's Guide to Love and Murder",
+    "playerAliases": [
+      "a gentleman's guide to love and murder"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Al Hirschfeld Theatre",
+    "abbr": "Al Hirschfeld Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Kinky Boots",
+    "playerAliases": [
+      "kinky boots"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Bernard B. Jacobs Theatre",
+    "abbr": "Bernard B. Jacobs Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Once",
+    "playerAliases": [
+      "once"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Eugene O'Neill Theatre",
+    "abbr": "Eugene O'Neill Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "The Book of Mormon",
+    "playerAliases": [
+      "the book of mormon"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Shubert Theatre",
+    "abbr": "Shubert Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Memphis",
+    "playerAliases": [
+      "memphis"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Imperial Theatre",
+    "abbr": "Imperial Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Billy Elliot the Musical",
+    "playerAliases": [
+      "billy elliot the musical"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Richard Rodgers Theatre",
+    "abbr": "Richard Rodgers Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "In the Heights",
+    "playerAliases": [
+      "in the heights"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Eugene O'Neill Theatre",
+    "abbr": "Eugene O'Neill Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Spring Awakening",
+    "playerAliases": [
+      "spring awakening"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "August Wilson Theatre",
+    "abbr": "August Wilson Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Jersey Boys",
+    "playerAliases": [
+      "jersey boys"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Shubert Theatre",
+    "abbr": "Shubert Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Spamalot",
+    "playerAliases": [
+      "spamalot"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "John Golden Theatre",
+    "abbr": "John Golden Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Avenue Q",
+    "playerAliases": [
+      "avenue q"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Neil Simon Theatre",
+    "abbr": "Neil Simon Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Hairspray",
+    "playerAliases": [
+      "hairspray"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Marquis Theatre",
+    "abbr": "Marquis Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Thoroughly Modern Millie",
+    "playerAliases": [
+      "thoroughly modern millie"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "St. James Theatre",
+    "abbr": "St. James Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "The Producers",
+    "playerAliases": [
+      "the producers"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Vivian Beaumont Theatre",
+    "abbr": "Vivian Beaumont Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Contact",
+    "playerAliases": [
+      "contact"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Broadhurst Theatre",
+    "abbr": "Broadhurst Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Fosse",
+    "playerAliases": [
+      "fosse"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "New Amsterdam Theatre",
+    "abbr": "New Amsterdam Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "The Lion King",
+    "playerAliases": [
+      "the lion king"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Lunt-Fontanne Theatre",
+    "abbr": "Lunt-Fontanne Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Titanic",
+    "playerAliases": [
+      "titanic"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Nederlander Theatre",
+    "abbr": "Nederlander Theatre",
+    "colors": [
+      "#A6192E",
+      "#D4AF37"
+    ],
+    "player": "Rent",
+    "playerAliases": [
+      "rent"
+    ]
+  }
+]
