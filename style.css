@@ -492,6 +492,18 @@ html, body {
   word-break: break-word;
 }
 
+.cell-logo-hidden {
+  padding: 10% 8% 26%;
+}
+
+.cell-logo-question {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 800;
+  font-size: 2rem;
+  color: var(--text-dim);
+  opacity: 0.5;
+}
+
 .cell-stat {
   color: #fff;
   font-family: 'JetBrains Mono', monospace;
@@ -616,6 +628,55 @@ html, body {
 }
 
 .primary-btn:hover { background: var(--accent-dark); color: #fff; }
+
+.secondary-btn {
+  background: var(--bg-elev-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 11px 24px;
+  font-weight: 800;
+  font-size: 0.9rem;
+  cursor: pointer;
+  width: 100%;
+  max-width: 360px;
+}
+
+.secondary-btn:hover { border-color: var(--accent); }
+
+.share-block {
+  margin: 0 auto 24px;
+  max-width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.share-panel {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.share-text {
+  width: 100%;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+  word-break: break-word;
+  text-align: left;
+  margin: 0;
+}
+
+.copy-btn-done { border-color: var(--accent) !important; color: var(--accent) !important; }
 
 /* Summary */
 

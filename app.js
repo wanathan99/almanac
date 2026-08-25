@@ -8,6 +8,7 @@ const gridSubtitle = document.getElementById('gridSubtitle');
 const scorePill = document.getElementById('scorePill');
 const strikesPill = document.getElementById('strikesPill');
 const strikesOptions = document.getElementById('strikesOptions');
+const hintsOptions = document.getElementById('hintsOptions');
 const timePill = document.getElementById('timePill');
 const grid = document.getElementById('grid');
 const backBtn = document.getElementById('backBtn');
@@ -18,6 +19,10 @@ const summaryStrikes = document.getElementById('summaryStrikes');
 const summaryTime = document.getElementById('summaryTime');
 const summaryList = document.getElementById('summaryList');
 const playAgainBtn = document.getElementById('playAgainBtn');
+const shareBtn = document.getElementById('shareBtn');
+const sharePanel = document.getElementById('sharePanel');
+const shareText = document.getElementById('shareText');
+const copyShareBtn = document.getElementById('copyShareBtn');
 
 let currentEntries = [];
 let guessableTotal = 0;
@@ -26,6 +31,7 @@ let score = 0;
 let answered = 0;
 let strikes = 0;
 let strikeLimit = 5;
+let showHints = true;
 let gameEnded = false;
 let startTime = 0;
 let elapsedSeconds = 0;
@@ -97,6 +103,18 @@ function setupStrikesSetting() {
     btn.addEventListener('click', () => applySelection(btn.dataset.value));
   });
   applySelection('5');
+}
+
+function setupHintsSetting() {
+  const buttons = Array.from(hintsOptions.querySelectorAll('.strikes-option'));
+  const applySelection = (value) => {
+    showHints = value === 'on';
+    buttons.forEach((b) => b.classList.toggle('selected', b.dataset.value === value));
+  };
+  buttons.forEach((btn) => {
+    btn.addEventListener('click', () => applySelection(btn.dataset.value));
+  });
+  applySelection('on');
 }
 
 async function loadCategories() {
@@ -258,7 +276,12 @@ function renderGrid(entries) {
     const logo = document.createElement('div');
     logo.className = 'cell-logo';
 
-    if (currentCategory?.noLogoHint) {
+    if (!showHints) {
+      // Hints toggled off: hide the visual hint entirely, just a placeholder.
+      cell.style.setProperty('--accent-color', 'var(--border)');
+      logo.classList.add('cell-logo-hidden');
+      logo.innerHTML = `<div class="cell-logo-question">?</div>`;
+    } else if (currentCategory?.noLogoHint) {
       // The entry's own team/logo IS the answer here — showing it would give it away.
       cell.style.setProperty('--accent-color', 'var(--border)');
     } else if (entry.definition) {
@@ -292,7 +315,7 @@ function renderGrid(entries) {
     }
     cell.appendChild(logo);
 
-    const statHTML = entry.statLine ? `<div class="cell-stat">${entry.statLine}</div>` : '';
+    const statHTML = entry.statLine && showHints ? `<div class="cell-stat">${entry.statLine}</div>` : '';
 
     const guessArea = document.createElement('div');
     guessArea.className = 'cell-guess-area';
@@ -414,14 +437,67 @@ function showSummary(reason) {
       .forEach((entry) => {
         const row = document.createElement('div');
         row.className = 'summary-row miss';
-        const detail = entry.school ? `${entry.player} — ${entry.school}` : entry.player;
+        const context = entry.school || entry.team;
+        const detail = context && context !== entry.player ? `${entry.player} — ${context}` : entry.player;
         row.innerHTML = `<span class="miss-year">${entry.year}</span><span>${detail}</span>`;
         summaryList.appendChild(row);
       });
   }
 
+  sharePanel.classList.add('hidden');
+  shareBtn.classList.remove('hidden');
+
   showScreen(summaryScreen);
 }
+
+function buildShareText() {
+  const cells = Array.from(document.querySelectorAll('#grid .cell'))
+    .map((cell) => ({ year: Number(cell.dataset.year), cell }))
+    .sort((a, b) => b.year - a.year);
+
+  const squares = cells.map(({ cell }) => {
+    if (cell.classList.contains('correct')) return '🟩';
+    if (cell.classList.contains('cell-invalid')) return '⬜';
+    return '🟥';
+  });
+
+  const rows = [];
+  for (let i = 0; i < squares.length; i += 10) {
+    rows.push(squares.slice(i, i + 10).join(''));
+  }
+
+  const strikesText = `${strikes} strike${strikes === 1 ? '' : 's'}${Number.isFinite(strikeLimit) ? ` (limit ${strikeLimit})` : ''}`;
+  const hintsText = `Hints: ${showHints ? 'On' : 'Off'}`;
+
+  return [
+    `Almanac: ${currentCategory.title} — ${score}/${guessableTotal}`,
+    ...rows,
+    `${formatTime(elapsedSeconds)} · ${strikesText} · ${hintsText}`,
+  ].join('\n');
+}
+
+shareBtn.addEventListener('click', () => {
+  shareText.textContent = buildShareText();
+  sharePanel.classList.remove('hidden');
+  shareBtn.classList.add('hidden');
+});
+
+copyShareBtn.addEventListener('click', () => {
+  const text = shareText.textContent;
+  const markCopied = () => {
+    copyShareBtn.textContent = 'Copied!';
+    copyShareBtn.classList.add('copy-btn-done');
+    setTimeout(() => {
+      copyShareBtn.textContent = 'Copy to clipboard';
+      copyShareBtn.classList.remove('copy-btn-done');
+    }, 1400);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(markCopied).catch(markCopied);
+  } else {
+    markCopied();
+  }
+});
 
 finishBtn.addEventListener('click', () => endGame('complete'));
 
@@ -432,4 +508,5 @@ backBtn.addEventListener('click', () => {
 playAgainBtn.addEventListener('click', () => showScreen(categoryScreen));
 
 setupStrikesSetting();
+setupHintsSetting();
 loadCategories();

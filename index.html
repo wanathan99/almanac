@@ -7,7 +7,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=JetBrains+Mono:wght@600;700;800&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="style.css?v=9" />
+<link rel="stylesheet" href="style.css?v=13" />
 </head>
 <body>
   <div id="app" class="app">
@@ -26,6 +26,14 @@
           <button type="button" class="strikes-option" data-value="3">3</button>
           <button type="button" class="strikes-option" data-value="5">5</button>
           <button type="button" class="strikes-option" data-value="unlimited">Unlimited</button>
+        </div>
+      </div>
+
+      <div class="strikes-setting">
+        <span class="strikes-setting-label">Hints (score, points, etc.)</span>
+        <div class="strikes-options" id="hintsOptions">
+          <button type="button" class="strikes-option" data-value="on">On</button>
+          <button type="button" class="strikes-option" data-value="off">Off</button>
         </div>
       </div>
 
@@ -61,6 +69,15 @@
       <p id="summaryStrikes" class="summary-strikes"></p>
       <p id="summaryTime" class="summary-strikes"></p>
       <div id="summaryList" class="summary-list"></div>
+
+      <div class="share-block">
+        <button id="shareBtn" class="secondary-btn" type="button">Share results</button>
+        <div id="sharePanel" class="share-panel hidden">
+          <pre id="shareText" class="share-text"></pre>
+          <button id="copyShareBtn" class="secondary-btn" type="button">Copy to clipboard</button>
+        </div>
+      </div>
+
       <button id="playAgainBtn" class="primary-btn" type="button">Back to categories</button>
     </section>
 
@@ -70,6 +87,6 @@
 
   </div>
 
-  <script src="app.js?v=9"></script>
+  <script src="app.js?v=13"></script>
 </body>
 </html>
