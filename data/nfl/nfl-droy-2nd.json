@@ -1,132 +1,6 @@
 [
   {
-    "year": 1996,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Zach Thomas",
-    "playerAliases": [
-      "zach thomas"
-    ]
-  },
-  {
-    "year": 1997,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
-    "colors": [
-      "#D3BC8D",
-      "#000000"
-    ],
-    "player": "Sammy Knight",
-    "playerAliases": [
-      "sammy knight"
-    ]
-  },
-  {
-    "year": 1998,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Vonnie Holliday",
-    "playerAliases": [
-      "vonnie holliday"
-    ]
-  },
-  {
-    "year": 1999,
-    "team": "Washington Redskins",
-    "abbr": "WSH",
-    "logo": "assets/logos/nfl-washington-redskins.png",
-    "colors": [
-      "#5A1414",
-      "#FFB612"
-    ],
-    "player": "Champ Bailey",
-    "playerAliases": [
-      "champ bailey"
-    ]
-  },
-  {
-    "year": 2000,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
-    "colors": [
-      "#D3BC8D",
-      "#000000"
-    ],
-    "player": "Darren Howard",
-    "playerAliases": [
-      "darren howard"
-    ]
-  },
-  {
-    "year": 2001,
-    "team": "Cleveland Browns",
-    "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-    "colors": [
-      "#472A08",
-      "#FF3C00"
-    ],
-    "player": "Anthony Henry",
-    "playerAliases": [
-      "anthony henry"
-    ]
-  },
-  {
-    "year": 2002,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Dwight Freeney",
-    "playerAliases": [
-      "dwight freeney"
-    ]
-  },
-  {
-    "year": 2003,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Terence Newman",
-    "playerAliases": [
-      "terence newman"
-    ]
-  },
-  {
-    "year": 2004,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-    "colors": [
-      "#021018",
-      "#EB0028"
-    ],
-    "player": "Dunta Robinson",
-    "playerAliases": [
-      "dunta robinson"
-    ]
-  },
-  {
-    "year": 2005,
+    "year": 2025,
     "team": "Seattle Seahawks",
     "abbr": "SEA",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
@@ -134,252 +8,9 @@
       "#002A5C",
       "#69BE28"
     ],
-    "player": "Lofa Tatupu",
+    "player": "Nick Emmanwori",
     "playerAliases": [
-      "lofa tatupu"
-    ]
-  },
-  {
-    "year": 2006,
-    "team": "Chicago Bears",
-    "abbr": "CHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-    "colors": [
-      "#0B1C3A",
-      "#E64100"
-    ],
-    "player": "Mark Anderson",
-    "playerAliases": [
-      "mark anderson"
-    ]
-  },
-  {
-    "year": 2007,
-    "team": "Carolina Panthers",
-    "abbr": "CAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-    "colors": [
-      "#0085CA",
-      "#000000"
-    ],
-    "player": "Jon Beason",
-    "playerAliases": [
-      "jon beason"
-    ]
-  },
-  {
-    "year": 2008,
-    "team": "Cincinnati Bengals",
-    "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-    "colors": [
-      "#FB4F14",
-      "#000000"
-    ],
-    "player": "Keith Rivers",
-    "playerAliases": [
-      "keith rivers"
-    ]
-  },
-  {
-    "year": 2009,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Jairus Byrd",
-    "playerAliases": [
-      "jairus byrd"
-    ]
-  },
-  {
-    "year": 2010,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Devin McCourty",
-    "playerAliases": [
-      "devin mccourty"
-    ]
-  },
-  {
-    "year": 2011,
-    "team": "San Francisco 49ers",
-    "abbr": "SF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
-    "colors": [
-      "#AA0000",
-      "#B3995D"
-    ],
-    "player": "Aldon Smith",
-    "playerAliases": [
-      "aldon smith"
-    ]
-  },
-  {
-    "year": 2012,
-    "team": "Seattle Seahawks",
-    "abbr": "SEA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-    "colors": [
-      "#002A5C",
-      "#69BE28"
-    ],
-    "player": "Bobby Wagner",
-    "playerAliases": [
-      "bobby wagner"
-    ]
-  },
-  {
-    "year": 2013,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Kiko Alonso",
-    "playerAliases": [
-      "kiko alonso"
-    ]
-  },
-  {
-    "year": 2014,
-    "team": "Baltimore Ravens",
-    "abbr": "BAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-    "colors": [
-      "#29126F",
-      "#000000"
-    ],
-    "player": "C.J. Mosley",
-    "playerAliases": [
-      "c.j. mosley"
-    ]
-  },
-  {
-    "year": 2015,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Ronald Darby",
-    "playerAliases": [
-      "ronald darby"
-    ]
-  },
-  {
-    "year": 2016,
-    "team": "Jacksonville Jaguars",
-    "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-    "colors": [
-      "#007487",
-      "#D7A22A"
-    ],
-    "player": "Jalen Ramsey",
-    "playerAliases": [
-      "jalen ramsey"
-    ]
-  },
-  {
-    "year": 2017,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Tre'Davious White",
-    "playerAliases": [
-      "tre'davious white"
-    ]
-  },
-  {
-    "year": 2018,
-    "team": "Los Angeles Chargers",
-    "abbr": "LAC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-    "colors": [
-      "#0080C6",
-      "#FFC20E"
-    ],
-    "player": "Derwin James",
-    "playerAliases": [
-      "derwin james"
-    ]
-  },
-  {
-    "year": 2019,
-    "team": "Oakland Raiders",
-    "abbr": "OAK",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-    "colors": [
-      "#000000",
-      "#A5ACAF"
-    ],
-    "player": "Maxx Crosby",
-    "playerAliases": [
-      "maxx crosby"
-    ]
-  },
-  {
-    "year": 2020,
-    "team": "Carolina Panthers",
-    "abbr": "CAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-    "colors": [
-      "#0085CA",
-      "#000000"
-    ],
-    "player": "Jeremy Chinn",
-    "playerAliases": [
-      "jeremy chinn"
-    ]
-  },
-  {
-    "year": 2021,
-    "invalid": true,
-    "reason": "Only 1 player(s) received AP DROY votes that year \u2014 no runner-up (2nd)"
-  },
-  {
-    "year": 2022,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Aidan Hutchinson",
-    "playerAliases": [
-      "aidan hutchinson"
-    ]
-  },
-  {
-    "year": 2023,
-    "team": "Philadelphia Eagles",
-    "abbr": "PHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-    "colors": [
-      "#06424D",
-      "#000000"
-    ],
-    "player": "Jalen Carter",
-    "playerAliases": [
-      "jalen carter"
+      "nick emmanwori"
     ]
   },
   {
@@ -397,7 +28,152 @@
     ]
   },
   {
-    "year": 2025,
+    "year": 2023,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "colors": [
+      "#06424D",
+      "#000000"
+    ],
+    "player": "Jalen Carter",
+    "playerAliases": [
+      "jalen carter"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Aidan Hutchinson",
+    "playerAliases": [
+      "aidan hutchinson"
+    ]
+  },
+  {
+    "year": 2021,
+    "invalid": true,
+    "reason": "Only 1 player(s) received AP DROY votes that year — no runner-up (2nd)"
+  },
+  {
+    "year": 2020,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Jeremy Chinn",
+    "playerAliases": [
+      "jeremy chinn"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Oakland Raiders",
+    "abbr": "OAK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "colors": [
+      "#000000",
+      "#A5ACAF"
+    ],
+    "player": "Maxx Crosby",
+    "playerAliases": [
+      "maxx crosby"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Los Angeles Chargers",
+    "abbr": "LAC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Derwin James",
+    "playerAliases": [
+      "derwin james"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Tre'Davious White",
+    "playerAliases": [
+      "tre'davious white"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Jalen Ramsey",
+    "playerAliases": [
+      "jalen ramsey"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Ronald Darby",
+    "playerAliases": [
+      "ronald darby"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "colors": [
+      "#29126F",
+      "#000000"
+    ],
+    "player": "C.J. Mosley",
+    "playerAliases": [
+      "c.j. mosley"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Kiko Alonso",
+    "playerAliases": [
+      "kiko alonso"
+    ]
+  },
+  {
+    "year": 2012,
     "team": "Seattle Seahawks",
     "abbr": "SEA",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
@@ -405,9 +181,233 @@
       "#002A5C",
       "#69BE28"
     ],
-    "player": "Nick Emmanwori",
+    "player": "Bobby Wagner",
     "playerAliases": [
-      "nick emmanwori"
+      "bobby wagner"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Aldon Smith",
+    "playerAliases": [
+      "aldon smith"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Devin McCourty",
+    "playerAliases": [
+      "devin mccourty"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Jairus Byrd",
+    "playerAliases": [
+      "jairus byrd"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "assets/logos/nfl/nfl-bengals-2004-2020.png",
+    "colors": [
+      "#FB4F14",
+      "#000000"
+    ],
+    "player": "Keith Rivers",
+    "playerAliases": [
+      "keith rivers"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Jon Beason",
+    "playerAliases": [
+      "jon beason"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Mark Anderson",
+    "playerAliases": [
+      "mark anderson"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Lofa Tatupu",
+    "playerAliases": [
+      "lofa tatupu"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "Dunta Robinson",
+    "playerAliases": [
+      "dunta robinson"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Terence Newman",
+    "playerAliases": [
+      "terence newman"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Dwight Freeney",
+    "playerAliases": [
+      "dwight freeney"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "colors": [
+      "#472A08",
+      "#FF3C00"
+    ],
+    "player": "Anthony Henry",
+    "playerAliases": [
+      "anthony henry"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "assets/logos/nfl/nfl-saints-2000-2001.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Darren Howard",
+    "playerAliases": [
+      "darren howard"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Washington Redskins",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Champ Bailey",
+    "playerAliases": [
+      "champ bailey"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Vonnie Holliday",
+    "playerAliases": [
+      "vonnie holliday"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "assets/logos/nfl/nfl-saints-1967-1999.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Sammy Knight",
+    "playerAliases": [
+      "sammy knight"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "assets/logos/nfl/nfl-dolphins-1990-1997.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Zach Thomas",
+    "playerAliases": [
+      "zach thomas"
     ]
   }
 ]

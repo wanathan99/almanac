@@ -1,12 +1,390 @@
 [
   {
-    "year": 1996,
+    "year": 2025,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Mike Macdonald",
+    "playerAliases": [
+      "mike macdonald"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Andy Reid",
+    "playerAliases": [
+      "andy reid"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Dan Campbell",
+    "playerAliases": [
+      "dan campbell"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Doug Pederson",
+    "playerAliases": [
+      "doug pederson"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Las Vegas Raiders",
+    "abbr": "LV",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "colors": [
+      "#000000",
+      "#A5ACAF"
+    ],
+    "player": "Rich Bisaccia",
+    "playerAliases": [
+      "rich bisaccia"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Brian Flores",
+    "playerAliases": [
+      "brian flores"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Matt LaFleur",
+    "playerAliases": [
+      "matt lafleur"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Frank Reich",
+    "playerAliases": [
+      "frank reich"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Doug Marrone",
+    "playerAliases": [
+      "doug marrone"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "assets/logos/nfl/nfl-dolphins-2013-2017.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Adam Gase",
+    "playerAliases": [
+      "adam gase"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "Bill O'Brien",
+    "playerAliases": [
+      "bill o'brien"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "Bill O'Brien",
+    "playerAliases": [
+      "bill o'brien"
+    ]
+  },
+  {
+    "year": 2013,
     "team": "New England Patriots",
     "abbr": "NE",
-    "logo": "assets/logos/nfl/nfl-patriots-1993-1999.png",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
     "colors": [
       "#002A5C",
       "#C60C30"
+    ],
+    "player": "Bill Belichick",
+    "playerAliases": [
+      "bill belichick"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Pete Carroll",
+    "playerAliases": [
+      "pete carroll"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "John Fox",
+    "playerAliases": [
+      "john fox"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Todd Haley",
+    "playerAliases": [
+      "todd haley"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Norv Turner",
+    "playerAliases": [
+      "norv turner"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Jeff Fisher",
+    "playerAliases": [
+      "jeff fisher"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "assets/logos/nfl/nfl-jaguars-2002-2012.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Jack Del Rio",
+    "playerAliases": [
+      "jack del rio"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Marty Schottenheimer",
+    "playerAliases": [
+      "marty schottenheimer"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Bill Belichick",
+    "playerAliases": [
+      "bill belichick"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Bill Belichick",
+    "playerAliases": [
+      "bill belichick"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Bill Parcells",
+    "playerAliases": [
+      "bill parcells"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Herm Edwards",
+    "playerAliases": [
+      "herm edwards"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Bill Cowher",
+    "playerAliases": [
+      "bill cowher"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Jim Fassel",
+    "playerAliases": [
+      "jim fassel"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Jeff Fisher",
+    "playerAliases": [
+      "jeff fisher"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
     ],
     "player": "Bill Parcells",
     "playerAliases": [
@@ -28,395 +406,17 @@
     ]
   },
   {
-    "year": 1998,
-    "team": "New York Jets",
-    "abbr": "NYJ",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "year": 1996,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "assets/logos/nfl/nfl-patriots-1993-1999.png",
     "colors": [
-      "#115740",
-      "#FFFFFF"
+      "#002A5C",
+      "#C60C30"
     ],
     "player": "Bill Parcells",
     "playerAliases": [
       "bill parcells"
-    ]
-  },
-  {
-    "year": 1999,
-    "team": "Tennessee Titans",
-    "abbr": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "colors": [
-      "#4495D2",
-      "#001532"
-    ],
-    "player": "Jeff Fisher",
-    "playerAliases": [
-      "jeff fisher"
-    ]
-  },
-  {
-    "year": 2000,
-    "team": "New York Giants",
-    "abbr": "NYG",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-    "colors": [
-      "#003C7F",
-      "#C9243F"
-    ],
-    "player": "Jim Fassel",
-    "playerAliases": [
-      "jim fassel"
-    ]
-  },
-  {
-    "year": 2001,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "Bill Cowher",
-    "playerAliases": [
-      "bill cowher"
-    ]
-  },
-  {
-    "year": 2002,
-    "team": "New York Jets",
-    "abbr": "NYJ",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-    "colors": [
-      "#115740",
-      "#FFFFFF"
-    ],
-    "player": "Herm Edwards",
-    "playerAliases": [
-      "herm edwards"
-    ]
-  },
-  {
-    "year": 2003,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Bill Parcells",
-    "playerAliases": [
-      "bill parcells"
-    ]
-  },
-  {
-    "year": 2004,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Bill Belichick",
-    "playerAliases": [
-      "bill belichick"
-    ]
-  },
-  {
-    "year": 2005,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Bill Belichick",
-    "playerAliases": [
-      "bill belichick"
-    ]
-  },
-  {
-    "year": 2006,
-    "team": "San Diego Chargers",
-    "abbr": "SD",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
-    "colors": [
-      "#0080C6",
-      "#FFC20E"
-    ],
-    "player": "Marty Schottenheimer",
-    "playerAliases": [
-      "marty schottenheimer"
-    ]
-  },
-  {
-    "year": 2007,
-    "team": "Jacksonville Jaguars",
-    "abbr": "JAX",
-    "logo": "assets/logos/nfl/nfl-jaguars-2002-2012.png",
-    "colors": [
-      "#007487",
-      "#D7A22A"
-    ],
-    "player": "Jack Del Rio",
-    "playerAliases": [
-      "jack del rio"
-    ]
-  },
-  {
-    "year": 2008,
-    "team": "Tennessee Titans",
-    "abbr": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "colors": [
-      "#4495D2",
-      "#001532"
-    ],
-    "player": "Jeff Fisher",
-    "playerAliases": [
-      "jeff fisher"
-    ]
-  },
-  {
-    "year": 2009,
-    "team": "San Diego Chargers",
-    "abbr": "SD",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
-    "colors": [
-      "#0080C6",
-      "#FFC20E"
-    ],
-    "player": "Norv Turner",
-    "playerAliases": [
-      "norv turner"
-    ]
-  },
-  {
-    "year": 2010,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Todd Haley",
-    "playerAliases": [
-      "todd haley"
-    ]
-  },
-  {
-    "year": 2011,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "John Fox",
-    "playerAliases": [
-      "john fox"
-    ]
-  },
-  {
-    "year": 2012,
-    "team": "Seattle Seahawks",
-    "abbr": "SEA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-    "colors": [
-      "#002A5C",
-      "#69BE28"
-    ],
-    "player": "Pete Carroll",
-    "playerAliases": [
-      "pete carroll"
-    ]
-  },
-  {
-    "year": 2013,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Bill Belichick",
-    "playerAliases": [
-      "bill belichick"
-    ]
-  },
-  {
-    "year": 2014,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-    "colors": [
-      "#021018",
-      "#EB0028"
-    ],
-    "player": "Bill O'Brien",
-    "playerAliases": [
-      "bill o'brien"
-    ]
-  },
-  {
-    "year": 2015,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-    "colors": [
-      "#021018",
-      "#EB0028"
-    ],
-    "player": "Bill O'Brien",
-    "playerAliases": [
-      "bill o'brien"
-    ]
-  },
-  {
-    "year": 2016,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "assets/logos/nfl/nfl-dolphins-2013-2017.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Adam Gase",
-    "playerAliases": [
-      "adam gase"
-    ]
-  },
-  {
-    "year": 2017,
-    "team": "Jacksonville Jaguars",
-    "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-    "colors": [
-      "#007487",
-      "#D7A22A"
-    ],
-    "player": "Doug Marrone",
-    "playerAliases": [
-      "doug marrone"
-    ]
-  },
-  {
-    "year": 2018,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Frank Reich",
-    "playerAliases": [
-      "frank reich"
-    ]
-  },
-  {
-    "year": 2019,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Matt LaFleur",
-    "playerAliases": [
-      "matt lafleur"
-    ]
-  },
-  {
-    "year": 2020,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Brian Flores",
-    "playerAliases": [
-      "brian flores"
-    ]
-  },
-  {
-    "year": 2021,
-    "team": "Las Vegas Raiders",
-    "abbr": "LV",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-    "colors": [
-      "#000000",
-      "#A5ACAF"
-    ],
-    "player": "Rich Bisaccia",
-    "playerAliases": [
-      "rich bisaccia"
-    ]
-  },
-  {
-    "year": 2022,
-    "team": "Jacksonville Jaguars",
-    "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-    "colors": [
-      "#007487",
-      "#D7A22A"
-    ],
-    "player": "Doug Pederson",
-    "playerAliases": [
-      "doug pederson"
-    ]
-  },
-  {
-    "year": 2023,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Dan Campbell",
-    "playerAliases": [
-      "dan campbell"
-    ]
-  },
-  {
-    "year": 2024,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Andy Reid",
-    "playerAliases": [
-      "andy reid"
-    ]
-  },
-  {
-    "year": 2025,
-    "team": "Seattle Seahawks",
-    "abbr": "SEA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-    "colors": [
-      "#002A5C",
-      "#69BE28"
-    ],
-    "player": "Mike Macdonald",
-    "playerAliases": [
-      "mike macdonald"
     ]
   }
 ]

@@ -1,246 +1,6 @@
 [
   {
-    "year": 1996,
-    "team": "Germany",
-    "abbr": "GER",
-    "logo": "assets/logos/tennis/flag-ger.png",
-    "colors": [
-      "#000000",
-      "#DD0000"
-    ],
-    "player": "Steffi Graf",
-    "playerAliases": [
-      "graf",
-      "steffi graf"
-    ]
-  },
-  {
-    "year": 1997,
-    "team": "Switzerland",
-    "abbr": "SUI",
-    "logo": "assets/logos/tennis/flag-sui.png",
-    "colors": [
-      "#FF0000",
-      "#FFFFFF"
-    ],
-    "player": "Martina Hingis",
-    "playerAliases": [
-      "hingis",
-      "martina hingis"
-    ]
-  },
-  {
-    "year": 1998,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
-    "colors": [
-      "#B31942",
-      "#FFFFFF"
-    ],
-    "player": "Lindsay Davenport",
-    "playerAliases": [
-      "davenport",
-      "lindsay davenport"
-    ]
-  },
-  {
-    "year": 1999,
-    "team": "Switzerland",
-    "abbr": "SUI",
-    "logo": "assets/logos/tennis/flag-sui.png",
-    "colors": [
-      "#FF0000",
-      "#FFFFFF"
-    ],
-    "player": "Martina Hingis",
-    "playerAliases": [
-      "hingis",
-      "martina hingis"
-    ]
-  },
-  {
-    "year": 2000,
-    "team": "Switzerland",
-    "abbr": "SUI",
-    "logo": "assets/logos/tennis/flag-sui.png",
-    "colors": [
-      "#FF0000",
-      "#FFFFFF"
-    ],
-    "player": "Martina Hingis",
-    "playerAliases": [
-      "hingis",
-      "martina hingis"
-    ]
-  },
-  {
-    "year": 2001,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
-    "colors": [
-      "#B31942",
-      "#FFFFFF"
-    ],
-    "player": "Lindsay Davenport",
-    "playerAliases": [
-      "davenport",
-      "lindsay davenport"
-    ]
-  },
-  {
-    "year": 2002,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
-    "colors": [
-      "#B31942",
-      "#FFFFFF"
-    ],
-    "player": "Serena Williams",
-    "playerAliases": [
-      "serena williams",
-      "williams"
-    ]
-  },
-  {
-    "year": 2003,
-    "team": "Belgium",
-    "abbr": "BEL",
-    "logo": "assets/logos/tennis/flag-bel.png",
-    "colors": [
-      "#000000",
-      "#FDDA25"
-    ],
-    "player": "Justine Henin-Hardenne",
-    "playerAliases": [
-      "henin",
-      "justine henin-hardenne"
-    ]
-  },
-  {
-    "year": 2004,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
-    "colors": [
-      "#B31942",
-      "#FFFFFF"
-    ],
-    "player": "Lindsay Davenport",
-    "playerAliases": [
-      "davenport",
-      "lindsay davenport"
-    ]
-  },
-  {
-    "year": 2005,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
-    "colors": [
-      "#B31942",
-      "#FFFFFF"
-    ],
-    "player": "Lindsay Davenport",
-    "playerAliases": [
-      "davenport",
-      "lindsay davenport"
-    ]
-  },
-  {
-    "year": 2006,
-    "team": "Belgium",
-    "abbr": "BEL",
-    "logo": "assets/logos/tennis/flag-bel.png",
-    "colors": [
-      "#000000",
-      "#FDDA25"
-    ],
-    "player": "Justine Henin-Hardenne",
-    "playerAliases": [
-      "henin",
-      "justine henin-hardenne"
-    ]
-  },
-  {
-    "year": 2007,
-    "team": "Belgium",
-    "abbr": "BEL",
-    "logo": "assets/logos/tennis/flag-bel.png",
-    "colors": [
-      "#000000",
-      "#FDDA25"
-    ],
-    "player": "Justine Henin",
-    "playerAliases": [
-      "henin",
-      "justine henin"
-    ]
-  },
-  {
-    "year": 2008,
-    "team": "Serbia",
-    "abbr": "SRB",
-    "logo": "assets/logos/tennis/flag-srb.png",
-    "colors": [
-      "#FFFFFF",
-      "#C6363C"
-    ],
-    "player": "Jelena Janković",
-    "playerAliases": [
-      "janković",
-      "jelena janković"
-    ]
-  },
-  {
-    "year": 2009,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
-    "colors": [
-      "#B31942",
-      "#FFFFFF"
-    ],
-    "player": "Serena Williams",
-    "playerAliases": [
-      "serena williams",
-      "williams"
-    ]
-  },
-  {
-    "year": 2010,
-    "team": "Denmark",
-    "abbr": "DEN",
-    "logo": "assets/logos/tennis/flag-den.png",
-    "colors": [
-      "#C8102E",
-      "#FFFFFF"
-    ],
-    "player": "Caroline Wozniacki",
-    "playerAliases": [
-      "caroline wozniacki",
-      "wozniacki"
-    ]
-  },
-  {
-    "year": 2011,
-    "team": "Denmark",
-    "abbr": "DEN",
-    "logo": "assets/logos/tennis/flag-den.png",
-    "colors": [
-      "#C8102E",
-      "#FFFFFF"
-    ],
-    "player": "Caroline Wozniacki",
-    "playerAliases": [
-      "caroline wozniacki",
-      "wozniacki"
-    ]
-  },
-  {
-    "year": 2012,
+    "year": 2025,
     "team": "Belarus",
     "abbr": "BLR",
     "logo": "assets/logos/tennis/flag-blr.png",
@@ -248,104 +8,59 @@
       "#CE1720",
       "#007C30"
     ],
-    "player": "Victoria Azarenka",
+    "player": "Aryna Sabalenka",
     "playerAliases": [
-      "azarenka",
-      "victoria azarenka"
+      "aryna sabalenka",
+      "sabalenka"
     ]
   },
   {
-    "year": 2013,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
+    "year": 2024,
+    "team": "Belarus",
+    "abbr": "BLR",
+    "logo": "assets/logos/tennis/flag-blr.png",
     "colors": [
-      "#B31942",
-      "#FFFFFF"
+      "#CE1720",
+      "#007C30"
     ],
-    "player": "Serena Williams",
+    "player": "Aryna Sabalenka",
     "playerAliases": [
-      "serena williams",
-      "williams"
+      "aryna sabalenka",
+      "sabalenka"
     ]
   },
   {
-    "year": 2014,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
+    "year": 2023,
+    "team": "Poland",
+    "abbr": "POL",
+    "logo": "assets/logos/tennis/flag-pol.png",
     "colors": [
-      "#B31942",
-      "#FFFFFF"
+      "#FFFFFF",
+      "#DC143C"
     ],
-    "player": "Serena Williams",
+    "player": "Iga Świątek",
     "playerAliases": [
-      "serena williams",
-      "williams"
+      "iga świątek",
+      "świątek"
     ]
   },
   {
-    "year": 2015,
-    "team": "United States",
-    "abbr": "USA",
-    "logo": "assets/logos/tennis/flag-usa.png",
+    "year": 2022,
+    "team": "Poland",
+    "abbr": "POL",
+    "logo": "assets/logos/tennis/flag-pol.png",
     "colors": [
-      "#B31942",
-      "#FFFFFF"
+      "#FFFFFF",
+      "#DC143C"
     ],
-    "player": "Serena Williams",
+    "player": "Iga Świątek",
     "playerAliases": [
-      "serena williams",
-      "williams"
+      "iga świątek",
+      "świątek"
     ]
   },
   {
-    "year": 2016,
-    "team": "Germany",
-    "abbr": "GER",
-    "logo": "assets/logos/tennis/flag-ger.png",
-    "colors": [
-      "#000000",
-      "#DD0000"
-    ],
-    "player": "Angelique Kerber",
-    "playerAliases": [
-      "angelique kerber",
-      "kerber"
-    ]
-  },
-  {
-    "year": 2017,
-    "team": "Romania",
-    "abbr": "ROU",
-    "logo": "assets/logos/tennis/flag-rou.png",
-    "colors": [
-      "#002B7F",
-      "#FCD116"
-    ],
-    "player": "Simona Halep",
-    "playerAliases": [
-      "halep",
-      "simona halep"
-    ]
-  },
-  {
-    "year": 2018,
-    "team": "Romania",
-    "abbr": "ROU",
-    "logo": "assets/logos/tennis/flag-rou.png",
-    "colors": [
-      "#002B7F",
-      "#FCD116"
-    ],
-    "player": "Simona Halep",
-    "playerAliases": [
-      "halep",
-      "simona halep"
-    ]
-  },
-  {
-    "year": 2019,
+    "year": 2021,
     "team": "Australia",
     "abbr": "AUS",
     "logo": "assets/logos/tennis/flag-aus.png",
@@ -375,7 +90,7 @@
     ]
   },
   {
-    "year": 2021,
+    "year": 2019,
     "team": "Australia",
     "abbr": "AUS",
     "logo": "assets/logos/tennis/flag-aus.png",
@@ -390,37 +105,97 @@
     ]
   },
   {
-    "year": 2022,
-    "team": "Poland",
-    "abbr": "POL",
-    "logo": "assets/logos/tennis/flag-pol.png",
+    "year": 2018,
+    "team": "Romania",
+    "abbr": "ROU",
+    "logo": "assets/logos/tennis/flag-rou.png",
     "colors": [
-      "#FFFFFF",
-      "#DC143C"
+      "#002B7F",
+      "#FCD116"
     ],
-    "player": "Iga Świątek",
+    "player": "Simona Halep",
     "playerAliases": [
-      "iga świątek",
-      "świątek"
+      "halep",
+      "simona halep"
     ]
   },
   {
-    "year": 2023,
-    "team": "Poland",
-    "abbr": "POL",
-    "logo": "assets/logos/tennis/flag-pol.png",
+    "year": 2017,
+    "team": "Romania",
+    "abbr": "ROU",
+    "logo": "assets/logos/tennis/flag-rou.png",
     "colors": [
-      "#FFFFFF",
-      "#DC143C"
+      "#002B7F",
+      "#FCD116"
     ],
-    "player": "Iga Świątek",
+    "player": "Simona Halep",
     "playerAliases": [
-      "iga świątek",
-      "świątek"
+      "halep",
+      "simona halep"
     ]
   },
   {
-    "year": 2024,
+    "year": 2016,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Angelique Kerber",
+    "playerAliases": [
+      "angelique kerber",
+      "kerber"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2012,
     "team": "Belarus",
     "abbr": "BLR",
     "logo": "assets/logos/tennis/flag-blr.png",
@@ -428,25 +203,250 @@
       "#CE1720",
       "#007C30"
     ],
-    "player": "Aryna Sabalenka",
+    "player": "Victoria Azarenka",
     "playerAliases": [
-      "aryna sabalenka",
-      "sabalenka"
+      "azarenka",
+      "victoria azarenka"
     ]
   },
   {
-    "year": 2025,
-    "team": "Belarus",
-    "abbr": "BLR",
-    "logo": "assets/logos/tennis/flag-blr.png",
+    "year": 2011,
+    "team": "Denmark",
+    "abbr": "DEN",
+    "logo": "assets/logos/tennis/flag-den.png",
     "colors": [
-      "#CE1720",
-      "#007C30"
+      "#C8102E",
+      "#FFFFFF"
     ],
-    "player": "Aryna Sabalenka",
+    "player": "Caroline Wozniacki",
     "playerAliases": [
-      "aryna sabalenka",
-      "sabalenka"
+      "caroline wozniacki",
+      "wozniacki"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Denmark",
+    "abbr": "DEN",
+    "logo": "assets/logos/tennis/flag-den.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Caroline Wozniacki",
+    "playerAliases": [
+      "caroline wozniacki",
+      "wozniacki"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Serbia",
+    "abbr": "SRB",
+    "logo": "assets/logos/tennis/flag-srb.png",
+    "colors": [
+      "#FFFFFF",
+      "#C6363C"
+    ],
+    "player": "Jelena Janković",
+    "playerAliases": [
+      "janković",
+      "jelena janković"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Belgium",
+    "abbr": "BEL",
+    "logo": "assets/logos/tennis/flag-bel.png",
+    "colors": [
+      "#000000",
+      "#FDDA25"
+    ],
+    "player": "Justine Henin",
+    "playerAliases": [
+      "henin",
+      "justine henin"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Belgium",
+    "abbr": "BEL",
+    "logo": "assets/logos/tennis/flag-bel.png",
+    "colors": [
+      "#000000",
+      "#FDDA25"
+    ],
+    "player": "Justine Henin-Hardenne",
+    "playerAliases": [
+      "henin",
+      "justine henin-hardenne"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Lindsay Davenport",
+    "playerAliases": [
+      "davenport",
+      "lindsay davenport"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Lindsay Davenport",
+    "playerAliases": [
+      "davenport",
+      "lindsay davenport"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Belgium",
+    "abbr": "BEL",
+    "logo": "assets/logos/tennis/flag-bel.png",
+    "colors": [
+      "#000000",
+      "#FDDA25"
+    ],
+    "player": "Justine Henin-Hardenne",
+    "playerAliases": [
+      "henin",
+      "justine henin-hardenne"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Serena Williams",
+    "playerAliases": [
+      "serena williams",
+      "williams"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Lindsay Davenport",
+    "playerAliases": [
+      "davenport",
+      "lindsay davenport"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Martina Hingis",
+    "playerAliases": [
+      "hingis",
+      "martina hingis"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Martina Hingis",
+    "playerAliases": [
+      "hingis",
+      "martina hingis"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#B31942",
+      "#FFFFFF"
+    ],
+    "player": "Lindsay Davenport",
+    "playerAliases": [
+      "davenport",
+      "lindsay davenport"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Switzerland",
+    "abbr": "SUI",
+    "logo": "assets/logos/tennis/flag-sui.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Martina Hingis",
+    "playerAliases": [
+      "hingis",
+      "martina hingis"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Steffi Graf",
+    "playerAliases": [
+      "graf",
+      "steffi graf"
     ]
   }
 ]

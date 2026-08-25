@@ -1,423 +1,18 @@
 [
   {
-    "year": 1996,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "year": 2025,
+    "team": "Los Angeles Rams",
+    "abbr": "LAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
     "colors": [
-      "#4F2683",
-      "#FFC62F"
+      "#003594",
+      "#FFD100"
     ],
-    "player": "Jake Reed",
+    "player": "Puka Nacua",
     "playerAliases": [
-      "jake reed"
+      "puka nacua"
     ],
-    "statLine": "1,320 rec yds"
-  },
-  {
-    "year": 1997,
-    "team": "Oakland Raiders",
-    "abbr": "OAK",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-    "colors": [
-      "#000000",
-      "#A5ACAF"
-    ],
-    "player": "Tim Brown",
-    "playerAliases": [
-      "tim brown"
-    ],
-    "statLine": "1,408 rec yds"
-  },
-  {
-    "year": 1998,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Eric Moulds",
-    "playerAliases": [
-      "eric moulds"
-    ],
-    "statLine": "1,368 rec yds"
-  },
-  {
-    "year": 1999,
-    "team": "Jacksonville Jaguars",
-    "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-    "colors": [
-      "#007487",
-      "#D7A22A"
-    ],
-    "player": "Jimmy Smith",
-    "playerAliases": [
-      "jimmy smith"
-    ],
-    "statLine": "1,636 rec yds"
-  },
-  {
-    "year": 2000,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Rod Smith",
-    "playerAliases": [
-      "rod smith"
-    ],
-    "statLine": "1,602 rec yds"
-  },
-  {
-    "year": 2001,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Harrison",
-    "playerAliases": [
-      "marvin harrison"
-    ],
-    "statLine": "1,524 rec yds"
-  },
-  {
-    "year": 2002,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Randy Moss",
-    "playerAliases": [
-      "randy moss"
-    ],
-    "statLine": "1,347 rec yds"
-  },
-  {
-    "year": 2003,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Randy Moss",
-    "playerAliases": [
-      "randy moss"
-    ],
-    "statLine": "1,632 rec yds"
-  },
-  {
-    "year": 2004,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
-    "colors": [
-      "#D3BC8D",
-      "#000000"
-    ],
-    "player": "Joe Horn",
-    "playerAliases": [
-      "joe horn"
-    ],
-    "statLine": "1,399 rec yds"
-  },
-  {
-    "year": 2005,
-    "team": "Washington Redskins",
-    "abbr": "WSH",
-    "logo": "assets/logos/nfl-washington-redskins.png",
-    "colors": [
-      "#5A1414",
-      "#FFB612"
-    ],
-    "player": "Santana Moss",
-    "playerAliases": [
-      "santana moss"
-    ],
-    "statLine": "1,483 rec yds"
-  },
-  {
-    "year": 2006,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Harrison",
-    "playerAliases": [
-      "marvin harrison"
-    ],
-    "statLine": "1,366 rec yds"
-  },
-  {
-    "year": 2007,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Randy Moss",
-    "playerAliases": [
-      "randy moss"
-    ],
-    "statLine": "1,493 rec yds"
-  },
-  {
-    "year": 2008,
-    "team": "Arizona Cardinals",
-    "abbr": "ARI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-    "colors": [
-      "#A40227",
-      "#FFFFFF"
-    ],
-    "player": "Larry Fitzgerald",
-    "playerAliases": [
-      "larry fitzgerald"
-    ],
-    "statLine": "1,431 rec yds"
-  },
-  {
-    "year": 2009,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Wes Welker",
-    "playerAliases": [
-      "wes welker"
-    ],
-    "statLine": "1,348 rec yds"
-  },
-  {
-    "year": 2010,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Roddy White",
-    "playerAliases": [
-      "roddy white"
-    ],
-    "statLine": "1,389 rec yds"
-  },
-  {
-    "year": 2011,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Wes Welker",
-    "playerAliases": [
-      "wes welker"
-    ],
-    "statLine": "1,569 rec yds"
-  },
-  {
-    "year": 2012,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-    "colors": [
-      "#021018",
-      "#EB0028"
-    ],
-    "player": "Andre Johnson",
-    "playerAliases": [
-      "andre johnson"
-    ],
-    "statLine": "1,598 rec yds"
-  },
-  {
-    "year": 2013,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "Antonio Brown",
-    "playerAliases": [
-      "antonio brown"
-    ],
-    "statLine": "1,499 rec yds"
-  },
-  {
-    "year": 2014,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Demaryius Thomas",
-    "playerAliases": [
-      "demaryius thomas"
-    ],
-    "statLine": "1,619 rec yds"
-  },
-  {
-    "year": 2015,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "Antonio Brown",
-    "playerAliases": [
-      "antonio brown"
-    ],
-    "statLine": "1,834 rec yds"
-  },
-  {
-    "year": 2016,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Julio Jones",
-    "playerAliases": [
-      "julio jones"
-    ],
-    "statLine": "1,409 rec yds"
-  },
-  {
-    "year": 2017,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Julio Jones",
-    "playerAliases": [
-      "julio jones"
-    ],
-    "statLine": "1,444 rec yds"
-  },
-  {
-    "year": 2018,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-    "colors": [
-      "#021018",
-      "#EB0028"
-    ],
-    "player": "DeAndre Hopkins",
-    "playerAliases": [
-      "deandre hopkins"
-    ],
-    "statLine": "1,572 rec yds"
-  },
-  {
-    "year": 2019,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Julio Jones",
-    "playerAliases": [
-      "julio jones"
-    ],
-    "statLine": "1,394 rec yds"
-  },
-  {
-    "year": 2020,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Travis Kelce",
-    "playerAliases": [
-      "travis kelce"
-    ],
-    "statLine": "1,416 rec yds"
-  },
-  {
-    "year": 2021,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Justin Jefferson",
-    "playerAliases": [
-      "justin jefferson"
-    ],
-    "statLine": "1,616 rec yds"
-  },
-  {
-    "year": 2022,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Tyreek Hill",
-    "playerAliases": [
-      "tyreek hill"
-    ],
-    "statLine": "1,710 rec yds"
-  },
-  {
-    "year": 2023,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "CeeDee Lamb",
-    "playerAliases": [
-      "ceedee lamb"
-    ],
-    "statLine": "1,749 rec yds"
+    "statLine": "1,715 rec yds"
   },
   {
     "year": 2024,
@@ -435,18 +30,423 @@
     "statLine": "1,533 rec yds"
   },
   {
-    "year": 2025,
-    "team": "Los Angeles Rams",
-    "abbr": "LAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+    "year": 2023,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
     "colors": [
-      "#003594",
-      "#FFD100"
+      "#002A5C",
+      "#B0B7BC"
     ],
-    "player": "Puka Nacua",
+    "player": "CeeDee Lamb",
     "playerAliases": [
-      "puka nacua"
+      "ceedee lamb"
     ],
-    "statLine": "1,715 rec yds"
+    "statLine": "1,749 rec yds"
+  },
+  {
+    "year": 2022,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Tyreek Hill",
+    "playerAliases": [
+      "tyreek hill"
+    ],
+    "statLine": "1,710 rec yds"
+  },
+  {
+    "year": 2021,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Justin Jefferson",
+    "playerAliases": [
+      "justin jefferson"
+    ],
+    "statLine": "1,616 rec yds"
+  },
+  {
+    "year": 2020,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Travis Kelce",
+    "playerAliases": [
+      "travis kelce"
+    ],
+    "statLine": "1,416 rec yds"
+  },
+  {
+    "year": 2019,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Julio Jones",
+    "playerAliases": [
+      "julio jones"
+    ],
+    "statLine": "1,394 rec yds"
+  },
+  {
+    "year": 2018,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "DeAndre Hopkins",
+    "playerAliases": [
+      "deandre hopkins"
+    ],
+    "statLine": "1,572 rec yds"
+  },
+  {
+    "year": 2017,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Julio Jones",
+    "playerAliases": [
+      "julio jones"
+    ],
+    "statLine": "1,444 rec yds"
+  },
+  {
+    "year": 2016,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Julio Jones",
+    "playerAliases": [
+      "julio jones"
+    ],
+    "statLine": "1,409 rec yds"
+  },
+  {
+    "year": 2015,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Antonio Brown",
+    "playerAliases": [
+      "antonio brown"
+    ],
+    "statLine": "1,834 rec yds"
+  },
+  {
+    "year": 2014,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Demaryius Thomas",
+    "playerAliases": [
+      "demaryius thomas"
+    ],
+    "statLine": "1,619 rec yds"
+  },
+  {
+    "year": 2013,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Antonio Brown",
+    "playerAliases": [
+      "antonio brown"
+    ],
+    "statLine": "1,499 rec yds"
+  },
+  {
+    "year": 2012,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "colors": [
+      "#021018",
+      "#EB0028"
+    ],
+    "player": "Andre Johnson",
+    "playerAliases": [
+      "andre johnson"
+    ],
+    "statLine": "1,598 rec yds"
+  },
+  {
+    "year": 2011,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Wes Welker",
+    "playerAliases": [
+      "wes welker"
+    ],
+    "statLine": "1,569 rec yds"
+  },
+  {
+    "year": 2010,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Roddy White",
+    "playerAliases": [
+      "roddy white"
+    ],
+    "statLine": "1,389 rec yds"
+  },
+  {
+    "year": 2009,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Wes Welker",
+    "playerAliases": [
+      "wes welker"
+    ],
+    "statLine": "1,348 rec yds"
+  },
+  {
+    "year": 2008,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Larry Fitzgerald",
+    "playerAliases": [
+      "larry fitzgerald"
+    ],
+    "statLine": "1,431 rec yds"
+  },
+  {
+    "year": 2007,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ],
+    "statLine": "1,493 rec yds"
+  },
+  {
+    "year": 2006,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ],
+    "statLine": "1,366 rec yds"
+  },
+  {
+    "year": 2005,
+    "team": "Washington Redskins",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Santana Moss",
+    "playerAliases": [
+      "santana moss"
+    ],
+    "statLine": "1,483 rec yds"
+  },
+  {
+    "year": 2004,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "assets/logos/nfl/nfl-saints-2002-2011.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Joe Horn",
+    "playerAliases": [
+      "joe horn"
+    ],
+    "statLine": "1,399 rec yds"
+  },
+  {
+    "year": 2003,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ],
+    "statLine": "1,632 rec yds"
+  },
+  {
+    "year": 2002,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Randy Moss",
+    "playerAliases": [
+      "randy moss"
+    ],
+    "statLine": "1,347 rec yds"
+  },
+  {
+    "year": 2001,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ],
+    "statLine": "1,524 rec yds"
+  },
+  {
+    "year": 2000,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Rod Smith",
+    "playerAliases": [
+      "rod smith"
+    ],
+    "statLine": "1,602 rec yds"
+  },
+  {
+    "year": 1999,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "assets/logos/nfl/nfl-jaguars-1995-2001.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Jimmy Smith",
+    "playerAliases": [
+      "jimmy smith"
+    ],
+    "statLine": "1,636 rec yds"
+  },
+  {
+    "year": 1998,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Eric Moulds",
+    "playerAliases": [
+      "eric moulds"
+    ],
+    "statLine": "1,368 rec yds"
+  },
+  {
+    "year": 1997,
+    "team": "Oakland Raiders",
+    "abbr": "OAK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
+    "colors": [
+      "#000000",
+      "#A5ACAF"
+    ],
+    "player": "Tim Brown",
+    "playerAliases": [
+      "tim brown"
+    ],
+    "statLine": "1,408 rec yds"
+  },
+  {
+    "year": 1996,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-1966-1996.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Jake Reed",
+    "playerAliases": [
+      "jake reed"
+    ],
+    "statLine": "1,320 rec yds"
   }
 ]

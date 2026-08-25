@@ -1,507 +1,21 @@
 [
   {
-    "year": 1996,
-    "player": "Yevgeny Kafelnikov",
+    "year": 2025,
+    "player": "Carlos Alcaraz",
     "playerAliases": [
-      "kafelnikov",
-      "yevgeny kafelnikov"
+      "alcaraz",
+      "carlos alcaraz"
     ],
     "opponent": {
-      "team": "Germany",
-      "abbr": "GER",
-      "logo": "assets/logos/tennis/flag-ger.png",
+      "team": "Italy",
+      "abbr": "ITA",
+      "logo": "assets/logos/tennis/flag-ita.png",
       "colors": [
-        "#000000",
-        "#DD0000"
-      ]
-    },
-    "statLine": "Won 7–6(7–4), 7–5, 7–6(7–4)"
-  },
-  {
-    "year": 1997,
-    "player": "Gustavo Kuerten",
-    "playerAliases": [
-      "gustavo kuerten",
-      "kuerten"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Won 6–3, 6–4, 6–2"
-  },
-  {
-    "year": 1998,
-    "player": "Carlos Moyá",
-    "playerAliases": [
-      "carlos moyá",
-      "moyá"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Won 6–3, 7–5, 6–3"
-  },
-  {
-    "year": 1999,
-    "player": "Andre Agassi",
-    "playerAliases": [
-      "agassi",
-      "andre agassi"
-    ],
-    "opponent": {
-      "team": "Ukraine",
-      "abbr": "UKR",
-      "logo": "assets/logos/tennis/flag-ukr.png",
-      "colors": [
-        "#005BBB",
-        "#FFD500"
-      ]
-    },
-    "statLine": "Won 1–6, 2–6, 6–4, 6–3, 6–4"
-  },
-  {
-    "year": 2000,
-    "player": "Gustavo Kuerten",
-    "playerAliases": [
-      "gustavo kuerten",
-      "kuerten"
-    ],
-    "opponent": {
-      "team": "Sweden",
-      "abbr": "SWE",
-      "logo": "assets/logos/tennis/flag-swe.png",
-      "colors": [
-        "#005293",
-        "#FECB00"
-      ]
-    },
-    "statLine": "Won 6–2, 6–3, 2–6, 7–6(8–6)"
-  },
-  {
-    "year": 2001,
-    "player": "Gustavo Kuerten",
-    "playerAliases": [
-      "gustavo kuerten",
-      "kuerten"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Won 6–7(3–7), 7–5, 6–2, 6–0"
-  },
-  {
-    "year": 2002,
-    "player": "Albert Costa",
-    "playerAliases": [
-      "albert costa",
-      "costa"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Won 6–1, 6–0, 4–6, 6–3"
-  },
-  {
-    "year": 2003,
-    "player": "Juan Carlos Ferrero",
-    "playerAliases": [
-      "ferrero",
-      "juan carlos ferrero"
-    ],
-    "opponent": {
-      "team": "Netherlands",
-      "abbr": "NED",
-      "logo": "assets/logos/tennis/flag-ned.png",
-      "colors": [
-        "#AE1C28",
+        "#009246",
         "#FFFFFF"
       ]
     },
-    "statLine": "Won 6–1, 6–3, 6–2"
-  },
-  {
-    "year": 2004,
-    "player": "Gastón Gaudio",
-    "playerAliases": [
-      "gastón gaudio",
-      "gaudio"
-    ],
-    "opponent": {
-      "team": "Argentina",
-      "abbr": "ARG",
-      "logo": "assets/logos/tennis/flag-arg.png",
-      "colors": [
-        "#74ACDF",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 0–6, 3–6, 6–4, 6–1, 8–6"
-  },
-  {
-    "year": 2005,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Argentina",
-      "abbr": "ARG",
-      "logo": "assets/logos/tennis/flag-arg.png",
-      "colors": [
-        "#74ACDF",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–7(6–8), 6–3, 6–1, 7–5"
-  },
-  {
-    "year": 2006,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 1–6, 6–1, 6–4, 7–6(7–4)"
-  },
-  {
-    "year": 2007,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–3, 4–6, 6–3, 6–4"
-  },
-  {
-    "year": 2008,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–1, 6–3, 6–0"
-  },
-  {
-    "year": 2009,
-    "player": "Roger Federer",
-    "playerAliases": [
-      "federer",
-      "roger federer"
-    ],
-    "opponent": {
-      "team": "Sweden",
-      "abbr": "SWE",
-      "logo": "assets/logos/tennis/flag-swe.png",
-      "colors": [
-        "#005293",
-        "#FECB00"
-      ]
-    },
-    "statLine": "Won 6–1, 7–6(7–1), 6–4"
-  },
-  {
-    "year": 2010,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Sweden",
-      "abbr": "SWE",
-      "logo": "assets/logos/tennis/flag-swe.png",
-      "colors": [
-        "#005293",
-        "#FECB00"
-      ]
-    },
-    "statLine": "Won 6–4, 6–2, 6–4"
-  },
-  {
-    "year": 2011,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 7–5, 7–6(7–3), 5–7, 6–1"
-  },
-  {
-    "year": 2012,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Won 6–4, 6–3, 2–6, 7–5"
-  },
-  {
-    "year": 2013,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Won 6–3, 6–2, 6–3"
-  },
-  {
-    "year": 2014,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Won 3–6, 7–5, 6–2, 6–4"
-  },
-  {
-    "year": 2015,
-    "player": "Stan Wawrinka",
-    "playerAliases": [
-      "stan wawrinka",
-      "wawrinka"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Won 4–6, 6–4, 6–3, 6–4"
-  },
-  {
-    "year": 2016,
-    "player": "Novak Djokovic",
-    "playerAliases": [
-      "djokovic",
-      "novak djokovic"
-    ],
-    "opponent": {
-      "team": "United Kingdom",
-      "abbr": "GBR",
-      "logo": "assets/logos/tennis/flag-gbr.png",
-      "colors": [
-        "#C8102E",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 3–6, 6–1, 6–2, 6–4"
-  },
-  {
-    "year": 2017,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–2, 6–3, 6–1"
-  },
-  {
-    "year": 2018,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Austria",
-      "abbr": "AUT",
-      "logo": "assets/logos/tennis/flag-aut.png",
-      "colors": [
-        "#C8102E",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–4, 6–3, 6–2"
-  },
-  {
-    "year": 2019,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Austria",
-      "abbr": "AUT",
-      "logo": "assets/logos/tennis/flag-aut.png",
-      "colors": [
-        "#C8102E",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–3, 5–7, 6–1, 6–1"
-  },
-  {
-    "year": 2020,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Won 6–0, 6–2, 7–5"
-  },
-  {
-    "year": 2021,
-    "player": "Novak Djokovic",
-    "playerAliases": [
-      "djokovic",
-      "novak djokovic"
-    ],
-    "opponent": {
-      "team": "Greece",
-      "abbr": "GRE",
-      "logo": "assets/logos/tennis/flag-gre.png",
-      "colors": [
-        "#0D5EAF",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–7(6–8), 2–6, 6–3, 6–2, 6–4"
-  },
-  {
-    "year": 2022,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Norway",
-      "abbr": "NOR",
-      "logo": "assets/logos/tennis/flag-nor.png",
-      "colors": [
-        "#BA0C2F",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 6–3, 6–3, 6–0"
-  },
-  {
-    "year": 2023,
-    "player": "Novak Djokovic",
-    "playerAliases": [
-      "djokovic",
-      "novak djokovic"
-    ],
-    "opponent": {
-      "team": "Norway",
-      "abbr": "NOR",
-      "logo": "assets/logos/tennis/flag-nor.png",
-      "colors": [
-        "#BA0C2F",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Won 7–6(7–1), 6–3, 7–5"
+    "statLine": "Won 4–6, 6–7(4–7), 6–4, 7–6(7–3), 7–6(10–2)"
   },
   {
     "year": 2024,
@@ -522,21 +36,507 @@
     "statLine": "Won 6–3, 2–6, 5–7, 6–1, 6–2"
   },
   {
-    "year": 2025,
-    "player": "Carlos Alcaraz",
+    "year": 2023,
+    "player": "Novak Djokovic",
     "playerAliases": [
-      "alcaraz",
-      "carlos alcaraz"
+      "djokovic",
+      "novak djokovic"
     ],
     "opponent": {
-      "team": "Italy",
-      "abbr": "ITA",
-      "logo": "assets/logos/tennis/flag-ita.png",
+      "team": "Norway",
+      "abbr": "NOR",
+      "logo": "assets/logos/tennis/flag-nor.png",
       "colors": [
-        "#009246",
+        "#BA0C2F",
         "#FFFFFF"
       ]
     },
-    "statLine": "Won 4–6, 6–7(4–7), 6–4, 7–6(7–3), 7–6(10–2)"
+    "statLine": "Won 7–6(7–1), 6–3, 7–5"
+  },
+  {
+    "year": 2022,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Norway",
+      "abbr": "NOR",
+      "logo": "assets/logos/tennis/flag-nor.png",
+      "colors": [
+        "#BA0C2F",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 6–3, 6–0"
+  },
+  {
+    "year": 2021,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "Greece",
+      "abbr": "GRE",
+      "logo": "assets/logos/tennis/flag-gre.png",
+      "colors": [
+        "#0D5EAF",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–7(6–8), 2–6, 6–3, 6–2, 6–4"
+  },
+  {
+    "year": 2020,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 6–0, 6–2, 7–5"
+  },
+  {
+    "year": 2019,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Austria",
+      "abbr": "AUT",
+      "logo": "assets/logos/tennis/flag-aut.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 5–7, 6–1, 6–1"
+  },
+  {
+    "year": 2018,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Austria",
+      "abbr": "AUT",
+      "logo": "assets/logos/tennis/flag-aut.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–4, 6–3, 6–2"
+  },
+  {
+    "year": 2017,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–2, 6–3, 6–1"
+  },
+  {
+    "year": 2016,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "United Kingdom",
+      "abbr": "GBR",
+      "logo": "assets/logos/tennis/flag-gbr.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 3–6, 6–1, 6–2, 6–4"
+  },
+  {
+    "year": 2015,
+    "player": "Stan Wawrinka",
+    "playerAliases": [
+      "stan wawrinka",
+      "wawrinka"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 4–6, 6–4, 6–3, 6–4"
+  },
+  {
+    "year": 2014,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 3–6, 7–5, 6–2, 6–4"
+  },
+  {
+    "year": 2013,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–3, 6–2, 6–3"
+  },
+  {
+    "year": 2012,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Won 6–4, 6–3, 2–6, 7–5"
+  },
+  {
+    "year": 2011,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 7–5, 7–6(7–3), 5–7, 6–1"
+  },
+  {
+    "year": 2010,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Sweden",
+      "abbr": "SWE",
+      "logo": "assets/logos/tennis/flag-swe.png",
+      "colors": [
+        "#005293",
+        "#FECB00"
+      ]
+    },
+    "statLine": "Won 6–4, 6–2, 6–4"
+  },
+  {
+    "year": 2009,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Sweden",
+      "abbr": "SWE",
+      "logo": "assets/logos/tennis/flag-swe.png",
+      "colors": [
+        "#005293",
+        "#FECB00"
+      ]
+    },
+    "statLine": "Won 6–1, 7–6(7–1), 6–4"
+  },
+  {
+    "year": 2008,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–1, 6–3, 6–0"
+  },
+  {
+    "year": 2007,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–3, 4–6, 6–3, 6–4"
+  },
+  {
+    "year": 2006,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 1–6, 6–1, 6–4, 7–6(7–4)"
+  },
+  {
+    "year": 2005,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Argentina",
+      "abbr": "ARG",
+      "logo": "assets/logos/tennis/flag-arg.png",
+      "colors": [
+        "#74ACDF",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–7(6–8), 6–3, 6–1, 7–5"
+  },
+  {
+    "year": 2004,
+    "player": "Gastón Gaudio",
+    "playerAliases": [
+      "gastón gaudio",
+      "gaudio"
+    ],
+    "opponent": {
+      "team": "Argentina",
+      "abbr": "ARG",
+      "logo": "assets/logos/tennis/flag-arg.png",
+      "colors": [
+        "#74ACDF",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 0–6, 3–6, 6–4, 6–1, 8–6"
+  },
+  {
+    "year": 2003,
+    "player": "Juan Carlos Ferrero",
+    "playerAliases": [
+      "ferrero",
+      "juan carlos ferrero"
+    ],
+    "opponent": {
+      "team": "Netherlands",
+      "abbr": "NED",
+      "logo": "assets/logos/tennis/flag-ned.png",
+      "colors": [
+        "#AE1C28",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Won 6–1, 6–3, 6–2"
+  },
+  {
+    "year": 2002,
+    "player": "Albert Costa",
+    "playerAliases": [
+      "albert costa",
+      "costa"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–1, 6–0, 4–6, 6–3"
+  },
+  {
+    "year": 2001,
+    "player": "Gustavo Kuerten",
+    "playerAliases": [
+      "gustavo kuerten",
+      "kuerten"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–7(3–7), 7–5, 6–2, 6–0"
+  },
+  {
+    "year": 2000,
+    "player": "Gustavo Kuerten",
+    "playerAliases": [
+      "gustavo kuerten",
+      "kuerten"
+    ],
+    "opponent": {
+      "team": "Sweden",
+      "abbr": "SWE",
+      "logo": "assets/logos/tennis/flag-swe.png",
+      "colors": [
+        "#005293",
+        "#FECB00"
+      ]
+    },
+    "statLine": "Won 6–2, 6–3, 2–6, 7–6(8–6)"
+  },
+  {
+    "year": 1999,
+    "player": "Andre Agassi",
+    "playerAliases": [
+      "agassi",
+      "andre agassi"
+    ],
+    "opponent": {
+      "team": "Ukraine",
+      "abbr": "UKR",
+      "logo": "assets/logos/tennis/flag-ukr.png",
+      "colors": [
+        "#005BBB",
+        "#FFD500"
+      ]
+    },
+    "statLine": "Won 1–6, 2–6, 6–4, 6–3, 6–4"
+  },
+  {
+    "year": 1998,
+    "player": "Carlos Moyá",
+    "playerAliases": [
+      "carlos moyá",
+      "moyá"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–3, 7–5, 6–3"
+  },
+  {
+    "year": 1997,
+    "player": "Gustavo Kuerten",
+    "playerAliases": [
+      "gustavo kuerten",
+      "kuerten"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Won 6–3, 6–4, 6–2"
+  },
+  {
+    "year": 1996,
+    "player": "Yevgeny Kafelnikov",
+    "playerAliases": [
+      "kafelnikov",
+      "yevgeny kafelnikov"
+    ],
+    "opponent": {
+      "team": "Germany",
+      "abbr": "GER",
+      "logo": "assets/logos/tennis/flag-ger.png",
+      "colors": [
+        "#000000",
+        "#DD0000"
+      ]
+    },
+    "statLine": "Won 7–6(7–4), 7–5, 7–6(7–4)"
   }
 ]

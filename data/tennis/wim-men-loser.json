@@ -1,494 +1,21 @@
 [
   {
-    "year": 1996,
-    "player": "MaliVai Washington",
+    "year": 2025,
+    "player": "Carlos Alcaraz",
     "playerAliases": [
-      "malivai washington",
-      "washington"
+      "alcaraz",
+      "carlos alcaraz"
     ],
     "opponent": {
-      "team": "Netherlands",
-      "abbr": "NED",
-      "logo": "assets/logos/tennis/flag-ned.png",
+      "team": "Italy",
+      "abbr": "ITA",
+      "logo": "assets/logos/tennis/flag-ita.png",
       "colors": [
-        "#AE1C28",
+        "#009246",
         "#FFFFFF"
       ]
     },
-    "statLine": "Lost 6–3, 6–4, 6–3"
-  },
-  {
-    "year": 1997,
-    "player": "Cédric Pioline",
-    "playerAliases": [
-      "cédric pioline",
-      "pioline"
-    ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–4, 6–2, 6–4"
-  },
-  {
-    "year": 1998,
-    "player": "Goran Ivanišević",
-    "playerAliases": [
-      "goran ivanišević",
-      "ivanišević"
-    ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–7(2–7), 7–6(11–9), 6–4, 3–6, 6–2"
-  },
-  {
-    "year": 1999,
-    "player": "Andre Agassi",
-    "playerAliases": [
-      "agassi",
-      "andre agassi"
-    ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–3, 6–4, 7–5"
-  },
-  {
-    "year": 2000,
-    "player": "Patrick Rafter",
-    "playerAliases": [
-      "patrick rafter",
-      "rafter"
-    ],
-    "opponent": {
-      "team": "United States",
-      "abbr": "USA",
-      "logo": "assets/logos/tennis/flag-usa.png",
-      "colors": [
-        "#B31942",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–7(10–12), 7–6(7–5), 6–4, 6–2"
-  },
-  {
-    "year": 2001,
-    "player": "Patrick Rafter",
-    "playerAliases": [
-      "patrick rafter",
-      "rafter"
-    ],
-    "opponent": {
-      "team": "Croatia",
-      "abbr": "CRO",
-      "logo": "assets/logos/tennis/flag-cro.png",
-      "colors": [
-        "#FF0000",
-        "#171796"
-      ]
-    },
-    "statLine": "Lost 6–3, 3–6, 6–3, 2–6, 9–7"
-  },
-  {
-    "year": 2002,
-    "player": "David Nalbandian",
-    "playerAliases": [
-      "david nalbandian",
-      "nalbandian"
-    ],
-    "opponent": {
-      "team": "Australia",
-      "abbr": "AUS",
-      "logo": "assets/logos/tennis/flag-aus.png",
-      "colors": [
-        "#012169",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–1, 6–3, 6–2"
-  },
-  {
-    "year": 2003,
-    "player": "Mark Philippoussis",
-    "playerAliases": [
-      "mark philippoussis",
-      "philippoussis"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 7–6(7–5), 6–2, 7–6(7–3)"
-  },
-  {
-    "year": 2004,
-    "player": "Andy Roddick",
-    "playerAliases": [
-      "andy roddick",
-      "roddick"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 4–6, 7–5, 7–6(7–3), 6–4"
-  },
-  {
-    "year": 2005,
-    "player": "Andy Roddick",
-    "playerAliases": [
-      "andy roddick",
-      "roddick"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–2, 7–6(7–2), 6–4"
-  },
-  {
-    "year": 2006,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–0, 7–6(7–5), 6–7(2–7), 6–3"
-  },
-  {
-    "year": 2007,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 7–6(9–7), 4–6, 7–6(7–3), 2–6, 6–2"
-  },
-  {
-    "year": 2008,
-    "player": "Roger Federer",
-    "playerAliases": [
-      "federer",
-      "roger federer"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Lost 6–4, 6–4, 6–7(5–7), 6–7(8–10), 9–7"
-  },
-  {
-    "year": 2009,
-    "player": "Andy Roddick",
-    "playerAliases": [
-      "andy roddick",
-      "roddick"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 5–7, 7–6(8–6), 7–6(7–5), 3–6, 16–14"
-  },
-  {
-    "year": 2010,
-    "player": "Tomáš Berdych",
-    "playerAliases": [
-      "berdych",
-      "tomáš berdych"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Lost 6–3, 7–5, 6–4"
-  },
-  {
-    "year": 2011,
-    "player": "Rafael Nadal",
-    "playerAliases": [
-      "nadal",
-      "rafael nadal"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 6–4, 6–1, 1–6, 6–3"
-  },
-  {
-    "year": 2012,
-    "player": "Andy Murray",
-    "playerAliases": [
-      "andy murray",
-      "murray"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 4–6, 7–5, 6–3, 6–4"
-  },
-  {
-    "year": 2013,
-    "player": "Novak Djokovic",
-    "playerAliases": [
-      "djokovic",
-      "novak djokovic"
-    ],
-    "opponent": {
-      "team": "United Kingdom",
-      "abbr": "GBR",
-      "logo": "assets/logos/tennis/flag-gbr.png",
-      "colors": [
-        "#C8102E",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–4, 7–5, 6–4"
-  },
-  {
-    "year": 2014,
-    "player": "Roger Federer",
-    "playerAliases": [
-      "federer",
-      "roger federer"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 6–7(7–9), 6–4, 7–6(7–4), 5–7, 6–4"
-  },
-  {
-    "year": 2015,
-    "player": "Roger Federer",
-    "playerAliases": [
-      "federer",
-      "roger federer"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 7–6(7–1), 6–7(10–12), 6–4, 6–3"
-  },
-  {
-    "year": 2016,
-    "player": "Milos Raonic",
-    "playerAliases": [
-      "milos raonic",
-      "raonic"
-    ],
-    "opponent": {
-      "team": "United Kingdom",
-      "abbr": "GBR",
-      "logo": "assets/logos/tennis/flag-gbr.png",
-      "colors": [
-        "#C8102E",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–4, 7–6(7–3), 7–6(7–2)"
-  },
-  {
-    "year": 2017,
-    "player": "Marin Čilić",
-    "playerAliases": [
-      "marin čilić",
-      "čilić"
-    ],
-    "opponent": {
-      "team": "Switzerland",
-      "abbr": "SUI",
-      "logo": "assets/logos/tennis/flag-sui.png",
-      "colors": [
-        "#FF0000",
-        "#FFFFFF"
-      ]
-    },
-    "statLine": "Lost 6–3, 6–1, 6–4"
-  },
-  {
-    "year": 2018,
-    "player": "Kevin Anderson",
-    "playerAliases": [
-      "anderson",
-      "kevin anderson"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 6–2, 6–2, 7–6(7–3)"
-  },
-  {
-    "year": 2019,
-    "player": "Roger Federer",
-    "playerAliases": [
-      "federer",
-      "roger federer"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 7–6(7–5), 1–6, 7–6(7–4), 4–6, 13–12(7–3)"
-  },
-  {
-    "year": 2020,
-    "invalid": true,
-    "reason": "Wimbledon 2020 was canceled due to the COVID-19 pandemic"
-  },
-  {
-    "year": 2021,
-    "player": "Matteo Berrettini",
-    "playerAliases": [
-      "berrettini",
-      "matteo berrettini"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 6–7(4–7), 6–4, 6–4, 6–3"
-  },
-  {
-    "year": 2022,
-    "player": "Nick Kyrgios",
-    "playerAliases": [
-      "kyrgios",
-      "nick kyrgios"
-    ],
-    "opponent": {
-      "team": "Serbia",
-      "abbr": "SRB",
-      "logo": "assets/logos/tennis/flag-srb.png",
-      "colors": [
-        "#FFFFFF",
-        "#C6363C"
-      ]
-    },
-    "statLine": "Lost 4–6, 6–3, 6–4, 7–6(7–3)"
-  },
-  {
-    "year": 2023,
-    "player": "Novak Djokovic",
-    "playerAliases": [
-      "djokovic",
-      "novak djokovic"
-    ],
-    "opponent": {
-      "team": "Spain",
-      "abbr": "ESP",
-      "logo": "assets/logos/tennis/flag-esp.png",
-      "colors": [
-        "#AD1519",
-        "#FABD00"
-      ]
-    },
-    "statLine": "Lost 1–6, 7–6(8–6), 6–1, 3–6, 6–4"
+    "statLine": "Lost 4–6, 6–4, 6–4, 6–4"
   },
   {
     "year": 2024,
@@ -509,21 +36,494 @@
     "statLine": "Lost 6–2, 6–2, 7–6(7–4)"
   },
   {
-    "year": 2025,
-    "player": "Carlos Alcaraz",
+    "year": 2023,
+    "player": "Novak Djokovic",
     "playerAliases": [
-      "alcaraz",
-      "carlos alcaraz"
+      "djokovic",
+      "novak djokovic"
     ],
     "opponent": {
-      "team": "Italy",
-      "abbr": "ITA",
-      "logo": "assets/logos/tennis/flag-ita.png",
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
       "colors": [
-        "#009246",
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Lost 1–6, 7–6(8–6), 6–1, 3–6, 6–4"
+  },
+  {
+    "year": 2022,
+    "player": "Nick Kyrgios",
+    "playerAliases": [
+      "kyrgios",
+      "nick kyrgios"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 4–6, 6–3, 6–4, 7–6(7–3)"
+  },
+  {
+    "year": 2021,
+    "player": "Matteo Berrettini",
+    "playerAliases": [
+      "berrettini",
+      "matteo berrettini"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 6–7(4–7), 6–4, 6–4, 6–3"
+  },
+  {
+    "year": 2020,
+    "invalid": true,
+    "reason": "Wimbledon 2020 was canceled due to the COVID-19 pandemic"
+  },
+  {
+    "year": 2019,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 7–6(7–5), 1–6, 7–6(7–4), 4–6, 13–12(7–3)"
+  },
+  {
+    "year": 2018,
+    "player": "Kevin Anderson",
+    "playerAliases": [
+      "anderson",
+      "kevin anderson"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 6–2, 6–2, 7–6(7–3)"
+  },
+  {
+    "year": 2017,
+    "player": "Marin Čilić",
+    "playerAliases": [
+      "marin čilić",
+      "čilić"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
         "#FFFFFF"
       ]
     },
-    "statLine": "Lost 4–6, 6–4, 6–4, 6–4"
+    "statLine": "Lost 6–3, 6–1, 6–4"
+  },
+  {
+    "year": 2016,
+    "player": "Milos Raonic",
+    "playerAliases": [
+      "milos raonic",
+      "raonic"
+    ],
+    "opponent": {
+      "team": "United Kingdom",
+      "abbr": "GBR",
+      "logo": "assets/logos/tennis/flag-gbr.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–4, 7–6(7–3), 7–6(7–2)"
+  },
+  {
+    "year": 2015,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 7–6(7–1), 6–7(10–12), 6–4, 6–3"
+  },
+  {
+    "year": 2014,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 6–7(7–9), 6–4, 7–6(7–4), 5–7, 6–4"
+  },
+  {
+    "year": 2013,
+    "player": "Novak Djokovic",
+    "playerAliases": [
+      "djokovic",
+      "novak djokovic"
+    ],
+    "opponent": {
+      "team": "United Kingdom",
+      "abbr": "GBR",
+      "logo": "assets/logos/tennis/flag-gbr.png",
+      "colors": [
+        "#C8102E",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–4, 7–5, 6–4"
+  },
+  {
+    "year": 2012,
+    "player": "Andy Murray",
+    "playerAliases": [
+      "andy murray",
+      "murray"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 4–6, 7–5, 6–3, 6–4"
+  },
+  {
+    "year": 2011,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Serbia",
+      "abbr": "SRB",
+      "logo": "assets/logos/tennis/flag-srb.png",
+      "colors": [
+        "#FFFFFF",
+        "#C6363C"
+      ]
+    },
+    "statLine": "Lost 6–4, 6–1, 1–6, 6–3"
+  },
+  {
+    "year": 2010,
+    "player": "Tomáš Berdych",
+    "playerAliases": [
+      "berdych",
+      "tomáš berdych"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Lost 6–3, 7–5, 6–4"
+  },
+  {
+    "year": 2009,
+    "player": "Andy Roddick",
+    "playerAliases": [
+      "andy roddick",
+      "roddick"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 5–7, 7–6(8–6), 7–6(7–5), 3–6, 16–14"
+  },
+  {
+    "year": 2008,
+    "player": "Roger Federer",
+    "playerAliases": [
+      "federer",
+      "roger federer"
+    ],
+    "opponent": {
+      "team": "Spain",
+      "abbr": "ESP",
+      "logo": "assets/logos/tennis/flag-esp.png",
+      "colors": [
+        "#AD1519",
+        "#FABD00"
+      ]
+    },
+    "statLine": "Lost 6–4, 6–4, 6–7(5–7), 6–7(8–10), 9–7"
+  },
+  {
+    "year": 2007,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 7–6(9–7), 4–6, 7–6(7–3), 2–6, 6–2"
+  },
+  {
+    "year": 2006,
+    "player": "Rafael Nadal",
+    "playerAliases": [
+      "nadal",
+      "rafael nadal"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–0, 7–6(7–5), 6–7(2–7), 6–3"
+  },
+  {
+    "year": 2005,
+    "player": "Andy Roddick",
+    "playerAliases": [
+      "andy roddick",
+      "roddick"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–2, 7–6(7–2), 6–4"
+  },
+  {
+    "year": 2004,
+    "player": "Andy Roddick",
+    "playerAliases": [
+      "andy roddick",
+      "roddick"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 4–6, 7–5, 7–6(7–3), 6–4"
+  },
+  {
+    "year": 2003,
+    "player": "Mark Philippoussis",
+    "playerAliases": [
+      "mark philippoussis",
+      "philippoussis"
+    ],
+    "opponent": {
+      "team": "Switzerland",
+      "abbr": "SUI",
+      "logo": "assets/logos/tennis/flag-sui.png",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 7–6(7–5), 6–2, 7–6(7–3)"
+  },
+  {
+    "year": 2002,
+    "player": "David Nalbandian",
+    "playerAliases": [
+      "david nalbandian",
+      "nalbandian"
+    ],
+    "opponent": {
+      "team": "Australia",
+      "abbr": "AUS",
+      "logo": "assets/logos/tennis/flag-aus.png",
+      "colors": [
+        "#012169",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–1, 6–3, 6–2"
+  },
+  {
+    "year": 2001,
+    "player": "Patrick Rafter",
+    "playerAliases": [
+      "patrick rafter",
+      "rafter"
+    ],
+    "opponent": {
+      "team": "Croatia",
+      "abbr": "CRO",
+      "logo": "assets/logos/tennis/flag-cro.png",
+      "colors": [
+        "#FF0000",
+        "#171796"
+      ]
+    },
+    "statLine": "Lost 6–3, 3–6, 6–3, 2–6, 9–7"
+  },
+  {
+    "year": 2000,
+    "player": "Patrick Rafter",
+    "playerAliases": [
+      "patrick rafter",
+      "rafter"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–7(10–12), 7–6(7–5), 6–4, 6–2"
+  },
+  {
+    "year": 1999,
+    "player": "Andre Agassi",
+    "playerAliases": [
+      "agassi",
+      "andre agassi"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–3, 6–4, 7–5"
+  },
+  {
+    "year": 1998,
+    "player": "Goran Ivanišević",
+    "playerAliases": [
+      "goran ivanišević",
+      "ivanišević"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–7(2–7), 7–6(11–9), 6–4, 3–6, 6–2"
+  },
+  {
+    "year": 1997,
+    "player": "Cédric Pioline",
+    "playerAliases": [
+      "cédric pioline",
+      "pioline"
+    ],
+    "opponent": {
+      "team": "United States",
+      "abbr": "USA",
+      "logo": "assets/logos/tennis/flag-usa.png",
+      "colors": [
+        "#B31942",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–4, 6–2, 6–4"
+  },
+  {
+    "year": 1996,
+    "player": "MaliVai Washington",
+    "playerAliases": [
+      "malivai washington",
+      "washington"
+    ],
+    "opponent": {
+      "team": "Netherlands",
+      "abbr": "NED",
+      "logo": "assets/logos/tennis/flag-ned.png",
+      "colors": [
+        "#AE1C28",
+        "#FFFFFF"
+      ]
+    },
+    "statLine": "Lost 6–3, 6–4, 6–3"
   }
 ]

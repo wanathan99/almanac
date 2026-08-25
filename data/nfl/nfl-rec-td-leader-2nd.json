@@ -1,331 +1,106 @@
 [
   {
-    "year": 1996,
-    "team": "San Diego Chargers",
-    "abbr": "SD",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "year": 2025,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
     "colors": [
-      "#0080C6",
-      "#FFC20E"
-    ],
-    "player": "Tony Martin",
-    "playerAliases": [
-      "tony martin"
-    ],
-    "statLine": "14 rec TD"
-  },
-  {
-    "year": 1997,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Antonio Freeman",
-    "playerAliases": [
-      "antonio freeman"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 1998,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Antonio Freeman",
-    "playerAliases": [
-      "antonio freeman"
-    ],
-    "statLine": "14 rec TD"
-  },
-  {
-    "year": 1999,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Isaac Bruce",
-    "playerAliases": [
-      "isaac bruce"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2000,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Harrison",
-    "playerAliases": [
-      "marvin harrison"
-    ],
-    "statLine": "14 rec TD"
-  },
-  {
-    "year": 2001,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Harrison",
-    "playerAliases": [
-      "marvin harrison"
-    ],
-    "statLine": "15 rec TD"
-  },
-  {
-    "year": 2002,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "Hines Ward",
-    "playerAliases": [
-      "hines ward"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2003,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Torry Holt",
-    "playerAliases": [
-      "torry holt"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2004,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Harrison",
-    "playerAliases": [
-      "marvin harrison"
-    ],
-    "statLine": "15 rec TD"
-  },
-  {
-    "year": 2005,
-    "team": "Carolina Panthers",
-    "abbr": "CAR",
-    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
-    "colors": [
-      "#0085CA",
+      "#06424D",
       "#000000"
     ],
-    "player": "Steve Smith Sr.",
+    "player": "Dallas Goedert",
     "playerAliases": [
-      "steve smith sr."
+      "dallas goedert"
     ],
-    "statLine": "12 rec TD"
+    "statLine": "11 rec TD"
   },
   {
-    "year": 2006,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "year": 2024,
+    "team": "Washington Commanders",
+    "abbr": "WSH",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
     "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Harrison",
-    "playerAliases": [
-      "marvin harrison"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2007,
-    "team": "Cleveland Browns",
-    "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-    "colors": [
-      "#472A08",
-      "#FF3C00"
-    ],
-    "player": "Braylon Edwards",
-    "playerAliases": [
-      "braylon edwards"
-    ],
-    "statLine": "16 rec TD"
-  },
-  {
-    "year": 2008,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Calvin Johnson",
-    "playerAliases": [
-      "calvin johnson"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2009,
-    "team": "Arizona Cardinals",
-    "abbr": "ARI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-    "colors": [
-      "#A40227",
-      "#FFFFFF"
-    ],
-    "player": "Larry Fitzgerald",
-    "playerAliases": [
-      "larry fitzgerald"
-    ],
-    "statLine": "13 rec TD"
-  },
-  {
-    "year": 2010,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
+      "#5A1414",
       "#FFB612"
     ],
-    "player": "Greg Jennings",
+    "player": "Terry McLaurin",
     "playerAliases": [
-      "greg jennings"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2011,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Calvin Johnson",
-    "playerAliases": [
-      "calvin johnson"
-    ],
-    "statLine": "16 rec TD"
-  },
-  {
-    "year": 2012,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Eric Decker",
-    "playerAliases": [
-      "eric decker"
+      "terry mclaurin"
     ],
     "statLine": "13 rec TD"
   },
   {
-    "year": 2013,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "year": 2023,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
     "colors": [
-      "#0A2343",
+      "#008E97",
       "#FC4C02"
     ],
-    "player": "Demaryius Thomas",
+    "player": "Tyreek Hill",
     "playerAliases": [
-      "demaryius thomas"
+      "tyreek hill"
+    ],
+    "statLine": "13 rec TD"
+  },
+  {
+    "year": 2022,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Travis Kelce",
+    "playerAliases": [
+      "travis kelce"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2021,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Mike Evans",
+    "playerAliases": [
+      "mike evans"
     ],
     "statLine": "14 rec TD"
   },
   {
-    "year": 2014,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "year": 2020,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
     "colors": [
-      "#000000",
+      "#E31837",
       "#FFB612"
     ],
-    "player": "Antonio Brown",
+    "player": "Tyreek Hill",
     "playerAliases": [
-      "antonio brown"
+      "tyreek hill"
     ],
-    "statLine": "13 rec TD"
+    "statLine": "15 rec TD"
   },
   {
-    "year": 2015,
-    "team": "New York Jets",
-    "abbr": "NYJ",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "year": 2019,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
     "colors": [
-      "#115740",
-      "#FFFFFF"
+      "#29126F",
+      "#000000"
     ],
-    "player": "Brandon Marshall",
+    "player": "Mark Andrews",
     "playerAliases": [
-      "brandon marshall"
-    ],
-    "statLine": "14 rec TD"
-  },
-  {
-    "year": 2016,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Davante Adams",
-    "playerAliases": [
-      "davante adams"
-    ],
-    "statLine": "12 rec TD"
-  },
-  {
-    "year": 2017,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Davante Adams",
-    "playerAliases": [
-      "davante adams"
+      "mark andrews"
     ],
     "statLine": "10 rec TD"
   },
@@ -345,108 +120,333 @@
     "statLine": "13 rec TD"
   },
   {
-    "year": 2019,
-    "team": "Baltimore Ravens",
-    "abbr": "BAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "year": 2017,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
     "colors": [
-      "#29126F",
-      "#000000"
+      "#204E32",
+      "#FFB612"
     ],
-    "player": "Mark Andrews",
+    "player": "Davante Adams",
     "playerAliases": [
-      "mark andrews"
+      "davante adams"
     ],
     "statLine": "10 rec TD"
   },
   {
-    "year": 2020,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "year": 2016,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
     "colors": [
-      "#E31837",
+      "#204E32",
       "#FFB612"
     ],
-    "player": "Tyreek Hill",
+    "player": "Davante Adams",
     "playerAliases": [
-      "tyreek hill"
-    ],
-    "statLine": "15 rec TD"
-  },
-  {
-    "year": 2021,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Mike Evans",
-    "playerAliases": [
-      "mike evans"
-    ],
-    "statLine": "14 rec TD"
-  },
-  {
-    "year": 2022,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Travis Kelce",
-    "playerAliases": [
-      "travis kelce"
+      "davante adams"
     ],
     "statLine": "12 rec TD"
   },
   {
-    "year": 2023,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png",
+    "year": 2015,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
     "colors": [
-      "#008E97",
-      "#FC4C02"
+      "#115740",
+      "#FFFFFF"
     ],
-    "player": "Tyreek Hill",
+    "player": "Brandon Marshall",
     "playerAliases": [
-      "tyreek hill"
+      "brandon marshall"
     ],
-    "statLine": "13 rec TD"
+    "statLine": "14 rec TD"
   },
   {
-    "year": 2024,
-    "team": "Washington Commanders",
-    "abbr": "WSH",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+    "year": 2014,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
     "colors": [
-      "#5A1414",
+      "#000000",
       "#FFB612"
     ],
-    "player": "Terry McLaurin",
+    "player": "Antonio Brown",
     "playerAliases": [
-      "terry mclaurin"
+      "antonio brown"
     ],
     "statLine": "13 rec TD"
   },
   {
-    "year": 2025,
-    "team": "Philadelphia Eagles",
-    "abbr": "PHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "year": 2013,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
     "colors": [
-      "#06424D",
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Demaryius Thomas",
+    "playerAliases": [
+      "demaryius thomas"
+    ],
+    "statLine": "14 rec TD"
+  },
+  {
+    "year": 2012,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Eric Decker",
+    "playerAliases": [
+      "eric decker"
+    ],
+    "statLine": "13 rec TD"
+  },
+  {
+    "year": 2011,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Calvin Johnson",
+    "playerAliases": [
+      "calvin johnson"
+    ],
+    "statLine": "16 rec TD"
+  },
+  {
+    "year": 2010,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Greg Jennings",
+    "playerAliases": [
+      "greg jennings"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2009,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Larry Fitzgerald",
+    "playerAliases": [
+      "larry fitzgerald"
+    ],
+    "statLine": "13 rec TD"
+  },
+  {
+    "year": 2008,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Calvin Johnson",
+    "playerAliases": [
+      "calvin johnson"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2007,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "colors": [
+      "#472A08",
+      "#FF3C00"
+    ],
+    "player": "Braylon Edwards",
+    "playerAliases": [
+      "braylon edwards"
+    ],
+    "statLine": "16 rec TD"
+  },
+  {
+    "year": 2006,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2005,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
+    "colors": [
+      "#0085CA",
       "#000000"
     ],
-    "player": "Dallas Goedert",
+    "player": "Steve Smith Sr.",
     "playerAliases": [
-      "dallas goedert"
+      "steve smith sr."
     ],
-    "statLine": "11 rec TD"
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2004,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ],
+    "statLine": "15 rec TD"
+  },
+  {
+    "year": 2003,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Torry Holt",
+    "playerAliases": [
+      "torry holt"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2002,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Hines Ward",
+    "playerAliases": [
+      "hines ward"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 2001,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ],
+    "statLine": "15 rec TD"
+  },
+  {
+    "year": 2000,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Harrison",
+    "playerAliases": [
+      "marvin harrison"
+    ],
+    "statLine": "14 rec TD"
+  },
+  {
+    "year": 1999,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Isaac Bruce",
+    "playerAliases": [
+      "isaac bruce"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 1998,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Antonio Freeman",
+    "playerAliases": [
+      "antonio freeman"
+    ],
+    "statLine": "14 rec TD"
+  },
+  {
+    "year": 1997,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Antonio Freeman",
+    "playerAliases": [
+      "antonio freeman"
+    ],
+    "statLine": "12 rec TD"
+  },
+  {
+    "year": 1996,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "Tony Martin",
+    "playerAliases": [
+      "tony martin"
+    ],
+    "statLine": "14 rec TD"
   }
 ]

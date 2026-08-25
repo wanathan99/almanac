@@ -1,411 +1,6 @@
 [
   {
-    "year": 1996,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "assets/logos/nfl/nfl-patriots-1993-1999.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Drew Bledsoe",
-    "playerAliases": [
-      "drew bledsoe"
-    ],
-    "statLine": "4,086 pass yds"
-  },
-  {
-    "year": 1997,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "assets/logos/nfl/nfl-dolphins-1997-2002.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Dan Marino",
-    "playerAliases": [
-      "dan marino"
-    ],
-    "statLine": "3,780 pass yds"
-  },
-  {
-    "year": 1998,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Peyton Manning",
-    "playerAliases": [
-      "peyton manning"
-    ],
-    "statLine": "3,739 pass yds"
-  },
-  {
-    "year": 1999,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Peyton Manning",
-    "playerAliases": [
-      "peyton manning"
-    ],
-    "statLine": "4,135 pass yds"
-  },
-  {
-    "year": 2000,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Elvis Grbac",
-    "playerAliases": [
-      "elvis grbac"
-    ],
-    "statLine": "4,169 pass yds"
-  },
-  {
-    "year": 2001,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Brett Favre",
-    "playerAliases": [
-      "brett favre"
-    ],
-    "statLine": "3,921 pass yds"
-  },
-  {
-    "year": 2002,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Peyton Manning",
-    "playerAliases": [
-      "peyton manning"
-    ],
-    "statLine": "4,200 pass yds"
-  },
-  {
-    "year": 2003,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Marc Bulger",
-    "playerAliases": [
-      "marc bulger"
-    ],
-    "statLine": "3,845 pass yds"
-  },
-  {
-    "year": 2004,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Peyton Manning",
-    "playerAliases": [
-      "peyton manning"
-    ],
-    "statLine": "4,557 pass yds"
-  },
-  {
-    "year": 2005,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Brett Favre",
-    "playerAliases": [
-      "brett favre"
-    ],
-    "statLine": "3,881 pass yds"
-  },
-  {
-    "year": 2006,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Marc Bulger",
-    "playerAliases": [
-      "marc bulger"
-    ],
-    "statLine": "4,301 pass yds"
-  },
-  {
-    "year": 2007,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Tony Romo",
-    "playerAliases": [
-      "tony romo"
-    ],
-    "statLine": "4,211 pass yds"
-  },
-  {
-    "year": 2008,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Jay Cutler",
-    "playerAliases": [
-      "jay cutler"
-    ],
-    "statLine": "4,526 pass yds"
-  },
-  {
-    "year": 2009,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Tony Romo",
-    "playerAliases": [
-      "tony romo"
-    ],
-    "statLine": "4,483 pass yds"
-  },
-  {
-    "year": 2010,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "assets/logos/nfl/nfl-saints-2002-2011.png",
-    "colors": [
-      "#D3BC8D",
-      "#000000"
-    ],
-    "player": "Drew Brees",
-    "playerAliases": [
-      "drew brees"
-    ],
-    "statLine": "4,620 pass yds"
-  },
-  {
-    "year": 2011,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Matthew Stafford",
-    "playerAliases": [
-      "matthew stafford"
-    ],
-    "statLine": "5,038 pass yds"
-  },
-  {
-    "year": 2012,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Tony Romo",
-    "playerAliases": [
-      "tony romo"
-    ],
-    "statLine": "4,903 pass yds"
-  },
-  {
-    "year": 2013,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Matthew Stafford",
-    "playerAliases": [
-      "matthew stafford"
-    ],
-    "statLine": "4,650 pass yds"
-  },
-  {
-    "year": 2014,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Andrew Luck",
-    "playerAliases": [
-      "andrew luck"
-    ],
-    "statLine": "4,761 pass yds"
-  },
-  {
-    "year": 2015,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Tom Brady",
-    "playerAliases": [
-      "tom brady"
-    ],
-    "statLine": "4,770 pass yds"
-  },
-  {
-    "year": 2016,
-    "team": "Washington Redskins",
-    "abbr": "WSH",
-    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
-    "colors": [
-      "#5A1414",
-      "#FFB612"
-    ],
-    "player": "Kirk Cousins",
-    "playerAliases": [
-      "kirk cousins"
-    ],
-    "statLine": "4,917 pass yds"
-  },
-  {
-    "year": 2017,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Matthew Stafford",
-    "playerAliases": [
-      "matthew stafford"
-    ],
-    "statLine": "4,446 pass yds"
-  },
-  {
-    "year": 2018,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Matt Ryan",
-    "playerAliases": [
-      "matt ryan"
-    ],
-    "statLine": "4,924 pass yds"
-  },
-  {
-    "year": 2019,
-    "team": "Los Angeles Rams",
-    "abbr": "LAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Jared Goff",
-    "playerAliases": [
-      "jared goff"
-    ],
-    "statLine": "4,638 pass yds"
-  },
-  {
-    "year": 2020,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Tom Brady",
-    "playerAliases": [
-      "tom brady"
-    ],
-    "statLine": "4,633 pass yds"
-  },
-  {
-    "year": 2021,
-    "team": "Los Angeles Rams",
-    "abbr": "LAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Matthew Stafford",
-    "playerAliases": [
-      "matthew stafford"
-    ],
-    "statLine": "4,886 pass yds"
-  },
-  {
-    "year": 2022,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Tom Brady",
-    "playerAliases": [
-      "tom brady"
-    ],
-    "statLine": "4,694 pass yds"
-  },
-  {
-    "year": 2023,
+    "year": 2025,
     "team": "Dallas Cowboys",
     "abbr": "DAL",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
@@ -417,7 +12,7 @@
     "playerAliases": [
       "dak prescott"
     ],
-    "statLine": "4,516 pass yds"
+    "statLine": "4,552 pass yds"
   },
   {
     "year": 2024,
@@ -435,7 +30,7 @@
     "statLine": "4,500 pass yds"
   },
   {
-    "year": 2025,
+    "year": 2023,
     "team": "Dallas Cowboys",
     "abbr": "DAL",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
@@ -447,6 +42,411 @@
     "playerAliases": [
       "dak prescott"
     ],
-    "statLine": "4,552 pass yds"
+    "statLine": "4,516 pass yds"
+  },
+  {
+    "year": 2022,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Tom Brady",
+    "playerAliases": [
+      "tom brady"
+    ],
+    "statLine": "4,694 pass yds"
+  },
+  {
+    "year": 2021,
+    "team": "Los Angeles Rams",
+    "abbr": "LAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Matthew Stafford",
+    "playerAliases": [
+      "matthew stafford"
+    ],
+    "statLine": "4,886 pass yds"
+  },
+  {
+    "year": 2020,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Tom Brady",
+    "playerAliases": [
+      "tom brady"
+    ],
+    "statLine": "4,633 pass yds"
+  },
+  {
+    "year": 2019,
+    "team": "Los Angeles Rams",
+    "abbr": "LAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Jared Goff",
+    "playerAliases": [
+      "jared goff"
+    ],
+    "statLine": "4,638 pass yds"
+  },
+  {
+    "year": 2018,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Matt Ryan",
+    "playerAliases": [
+      "matt ryan"
+    ],
+    "statLine": "4,924 pass yds"
+  },
+  {
+    "year": 2017,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Matthew Stafford",
+    "playerAliases": [
+      "matthew stafford"
+    ],
+    "statLine": "4,446 pass yds"
+  },
+  {
+    "year": 2016,
+    "team": "Washington Redskins",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Kirk Cousins",
+    "playerAliases": [
+      "kirk cousins"
+    ],
+    "statLine": "4,917 pass yds"
+  },
+  {
+    "year": 2015,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Tom Brady",
+    "playerAliases": [
+      "tom brady"
+    ],
+    "statLine": "4,770 pass yds"
+  },
+  {
+    "year": 2014,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Andrew Luck",
+    "playerAliases": [
+      "andrew luck"
+    ],
+    "statLine": "4,761 pass yds"
+  },
+  {
+    "year": 2013,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Matthew Stafford",
+    "playerAliases": [
+      "matthew stafford"
+    ],
+    "statLine": "4,650 pass yds"
+  },
+  {
+    "year": 2012,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Tony Romo",
+    "playerAliases": [
+      "tony romo"
+    ],
+    "statLine": "4,903 pass yds"
+  },
+  {
+    "year": 2011,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Matthew Stafford",
+    "playerAliases": [
+      "matthew stafford"
+    ],
+    "statLine": "5,038 pass yds"
+  },
+  {
+    "year": 2010,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "assets/logos/nfl/nfl-saints-2002-2011.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Drew Brees",
+    "playerAliases": [
+      "drew brees"
+    ],
+    "statLine": "4,620 pass yds"
+  },
+  {
+    "year": 2009,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Tony Romo",
+    "playerAliases": [
+      "tony romo"
+    ],
+    "statLine": "4,483 pass yds"
+  },
+  {
+    "year": 2008,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Jay Cutler",
+    "playerAliases": [
+      "jay cutler"
+    ],
+    "statLine": "4,526 pass yds"
+  },
+  {
+    "year": 2007,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Tony Romo",
+    "playerAliases": [
+      "tony romo"
+    ],
+    "statLine": "4,211 pass yds"
+  },
+  {
+    "year": 2006,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Marc Bulger",
+    "playerAliases": [
+      "marc bulger"
+    ],
+    "statLine": "4,301 pass yds"
+  },
+  {
+    "year": 2005,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Brett Favre",
+    "playerAliases": [
+      "brett favre"
+    ],
+    "statLine": "3,881 pass yds"
+  },
+  {
+    "year": 2004,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "4,557 pass yds"
+  },
+  {
+    "year": 2003,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Marc Bulger",
+    "playerAliases": [
+      "marc bulger"
+    ],
+    "statLine": "3,845 pass yds"
+  },
+  {
+    "year": 2002,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "4,200 pass yds"
+  },
+  {
+    "year": 2001,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Brett Favre",
+    "playerAliases": [
+      "brett favre"
+    ],
+    "statLine": "3,921 pass yds"
+  },
+  {
+    "year": 2000,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Elvis Grbac",
+    "playerAliases": [
+      "elvis grbac"
+    ],
+    "statLine": "4,169 pass yds"
+  },
+  {
+    "year": 1999,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "4,135 pass yds"
+  },
+  {
+    "year": 1998,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Peyton Manning",
+    "playerAliases": [
+      "peyton manning"
+    ],
+    "statLine": "3,739 pass yds"
+  },
+  {
+    "year": 1997,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "assets/logos/nfl/nfl-dolphins-1997-2002.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Dan Marino",
+    "playerAliases": [
+      "dan marino"
+    ],
+    "statLine": "3,780 pass yds"
+  },
+  {
+    "year": 1996,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "assets/logos/nfl/nfl-patriots-1993-1999.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Drew Bledsoe",
+    "playerAliases": [
+      "drew bledsoe"
+    ],
+    "statLine": "4,086 pass yds"
   }
 ]

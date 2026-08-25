@@ -1,246 +1,21 @@
 [
   {
-    "year": 1996,
-    "team": "Seattle Seahawks",
-    "abbr": "SEA",
-    "logo": "assets/logos/nfl/nfl-seahawks-1976-2001.png",
+    "year": 2025,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
     "colors": [
-      "#002A5C",
-      "#69BE28"
+      "#021018",
+      "#EB0028"
     ],
-    "player": "Michael McCrary",
+    "player": "Danielle Hunter",
     "playerAliases": [
-      "michael mccrary"
-    ],
-    "statLine": "13.5 sacks"
-  },
-  {
-    "year": 1997,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Bruce Smith",
-    "playerAliases": [
-      "bruce smith"
-    ],
-    "statLine": "14 sacks"
-  },
-  {
-    "year": 1998,
-    "team": "San Francisco 49ers",
-    "abbr": "SF",
-    "logo": "assets/logos/nfl/nfl-49ers-1996-2008.png",
-    "colors": [
-      "#AA0000",
-      "#B3995D"
-    ],
-    "player": "Chris Doleman",
-    "playerAliases": [
-      "chris doleman"
+      "danielle hunter"
     ],
     "statLine": "15 sacks"
   },
   {
-    "year": 1999,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-    "colors": [
-      "#0076B6",
-      "#BBBBBB"
-    ],
-    "player": "Robert Porcher",
-    "playerAliases": [
-      "robert porcher"
-    ],
-    "statLine": "15 sacks"
-  },
-  {
-    "year": 2000,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Warren Sapp",
-    "playerAliases": [
-      "warren sapp"
-    ],
-    "statLine": "16.5 sacks"
-  },
-  {
-    "year": 2001,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Leonard Little",
-    "playerAliases": [
-      "leonard little"
-    ],
-    "statLine": "14.5 sacks"
-  },
-  {
-    "year": 2002,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Dwight Freeney",
-    "playerAliases": [
-      "dwight freeney"
-    ],
-    "statLine": "13 sacks"
-  },
-  {
-    "year": 2003,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Simeon Rice",
-    "playerAliases": [
-      "simeon rice"
-    ],
-    "statLine": "15 sacks"
-  },
-  {
-    "year": 2004,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Kabeer Gbaja-Biamila",
-    "playerAliases": [
-      "kabeer gbaja-biamila"
-    ],
-    "statLine": "13.5 sacks"
-  },
-  {
-    "year": 2005,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Simeon Rice",
-    "playerAliases": [
-      "simeon rice"
-    ],
-    "statLine": "14 sacks"
-  },
-  {
-    "year": 2006,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Aaron Schobel",
-    "playerAliases": [
-      "aaron schobel"
-    ],
-    "statLine": "14 sacks"
-  },
-  {
-    "year": 2007,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "DeMarcus Ware",
-    "playerAliases": [
-      "demarcus ware"
-    ],
-    "statLine": "14 sacks"
-  },
-  {
-    "year": 2008,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "John Abraham",
-    "playerAliases": [
-      "john abraham"
-    ],
-    "statLine": "16.5 sacks"
-  },
-  {
-    "year": 2009,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Dwight Freeney",
-    "playerAliases": [
-      "dwight freeney"
-    ],
-    "statLine": "13.5 sacks"
-  },
-  {
-    "year": 2010,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "assets/logos/nfl/nfl-dolphins-2002-2012.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Cameron Wake",
-    "playerAliases": [
-      "cameron wake"
-    ],
-    "statLine": "14 sacks"
-  },
-  {
-    "year": 2011,
-    "team": "Philadelphia Eagles",
-    "abbr": "PHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-    "colors": [
-      "#06424D",
-      "#000000"
-    ],
-    "player": "Jason Babin",
-    "playerAliases": [
-      "jason babin"
-    ],
-    "statLine": "18 sacks"
-  },
-  {
-    "year": 2012,
+    "year": 2024,
     "team": "Denver Broncos",
     "abbr": "DEN",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
@@ -248,54 +23,114 @@
       "#0A2343",
       "#FC4C02"
     ],
-    "player": "Von Miller",
+    "player": "Nik Bonitto",
     "playerAliases": [
-      "von miller"
+      "nik bonitto"
     ],
-    "statLine": "18.5 sacks"
+    "statLine": "13.5 sacks"
   },
   {
-    "year": 2013,
-    "team": "Carolina Panthers",
-    "abbr": "CAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "year": 2023,
+    "team": "Cincinnati Bengals",
+    "abbr": "CIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
     "colors": [
-      "#0085CA",
+      "#FB4F14",
       "#000000"
     ],
-    "player": "Greg Hardy",
+    "player": "Trey Hendrickson",
     "playerAliases": [
-      "greg hardy"
+      "trey hendrickson"
     ],
-    "statLine": "15 sacks"
+    "statLine": "17.5 sacks"
   },
   {
-    "year": 2014,
-    "team": "Baltimore Ravens",
-    "abbr": "BAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+    "year": 2022,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
     "colors": [
-      "#29126F",
+      "#06424D",
       "#000000"
     ],
-    "player": "Elvis Dumervil",
+    "player": "Haason Reddick",
     "playerAliases": [
-      "elvis dumervil"
+      "haason reddick"
     ],
-    "statLine": "17 sacks"
+    "statLine": "16 sacks"
   },
   {
-    "year": 2015,
-    "team": "Detroit Lions",
-    "abbr": "DET",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "year": 2021,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
     "colors": [
-      "#0076B6",
-      "#BBBBBB"
+      "#472A08",
+      "#FF3C00"
     ],
-    "player": "Ezekiel Ansah",
+    "player": "Myles Garrett",
     "playerAliases": [
-      "ezekiel ansah"
+      "myles garrett"
+    ],
+    "statLine": "16 sacks"
+  },
+  {
+    "year": 2020,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Trey Hendrickson",
+    "playerAliases": [
+      "trey hendrickson"
+    ],
+    "statLine": "13.5 sacks"
+  },
+  {
+    "year": 2019,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "Cameron Jordan",
+    "playerAliases": [
+      "cameron jordan"
+    ],
+    "statLine": "15.5 sacks"
+  },
+  {
+    "year": 2018,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Chris Jones",
+    "playerAliases": [
+      "chris jones"
+    ],
+    "statLine": "15.5 sacks"
+  },
+  {
+    "year": 2017,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "DeMarcus Lawrence",
+    "playerAliases": [
+      "demarcus lawrence"
     ],
     "statLine": "14.5 sacks"
   },
@@ -315,112 +150,52 @@
     "statLine": "12.5 sacks"
   },
   {
-    "year": 2017,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "year": 2015,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
     "colors": [
-      "#002A5C",
-      "#B0B7BC"
+      "#0076B6",
+      "#BBBBBB"
     ],
-    "player": "DeMarcus Lawrence",
+    "player": "Ezekiel Ansah",
     "playerAliases": [
-      "demarcus lawrence"
+      "ezekiel ansah"
     ],
     "statLine": "14.5 sacks"
   },
   {
-    "year": 2018,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "year": 2014,
+    "team": "Baltimore Ravens",
+    "abbr": "BAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
     "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Chris Jones",
-    "playerAliases": [
-      "chris jones"
-    ],
-    "statLine": "15.5 sacks"
-  },
-  {
-    "year": 2019,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
-    "colors": [
-      "#D3BC8D",
+      "#29126F",
       "#000000"
     ],
-    "player": "Cameron Jordan",
+    "player": "Elvis Dumervil",
     "playerAliases": [
-      "cameron jordan"
+      "elvis dumervil"
     ],
-    "statLine": "15.5 sacks"
+    "statLine": "17 sacks"
   },
   {
-    "year": 2020,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png",
+    "year": 2013,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
     "colors": [
-      "#D3BC8D",
+      "#0085CA",
       "#000000"
     ],
-    "player": "Trey Hendrickson",
+    "player": "Greg Hardy",
     "playerAliases": [
-      "trey hendrickson"
+      "greg hardy"
     ],
-    "statLine": "13.5 sacks"
+    "statLine": "15 sacks"
   },
   {
-    "year": 2021,
-    "team": "Cleveland Browns",
-    "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-    "colors": [
-      "#472A08",
-      "#FF3C00"
-    ],
-    "player": "Myles Garrett",
-    "playerAliases": [
-      "myles garrett"
-    ],
-    "statLine": "16 sacks"
-  },
-  {
-    "year": 2022,
-    "team": "Philadelphia Eagles",
-    "abbr": "PHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
-    "colors": [
-      "#06424D",
-      "#000000"
-    ],
-    "player": "Haason Reddick",
-    "playerAliases": [
-      "haason reddick"
-    ],
-    "statLine": "16 sacks"
-  },
-  {
-    "year": 2023,
-    "team": "Cincinnati Bengals",
-    "abbr": "CIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-    "colors": [
-      "#FB4F14",
-      "#000000"
-    ],
-    "player": "Trey Hendrickson",
-    "playerAliases": [
-      "trey hendrickson"
-    ],
-    "statLine": "17.5 sacks"
-  },
-  {
-    "year": 2024,
+    "year": 2012,
     "team": "Denver Broncos",
     "abbr": "DEN",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
@@ -428,25 +203,250 @@
       "#0A2343",
       "#FC4C02"
     ],
-    "player": "Nik Bonitto",
+    "player": "Von Miller",
     "playerAliases": [
-      "nik bonitto"
+      "von miller"
+    ],
+    "statLine": "18.5 sacks"
+  },
+  {
+    "year": 2011,
+    "team": "Philadelphia Eagles",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png",
+    "colors": [
+      "#06424D",
+      "#000000"
+    ],
+    "player": "Jason Babin",
+    "playerAliases": [
+      "jason babin"
+    ],
+    "statLine": "18 sacks"
+  },
+  {
+    "year": 2010,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "assets/logos/nfl/nfl-dolphins-2002-2012.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Cameron Wake",
+    "playerAliases": [
+      "cameron wake"
+    ],
+    "statLine": "14 sacks"
+  },
+  {
+    "year": 2009,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Dwight Freeney",
+    "playerAliases": [
+      "dwight freeney"
     ],
     "statLine": "13.5 sacks"
   },
   {
-    "year": 2025,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "year": 2008,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
     "colors": [
-      "#021018",
-      "#EB0028"
+      "#A71930",
+      "#000000"
     ],
-    "player": "Danielle Hunter",
+    "player": "John Abraham",
     "playerAliases": [
-      "danielle hunter"
+      "john abraham"
+    ],
+    "statLine": "16.5 sacks"
+  },
+  {
+    "year": 2007,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "DeMarcus Ware",
+    "playerAliases": [
+      "demarcus ware"
+    ],
+    "statLine": "14 sacks"
+  },
+  {
+    "year": 2006,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Aaron Schobel",
+    "playerAliases": [
+      "aaron schobel"
+    ],
+    "statLine": "14 sacks"
+  },
+  {
+    "year": 2005,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Simeon Rice",
+    "playerAliases": [
+      "simeon rice"
+    ],
+    "statLine": "14 sacks"
+  },
+  {
+    "year": 2004,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Kabeer Gbaja-Biamila",
+    "playerAliases": [
+      "kabeer gbaja-biamila"
+    ],
+    "statLine": "13.5 sacks"
+  },
+  {
+    "year": 2003,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Simeon Rice",
+    "playerAliases": [
+      "simeon rice"
     ],
     "statLine": "15 sacks"
+  },
+  {
+    "year": 2002,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Dwight Freeney",
+    "playerAliases": [
+      "dwight freeney"
+    ],
+    "statLine": "13 sacks"
+  },
+  {
+    "year": 2001,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Leonard Little",
+    "playerAliases": [
+      "leonard little"
+    ],
+    "statLine": "14.5 sacks"
+  },
+  {
+    "year": 2000,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "assets/logos/nfl/nfl-buccaneers-1997-2013.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Warren Sapp",
+    "playerAliases": [
+      "warren sapp"
+    ],
+    "statLine": "16.5 sacks"
+  },
+  {
+    "year": 1999,
+    "team": "Detroit Lions",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
+    "colors": [
+      "#0076B6",
+      "#BBBBBB"
+    ],
+    "player": "Robert Porcher",
+    "playerAliases": [
+      "robert porcher"
+    ],
+    "statLine": "15 sacks"
+  },
+  {
+    "year": 1998,
+    "team": "San Francisco 49ers",
+    "abbr": "SF",
+    "logo": "assets/logos/nfl/nfl-49ers-1996-2008.png",
+    "colors": [
+      "#AA0000",
+      "#B3995D"
+    ],
+    "player": "Chris Doleman",
+    "playerAliases": [
+      "chris doleman"
+    ],
+    "statLine": "15 sacks"
+  },
+  {
+    "year": 1997,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Bruce Smith",
+    "playerAliases": [
+      "bruce smith"
+    ],
+    "statLine": "14 sacks"
+  },
+  {
+    "year": 1996,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "assets/logos/nfl/nfl-seahawks-1976-2001.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Michael McCrary",
+    "playerAliases": [
+      "michael mccrary"
+    ],
+    "statLine": "13.5 sacks"
   }
 ]

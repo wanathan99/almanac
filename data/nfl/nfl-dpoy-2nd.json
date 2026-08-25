@@ -1,385 +1,16 @@
 [
   {
-    "year": 1996,
-    "team": "Carolina Panthers",
-    "abbr": "CAR",
-    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
+    "year": 2025,
+    "team": "Houston Texans",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
     "colors": [
-      "#0085CA",
-      "#000000"
+      "#021018",
+      "#EB0028"
     ],
-    "player": "Kevin Greene",
+    "player": "Will Anderson",
     "playerAliases": [
-      "kevin greene"
-    ]
-  },
-  {
-    "year": 1997,
-    "team": "Buffalo Bills",
-    "abbr": "BUF",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
-    "colors": [
-      "#00338D",
-      "#D50A0A"
-    ],
-    "player": "Bruce Smith",
-    "playerAliases": [
-      "bruce smith"
-    ]
-  },
-  {
-    "year": 1998,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "assets/logos/nfl/nfl-vikings-1997-2001.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "John Randle",
-    "playerAliases": [
-      "john randle"
-    ]
-  },
-  {
-    "year": 1999,
-    "team": "Tennessee Titans",
-    "abbr": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "colors": [
-      "#4495D2",
-      "#001532"
-    ],
-    "player": "Jevon Kearse",
-    "playerAliases": [
-      "jevon kearse"
-    ]
-  },
-  {
-    "year": 2000,
-    "team": "New Orleans Saints",
-    "abbr": "NO",
-    "logo": "assets/logos/nfl/nfl-saints-2000-2001.png",
-    "colors": [
-      "#D3BC8D",
-      "#000000"
-    ],
-    "player": "La'Roi Glover",
-    "playerAliases": [
-      "la'roi glover"
-    ]
-  },
-  {
-    "year": 2001,
-    "team": "Chicago Bears",
-    "abbr": "CHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-    "colors": [
-      "#0B1C3A",
-      "#E64100"
-    ],
-    "player": "Brian Urlacher",
-    "playerAliases": [
-      "brian urlacher"
-    ]
-  },
-  {
-    "year": 2002,
-    "team": "Miami Dolphins",
-    "abbr": "MIA",
-    "logo": "assets/logos/nfl/nfl-dolphins-2002-2012.png",
-    "colors": [
-      "#008E97",
-      "#FC4C02"
-    ],
-    "player": "Jason Taylor",
-    "playerAliases": [
-      "jason taylor"
-    ]
-  },
-  {
-    "year": 2003,
-    "team": "New England Patriots",
-    "abbr": "NE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
-    "colors": [
-      "#002A5C",
-      "#C60C30"
-    ],
-    "player": "Richard Seymour",
-    "playerAliases": [
-      "richard seymour"
-    ]
-  },
-  {
-    "year": 2004,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "James Farrior",
-    "playerAliases": [
-      "james farrior"
-    ]
-  },
-  {
-    "year": 2005,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Dwight Freeney",
-    "playerAliases": [
-      "dwight freeney"
-    ]
-  },
-  {
-    "year": 2006,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Champ Bailey",
-    "playerAliases": [
-      "champ bailey"
-    ]
-  },
-  {
-    "year": 2007,
-    "team": "Tennessee Titans",
-    "abbr": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "colors": [
-      "#4495D2",
-      "#001532"
-    ],
-    "player": "Albert Haynesworth",
-    "playerAliases": [
-      "albert haynesworth"
-    ]
-  },
-  {
-    "year": 2008,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "DeMarcus Ware",
-    "playerAliases": [
-      "demarcus ware"
-    ]
-  },
-  {
-    "year": 2009,
-    "team": "New York Jets",
-    "abbr": "NYJ",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-    "colors": [
-      "#115740",
-      "#FFFFFF"
-    ],
-    "player": "Darrelle Revis",
-    "playerAliases": [
-      "darrelle revis"
-    ]
-  },
-  {
-    "year": 2010,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Clay Matthews",
-    "playerAliases": [
-      "clay matthews"
-    ]
-  },
-  {
-    "year": 2011,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "assets/logos/nfl/nfl-vikings-2010-2012.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Jared Allen",
-    "playerAliases": [
-      "jared allen"
-    ]
-  },
-  {
-    "year": 2012,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Von Miller",
-    "playerAliases": [
-      "von miller"
-    ]
-  },
-  {
-    "year": 2013,
-    "team": "Indianapolis Colts",
-    "abbr": "IND",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-    "colors": [
-      "#003B75",
-      "#FFFFFF"
-    ],
-    "player": "Robert Mathis",
-    "playerAliases": [
-      "robert mathis"
-    ]
-  },
-  {
-    "year": 2014,
-    "invalid": true,
-    "reason": "Only 1 player(s) received AP DPOY votes that year \u2014 no runner-up (2nd)"
-  },
-  {
-    "year": 2015,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Aaron Donald",
-    "playerAliases": [
-      "aaron donald"
-    ]
-  },
-  {
-    "year": 2016,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Von Miller",
-    "playerAliases": [
-      "von miller"
-    ]
-  },
-  {
-    "year": 2017,
-    "team": "Jacksonville Jaguars",
-    "abbr": "JAX",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-    "colors": [
-      "#007487",
-      "#D7A22A"
-    ],
-    "player": "Calais Campbell",
-    "playerAliases": [
-      "calais campbell"
-    ]
-  },
-  {
-    "year": 2018,
-    "team": "Chicago Bears",
-    "abbr": "CHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-    "colors": [
-      "#0B1C3A",
-      "#E64100"
-    ],
-    "player": "Khalil Mack",
-    "playerAliases": [
-      "khalil mack"
-    ]
-  },
-  {
-    "year": 2019,
-    "team": "Arizona Cardinals",
-    "abbr": "ARI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-    "colors": [
-      "#A40227",
-      "#FFFFFF"
-    ],
-    "player": "Chandler Jones",
-    "playerAliases": [
-      "chandler jones"
-    ]
-  },
-  {
-    "year": 2020,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "T.J. Watt",
-    "playerAliases": [
-      "t.j. watt"
-    ]
-  },
-  {
-    "year": 2021,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Micah Parsons",
-    "playerAliases": [
-      "micah parsons"
-    ]
-  },
-  {
-    "year": 2022,
-    "team": "Dallas Cowboys",
-    "abbr": "DAL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-    "colors": [
-      "#002A5C",
-      "#B0B7BC"
-    ],
-    "player": "Micah Parsons",
-    "playerAliases": [
-      "micah parsons"
-    ]
-  },
-  {
-    "year": 2023,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "T.J. Watt",
-    "playerAliases": [
-      "t.j. watt"
+      "will anderson"
     ]
   },
   {
@@ -397,17 +28,386 @@
     ]
   },
   {
-    "year": 2025,
-    "team": "Houston Texans",
-    "abbr": "HOU",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+    "year": 2023,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
     "colors": [
-      "#021018",
-      "#EB0028"
+      "#000000",
+      "#FFB612"
     ],
-    "player": "Will Anderson",
+    "player": "T.J. Watt",
     "playerAliases": [
-      "will anderson"
+      "t.j. watt"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Micah Parsons",
+    "playerAliases": [
+      "micah parsons"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "Micah Parsons",
+    "playerAliases": [
+      "micah parsons"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "T.J. Watt",
+    "playerAliases": [
+      "t.j. watt"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "Arizona Cardinals",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+    "colors": [
+      "#A40227",
+      "#FFFFFF"
+    ],
+    "player": "Chandler Jones",
+    "playerAliases": [
+      "chandler jones"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Khalil Mack",
+    "playerAliases": [
+      "khalil mack"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Jacksonville Jaguars",
+    "abbr": "JAX",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
+    "colors": [
+      "#007487",
+      "#D7A22A"
+    ],
+    "player": "Calais Campbell",
+    "playerAliases": [
+      "calais campbell"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Von Miller",
+    "playerAliases": [
+      "von miller"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Aaron Donald",
+    "playerAliases": [
+      "aaron donald"
+    ]
+  },
+  {
+    "year": 2014,
+    "invalid": true,
+    "reason": "Only 1 player(s) received AP DPOY votes that year — no runner-up (2nd)"
+  },
+  {
+    "year": 2013,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Robert Mathis",
+    "playerAliases": [
+      "robert mathis"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Von Miller",
+    "playerAliases": [
+      "von miller"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-2010-2012.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Jared Allen",
+    "playerAliases": [
+      "jared allen"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Clay Matthews",
+    "playerAliases": [
+      "clay matthews"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Darrelle Revis",
+    "playerAliases": [
+      "darrelle revis"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Dallas Cowboys",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+    "colors": [
+      "#002A5C",
+      "#B0B7BC"
+    ],
+    "player": "DeMarcus Ware",
+    "playerAliases": [
+      "demarcus ware"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Albert Haynesworth",
+    "playerAliases": [
+      "albert haynesworth"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Champ Bailey",
+    "playerAliases": [
+      "champ bailey"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Indianapolis Colts",
+    "abbr": "IND",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
+    "colors": [
+      "#003B75",
+      "#FFFFFF"
+    ],
+    "player": "Dwight Freeney",
+    "playerAliases": [
+      "dwight freeney"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "James Farrior",
+    "playerAliases": [
+      "james farrior"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "New England Patriots",
+    "abbr": "NE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png",
+    "colors": [
+      "#002A5C",
+      "#C60C30"
+    ],
+    "player": "Richard Seymour",
+    "playerAliases": [
+      "richard seymour"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Miami Dolphins",
+    "abbr": "MIA",
+    "logo": "assets/logos/nfl/nfl-dolphins-2002-2012.png",
+    "colors": [
+      "#008E97",
+      "#FC4C02"
+    ],
+    "player": "Jason Taylor",
+    "playerAliases": [
+      "jason taylor"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Brian Urlacher",
+    "playerAliases": [
+      "brian urlacher"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "New Orleans Saints",
+    "abbr": "NO",
+    "logo": "assets/logos/nfl/nfl-saints-2000-2001.png",
+    "colors": [
+      "#D3BC8D",
+      "#000000"
+    ],
+    "player": "La'Roi Glover",
+    "playerAliases": [
+      "la'roi glover"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Jevon Kearse",
+    "playerAliases": [
+      "jevon kearse"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-1997-2001.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "John Randle",
+    "playerAliases": [
+      "john randle"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Buffalo Bills",
+    "abbr": "BUF",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+    "colors": [
+      "#00338D",
+      "#D50A0A"
+    ],
+    "player": "Bruce Smith",
+    "playerAliases": [
+      "bruce smith"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Carolina Panthers",
+    "abbr": "CAR",
+    "logo": "assets/logos/nfl/nfl-panthers-1995-2011.png",
+    "colors": [
+      "#0085CA",
+      "#000000"
+    ],
+    "player": "Kevin Greene",
+    "playerAliases": [
+      "kevin greene"
     ]
   }
 ]

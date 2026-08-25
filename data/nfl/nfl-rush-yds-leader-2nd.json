@@ -1,231 +1,6 @@
 [
   {
-    "year": 1996,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "assets/logos/nfl/nfl-broncos-1993-1996.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Terrell Davis",
-    "playerAliases": [
-      "terrell davis"
-    ],
-    "statLine": "1,538 rush yds"
-  },
-  {
-    "year": 1997,
-    "team": "Denver Broncos",
-    "abbr": "DEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-    "colors": [
-      "#0A2343",
-      "#FC4C02"
-    ],
-    "player": "Terrell Davis",
-    "playerAliases": [
-      "terrell davis"
-    ],
-    "statLine": "1,750 rush yds"
-  },
-  {
-    "year": 1998,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "assets/logos/nfl/nfl-falcons-1990-2002.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Jamal Anderson",
-    "playerAliases": [
-      "jamal anderson"
-    ],
-    "statLine": "1,846 rush yds"
-  },
-  {
-    "year": 1999,
-    "team": "New York Jets",
-    "abbr": "NYJ",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-    "colors": [
-      "#115740",
-      "#FFFFFF"
-    ],
-    "player": "Curtis Martin",
-    "playerAliases": [
-      "curtis martin"
-    ],
-    "statLine": "1,464 rush yds"
-  },
-  {
-    "year": 2000,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "assets/logos/nfl/nfl-vikings-1997-2001.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Robert Smith",
-    "playerAliases": [
-      "robert smith"
-    ],
-    "statLine": "1,521 rush yds"
-  },
-  {
-    "year": 2001,
-    "team": "New York Jets",
-    "abbr": "NYJ",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
-    "colors": [
-      "#115740",
-      "#FFFFFF"
-    ],
-    "player": "Curtis Martin",
-    "playerAliases": [
-      "curtis martin"
-    ],
-    "statLine": "1,513 rush yds"
-  },
-  {
-    "year": 2002,
-    "team": "San Diego Chargers",
-    "abbr": "SD",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
-    "colors": [
-      "#0080C6",
-      "#FFC20E"
-    ],
-    "player": "LaDainian Tomlinson",
-    "playerAliases": [
-      "ladainian tomlinson"
-    ],
-    "statLine": "1,683 rush yds"
-  },
-  {
-    "year": 2003,
-    "team": "Green Bay Packers",
-    "abbr": "GB",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-    "colors": [
-      "#204E32",
-      "#FFB612"
-    ],
-    "player": "Ahman Green",
-    "playerAliases": [
-      "ahman green"
-    ],
-    "statLine": "1,883 rush yds"
-  },
-  {
-    "year": 2004,
-    "team": "Seattle Seahawks",
-    "abbr": "SEA",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
-    "colors": [
-      "#002A5C",
-      "#69BE28"
-    ],
-    "player": "Shaun Alexander",
-    "playerAliases": [
-      "shaun alexander"
-    ],
-    "statLine": "1,696 rush yds"
-  },
-  {
-    "year": 2005,
-    "team": "New York Giants",
-    "abbr": "NYG",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-    "colors": [
-      "#003C7F",
-      "#C9243F"
-    ],
-    "player": "Tiki Barber",
-    "playerAliases": [
-      "tiki barber"
-    ],
-    "statLine": "1,860 rush yds"
-  },
-  {
-    "year": 2006,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Larry Johnson",
-    "playerAliases": [
-      "larry johnson"
-    ],
-    "statLine": "1,789 rush yds"
-  },
-  {
-    "year": 2007,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Adrian Peterson",
-    "playerAliases": [
-      "adrian peterson"
-    ],
-    "statLine": "1,341 rush yds"
-  },
-  {
-    "year": 2008,
-    "team": "Atlanta Falcons",
-    "abbr": "ATL",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
-    "colors": [
-      "#A71930",
-      "#000000"
-    ],
-    "player": "Michael Turner",
-    "playerAliases": [
-      "michael turner"
-    ],
-    "statLine": "1,699 rush yds"
-  },
-  {
-    "year": 2009,
-    "team": "St. Louis Rams",
-    "abbr": "STL",
-    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Steven Jackson",
-    "playerAliases": [
-      "steven jackson"
-    ],
-    "statLine": "1,416 rush yds"
-  },
-  {
-    "year": 2010,
-    "team": "Kansas City Chiefs",
-    "abbr": "KC",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
-    "colors": [
-      "#E31837",
-      "#FFB612"
-    ],
-    "player": "Jamaal Charles",
-    "playerAliases": [
-      "jamaal charles"
-    ],
-    "statLine": "1,467 rush yds"
-  },
-  {
-    "year": 2011,
+    "year": 2025,
     "team": "Baltimore Ravens",
     "abbr": "BAL",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
@@ -233,191 +8,11 @@
       "#29126F",
       "#000000"
     ],
-    "player": "Ray Rice",
-    "playerAliases": [
-      "ray rice"
-    ],
-    "statLine": "1,364 rush yds"
-  },
-  {
-    "year": 2012,
-    "team": "Washington Redskins",
-    "abbr": "WSH",
-    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
-    "colors": [
-      "#5A1414",
-      "#FFB612"
-    ],
-    "player": "Alfred Morris",
-    "playerAliases": [
-      "alfred morris"
-    ],
-    "statLine": "1,613 rush yds"
-  },
-  {
-    "year": 2013,
-    "team": "Chicago Bears",
-    "abbr": "CHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-    "colors": [
-      "#0B1C3A",
-      "#E64100"
-    ],
-    "player": "Matt Forte",
-    "playerAliases": [
-      "matt forte"
-    ],
-    "statLine": "1,339 rush yds"
-  },
-  {
-    "year": 2014,
-    "team": "Pittsburgh Steelers",
-    "abbr": "PIT",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-    "colors": [
-      "#000000",
-      "#FFB612"
-    ],
-    "player": "Le'Veon Bell",
-    "playerAliases": [
-      "le'veon bell"
-    ],
-    "statLine": "1,361 rush yds"
-  },
-  {
-    "year": 2015,
-    "team": "Tampa Bay Buccaneers",
-    "abbr": "TB",
-    "logo": "assets/logos/nfl/nfl-buccaneers-2014-2019.png",
-    "colors": [
-      "#BD1C36",
-      "#3E3A35"
-    ],
-    "player": "Doug Martin",
-    "playerAliases": [
-      "doug martin"
-    ],
-    "statLine": "1,402 rush yds"
-  },
-  {
-    "year": 2016,
-    "team": "Chicago Bears",
-    "abbr": "CHI",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-    "colors": [
-      "#0B1C3A",
-      "#E64100"
-    ],
-    "player": "Jordan Howard",
-    "playerAliases": [
-      "jordan howard"
-    ],
-    "statLine": "1,313 rush yds"
-  },
-  {
-    "year": 2017,
-    "team": "Los Angeles Rams",
-    "abbr": "LAR",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-    "colors": [
-      "#003594",
-      "#FFD100"
-    ],
-    "player": "Todd Gurley",
-    "playerAliases": [
-      "todd gurley"
-    ],
-    "statLine": "1,305 rush yds"
-  },
-  {
-    "year": 2018,
-    "team": "New York Giants",
-    "abbr": "NYG",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
-    "colors": [
-      "#003C7F",
-      "#C9243F"
-    ],
-    "player": "Saquon Barkley",
-    "playerAliases": [
-      "saquon barkley"
-    ],
-    "statLine": "1,307 rush yds"
-  },
-  {
-    "year": 2019,
-    "team": "Cleveland Browns",
-    "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-    "colors": [
-      "#472A08",
-      "#FF3C00"
-    ],
-    "player": "Nick Chubb",
-    "playerAliases": [
-      "nick chubb"
-    ],
-    "statLine": "1,494 rush yds"
-  },
-  {
-    "year": 2020,
-    "team": "Minnesota Vikings",
-    "abbr": "MIN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-    "colors": [
-      "#4F2683",
-      "#FFC62F"
-    ],
-    "player": "Dalvin Cook",
-    "playerAliases": [
-      "dalvin cook"
-    ],
-    "statLine": "1,557 rush yds"
-  },
-  {
-    "year": 2021,
-    "team": "Cleveland Browns",
-    "abbr": "CLE",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-    "colors": [
-      "#472A08",
-      "#FF3C00"
-    ],
-    "player": "Nick Chubb",
-    "playerAliases": [
-      "nick chubb"
-    ],
-    "statLine": "1,259 rush yds"
-  },
-  {
-    "year": 2022,
-    "team": "Tennessee Titans",
-    "abbr": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "colors": [
-      "#4495D2",
-      "#001532"
-    ],
     "player": "Derrick Henry",
     "playerAliases": [
       "derrick henry"
     ],
-    "statLine": "1,538 rush yds"
-  },
-  {
-    "year": 2023,
-    "team": "Tennessee Titans",
-    "abbr": "TEN",
-    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
-    "colors": [
-      "#4495D2",
-      "#001532"
-    ],
-    "player": "Derrick Henry",
-    "playerAliases": [
-      "derrick henry"
-    ],
-    "statLine": "1,167 rush yds"
+    "statLine": "1,595 rush yds"
   },
   {
     "year": 2024,
@@ -435,7 +30,187 @@
     "statLine": "1,921 rush yds"
   },
   {
-    "year": 2025,
+    "year": 2023,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Derrick Henry",
+    "playerAliases": [
+      "derrick henry"
+    ],
+    "statLine": "1,167 rush yds"
+  },
+  {
+    "year": 2022,
+    "team": "Tennessee Titans",
+    "abbr": "TEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+    "colors": [
+      "#4495D2",
+      "#001532"
+    ],
+    "player": "Derrick Henry",
+    "playerAliases": [
+      "derrick henry"
+    ],
+    "statLine": "1,538 rush yds"
+  },
+  {
+    "year": 2021,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "colors": [
+      "#472A08",
+      "#FF3C00"
+    ],
+    "player": "Nick Chubb",
+    "playerAliases": [
+      "nick chubb"
+    ],
+    "statLine": "1,259 rush yds"
+  },
+  {
+    "year": 2020,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Dalvin Cook",
+    "playerAliases": [
+      "dalvin cook"
+    ],
+    "statLine": "1,557 rush yds"
+  },
+  {
+    "year": 2019,
+    "team": "Cleveland Browns",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "colors": [
+      "#472A08",
+      "#FF3C00"
+    ],
+    "player": "Nick Chubb",
+    "playerAliases": [
+      "nick chubb"
+    ],
+    "statLine": "1,494 rush yds"
+  },
+  {
+    "year": 2018,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Saquon Barkley",
+    "playerAliases": [
+      "saquon barkley"
+    ],
+    "statLine": "1,307 rush yds"
+  },
+  {
+    "year": 2017,
+    "team": "Los Angeles Rams",
+    "abbr": "LAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Todd Gurley",
+    "playerAliases": [
+      "todd gurley"
+    ],
+    "statLine": "1,305 rush yds"
+  },
+  {
+    "year": 2016,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Jordan Howard",
+    "playerAliases": [
+      "jordan howard"
+    ],
+    "statLine": "1,313 rush yds"
+  },
+  {
+    "year": 2015,
+    "team": "Tampa Bay Buccaneers",
+    "abbr": "TB",
+    "logo": "assets/logos/nfl/nfl-buccaneers-2014-2019.png",
+    "colors": [
+      "#BD1C36",
+      "#3E3A35"
+    ],
+    "player": "Doug Martin",
+    "playerAliases": [
+      "doug martin"
+    ],
+    "statLine": "1,402 rush yds"
+  },
+  {
+    "year": 2014,
+    "team": "Pittsburgh Steelers",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
+    "colors": [
+      "#000000",
+      "#FFB612"
+    ],
+    "player": "Le'Veon Bell",
+    "playerAliases": [
+      "le'veon bell"
+    ],
+    "statLine": "1,361 rush yds"
+  },
+  {
+    "year": 2013,
+    "team": "Chicago Bears",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
+    "colors": [
+      "#0B1C3A",
+      "#E64100"
+    ],
+    "player": "Matt Forte",
+    "playerAliases": [
+      "matt forte"
+    ],
+    "statLine": "1,339 rush yds"
+  },
+  {
+    "year": 2012,
+    "team": "Washington Redskins",
+    "abbr": "WSH",
+    "logo": "assets/logos/nfl/nfl-washington-redskins.png",
+    "colors": [
+      "#5A1414",
+      "#FFB612"
+    ],
+    "player": "Alfred Morris",
+    "playerAliases": [
+      "alfred morris"
+    ],
+    "statLine": "1,613 rush yds"
+  },
+  {
+    "year": 2011,
     "team": "Baltimore Ravens",
     "abbr": "BAL",
     "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
@@ -443,10 +218,235 @@
       "#29126F",
       "#000000"
     ],
-    "player": "Derrick Henry",
+    "player": "Ray Rice",
     "playerAliases": [
-      "derrick henry"
+      "ray rice"
     ],
-    "statLine": "1,595 rush yds"
+    "statLine": "1,364 rush yds"
+  },
+  {
+    "year": 2010,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Jamaal Charles",
+    "playerAliases": [
+      "jamaal charles"
+    ],
+    "statLine": "1,467 rush yds"
+  },
+  {
+    "year": 2009,
+    "team": "St. Louis Rams",
+    "abbr": "STL",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/vqwwsp1427607671.png",
+    "colors": [
+      "#003594",
+      "#FFD100"
+    ],
+    "player": "Steven Jackson",
+    "playerAliases": [
+      "steven jackson"
+    ],
+    "statLine": "1,416 rush yds"
+  },
+  {
+    "year": 2008,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Michael Turner",
+    "playerAliases": [
+      "michael turner"
+    ],
+    "statLine": "1,699 rush yds"
+  },
+  {
+    "year": 2007,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-2002-2009.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Adrian Peterson",
+    "playerAliases": [
+      "adrian peterson"
+    ],
+    "statLine": "1,341 rush yds"
+  },
+  {
+    "year": 2006,
+    "team": "Kansas City Chiefs",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png",
+    "colors": [
+      "#E31837",
+      "#FFB612"
+    ],
+    "player": "Larry Johnson",
+    "playerAliases": [
+      "larry johnson"
+    ],
+    "statLine": "1,789 rush yds"
+  },
+  {
+    "year": 2005,
+    "team": "New York Giants",
+    "abbr": "NYG",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png",
+    "colors": [
+      "#003C7F",
+      "#C9243F"
+    ],
+    "player": "Tiki Barber",
+    "playerAliases": [
+      "tiki barber"
+    ],
+    "statLine": "1,860 rush yds"
+  },
+  {
+    "year": 2004,
+    "team": "Seattle Seahawks",
+    "abbr": "SEA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png",
+    "colors": [
+      "#002A5C",
+      "#69BE28"
+    ],
+    "player": "Shaun Alexander",
+    "playerAliases": [
+      "shaun alexander"
+    ],
+    "statLine": "1,696 rush yds"
+  },
+  {
+    "year": 2003,
+    "team": "Green Bay Packers",
+    "abbr": "GB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
+    "colors": [
+      "#204E32",
+      "#FFB612"
+    ],
+    "player": "Ahman Green",
+    "playerAliases": [
+      "ahman green"
+    ],
+    "statLine": "1,883 rush yds"
+  },
+  {
+    "year": 2002,
+    "team": "San Diego Chargers",
+    "abbr": "SD",
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "colors": [
+      "#0080C6",
+      "#FFC20E"
+    ],
+    "player": "LaDainian Tomlinson",
+    "playerAliases": [
+      "ladainian tomlinson"
+    ],
+    "statLine": "1,683 rush yds"
+  },
+  {
+    "year": 2001,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Curtis Martin",
+    "playerAliases": [
+      "curtis martin"
+    ],
+    "statLine": "1,513 rush yds"
+  },
+  {
+    "year": 2000,
+    "team": "Minnesota Vikings",
+    "abbr": "MIN",
+    "logo": "assets/logos/nfl/nfl-vikings-1997-2001.png",
+    "colors": [
+      "#4F2683",
+      "#FFC62F"
+    ],
+    "player": "Robert Smith",
+    "playerAliases": [
+      "robert smith"
+    ],
+    "statLine": "1,521 rush yds"
+  },
+  {
+    "year": 1999,
+    "team": "New York Jets",
+    "abbr": "NYJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png",
+    "colors": [
+      "#115740",
+      "#FFFFFF"
+    ],
+    "player": "Curtis Martin",
+    "playerAliases": [
+      "curtis martin"
+    ],
+    "statLine": "1,464 rush yds"
+  },
+  {
+    "year": 1998,
+    "team": "Atlanta Falcons",
+    "abbr": "ATL",
+    "logo": "assets/logos/nfl/nfl-falcons-1990-2002.png",
+    "colors": [
+      "#A71930",
+      "#000000"
+    ],
+    "player": "Jamal Anderson",
+    "playerAliases": [
+      "jamal anderson"
+    ],
+    "statLine": "1,846 rush yds"
+  },
+  {
+    "year": 1997,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Terrell Davis",
+    "playerAliases": [
+      "terrell davis"
+    ],
+    "statLine": "1,750 rush yds"
+  },
+  {
+    "year": 1996,
+    "team": "Denver Broncos",
+    "abbr": "DEN",
+    "logo": "assets/logos/nfl/nfl-broncos-1993-1996.png",
+    "colors": [
+      "#0A2343",
+      "#FC4C02"
+    ],
+    "player": "Terrell Davis",
+    "playerAliases": [
+      "terrell davis"
+    ],
+    "statLine": "1,538 rush yds"
   }
 ]
