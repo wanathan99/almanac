@@ -1,76 +1,361 @@
 [
   {
-    "year": 1996,
-    "school": "Central Connecticut Blue Devils",
-    "abbr": "C Connecticut",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
+    "year": 2025,
+    "school": "Queens (NC)",
+    "abbr": "Queens (NC)",
     "colors": [
-      "#1B49A2",
-      "#D1D5D8"
+      "#192C66",
+      "#857040"
     ],
-    "player": "Keith Closs",
+    "player": "Malcolm Wilson",
     "playerAliases": [
-      "keith closs"
+      "malcolm wilson",
+      "wilson"
     ],
-    "statLine": "6.4 BPG"
+    "statLine": "3.3 BPG"
   },
   {
-    "year": 1997,
-    "school": "Colgate Raiders",
-    "abbr": "Colgate",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png",
+    "year": 2024,
+    "school": "Eastern Kentucky Colonels",
+    "abbr": "E Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
     "colors": [
-      "#821019",
+      "#660819",
+      "#F0F0F0"
+    ],
+    "player": "Isaiah Cozart",
+    "playerAliases": [
+      "isaiah cozart"
+    ],
+    "statLine": "3.9 BPG"
+  },
+  {
+    "year": 2023,
+    "school": "Western Kentucky Hilltoppers",
+    "abbr": "Western KY",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
+    "colors": [
+      "#E13A3E",
       "#FFFFFF"
     ],
-    "player": "Adonal Foyle",
+    "player": "Jamarion Sharp",
     "playerAliases": [
-      "adonal foyle"
+      "jamarion sharp"
     ],
-    "statLine": "6.4 BPG"
+    "statLine": "4.1 BPG"
   },
   {
-    "year": 1998,
-    "school": "Florida A&M Rattlers",
-    "abbr": "Florida A&M",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/50.png",
+    "year": 2022,
+    "school": "Western Kentucky Hilltoppers",
+    "abbr": "Western KY",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
     "colors": [
-      "#F89728",
-      "#00843D"
+      "#E13A3E",
+      "#FFFFFF"
     ],
-    "player": "Jerome James",
+    "player": "Jamarion Sharp",
     "playerAliases": [
-      "jerome james"
+      "jamarion sharp"
     ],
     "statLine": "4.6 BPG"
   },
   {
-    "year": 1999,
-    "school": "Hampton Pirates",
-    "abbr": "Hampton",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png",
+    "year": 2021,
+    "school": "Saint Peter's Peacocks",
+    "abbr": "Saint Peter's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
     "colors": [
-      "#0067AC",
+      "#004CC2",
       "#FFFFFF"
     ],
-    "player": "Tarvis Williams",
+    "player": "KC Ndefo",
     "playerAliases": [
-      "tarvis williams"
+      "kc ndefo"
     ],
-    "statLine": "5.0 BPG"
+    "statLine": "3.6 BPG"
   },
   {
-    "year": 2000,
-    "school": "Ohio State Buckeyes",
-    "abbr": "Ohio State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "year": 2020,
+    "school": "Florida International Panthers",
+    "abbr": "FIU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
     "colors": [
-      "#BA0C2F",
-      "#A8ADB4"
+      "#091F3F",
+      "#C3993F"
     ],
-    "player": "Ken Johnson",
+    "player": "Osasumwen Osaghae",
     "playerAliases": [
-      "ken johnson"
+      "osasumwen osaghae"
+    ],
+    "statLine": "3.7 BPG"
+  },
+  {
+    "year": 2019,
+    "school": "Western Illinois Leathernecks",
+    "abbr": "W Illinois",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png",
+    "colors": [
+      "#4E1E8A",
+      "#FFC90A"
+    ],
+    "player": "Brandon Gilbeck",
+    "playerAliases": [
+      "brandon gilbeck"
+    ],
+    "statLine": "3.4 BPG"
+  },
+  {
+    "year": 2018,
+    "school": "Marshall Thundering Herd",
+    "abbr": "Marshall",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "colors": [
+      "#00B140",
+      "#000000"
+    ],
+    "player": "Ajdin Penava",
+    "playerAliases": [
+      "ajdin penava"
+    ],
+    "statLine": "3.9 BPG"
+  },
+  {
+    "year": 2017,
+    "school": "Nicholls Colonels",
+    "abbr": "Nicholls",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png",
+    "colors": [
+      "#C41230",
+      "#F0F0F0"
+    ],
+    "player": "Liam Thomas",
+    "playerAliases": [
+      "liam thomas"
+    ],
+    "statLine": "4.2 BPG"
+  },
+  {
+    "year": 2016,
+    "school": "Valparaiso Beacons",
+    "abbr": "Valparaiso",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png",
+    "colors": [
+      "#794500",
+      "#FFFFFF"
+    ],
+    "player": "Vashil Fernandez",
+    "playerAliases": [
+      "vashil fernandez"
+    ],
+    "statLine": "3.3 BPG"
+  },
+  {
+    "year": 2015,
+    "school": "LSU Tigers",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D76",
+      "#FDD023"
+    ],
+    "player": "Jordan Mickey",
+    "playerAliases": [
+      "jordan mickey"
+    ],
+    "statLine": "3.6 BPG"
+  },
+  {
+    "year": 2014,
+    "school": "Arizona State Sun Devils",
+    "abbr": "Arizona St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "colors": [
+      "#FFC627",
+      "#8C1D40"
+    ],
+    "player": "Jordan Bachynski",
+    "playerAliases": [
+      "jordan bachynski"
+    ],
+    "statLine": "4.0 BPG"
+  },
+  {
+    "year": 2013,
+    "school": "St. John's Red Storm",
+    "abbr": "St John's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+    "colors": [
+      "#D10000",
+      "#101010"
+    ],
+    "player": "Chris Obekpa",
+    "playerAliases": [
+      "chris obekpa"
+    ],
+    "statLine": "4.0 BPG"
+  },
+  {
+    "year": 2012,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis"
+    ],
+    "statLine": "4.7 BPG"
+  },
+  {
+    "year": 2011,
+    "school": "Northwestern State Demons",
+    "abbr": "N'Western St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
+    "colors": [
+      "#492F91",
+      "#ED6118"
+    ],
+    "player": "William Mosley",
+    "playerAliases": [
+      "william mosley"
+    ],
+    "statLine": "4.9 BPG"
+  },
+  {
+    "year": 2010,
+    "school": "Marshall Thundering Herd",
+    "abbr": "Marshall",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "colors": [
+      "#00B140",
+      "#000000"
+    ],
+    "player": "Hassan Whiteside",
+    "playerAliases": [
+      "hassan whiteside"
+    ],
+    "statLine": "5.4 BPG"
+  },
+  {
+    "year": 2009,
+    "school": "Mississippi State Bulldogs",
+    "abbr": "Mississippi St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+    "colors": [
+      "#5D1725",
+      "#C1C6C8"
+    ],
+    "player": "Jarvis Varnado",
+    "playerAliases": [
+      "jarvis varnado"
+    ],
+    "statLine": "4.7 BPG"
+  },
+  {
+    "year": 2008,
+    "school": "Mississippi State Bulldogs",
+    "abbr": "Mississippi St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+    "colors": [
+      "#5D1725",
+      "#C1C6C8"
+    ],
+    "player": "Jarvis Varnado",
+    "playerAliases": [
+      "jarvis varnado"
+    ],
+    "statLine": "4.6 BPG"
+  },
+  {
+    "year": 2007,
+    "school": "Alabama A&M Bulldogs",
+    "abbr": "Alabama A&M",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+    "colors": [
+      "#790000",
+      "#FFFFFF"
+    ],
+    "player": "Mickell Gladness",
+    "playerAliases": [
+      "mickell gladness"
+    ],
+    "statLine": "6.3 BPG"
+  },
+  {
+    "year": 2006,
+    "school": "Northeastern Huskies",
+    "abbr": "Northeastern",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/111.png",
+    "colors": [
+      "#CC0001",
+      "#C2C3C0"
+    ],
+    "player": "Shawn James",
+    "playerAliases": [
+      "shawn james"
+    ],
+    "statLine": "6.5 BPG"
+  },
+  {
+    "year": 2005,
+    "school": "Fairfield Stags",
+    "abbr": "Fairfield",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
+    "colors": [
+      "#000000",
+      "#EBEBEB"
+    ],
+    "player": "Deng Gai",
+    "playerAliases": [
+      "deng gai"
+    ],
+    "statLine": "5.5 BPG"
+  },
+  {
+    "year": 2004,
+    "school": "Houston Cougars",
+    "abbr": "Houston",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Anwar Ferguson",
+    "playerAliases": [
+      "anwar ferguson"
+    ],
+    "statLine": "4.1 BPG"
+  },
+  {
+    "year": 2003,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Emeka Okafor",
+    "playerAliases": [
+      "emeka okafor"
+    ],
+    "statLine": "4.7 BPG"
+  },
+  {
+    "year": 2002,
+    "school": "UL Monroe Warhawks",
+    "abbr": "UL Monroe",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+    "colors": [
+      "#840029",
+      "#FDB913"
+    ],
+    "player": "Wojciech Myrda",
+    "playerAliases": [
+      "wojciech myrda"
     ],
     "statLine": "5.4 BPG"
   },
@@ -90,363 +375,78 @@
     "statLine": "4.6 BPG"
   },
   {
-    "year": 2002,
-    "school": "UL Monroe Warhawks",
-    "abbr": "UL Monroe",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+    "year": 2000,
+    "school": "Ohio State Buckeyes",
+    "abbr": "Ohio State",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
     "colors": [
-      "#840029",
-      "#FDB913"
+      "#BA0C2F",
+      "#A8ADB4"
     ],
-    "player": "Wojciech Myrda",
+    "player": "Ken Johnson",
     "playerAliases": [
-      "wojciech myrda"
+      "ken johnson"
     ],
     "statLine": "5.4 BPG"
   },
   {
-    "year": 2003,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "year": 1999,
+    "school": "Hampton Pirates",
+    "abbr": "Hampton",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2261.png",
     "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Emeka Okafor",
-    "playerAliases": [
-      "emeka okafor"
-    ],
-    "statLine": "4.7 BPG"
-  },
-  {
-    "year": 2004,
-    "school": "Houston Cougars",
-    "abbr": "Houston",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-    "colors": [
-      "#C8102E",
+      "#0067AC",
       "#FFFFFF"
     ],
-    "player": "Anwar Ferguson",
+    "player": "Tarvis Williams",
     "playerAliases": [
-      "anwar ferguson"
+      "tarvis williams"
     ],
-    "statLine": "4.1 BPG"
+    "statLine": "5.0 BPG"
   },
   {
-    "year": 2005,
-    "school": "Fairfield Stags",
-    "abbr": "Fairfield",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2217.png",
+    "year": 1998,
+    "school": "Florida A&M Rattlers",
+    "abbr": "Florida A&M",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/50.png",
     "colors": [
-      "#000000",
-      "#EBEBEB"
+      "#F89728",
+      "#00843D"
     ],
-    "player": "Deng Gai",
+    "player": "Jerome James",
     "playerAliases": [
-      "deng gai"
-    ],
-    "statLine": "5.5 BPG"
-  },
-  {
-    "year": 2006,
-    "school": "Northeastern Huskies",
-    "abbr": "Northeastern",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/111.png",
-    "colors": [
-      "#CC0001",
-      "#C2C3C0"
-    ],
-    "player": "Shawn James",
-    "playerAliases": [
-      "shawn james"
-    ],
-    "statLine": "6.5 BPG"
-  },
-  {
-    "year": 2007,
-    "school": "Alabama A&M Bulldogs",
-    "abbr": "Alabama A&M",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
-    "colors": [
-      "#790000",
-      "#FFFFFF"
-    ],
-    "player": "Mickell Gladness",
-    "playerAliases": [
-      "mickell gladness"
-    ],
-    "statLine": "6.3 BPG"
-  },
-  {
-    "year": 2008,
-    "school": "Mississippi State Bulldogs",
-    "abbr": "Mississippi St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
-    "colors": [
-      "#5D1725",
-      "#C1C6C8"
-    ],
-    "player": "Jarvis Varnado",
-    "playerAliases": [
-      "jarvis varnado"
+      "jerome james"
     ],
     "statLine": "4.6 BPG"
   },
   {
-    "year": 2009,
-    "school": "Mississippi State Bulldogs",
-    "abbr": "Mississippi St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+    "year": 1997,
+    "school": "Colgate Raiders",
+    "abbr": "Colgate",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png",
     "colors": [
-      "#5D1725",
-      "#C1C6C8"
-    ],
-    "player": "Jarvis Varnado",
-    "playerAliases": [
-      "jarvis varnado"
-    ],
-    "statLine": "4.7 BPG"
-  },
-  {
-    "year": 2010,
-    "school": "Marshall Thundering Herd",
-    "abbr": "Marshall",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
-    "colors": [
-      "#00B140",
-      "#000000"
-    ],
-    "player": "Hassan Whiteside",
-    "playerAliases": [
-      "hassan whiteside"
-    ],
-    "statLine": "5.4 BPG"
-  },
-  {
-    "year": 2011,
-    "school": "Northwestern State Demons",
-    "abbr": "N'Western St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png",
-    "colors": [
-      "#492F91",
-      "#ED6118"
-    ],
-    "player": "William Mosley",
-    "playerAliases": [
-      "william mosley"
-    ],
-    "statLine": "4.9 BPG"
-  },
-  {
-    "year": 2012,
-    "school": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
+      "#821019",
       "#FFFFFF"
     ],
-    "player": "Anthony Davis",
+    "player": "Adonal Foyle",
     "playerAliases": [
-      "anthony davis"
+      "adonal foyle"
     ],
-    "statLine": "4.7 BPG"
+    "statLine": "6.4 BPG"
   },
   {
-    "year": 2013,
-    "school": "St. John's Red Storm",
-    "abbr": "St John's",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2599.png",
+    "year": 1996,
+    "school": "Central Connecticut Blue Devils",
+    "abbr": "C Connecticut",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
     "colors": [
-      "#D10000",
-      "#101010"
+      "#1B49A2",
+      "#D1D5D8"
     ],
-    "player": "Chris Obekpa",
+    "player": "Keith Closs",
     "playerAliases": [
-      "chris obekpa"
+      "keith closs"
     ],
-    "statLine": "4.0 BPG"
-  },
-  {
-    "year": 2014,
-    "school": "Arizona State Sun Devils",
-    "abbr": "Arizona St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-    "colors": [
-      "#FFC627",
-      "#8C1D40"
-    ],
-    "player": "Jordan Bachynski",
-    "playerAliases": [
-      "jordan bachynski"
-    ],
-    "statLine": "4.0 BPG"
-  },
-  {
-    "year": 2015,
-    "school": "LSU Tigers",
-    "abbr": "LSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-    "colors": [
-      "#461D76",
-      "#FDD023"
-    ],
-    "player": "Jordan Mickey",
-    "playerAliases": [
-      "jordan mickey"
-    ],
-    "statLine": "3.6 BPG"
-  },
-  {
-    "year": 2016,
-    "school": "Valparaiso Beacons",
-    "abbr": "Valparaiso",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2674.png",
-    "colors": [
-      "#794500",
-      "#FFFFFF"
-    ],
-    "player": "Vashil Fernandez",
-    "playerAliases": [
-      "vashil fernandez"
-    ],
-    "statLine": "3.3 BPG"
-  },
-  {
-    "year": 2017,
-    "school": "Nicholls Colonels",
-    "abbr": "Nicholls",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png",
-    "colors": [
-      "#C41230",
-      "#F0F0F0"
-    ],
-    "player": "Liam Thomas",
-    "playerAliases": [
-      "liam thomas"
-    ],
-    "statLine": "4.2 BPG"
-  },
-  {
-    "year": 2018,
-    "school": "Marshall Thundering Herd",
-    "abbr": "Marshall",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
-    "colors": [
-      "#00B140",
-      "#000000"
-    ],
-    "player": "Ajdin Penava",
-    "playerAliases": [
-      "ajdin penava"
-    ],
-    "statLine": "3.9 BPG"
-  },
-  {
-    "year": 2019,
-    "school": "Western Illinois Leathernecks",
-    "abbr": "W Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png",
-    "colors": [
-      "#4E1E8A",
-      "#FFC90A"
-    ],
-    "player": "Brandon Gilbeck",
-    "playerAliases": [
-      "brandon gilbeck"
-    ],
-    "statLine": "3.4 BPG"
-  },
-  {
-    "year": 2020,
-    "school": "Florida International Panthers",
-    "abbr": "FIU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
-    "colors": [
-      "#091F3F",
-      "#C3993F"
-    ],
-    "player": "Osasumwen Osaghae",
-    "playerAliases": [
-      "osasumwen osaghae"
-    ],
-    "statLine": "3.7 BPG"
-  },
-  {
-    "year": 2021,
-    "school": "Saint Peter's Peacocks",
-    "abbr": "Saint Peter's",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
-    "colors": [
-      "#004CC2",
-      "#FFFFFF"
-    ],
-    "player": "KC Ndefo",
-    "playerAliases": [
-      "kc ndefo"
-    ],
-    "statLine": "3.6 BPG"
-  },
-  {
-    "year": 2022,
-    "school": "Western Kentucky Hilltoppers",
-    "abbr": "Western KY",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
-    "colors": [
-      "#E13A3E",
-      "#FFFFFF"
-    ],
-    "player": "Jamarion Sharp",
-    "playerAliases": [
-      "jamarion sharp"
-    ],
-    "statLine": "4.6 BPG"
-  },
-  {
-    "year": 2023,
-    "school": "Western Kentucky Hilltoppers",
-    "abbr": "Western KY",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
-    "colors": [
-      "#E13A3E",
-      "#FFFFFF"
-    ],
-    "player": "Jamarion Sharp",
-    "playerAliases": [
-      "jamarion sharp"
-    ],
-    "statLine": "4.1 BPG"
-  },
-  {
-    "year": 2024,
-    "school": "Eastern Kentucky Colonels",
-    "abbr": "E Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
-    "colors": [
-      "#660819",
-      "#F0F0F0"
-    ],
-    "player": "Isaiah Cozart",
-    "playerAliases": [
-      "isaiah cozart"
-    ],
-    "statLine": "3.9 BPG"
-  },
-  {
-    "year": 2025,
-    "school": "Queens (NC)",
-    "abbr": "Queens (NC)",
-    "colors": [
-      "#192C66",
-      "#857040"
-    ],
-    "player": "Malcolm Wilson",
-    "playerAliases": [
-      "malcolm wilson",
-      "wilson"
-    ],
-    "statLine": "3.3 BPG"
+    "statLine": "6.4 BPG"
   }
 ]

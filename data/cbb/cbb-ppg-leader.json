@@ -1,406 +1,31 @@
 [
   {
-    "year": 1996,
-    "school": "Texas Southern Tigers",
-    "abbr": "Texas Southern",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
+    "year": 2025,
+    "school": "Villanova Wildcats",
+    "abbr": "Villanova",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
     "colors": [
-      "#860038",
-      "#FFFFFF"
+      "#00205B",
+      "#13B5EA"
     ],
-    "player": "Kevin Granger",
+    "player": "Eric Dixon",
     "playerAliases": [
-      "kevin granger"
+      "eric dixon"
     ],
-    "statLine": "27.0 PPG"
+    "statLine": "23.3 PPG"
   },
   {
-    "year": 1997,
-    "school": "Long Island University Sharks",
-    "abbr": "Long Island",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "year": 2024,
+    "school": "Purdue Boilermakers",
+    "abbr": "Purdue",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
     "colors": [
-      "#50C9F7",
-      "#FFBF00"
+      "#CEB888",
+      "#000000"
     ],
-    "player": "Charles Jones",
+    "player": "Zach Edey",
     "playerAliases": [
-      "charles jones"
-    ],
-    "statLine": "30.1 PPG"
-  },
-  {
-    "year": 1998,
-    "school": "Long Island University Sharks",
-    "abbr": "Long Island",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
-    "colors": [
-      "#50C9F7",
-      "#FFBF00"
-    ],
-    "player": "Charles Jones",
-    "playerAliases": [
-      "charles jones"
-    ],
-    "statLine": "29.0 PPG"
-  },
-  {
-    "year": 1999,
-    "school": "Niagara Purple Eagles",
-    "abbr": "Niagara",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
-    "colors": [
-      "#69207E",
-      "#F0F0F0"
-    ],
-    "player": "Alvin Young",
-    "playerAliases": [
-      "alvin young"
-    ],
-    "statLine": "25.1 PPG"
-  },
-  {
-    "year": 2000,
-    "school": "Fresno State Bulldogs",
-    "abbr": "Fresno St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
-    "colors": [
-      "#B1102B",
-      "#13284C"
-    ],
-    "player": "Courtney Alexander",
-    "playerAliases": [
-      "courtney alexander"
-    ],
-    "statLine": "24.8 PPG"
-  },
-  {
-    "year": 2001,
-    "school": "Long Island University Sharks",
-    "abbr": "Long Island",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
-    "colors": [
-      "#50C9F7",
-      "#FFBF00"
-    ],
-    "player": "Ronnie McCollum",
-    "playerAliases": [
-      "ronnie mccollum"
-    ],
-    "statLine": "29.1 PPG"
-  },
-  {
-    "year": 2002,
-    "school": "VMI Keydets",
-    "abbr": "VMI",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
-    "colors": [
-      "#AE122A",
-      "#FFD619"
-    ],
-    "player": "Jason Conley",
-    "playerAliases": [
-      "jason conley"
-    ],
-    "statLine": "29.3 PPG"
-  },
-  {
-    "year": 2003,
-    "school": "New Mexico Lobos",
-    "abbr": "New Mexico",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
-    "colors": [
-      "#BA0C2F",
-      "#A7A8AA"
-    ],
-    "player": "Ruben Douglas",
-    "playerAliases": [
-      "ruben douglas"
-    ],
-    "statLine": "28.0 PPG"
-  },
-  {
-    "year": 2004,
-    "school": "Saint Peter's Peacocks",
-    "abbr": "Saint Peter's",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
-    "colors": [
-      "#004CC2",
-      "#FFFFFF"
-    ],
-    "player": "Keydren Clark",
-    "playerAliases": [
-      "keydren clark"
-    ],
-    "statLine": "26.7 PPG"
-  },
-  {
-    "year": 2005,
-    "school": "Saint Peter's Peacocks",
-    "abbr": "Saint Peter's",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
-    "colors": [
-      "#004CC2",
-      "#FFFFFF"
-    ],
-    "player": "Keydren Clark",
-    "playerAliases": [
-      "keydren clark"
-    ],
-    "statLine": "25.8 PPG"
-  },
-  {
-    "year": 2006,
-    "school": "Gonzaga Bulldogs",
-    "abbr": "Gonzaga",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-    "colors": [
-      "#041E42",
-      "#C8102E"
-    ],
-    "player": "Adam Morrison",
-    "playerAliases": [
-      "adam morrison"
-    ],
-    "statLine": "28.1 PPG"
-  },
-  {
-    "year": 2007,
-    "school": "VMI Keydets",
-    "abbr": "VMI",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
-    "colors": [
-      "#AE122A",
-      "#FFD619"
-    ],
-    "player": "Reggie Williams",
-    "playerAliases": [
-      "reggie williams"
-    ],
-    "statLine": "28.1 PPG"
-  },
-  {
-    "year": 2008,
-    "school": "VMI Keydets",
-    "abbr": "VMI",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
-    "colors": [
-      "#AE122A",
-      "#FFD619"
-    ],
-    "player": "Reggie Williams",
-    "playerAliases": [
-      "reggie williams"
-    ],
-    "statLine": "27.8 PPG"
-  },
-  {
-    "year": 2009,
-    "school": "Davidson Wildcats",
-    "abbr": "Davidson",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
-    "colors": [
-      "#000000",
-      "#E51837"
-    ],
-    "player": "Stephen Curry",
-    "playerAliases": [
-      "stephen curry"
-    ],
-    "statLine": "28.6 PPG"
-  },
-  {
-    "year": 2010,
-    "school": "Houston Cougars",
-    "abbr": "Houston",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
-    "colors": [
-      "#C8102E",
-      "#FFFFFF"
-    ],
-    "player": "Aubrey Coleman",
-    "playerAliases": [
-      "aubrey coleman"
-    ],
-    "statLine": "25.6 PPG"
-  },
-  {
-    "year": 2011,
-    "school": "BYU Cougars",
-    "abbr": "BYU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-    "colors": [
-      "#0047BA",
-      "#002E5D"
-    ],
-    "player": "Jimmer Fredette",
-    "playerAliases": [
-      "jimmer fredette"
-    ],
-    "statLine": "28.9 PPG"
-  },
-  {
-    "year": 2012,
-    "school": "Oakland Golden Grizzlies",
-    "abbr": "Oakland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
-    "colors": [
-      "#04091C",
-      "#BC955C"
-    ],
-    "player": "Reggie Hamilton",
-    "playerAliases": [
-      "reggie hamilton"
-    ],
-    "statLine": "26.2 PPG"
-  },
-  {
-    "year": 2013,
-    "school": "Virginia Tech Hokies",
-    "abbr": "Virginia Tech",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
-    "colors": [
-      "#6A2C3E",
-      "#CF4520"
-    ],
-    "player": "Erick Green",
-    "playerAliases": [
-      "erick green"
-    ],
-    "statLine": "25.0 PPG"
-  },
-  {
-    "year": 2014,
-    "school": "Creighton Bluejays",
-    "abbr": "Creighton",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
-    "colors": [
-      "#005CA9",
-      "#6CADDE"
-    ],
-    "player": "Doug McDermott",
-    "playerAliases": [
-      "doug mcdermott"
-    ],
-    "statLine": "26.7 PPG"
-  },
-  {
-    "year": 2015,
-    "school": "Eastern Washington Eagles",
-    "abbr": "E Washington",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
-    "colors": [
-      "#A10022",
-      "#ABB4BC"
-    ],
-    "player": "Tyler Harvey",
-    "playerAliases": [
-      "tyler harvey"
-    ],
-    "statLine": "23.1 PPG"
-  },
-  {
-    "year": 2016,
-    "school": "Howard Bison",
-    "abbr": "Howard",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
-    "colors": [
-      "#003A63",
-      "#E51937"
-    ],
-    "player": "James Daniel",
-    "playerAliases": [
-      "james daniel"
-    ],
-    "statLine": "27.1 PPG"
-  },
-  {
-    "year": 2017,
-    "school": "Central Michigan Chippewas",
-    "abbr": "C Michigan",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
-    "colors": [
-      "#4C0027",
-      "#FBAB18"
-    ],
-    "player": "Marcus Keene",
-    "playerAliases": [
-      "marcus keene"
-    ],
-    "statLine": "30.0 PPG"
-  },
-  {
-    "year": 2018,
-    "school": "Oklahoma Sooners",
-    "abbr": "Oklahoma",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
-    "colors": [
-      "#990000",
-      "#FFFFFF"
-    ],
-    "player": "Trae Young",
-    "playerAliases": [
-      "trae young"
-    ],
-    "statLine": "27.4 PPG"
-  },
-  {
-    "year": 2019,
-    "school": "Campbell Fighting Camels",
-    "abbr": "Campbell",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
-    "colors": [
-      "#000000",
-      "#FFFFFF"
-    ],
-    "player": "Chris Clemons",
-    "playerAliases": [
-      "chris clemons"
-    ],
-    "statLine": "30.1 PPG"
-  },
-  {
-    "year": 2020,
-    "school": "Marquette Golden Eagles",
-    "abbr": "Marquette",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
-    "colors": [
-      "#003366",
-      "#FFCC00"
-    ],
-    "player": "Markus Howard",
-    "playerAliases": [
-      "markus howard"
-    ],
-    "statLine": "27.8 PPG"
-  },
-  {
-    "year": 2021,
-    "school": "Oral Roberts Golden Eagles",
-    "abbr": "Oral Roberts",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/198.png",
-    "colors": [
-      "#002462",
-      "#DAC792"
-    ],
-    "player": "Max Abmas",
-    "playerAliases": [
-      "max abmas"
-    ],
-    "statLine": "24.5 PPG"
-  },
-  {
-    "year": 2022,
-    "school": "Bryant Bulldogs",
-    "abbr": "Bryant",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png",
-    "colors": [
-      "#000000",
-      "#9F8343"
-    ],
-    "player": "Peter Kiss",
-    "playerAliases": [
-      "peter kiss"
+      "zach edey"
     ],
     "statLine": "25.2 PPG"
   },
@@ -420,33 +45,408 @@
     "statLine": "28.2 PPG"
   },
   {
-    "year": 2024,
-    "school": "Purdue Boilermakers",
-    "abbr": "Purdue",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "year": 2022,
+    "school": "Bryant Bulldogs",
+    "abbr": "Bryant",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png",
     "colors": [
-      "#CEB888",
-      "#000000"
+      "#000000",
+      "#9F8343"
     ],
-    "player": "Zach Edey",
+    "player": "Peter Kiss",
     "playerAliases": [
-      "zach edey"
+      "peter kiss"
     ],
     "statLine": "25.2 PPG"
   },
   {
-    "year": 2025,
-    "school": "Villanova Wildcats",
-    "abbr": "Villanova",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+    "year": 2021,
+    "school": "Oral Roberts Golden Eagles",
+    "abbr": "Oral Roberts",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/198.png",
     "colors": [
-      "#00205B",
-      "#13B5EA"
+      "#002462",
+      "#DAC792"
     ],
-    "player": "Eric Dixon",
+    "player": "Max Abmas",
     "playerAliases": [
-      "eric dixon"
+      "max abmas"
     ],
-    "statLine": "23.3 PPG"
+    "statLine": "24.5 PPG"
+  },
+  {
+    "year": 2020,
+    "school": "Marquette Golden Eagles",
+    "abbr": "Marquette",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/269.png",
+    "colors": [
+      "#003366",
+      "#FFCC00"
+    ],
+    "player": "Markus Howard",
+    "playerAliases": [
+      "markus howard"
+    ],
+    "statLine": "27.8 PPG"
+  },
+  {
+    "year": 2019,
+    "school": "Campbell Fighting Camels",
+    "abbr": "Campbell",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "player": "Chris Clemons",
+    "playerAliases": [
+      "chris clemons"
+    ],
+    "statLine": "30.1 PPG"
+  },
+  {
+    "year": 2018,
+    "school": "Oklahoma Sooners",
+    "abbr": "Oklahoma",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+    "colors": [
+      "#990000",
+      "#FFFFFF"
+    ],
+    "player": "Trae Young",
+    "playerAliases": [
+      "trae young"
+    ],
+    "statLine": "27.4 PPG"
+  },
+  {
+    "year": 2017,
+    "school": "Central Michigan Chippewas",
+    "abbr": "C Michigan",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
+    "colors": [
+      "#4C0027",
+      "#FBAB18"
+    ],
+    "player": "Marcus Keene",
+    "playerAliases": [
+      "marcus keene"
+    ],
+    "statLine": "30.0 PPG"
+  },
+  {
+    "year": 2016,
+    "school": "Howard Bison",
+    "abbr": "Howard",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
+    "colors": [
+      "#003A63",
+      "#E51937"
+    ],
+    "player": "James Daniel",
+    "playerAliases": [
+      "james daniel"
+    ],
+    "statLine": "27.1 PPG"
+  },
+  {
+    "year": 2015,
+    "school": "Eastern Washington Eagles",
+    "abbr": "E Washington",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/331.png",
+    "colors": [
+      "#A10022",
+      "#ABB4BC"
+    ],
+    "player": "Tyler Harvey",
+    "playerAliases": [
+      "tyler harvey"
+    ],
+    "statLine": "23.1 PPG"
+  },
+  {
+    "year": 2014,
+    "school": "Creighton Bluejays",
+    "abbr": "Creighton",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/156.png",
+    "colors": [
+      "#005CA9",
+      "#6CADDE"
+    ],
+    "player": "Doug McDermott",
+    "playerAliases": [
+      "doug mcdermott"
+    ],
+    "statLine": "26.7 PPG"
+  },
+  {
+    "year": 2013,
+    "school": "Virginia Tech Hokies",
+    "abbr": "Virginia Tech",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
+    "colors": [
+      "#6A2C3E",
+      "#CF4520"
+    ],
+    "player": "Erick Green",
+    "playerAliases": [
+      "erick green"
+    ],
+    "statLine": "25.0 PPG"
+  },
+  {
+    "year": 2012,
+    "school": "Oakland Golden Grizzlies",
+    "abbr": "Oakland",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+    "colors": [
+      "#04091C",
+      "#BC955C"
+    ],
+    "player": "Reggie Hamilton",
+    "playerAliases": [
+      "reggie hamilton"
+    ],
+    "statLine": "26.2 PPG"
+  },
+  {
+    "year": 2011,
+    "school": "BYU Cougars",
+    "abbr": "BYU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "colors": [
+      "#0047BA",
+      "#002E5D"
+    ],
+    "player": "Jimmer Fredette",
+    "playerAliases": [
+      "jimmer fredette"
+    ],
+    "statLine": "28.9 PPG"
+  },
+  {
+    "year": 2010,
+    "school": "Houston Cougars",
+    "abbr": "Houston",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "colors": [
+      "#C8102E",
+      "#FFFFFF"
+    ],
+    "player": "Aubrey Coleman",
+    "playerAliases": [
+      "aubrey coleman"
+    ],
+    "statLine": "25.6 PPG"
+  },
+  {
+    "year": 2009,
+    "school": "Davidson Wildcats",
+    "abbr": "Davidson",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+    "colors": [
+      "#000000",
+      "#E51837"
+    ],
+    "player": "Stephen Curry",
+    "playerAliases": [
+      "stephen curry"
+    ],
+    "statLine": "28.6 PPG"
+  },
+  {
+    "year": 2008,
+    "school": "VMI Keydets",
+    "abbr": "VMI",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "colors": [
+      "#AE122A",
+      "#FFD619"
+    ],
+    "player": "Reggie Williams",
+    "playerAliases": [
+      "reggie williams"
+    ],
+    "statLine": "27.8 PPG"
+  },
+  {
+    "year": 2007,
+    "school": "VMI Keydets",
+    "abbr": "VMI",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "colors": [
+      "#AE122A",
+      "#FFD619"
+    ],
+    "player": "Reggie Williams",
+    "playerAliases": [
+      "reggie williams"
+    ],
+    "statLine": "28.1 PPG"
+  },
+  {
+    "year": 2006,
+    "school": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "player": "Adam Morrison",
+    "playerAliases": [
+      "adam morrison"
+    ],
+    "statLine": "28.1 PPG"
+  },
+  {
+    "year": 2005,
+    "school": "Saint Peter's Peacocks",
+    "abbr": "Saint Peter's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
+    "colors": [
+      "#004CC2",
+      "#FFFFFF"
+    ],
+    "player": "Keydren Clark",
+    "playerAliases": [
+      "keydren clark"
+    ],
+    "statLine": "25.8 PPG"
+  },
+  {
+    "year": 2004,
+    "school": "Saint Peter's Peacocks",
+    "abbr": "Saint Peter's",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2612.png",
+    "colors": [
+      "#004CC2",
+      "#FFFFFF"
+    ],
+    "player": "Keydren Clark",
+    "playerAliases": [
+      "keydren clark"
+    ],
+    "statLine": "26.7 PPG"
+  },
+  {
+    "year": 2003,
+    "school": "New Mexico Lobos",
+    "abbr": "New Mexico",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/167.png",
+    "colors": [
+      "#BA0C2F",
+      "#A7A8AA"
+    ],
+    "player": "Ruben Douglas",
+    "playerAliases": [
+      "ruben douglas"
+    ],
+    "statLine": "28.0 PPG"
+  },
+  {
+    "year": 2002,
+    "school": "VMI Keydets",
+    "abbr": "VMI",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "colors": [
+      "#AE122A",
+      "#FFD619"
+    ],
+    "player": "Jason Conley",
+    "playerAliases": [
+      "jason conley"
+    ],
+    "statLine": "29.3 PPG"
+  },
+  {
+    "year": 2001,
+    "school": "Long Island University Sharks",
+    "abbr": "Long Island",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "colors": [
+      "#50C9F7",
+      "#FFBF00"
+    ],
+    "player": "Ronnie McCollum",
+    "playerAliases": [
+      "ronnie mccollum"
+    ],
+    "statLine": "29.1 PPG"
+  },
+  {
+    "year": 2000,
+    "school": "Fresno State Bulldogs",
+    "abbr": "Fresno St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "colors": [
+      "#B1102B",
+      "#13284C"
+    ],
+    "player": "Courtney Alexander",
+    "playerAliases": [
+      "courtney alexander"
+    ],
+    "statLine": "24.8 PPG"
+  },
+  {
+    "year": 1999,
+    "school": "Niagara Purple Eagles",
+    "abbr": "Niagara",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/315.png",
+    "colors": [
+      "#69207E",
+      "#F0F0F0"
+    ],
+    "player": "Alvin Young",
+    "playerAliases": [
+      "alvin young"
+    ],
+    "statLine": "25.1 PPG"
+  },
+  {
+    "year": 1998,
+    "school": "Long Island University Sharks",
+    "abbr": "Long Island",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "colors": [
+      "#50C9F7",
+      "#FFBF00"
+    ],
+    "player": "Charles Jones",
+    "playerAliases": [
+      "charles jones"
+    ],
+    "statLine": "29.0 PPG"
+  },
+  {
+    "year": 1997,
+    "school": "Long Island University Sharks",
+    "abbr": "Long Island",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png",
+    "colors": [
+      "#50C9F7",
+      "#FFBF00"
+    ],
+    "player": "Charles Jones",
+    "playerAliases": [
+      "charles jones"
+    ],
+    "statLine": "30.1 PPG"
+  },
+  {
+    "year": 1996,
+    "school": "Texas Southern Tigers",
+    "abbr": "Texas Southern",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png",
+    "colors": [
+      "#860038",
+      "#FFFFFF"
+    ],
+    "player": "Kevin Granger",
+    "playerAliases": [
+      "kevin granger"
+    ],
+    "statLine": "27.0 PPG"
   }
 ]

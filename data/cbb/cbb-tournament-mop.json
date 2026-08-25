@@ -1,146 +1,6 @@
 [
   {
-    "year": 1996,
-    "school": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
-      "#FFFFFF"
-    ],
-    "player": "Tony Delk",
-    "playerAliases": [
-      "tony delk"
-    ]
-  },
-  {
-    "year": 1997,
-    "school": "Arizona Wildcats",
-    "abbr": "Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-    "colors": [
-      "#CC0033",
-      "#003366"
-    ],
-    "player": "Miles Simon",
-    "playerAliases": [
-      "miles simon"
-    ]
-  },
-  {
-    "year": 1998,
-    "school": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
-      "#FFFFFF"
-    ],
-    "player": "Jeffrey Sheppard",
-    "playerAliases": [
-      "jeffrey sheppard"
-    ]
-  },
-  {
-    "year": 1999,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Richard Hamilton",
-    "playerAliases": [
-      "richard hamilton"
-    ]
-  },
-  {
-    "year": 2000,
-    "school": "Michigan State Spartans",
-    "abbr": "Michigan St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-    "colors": [
-      "#173F35",
-      "#FFFFFF"
-    ],
-    "player": "Mateen Cleaves",
-    "playerAliases": [
-      "mateen cleaves"
-    ]
-  },
-  {
-    "year": 2001,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Shane Battier",
-    "playerAliases": [
-      "shane battier"
-    ]
-  },
-  {
-    "year": 2002,
-    "school": "Maryland Terrapins",
-    "abbr": "Maryland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-    "colors": [
-      "#CE1126",
-      "#FFFFFF"
-    ],
-    "player": "Juan Dixon",
-    "playerAliases": [
-      "juan dixon"
-    ]
-  },
-  {
-    "year": 2003,
-    "school": "Syracuse Orange",
-    "abbr": "Syracuse",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
-    "colors": [
-      "#000E54",
-      "#FF431B"
-    ],
-    "player": "Carmelo Anthony",
-    "playerAliases": [
-      "carmelo anthony"
-    ]
-  },
-  {
-    "year": 2004,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Emeka Okafor",
-    "playerAliases": [
-      "emeka okafor"
-    ]
-  },
-  {
-    "year": 2005,
-    "school": "North Carolina Tar Heels",
-    "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-    "colors": [
-      "#7BAFD4",
-      "#13294B"
-    ],
-    "player": "Sean May",
-    "playerAliases": [
-      "sean may"
-    ]
-  },
-  {
-    "year": 2006,
+    "year": 2025,
     "school": "Florida Gators",
     "abbr": "Florida",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
@@ -148,238 +8,9 @@
       "#0021A5",
       "#FA4616"
     ],
-    "player": "Joakim Noah",
+    "player": "Walter Clayton Jr.",
     "playerAliases": [
-      "joakim noah"
-    ]
-  },
-  {
-    "year": 2007,
-    "school": "Florida Gators",
-    "abbr": "Florida",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-    "colors": [
-      "#0021A5",
-      "#FA4616"
-    ],
-    "player": "Corey Brewer",
-    "playerAliases": [
-      "corey brewer"
-    ]
-  },
-  {
-    "year": 2008,
-    "school": "Kansas Jayhawks",
-    "abbr": "Kansas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-    "colors": [
-      "#0051BA",
-      "#E8000D"
-    ],
-    "player": "Mario Chalmers",
-    "playerAliases": [
-      "mario chalmers"
-    ]
-  },
-  {
-    "year": 2009,
-    "school": "North Carolina Tar Heels",
-    "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-    "colors": [
-      "#7BAFD4",
-      "#13294B"
-    ],
-    "player": "Wayne Ellington",
-    "playerAliases": [
-      "wayne ellington"
-    ]
-  },
-  {
-    "year": 2010,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Kyle Singler",
-    "playerAliases": [
-      "kyle singler"
-    ]
-  },
-  {
-    "year": 2011,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Kemba Walker",
-    "playerAliases": [
-      "kemba walker"
-    ]
-  },
-  {
-    "year": 2012,
-    "school": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
-      "#FFFFFF"
-    ],
-    "player": "Anthony Davis",
-    "playerAliases": [
-      "anthony davis"
-    ]
-  },
-  {
-    "year": 2013,
-    "school": "Louisville Cardinals",
-    "abbr": "Louisville",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-    "colors": [
-      "#C9001F",
-      "#FFFFFF"
-    ],
-    "player": "Luke Hancock",
-    "playerAliases": [
-      "luke hancock"
-    ]
-  },
-  {
-    "year": 2014,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Shabazz Napier",
-    "playerAliases": [
-      "shabazz napier"
-    ]
-  },
-  {
-    "year": 2015,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Tyus Jones",
-    "playerAliases": [
-      "tyus jones"
-    ]
-  },
-  {
-    "year": 2016,
-    "school": "Villanova Wildcats",
-    "abbr": "Villanova",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
-    "colors": [
-      "#00205B",
-      "#13B5EA"
-    ],
-    "player": "Ryan Arcidiacono",
-    "playerAliases": [
-      "ryan arcidiacono"
-    ]
-  },
-  {
-    "year": 2017,
-    "school": "North Carolina Tar Heels",
-    "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-    "colors": [
-      "#7BAFD4",
-      "#13294B"
-    ],
-    "player": "Joel Berry",
-    "playerAliases": [
-      "joel berry"
-    ]
-  },
-  {
-    "year": 2018,
-    "school": "Villanova Wildcats",
-    "abbr": "Villanova",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
-    "colors": [
-      "#00205B",
-      "#13B5EA"
-    ],
-    "player": "Donte DiVincenzo",
-    "playerAliases": [
-      "donte divincenzo"
-    ]
-  },
-  {
-    "year": 2019,
-    "school": "Virginia Cavaliers",
-    "abbr": "Virginia",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
-    "colors": [
-      "#232D4B",
-      "#F84C1E"
-    ],
-    "player": "Kyle Guy",
-    "playerAliases": [
-      "kyle guy"
-    ]
-  },
-  {
-    "year": 2020,
-    "invalid": true,
-    "reason": "Tournament not held (2020 COVID-19 cancellation)"
-  },
-  {
-    "year": 2021,
-    "school": "Baylor Bears",
-    "abbr": "Baylor",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
-    "colors": [
-      "#154734",
-      "#FFB81C"
-    ],
-    "player": "Jared Butler",
-    "playerAliases": [
-      "jared butler"
-    ]
-  },
-  {
-    "year": 2022,
-    "school": "Kansas Jayhawks",
-    "abbr": "Kansas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-    "colors": [
-      "#0051BA",
-      "#E8000D"
-    ],
-    "player": "Ochai Agbaji",
-    "playerAliases": [
-      "ochai agbaji"
-    ]
-  },
-  {
-    "year": 2023,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Adama Sanogo",
-    "playerAliases": [
-      "adama sanogo"
+      "walter clayton jr."
     ]
   },
   {
@@ -397,7 +28,222 @@
     ]
   },
   {
-    "year": 2025,
+    "year": 2023,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Adama Sanogo",
+    "playerAliases": [
+      "adama sanogo"
+    ]
+  },
+  {
+    "year": 2022,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Ochai Agbaji",
+    "playerAliases": [
+      "ochai agbaji"
+    ]
+  },
+  {
+    "year": 2021,
+    "school": "Baylor Bears",
+    "abbr": "Baylor",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+    "colors": [
+      "#154734",
+      "#FFB81C"
+    ],
+    "player": "Jared Butler",
+    "playerAliases": [
+      "jared butler"
+    ]
+  },
+  {
+    "year": 2020,
+    "invalid": true,
+    "reason": "Tournament not held (2020 COVID-19 cancellation)"
+  },
+  {
+    "year": 2019,
+    "school": "Virginia Cavaliers",
+    "abbr": "Virginia",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+    "colors": [
+      "#232D4B",
+      "#F84C1E"
+    ],
+    "player": "Kyle Guy",
+    "playerAliases": [
+      "kyle guy"
+    ]
+  },
+  {
+    "year": 2018,
+    "school": "Villanova Wildcats",
+    "abbr": "Villanova",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+    "colors": [
+      "#00205B",
+      "#13B5EA"
+    ],
+    "player": "Donte DiVincenzo",
+    "playerAliases": [
+      "donte divincenzo"
+    ]
+  },
+  {
+    "year": 2017,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Joel Berry",
+    "playerAliases": [
+      "joel berry"
+    ]
+  },
+  {
+    "year": 2016,
+    "school": "Villanova Wildcats",
+    "abbr": "Villanova",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+    "colors": [
+      "#00205B",
+      "#13B5EA"
+    ],
+    "player": "Ryan Arcidiacono",
+    "playerAliases": [
+      "ryan arcidiacono"
+    ]
+  },
+  {
+    "year": 2015,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Tyus Jones",
+    "playerAliases": [
+      "tyus jones"
+    ]
+  },
+  {
+    "year": 2014,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Shabazz Napier",
+    "playerAliases": [
+      "shabazz napier"
+    ]
+  },
+  {
+    "year": 2013,
+    "school": "Louisville Cardinals",
+    "abbr": "Louisville",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+    "colors": [
+      "#C9001F",
+      "#FFFFFF"
+    ],
+    "player": "Luke Hancock",
+    "playerAliases": [
+      "luke hancock"
+    ]
+  },
+  {
+    "year": 2012,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Anthony Davis",
+    "playerAliases": [
+      "anthony davis"
+    ]
+  },
+  {
+    "year": 2011,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Kemba Walker",
+    "playerAliases": [
+      "kemba walker"
+    ]
+  },
+  {
+    "year": 2010,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Kyle Singler",
+    "playerAliases": [
+      "kyle singler"
+    ]
+  },
+  {
+    "year": 2009,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Wayne Ellington",
+    "playerAliases": [
+      "wayne ellington"
+    ]
+  },
+  {
+    "year": 2008,
+    "school": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Mario Chalmers",
+    "playerAliases": [
+      "mario chalmers"
+    ]
+  },
+  {
+    "year": 2007,
     "school": "Florida Gators",
     "abbr": "Florida",
     "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
@@ -405,9 +251,163 @@
       "#0021A5",
       "#FA4616"
     ],
-    "player": "Walter Clayton Jr.",
+    "player": "Corey Brewer",
     "playerAliases": [
-      "walter clayton jr."
+      "corey brewer"
+    ]
+  },
+  {
+    "year": 2006,
+    "school": "Florida Gators",
+    "abbr": "Florida",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "colors": [
+      "#0021A5",
+      "#FA4616"
+    ],
+    "player": "Joakim Noah",
+    "playerAliases": [
+      "joakim noah"
+    ]
+  },
+  {
+    "year": 2005,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Sean May",
+    "playerAliases": [
+      "sean may"
+    ]
+  },
+  {
+    "year": 2004,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Emeka Okafor",
+    "playerAliases": [
+      "emeka okafor"
+    ]
+  },
+  {
+    "year": 2003,
+    "school": "Syracuse Orange",
+    "abbr": "Syracuse",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "colors": [
+      "#000E54",
+      "#FF431B"
+    ],
+    "player": "Carmelo Anthony",
+    "playerAliases": [
+      "carmelo anthony"
+    ]
+  },
+  {
+    "year": 2002,
+    "school": "Maryland Terrapins",
+    "abbr": "Maryland",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "player": "Juan Dixon",
+    "playerAliases": [
+      "juan dixon"
+    ]
+  },
+  {
+    "year": 2001,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Shane Battier",
+    "playerAliases": [
+      "shane battier"
+    ]
+  },
+  {
+    "year": 2000,
+    "school": "Michigan State Spartans",
+    "abbr": "Michigan St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "colors": [
+      "#173F35",
+      "#FFFFFF"
+    ],
+    "player": "Mateen Cleaves",
+    "playerAliases": [
+      "mateen cleaves"
+    ]
+  },
+  {
+    "year": 1999,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Richard Hamilton",
+    "playerAliases": [
+      "richard hamilton"
+    ]
+  },
+  {
+    "year": 1998,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Jeffrey Sheppard",
+    "playerAliases": [
+      "jeffrey sheppard"
+    ]
+  },
+  {
+    "year": 1997,
+    "school": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Miles Simon",
+    "playerAliases": [
+      "miles simon"
+    ]
+  },
+  {
+    "year": 1996,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Tony Delk",
+    "playerAliases": [
+      "tony delk"
     ]
   }
 ]

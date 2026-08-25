@@ -1,272 +1,12 @@
 [
   {
-    "year": 1996,
-    "team": "Syracuse Orange",
-    "abbr": "Syracuse",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "year": 2025,
+    "team": "Houston Cougars",
+    "abbr": "Houston",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
     "colors": [
-      "#000E54",
-      "#FF431B"
-    ],
-    "opponent": {
-      "team": "Kentucky Wildcats",
-      "abbr": "Kentucky",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-      "colors": [
-        "#0033A0",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Syracuse Orange",
-    "playerAliases": [
-      "syracuse orange",
-      "syracuse",
-      "orange"
-    ],
-    "statLine": "Lost 67-76"
-  },
-  {
-    "year": 1997,
-    "team": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
+      "#C8102E",
       "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "Arizona Wildcats",
-      "abbr": "Arizona",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-      "colors": [
-        "#CC0033",
-        "#003366"
-      ]
-    },
-    "player": "Kentucky Wildcats",
-    "playerAliases": [
-      "kentucky wildcats",
-      "kentucky",
-      "wildcats"
-    ],
-    "statLine": "Lost 79-84"
-  },
-  {
-    "year": 1998,
-    "team": "Utah Utes",
-    "abbr": "Utah",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "colors": [
-      "#BE0000",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "Kentucky Wildcats",
-      "abbr": "Kentucky",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-      "colors": [
-        "#0033A0",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Utah Utes",
-    "playerAliases": [
-      "utah utes",
-      "utah",
-      "utes"
-    ],
-    "statLine": "Lost 69-78"
-  },
-  {
-    "year": 1999,
-    "team": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "UConn Huskies",
-      "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-      "colors": [
-        "#0C2340",
-        "#A2AAAD"
-      ]
-    },
-    "player": "Duke Blue Devils",
-    "playerAliases": [
-      "duke blue devils",
-      "duke",
-      "blue devils"
-    ],
-    "statLine": "Lost 74-77"
-  },
-  {
-    "year": 2000,
-    "team": "Florida Gators",
-    "abbr": "Florida",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-    "colors": [
-      "#0021A5",
-      "#FA4616"
-    ],
-    "opponent": {
-      "team": "Michigan State Spartans",
-      "abbr": "Michigan St",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-      "colors": [
-        "#173F35",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Florida Gators",
-    "playerAliases": [
-      "florida gators",
-      "florida",
-      "gators"
-    ],
-    "statLine": "Lost 76-89"
-  },
-  {
-    "year": 2001,
-    "team": "Arizona Wildcats",
-    "abbr": "Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-    "colors": [
-      "#CC0033",
-      "#003366"
-    ],
-    "opponent": {
-      "team": "Duke Blue Devils",
-      "abbr": "Duke",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-      "colors": [
-        "#00539B",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Arizona Wildcats",
-    "playerAliases": [
-      "arizona wildcats",
-      "arizona",
-      "wildcats"
-    ],
-    "statLine": "Lost 72-82"
-  },
-  {
-    "year": 2002,
-    "team": "Indiana Hoosiers",
-    "abbr": "Indiana",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-    "colors": [
-      "#970310",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "Maryland Terrapins",
-      "abbr": "Maryland",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-      "colors": [
-        "#CE1126",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Indiana Hoosiers",
-    "playerAliases": [
-      "indiana hoosiers",
-      "indiana",
-      "hoosiers"
-    ],
-    "statLine": "Lost 52-64"
-  },
-  {
-    "year": 2003,
-    "team": "Kansas Jayhawks",
-    "abbr": "Kansas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-    "colors": [
-      "#0051BA",
-      "#E8000D"
-    ],
-    "opponent": {
-      "team": "Syracuse Orange",
-      "abbr": "Syracuse",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
-      "colors": [
-        "#000E54",
-        "#FF431B"
-      ]
-    },
-    "player": "Kansas Jayhawks",
-    "playerAliases": [
-      "kansas jayhawks",
-      "kansas",
-      "jayhawks"
-    ],
-    "statLine": "Lost 78-81"
-  },
-  {
-    "year": 2004,
-    "team": "Georgia Tech Yellow Jackets",
-    "abbr": "Georgia Tech",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
-    "colors": [
-      "#B3A369",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "UConn Huskies",
-      "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-      "colors": [
-        "#0C2340",
-        "#A2AAAD"
-      ]
-    },
-    "player": "Georgia Tech Yellow Jackets",
-    "playerAliases": [
-      "georgia tech yellow jackets",
-      "georgia tech",
-      "yellow jackets"
-    ],
-    "statLine": "Lost 73-82"
-  },
-  {
-    "year": 2005,
-    "team": "Illinois Fighting Illini",
-    "abbr": "Illinois",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
-    "colors": [
-      "#FF5F05",
-      "#13294B"
-    ],
-    "opponent": {
-      "team": "North Carolina Tar Heels",
-      "abbr": "North Carolina",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-      "colors": [
-        "#7BAFD4",
-        "#13294B"
-      ]
-    },
-    "player": "Illinois Fighting Illini",
-    "playerAliases": [
-      "illinois fighting illini",
-      "illinois",
-      "fighting illini"
-    ],
-    "statLine": "Lost 70-75"
-  },
-  {
-    "year": 2006,
-    "team": "UCLA Bruins",
-    "abbr": "UCLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-    "colors": [
-      "#2774AE",
-      "#F2A900"
     ],
     "opponent": {
       "team": "Florida Gators",
@@ -277,434 +17,13 @@
         "#FA4616"
       ]
     },
-    "player": "UCLA Bruins",
+    "player": "Houston Cougars",
     "playerAliases": [
-      "ucla bruins",
-      "ucla",
-      "bruins"
+      "houston cougars",
+      "houston",
+      "cougars"
     ],
-    "statLine": "Lost 57-73"
-  },
-  {
-    "year": 2007,
-    "team": "Ohio State Buckeyes",
-    "abbr": "Ohio State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-    "colors": [
-      "#BA0C2F",
-      "#A8ADB4"
-    ],
-    "opponent": {
-      "team": "Florida Gators",
-      "abbr": "Florida",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
-      "colors": [
-        "#0021A5",
-        "#FA4616"
-      ]
-    },
-    "player": "Ohio State Buckeyes",
-    "playerAliases": [
-      "ohio state buckeyes",
-      "ohio state",
-      "buckeyes"
-    ],
-    "statLine": "Lost 75-84"
-  },
-  {
-    "year": 2008,
-    "team": "Memphis Tigers",
-    "abbr": "Memphis",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
-    "colors": [
-      "#004991",
-      "#8E908F"
-    ],
-    "opponent": {
-      "team": "Kansas Jayhawks",
-      "abbr": "Kansas",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-      "colors": [
-        "#0051BA",
-        "#E8000D"
-      ]
-    },
-    "player": "Memphis Tigers",
-    "playerAliases": [
-      "memphis tigers",
-      "memphis",
-      "tigers"
-    ],
-    "statLine": "Lost 68-75"
-  },
-  {
-    "year": 2009,
-    "team": "Michigan State Spartans",
-    "abbr": "Michigan St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
-    "colors": [
-      "#173F35",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "North Carolina Tar Heels",
-      "abbr": "North Carolina",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-      "colors": [
-        "#7BAFD4",
-        "#13294B"
-      ]
-    },
-    "player": "Michigan State Spartans",
-    "playerAliases": [
-      "michigan state spartans",
-      "michigan st",
-      "spartans"
-    ],
-    "statLine": "Lost 72-89"
-  },
-  {
-    "year": 2010,
-    "team": "Butler Bulldogs",
-    "abbr": "Butler",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
-    "colors": [
-      "#0D1361",
-      "#00A3E0"
-    ],
-    "opponent": {
-      "team": "Duke Blue Devils",
-      "abbr": "Duke",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-      "colors": [
-        "#00539B",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Butler Bulldogs",
-    "playerAliases": [
-      "butler bulldogs",
-      "butler",
-      "bulldogs"
-    ],
-    "statLine": "Lost 59-61"
-  },
-  {
-    "year": 2011,
-    "team": "Butler Bulldogs",
-    "abbr": "Butler",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
-    "colors": [
-      "#0D1361",
-      "#00A3E0"
-    ],
-    "opponent": {
-      "team": "UConn Huskies",
-      "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-      "colors": [
-        "#0C2340",
-        "#A2AAAD"
-      ]
-    },
-    "player": "Butler Bulldogs",
-    "playerAliases": [
-      "butler bulldogs",
-      "butler",
-      "bulldogs"
-    ],
-    "statLine": "Lost 41-53"
-  },
-  {
-    "year": 2012,
-    "team": "Kansas Jayhawks",
-    "abbr": "Kansas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-    "colors": [
-      "#0051BA",
-      "#E8000D"
-    ],
-    "opponent": {
-      "team": "Kentucky Wildcats",
-      "abbr": "Kentucky",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-      "colors": [
-        "#0033A0",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Kansas Jayhawks",
-    "playerAliases": [
-      "kansas jayhawks",
-      "kansas",
-      "jayhawks"
-    ],
-    "statLine": "Lost 59-67"
-  },
-  {
-    "year": 2013,
-    "team": "Michigan Wolverines",
-    "abbr": "Michigan",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-    "colors": [
-      "#00274C",
-      "#FFCB05"
-    ],
-    "opponent": {
-      "team": "Louisville Cardinals",
-      "abbr": "Louisville",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
-      "colors": [
-        "#C9001F",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Michigan Wolverines",
-    "playerAliases": [
-      "michigan wolverines",
-      "michigan",
-      "wolverines"
-    ],
-    "statLine": "Lost 76-82"
-  },
-  {
-    "year": 2014,
-    "team": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "UConn Huskies",
-      "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-      "colors": [
-        "#0C2340",
-        "#A2AAAD"
-      ]
-    },
-    "player": "Kentucky Wildcats",
-    "playerAliases": [
-      "kentucky wildcats",
-      "kentucky",
-      "wildcats"
-    ],
-    "statLine": "Lost 54-60"
-  },
-  {
-    "year": 2015,
-    "team": "Wisconsin Badgers",
-    "abbr": "Wisconsin",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
-    "colors": [
-      "#A00000",
-      "#FFFFFF"
-    ],
-    "opponent": {
-      "team": "Duke Blue Devils",
-      "abbr": "Duke",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-      "colors": [
-        "#00539B",
-        "#FFFFFF"
-      ]
-    },
-    "player": "Wisconsin Badgers",
-    "playerAliases": [
-      "wisconsin badgers",
-      "wisconsin",
-      "badgers"
-    ],
-    "statLine": "Lost 63-68"
-  },
-  {
-    "year": 2016,
-    "team": "North Carolina Tar Heels",
-    "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-    "colors": [
-      "#7BAFD4",
-      "#13294B"
-    ],
-    "opponent": {
-      "team": "Villanova Wildcats",
-      "abbr": "Villanova",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
-      "colors": [
-        "#00205B",
-        "#13B5EA"
-      ]
-    },
-    "player": "North Carolina Tar Heels",
-    "playerAliases": [
-      "north carolina tar heels",
-      "north carolina",
-      "tar heels"
-    ],
-    "statLine": "Lost 74-77"
-  },
-  {
-    "year": 2017,
-    "team": "Gonzaga Bulldogs",
-    "abbr": "Gonzaga",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-    "colors": [
-      "#041E42",
-      "#C8102E"
-    ],
-    "opponent": {
-      "team": "North Carolina Tar Heels",
-      "abbr": "North Carolina",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-      "colors": [
-        "#7BAFD4",
-        "#13294B"
-      ]
-    },
-    "player": "Gonzaga Bulldogs",
-    "playerAliases": [
-      "gonzaga bulldogs",
-      "gonzaga",
-      "bulldogs"
-    ],
-    "statLine": "Lost 65-71"
-  },
-  {
-    "year": 2018,
-    "team": "Michigan Wolverines",
-    "abbr": "Michigan",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-    "colors": [
-      "#00274C",
-      "#FFCB05"
-    ],
-    "opponent": {
-      "team": "Villanova Wildcats",
-      "abbr": "Villanova",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
-      "colors": [
-        "#00205B",
-        "#13B5EA"
-      ]
-    },
-    "player": "Michigan Wolverines",
-    "playerAliases": [
-      "michigan wolverines",
-      "michigan",
-      "wolverines"
-    ],
-    "statLine": "Lost 62-79"
-  },
-  {
-    "year": 2019,
-    "team": "Texas Tech Red Raiders",
-    "abbr": "Texas Tech",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
-    "colors": [
-      "#DA291C",
-      "#000000"
-    ],
-    "opponent": {
-      "team": "Virginia Cavaliers",
-      "abbr": "Virginia",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
-      "colors": [
-        "#232D4B",
-        "#F84C1E"
-      ]
-    },
-    "player": "Texas Tech Red Raiders",
-    "playerAliases": [
-      "texas tech red raiders",
-      "texas tech",
-      "red raiders"
-    ],
-    "statLine": "Lost 77-85"
-  },
-  {
-    "year": 2020,
-    "invalid": true,
-    "reason": "Tournament not held (2020 COVID-19 cancellation)"
-  },
-  {
-    "year": 2021,
-    "team": "Gonzaga Bulldogs",
-    "abbr": "Gonzaga",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-    "colors": [
-      "#041E42",
-      "#C8102E"
-    ],
-    "opponent": {
-      "team": "Baylor Bears",
-      "abbr": "Baylor",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
-      "colors": [
-        "#154734",
-        "#FFB81C"
-      ]
-    },
-    "player": "Gonzaga Bulldogs",
-    "playerAliases": [
-      "gonzaga bulldogs",
-      "gonzaga",
-      "bulldogs"
-    ],
-    "statLine": "Lost 70-86"
-  },
-  {
-    "year": 2022,
-    "team": "North Carolina Tar Heels",
-    "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-    "colors": [
-      "#7BAFD4",
-      "#13294B"
-    ],
-    "opponent": {
-      "team": "Kansas Jayhawks",
-      "abbr": "Kansas",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
-      "colors": [
-        "#0051BA",
-        "#E8000D"
-      ]
-    },
-    "player": "North Carolina Tar Heels",
-    "playerAliases": [
-      "north carolina tar heels",
-      "north carolina",
-      "tar heels"
-    ],
-    "statLine": "Lost 69-72"
-  },
-  {
-    "year": 2023,
-    "team": "San Diego State Aztecs",
-    "abbr": "San Diego St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
-    "colors": [
-      "#A6192E",
-      "#000000"
-    ],
-    "opponent": {
-      "team": "UConn Huskies",
-      "abbr": "UConn",
-      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-      "colors": [
-        "#0C2340",
-        "#A2AAAD"
-      ]
-    },
-    "player": "San Diego State Aztecs",
-    "playerAliases": [
-      "san diego state aztecs",
-      "san diego st",
-      "aztecs"
-    ],
-    "statLine": "Lost 59-76"
+    "statLine": "Lost 63-65"
   },
   {
     "year": 2024,
@@ -733,13 +52,408 @@
     "statLine": "Lost 60-75"
   },
   {
-    "year": 2025,
-    "team": "Houston Cougars",
-    "abbr": "Houston",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
+    "year": 2023,
+    "team": "San Diego State Aztecs",
+    "abbr": "San Diego St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
     "colors": [
-      "#C8102E",
+      "#A6192E",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "UConn Huskies",
+      "abbr": "UConn",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "colors": [
+        "#0C2340",
+        "#A2AAAD"
+      ]
+    },
+    "player": "San Diego State Aztecs",
+    "playerAliases": [
+      "san diego state aztecs",
+      "san diego st",
+      "aztecs"
+    ],
+    "statLine": "Lost 59-76"
+  },
+  {
+    "year": 2022,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "opponent": {
+      "team": "Kansas Jayhawks",
+      "abbr": "Kansas",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+      "colors": [
+        "#0051BA",
+        "#E8000D"
+      ]
+    },
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina tar heels",
+      "north carolina",
+      "tar heels"
+    ],
+    "statLine": "Lost 69-72"
+  },
+  {
+    "year": 2021,
+    "team": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "opponent": {
+      "team": "Baylor Bears",
+      "abbr": "Baylor",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
+      "colors": [
+        "#154734",
+        "#FFB81C"
+      ]
+    },
+    "player": "Gonzaga Bulldogs",
+    "playerAliases": [
+      "gonzaga bulldogs",
+      "gonzaga",
+      "bulldogs"
+    ],
+    "statLine": "Lost 70-86"
+  },
+  {
+    "year": 2020,
+    "invalid": true,
+    "reason": "Tournament not held (2020 COVID-19 cancellation)"
+  },
+  {
+    "year": 2019,
+    "team": "Texas Tech Red Raiders",
+    "abbr": "Texas Tech",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "colors": [
+      "#DA291C",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Virginia Cavaliers",
+      "abbr": "Virginia",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+      "colors": [
+        "#232D4B",
+        "#F84C1E"
+      ]
+    },
+    "player": "Texas Tech Red Raiders",
+    "playerAliases": [
+      "texas tech red raiders",
+      "texas tech",
+      "red raiders"
+    ],
+    "statLine": "Lost 77-85"
+  },
+  {
+    "year": 2018,
+    "team": "Michigan Wolverines",
+    "abbr": "Michigan",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "colors": [
+      "#00274C",
+      "#FFCB05"
+    ],
+    "opponent": {
+      "team": "Villanova Wildcats",
+      "abbr": "Villanova",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+      "colors": [
+        "#00205B",
+        "#13B5EA"
+      ]
+    },
+    "player": "Michigan Wolverines",
+    "playerAliases": [
+      "michigan wolverines",
+      "michigan",
+      "wolverines"
+    ],
+    "statLine": "Lost 62-79"
+  },
+  {
+    "year": 2017,
+    "team": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "opponent": {
+      "team": "North Carolina Tar Heels",
+      "abbr": "North Carolina",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+      "colors": [
+        "#7BAFD4",
+        "#13294B"
+      ]
+    },
+    "player": "Gonzaga Bulldogs",
+    "playerAliases": [
+      "gonzaga bulldogs",
+      "gonzaga",
+      "bulldogs"
+    ],
+    "statLine": "Lost 65-71"
+  },
+  {
+    "year": 2016,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "opponent": {
+      "team": "Villanova Wildcats",
+      "abbr": "Villanova",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/222.png",
+      "colors": [
+        "#00205B",
+        "#13B5EA"
+      ]
+    },
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina tar heels",
+      "north carolina",
+      "tar heels"
+    ],
+    "statLine": "Lost 74-77"
+  },
+  {
+    "year": 2015,
+    "team": "Wisconsin Badgers",
+    "abbr": "Wisconsin",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
+    "colors": [
+      "#A00000",
       "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Duke Blue Devils",
+      "abbr": "Duke",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+      "colors": [
+        "#00539B",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Wisconsin Badgers",
+    "playerAliases": [
+      "wisconsin badgers",
+      "wisconsin",
+      "badgers"
+    ],
+    "statLine": "Lost 63-68"
+  },
+  {
+    "year": 2014,
+    "team": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "UConn Huskies",
+      "abbr": "UConn",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "colors": [
+        "#0C2340",
+        "#A2AAAD"
+      ]
+    },
+    "player": "Kentucky Wildcats",
+    "playerAliases": [
+      "kentucky wildcats",
+      "kentucky",
+      "wildcats"
+    ],
+    "statLine": "Lost 54-60"
+  },
+  {
+    "year": 2013,
+    "team": "Michigan Wolverines",
+    "abbr": "Michigan",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "colors": [
+      "#00274C",
+      "#FFCB05"
+    ],
+    "opponent": {
+      "team": "Louisville Cardinals",
+      "abbr": "Louisville",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+      "colors": [
+        "#C9001F",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Michigan Wolverines",
+    "playerAliases": [
+      "michigan wolverines",
+      "michigan",
+      "wolverines"
+    ],
+    "statLine": "Lost 76-82"
+  },
+  {
+    "year": 2012,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "opponent": {
+      "team": "Kentucky Wildcats",
+      "abbr": "Kentucky",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+      "colors": [
+        "#0033A0",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "kansas jayhawks",
+      "kansas",
+      "jayhawks"
+    ],
+    "statLine": "Lost 59-67"
+  },
+  {
+    "year": 2011,
+    "team": "Butler Bulldogs",
+    "abbr": "Butler",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
+    "colors": [
+      "#0D1361",
+      "#00A3E0"
+    ],
+    "opponent": {
+      "team": "UConn Huskies",
+      "abbr": "UConn",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "colors": [
+        "#0C2340",
+        "#A2AAAD"
+      ]
+    },
+    "player": "Butler Bulldogs",
+    "playerAliases": [
+      "butler bulldogs",
+      "butler",
+      "bulldogs"
+    ],
+    "statLine": "Lost 41-53"
+  },
+  {
+    "year": 2010,
+    "team": "Butler Bulldogs",
+    "abbr": "Butler",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2086.png",
+    "colors": [
+      "#0D1361",
+      "#00A3E0"
+    ],
+    "opponent": {
+      "team": "Duke Blue Devils",
+      "abbr": "Duke",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+      "colors": [
+        "#00539B",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Butler Bulldogs",
+    "playerAliases": [
+      "butler bulldogs",
+      "butler",
+      "bulldogs"
+    ],
+    "statLine": "Lost 59-61"
+  },
+  {
+    "year": 2009,
+    "team": "Michigan State Spartans",
+    "abbr": "Michigan St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "colors": [
+      "#173F35",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "North Carolina Tar Heels",
+      "abbr": "North Carolina",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+      "colors": [
+        "#7BAFD4",
+        "#13294B"
+      ]
+    },
+    "player": "Michigan State Spartans",
+    "playerAliases": [
+      "michigan state spartans",
+      "michigan st",
+      "spartans"
+    ],
+    "statLine": "Lost 72-89"
+  },
+  {
+    "year": 2008,
+    "team": "Memphis Tigers",
+    "abbr": "Memphis",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "colors": [
+      "#004991",
+      "#8E908F"
+    ],
+    "opponent": {
+      "team": "Kansas Jayhawks",
+      "abbr": "Kansas",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+      "colors": [
+        "#0051BA",
+        "#E8000D"
+      ]
+    },
+    "player": "Memphis Tigers",
+    "playerAliases": [
+      "memphis tigers",
+      "memphis",
+      "tigers"
+    ],
+    "statLine": "Lost 68-75"
+  },
+  {
+    "year": 2007,
+    "team": "Ohio State Buckeyes",
+    "abbr": "Ohio State",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BA0C2F",
+      "#A8ADB4"
     ],
     "opponent": {
       "team": "Florida Gators",
@@ -750,12 +464,298 @@
         "#FA4616"
       ]
     },
-    "player": "Houston Cougars",
+    "player": "Ohio State Buckeyes",
     "playerAliases": [
-      "houston cougars",
-      "houston",
-      "cougars"
+      "ohio state buckeyes",
+      "ohio state",
+      "buckeyes"
     ],
-    "statLine": "Lost 63-65"
+    "statLine": "Lost 75-84"
+  },
+  {
+    "year": 2006,
+    "team": "UCLA Bruins",
+    "abbr": "UCLA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "colors": [
+      "#2774AE",
+      "#F2A900"
+    ],
+    "opponent": {
+      "team": "Florida Gators",
+      "abbr": "Florida",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+      "colors": [
+        "#0021A5",
+        "#FA4616"
+      ]
+    },
+    "player": "UCLA Bruins",
+    "playerAliases": [
+      "ucla bruins",
+      "ucla",
+      "bruins"
+    ],
+    "statLine": "Lost 57-73"
+  },
+  {
+    "year": 2005,
+    "team": "Illinois Fighting Illini",
+    "abbr": "Illinois",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "colors": [
+      "#FF5F05",
+      "#13294B"
+    ],
+    "opponent": {
+      "team": "North Carolina Tar Heels",
+      "abbr": "North Carolina",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+      "colors": [
+        "#7BAFD4",
+        "#13294B"
+      ]
+    },
+    "player": "Illinois Fighting Illini",
+    "playerAliases": [
+      "illinois fighting illini",
+      "illinois",
+      "fighting illini"
+    ],
+    "statLine": "Lost 70-75"
+  },
+  {
+    "year": 2004,
+    "team": "Georgia Tech Yellow Jackets",
+    "abbr": "Georgia Tech",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
+    "colors": [
+      "#B3A369",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "UConn Huskies",
+      "abbr": "UConn",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "colors": [
+        "#0C2340",
+        "#A2AAAD"
+      ]
+    },
+    "player": "Georgia Tech Yellow Jackets",
+    "playerAliases": [
+      "georgia tech yellow jackets",
+      "georgia tech",
+      "yellow jackets"
+    ],
+    "statLine": "Lost 73-82"
+  },
+  {
+    "year": 2003,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "opponent": {
+      "team": "Syracuse Orange",
+      "abbr": "Syracuse",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+      "colors": [
+        "#000E54",
+        "#FF431B"
+      ]
+    },
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "kansas jayhawks",
+      "kansas",
+      "jayhawks"
+    ],
+    "statLine": "Lost 78-81"
+  },
+  {
+    "year": 2002,
+    "team": "Indiana Hoosiers",
+    "abbr": "Indiana",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "colors": [
+      "#970310",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Maryland Terrapins",
+      "abbr": "Maryland",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+      "colors": [
+        "#CE1126",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Indiana Hoosiers",
+    "playerAliases": [
+      "indiana hoosiers",
+      "indiana",
+      "hoosiers"
+    ],
+    "statLine": "Lost 52-64"
+  },
+  {
+    "year": 2001,
+    "team": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "opponent": {
+      "team": "Duke Blue Devils",
+      "abbr": "Duke",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+      "colors": [
+        "#00539B",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Arizona Wildcats",
+    "playerAliases": [
+      "arizona wildcats",
+      "arizona",
+      "wildcats"
+    ],
+    "statLine": "Lost 72-82"
+  },
+  {
+    "year": 2000,
+    "team": "Florida Gators",
+    "abbr": "Florida",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "colors": [
+      "#0021A5",
+      "#FA4616"
+    ],
+    "opponent": {
+      "team": "Michigan State Spartans",
+      "abbr": "Michigan St",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+      "colors": [
+        "#173F35",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Florida Gators",
+    "playerAliases": [
+      "florida gators",
+      "florida",
+      "gators"
+    ],
+    "statLine": "Lost 76-89"
+  },
+  {
+    "year": 1999,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "UConn Huskies",
+      "abbr": "UConn",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+      "colors": [
+        "#0C2340",
+        "#A2AAAD"
+      ]
+    },
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "duke blue devils",
+      "duke",
+      "blue devils"
+    ],
+    "statLine": "Lost 74-77"
+  },
+  {
+    "year": 1998,
+    "team": "Utah Utes",
+    "abbr": "Utah",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "colors": [
+      "#BE0000",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Kentucky Wildcats",
+      "abbr": "Kentucky",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+      "colors": [
+        "#0033A0",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Utah Utes",
+    "playerAliases": [
+      "utah utes",
+      "utah",
+      "utes"
+    ],
+    "statLine": "Lost 69-78"
+  },
+  {
+    "year": 1997,
+    "team": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Arizona Wildcats",
+      "abbr": "Arizona",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+      "colors": [
+        "#CC0033",
+        "#003366"
+      ]
+    },
+    "player": "Kentucky Wildcats",
+    "playerAliases": [
+      "kentucky wildcats",
+      "kentucky",
+      "wildcats"
+    ],
+    "statLine": "Lost 79-84"
+  },
+  {
+    "year": 1996,
+    "team": "Syracuse Orange",
+    "abbr": "Syracuse",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
+    "colors": [
+      "#000E54",
+      "#FF431B"
+    ],
+    "opponent": {
+      "team": "Kentucky Wildcats",
+      "abbr": "Kentucky",
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+      "colors": [
+        "#0033A0",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Syracuse Orange",
+    "playerAliases": [
+      "syracuse orange",
+      "syracuse",
+      "orange"
+    ],
+    "statLine": "Lost 67-76"
   }
 ]

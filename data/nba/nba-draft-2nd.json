@@ -1,391 +1,16 @@
 [
   {
-    "year": 1996,
-    "school": "Massachusetts Minutemen",
-    "abbr": "UMass",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+    "year": 2025,
+    "school": "Rutgers Scarlet Knights",
+    "abbr": "Rutgers",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
     "colors": [
-      "#881C1C",
+      "#CE0E2D",
       "#FFFFFF"
     ],
-    "player": "Marcus Camby",
+    "player": "Dylan Harper",
     "playerAliases": [
-      "marcus camby"
-    ]
-  },
-  {
-    "year": 1997,
-    "school": "Utah Utes",
-    "abbr": "Utah",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
-    "colors": [
-      "#BE0000",
-      "#FFFFFF"
-    ],
-    "player": "Keith Van Horn",
-    "playerAliases": [
-      "keith van horn"
-    ]
-  },
-  {
-    "year": 1998,
-    "school": "Arizona Wildcats",
-    "abbr": "Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-    "colors": [
-      "#CC0033",
-      "#003366"
-    ],
-    "player": "Mike Bibby",
-    "playerAliases": [
-      "mike bibby"
-    ]
-  },
-  {
-    "year": 1999,
-    "school": "Maryland Terrapins",
-    "abbr": "Maryland",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
-    "colors": [
-      "#CE1126",
-      "#FFFFFF"
-    ],
-    "player": "Steve Francis",
-    "playerAliases": [
-      "steve francis"
-    ]
-  },
-  {
-    "year": 2000,
-    "school": "LSU Tigers",
-    "abbr": "LSU",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-    "colors": [
-      "#461D76",
-      "#FDD023"
-    ],
-    "player": "Stromile Swift",
-    "playerAliases": [
-      "stromile swift"
-    ]
-  },
-  {
-    "year": 2001,
-    "school": "Dominguez High School",
-    "abbr": "Dominguez HS",
-    "logo": "assets/logos/nba/nba-draft-dominguez-hs.png",
-    "colors": ["#C84A2C", "#ECB539"],
-    "player": "Tyson Chandler",
-    "playerAliases": ["tyson chandler", "chandler"]
-  },
-  {
-    "year": 2002,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Jay Williams",
-    "playerAliases": [
-      "jay williams"
-    ]
-  },
-  {
-    "year": 2003,
-    "school": "KK Vrsac (Hemofarm)",
-    "abbr": "KK Vrsac",
-    "logo": "assets/logos/nba/nba-draft-hemofarm.png",
-    "colors": [
-      "#8B1E3F",
-      "#FFFFFF"
-    ],
-    "player": "Darko Milicic",
-    "playerAliases": [
-      "darko milicic",
-      "milicic"
-    ]
-  },
-  {
-    "year": 2004,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Emeka Okafor",
-    "playerAliases": [
-      "emeka okafor"
-    ]
-  },
-  {
-    "year": 2005,
-    "school": "North Carolina Tar Heels",
-    "abbr": "North Carolina",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-    "colors": [
-      "#7BAFD4",
-      "#13294B"
-    ],
-    "player": "Marvin Williams",
-    "playerAliases": [
-      "marvin williams"
-    ]
-  },
-  {
-    "year": 2006,
-    "school": "Texas Longhorns",
-    "abbr": "Texas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "colors": [
-      "#AF5C37",
-      "#FFFFFF"
-    ],
-    "player": "LaMarcus Aldridge",
-    "playerAliases": [
-      "lamarcus aldridge"
-    ]
-  },
-  {
-    "year": 2007,
-    "school": "Texas Longhorns",
-    "abbr": "Texas",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-    "colors": [
-      "#AF5C37",
-      "#FFFFFF"
-    ],
-    "player": "Kevin Durant",
-    "playerAliases": [
-      "kevin durant"
-    ]
-  },
-  {
-    "year": 2008,
-    "school": "Kansas State Wildcats",
-    "abbr": "Kansas St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
-    "colors": [
-      "#330A57",
-      "#E2E3E4"
-    ],
-    "player": "Michael Beasley",
-    "playerAliases": [
-      "michael beasley"
-    ]
-  },
-  {
-    "year": 2009,
-    "school": "UConn Huskies",
-    "abbr": "UConn",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
-    "colors": [
-      "#0C2340",
-      "#A2AAAD"
-    ],
-    "player": "Hasheem Thabeet",
-    "playerAliases": [
-      "hasheem thabeet"
-    ]
-  },
-  {
-    "year": 2010,
-    "school": "Ohio State Buckeyes",
-    "abbr": "Ohio State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-    "colors": [
-      "#BA0C2F",
-      "#A8ADB4"
-    ],
-    "player": "Evan Turner",
-    "playerAliases": [
-      "evan turner"
-    ]
-  },
-  {
-    "year": 2011,
-    "school": "Arizona Wildcats",
-    "abbr": "Arizona",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
-    "colors": [
-      "#CC0033",
-      "#003366"
-    ],
-    "player": "Derrick Williams",
-    "playerAliases": [
-      "derrick williams"
-    ]
-  },
-  {
-    "year": 2012,
-    "school": "Kentucky Wildcats",
-    "abbr": "Kentucky",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-    "colors": [
-      "#0033A0",
-      "#FFFFFF"
-    ],
-    "player": "Michael Kidd-Gilchrist",
-    "playerAliases": [
-      "michael kidd-gilchrist"
-    ]
-  },
-  {
-    "year": 2013,
-    "school": "Indiana Hoosiers",
-    "abbr": "Indiana",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-    "colors": [
-      "#970310",
-      "#FFFFFF"
-    ],
-    "player": "Victor Oladipo",
-    "playerAliases": [
-      "victor oladipo"
-    ]
-  },
-  {
-    "year": 2014,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Jabari Parker",
-    "playerAliases": [
-      "jabari parker"
-    ]
-  },
-  {
-    "year": 2015,
-    "school": "Ohio State Buckeyes",
-    "abbr": "Ohio State",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
-    "colors": [
-      "#BA0C2F",
-      "#A8ADB4"
-    ],
-    "player": "D'Angelo Russell",
-    "playerAliases": [
-      "d'angelo russell"
-    ]
-  },
-  {
-    "year": 2016,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Brandon Ingram",
-    "playerAliases": [
-      "brandon ingram"
-    ]
-  },
-  {
-    "year": 2017,
-    "school": "UCLA Bruins",
-    "abbr": "UCLA",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-    "colors": [
-      "#2774AE",
-      "#F2A900"
-    ],
-    "player": "Lonzo Ball",
-    "playerAliases": [
-      "lonzo ball"
-    ]
-  },
-  {
-    "year": 2018,
-    "school": "Duke Blue Devils",
-    "abbr": "Duke",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-    "colors": [
-      "#00539B",
-      "#FFFFFF"
-    ],
-    "player": "Marvin Bagley III",
-    "playerAliases": [
-      "marvin bagley iii"
-    ]
-  },
-  {
-    "year": 2019,
-    "school": "Murray State Racers",
-    "abbr": "Murray St",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png",
-    "colors": [
-      "#002148",
-      "#000E00"
-    ],
-    "player": "Ja Morant",
-    "playerAliases": [
-      "ja morant"
-    ]
-  },
-  {
-    "year": 2020,
-    "school": "Memphis Tigers",
-    "abbr": "Memphis",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
-    "colors": [
-      "#004991",
-      "#8E908F"
-    ],
-    "player": "James Wiseman",
-    "playerAliases": [
-      "james wiseman"
-    ]
-  },
-  {
-    "year": 2021,
-    "school": "NBA G League Ignite",
-    "abbr": "G League Ignite",
-    "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
-    "colors": [
-      "#000000",
-      "#7B2D8E"
-    ],
-    "player": "Jalen Green",
-    "playerAliases": [
-      "jalen green",
-      "green"
-    ]
-  },
-  {
-    "year": 2022,
-    "school": "Gonzaga Bulldogs",
-    "abbr": "Gonzaga",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
-    "colors": [
-      "#041E42",
-      "#C8102E"
-    ],
-    "player": "Chet Holmgren",
-    "playerAliases": [
-      "chet holmgren"
-    ]
-  },
-  {
-    "year": 2023,
-    "school": "Alabama Crimson Tide",
-    "abbr": "Alabama",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
-    "colors": [
-      "#9E1B32",
-      "#FFFFFF"
-    ],
-    "player": "Brandon Miller",
-    "playerAliases": [
-      "brandon miller"
+      "dylan harper"
     ]
   },
   {
@@ -404,17 +29,398 @@
     ]
   },
   {
-    "year": 2025,
-    "school": "Rutgers Scarlet Knights",
-    "abbr": "Rutgers",
-    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+    "year": 2023,
+    "school": "Alabama Crimson Tide",
+    "abbr": "Alabama",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
     "colors": [
-      "#CE0E2D",
+      "#9E1B32",
       "#FFFFFF"
     ],
-    "player": "Dylan Harper",
+    "player": "Brandon Miller",
     "playerAliases": [
-      "dylan harper"
+      "brandon miller"
+    ]
+  },
+  {
+    "year": 2022,
+    "school": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "player": "Chet Holmgren",
+    "playerAliases": [
+      "chet holmgren"
+    ]
+  },
+  {
+    "year": 2021,
+    "school": "NBA G League Ignite",
+    "abbr": "G League Ignite",
+    "logo": "assets/logos/nba/nba-draft-g-league-ignite.png",
+    "colors": [
+      "#000000",
+      "#7B2D8E"
+    ],
+    "player": "Jalen Green",
+    "playerAliases": [
+      "jalen green",
+      "green"
+    ]
+  },
+  {
+    "year": 2020,
+    "school": "Memphis Tigers",
+    "abbr": "Memphis",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "colors": [
+      "#004991",
+      "#8E908F"
+    ],
+    "player": "James Wiseman",
+    "playerAliases": [
+      "james wiseman"
+    ]
+  },
+  {
+    "year": 2019,
+    "school": "Murray State Racers",
+    "abbr": "Murray St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/93.png",
+    "colors": [
+      "#002148",
+      "#000E00"
+    ],
+    "player": "Ja Morant",
+    "playerAliases": [
+      "ja morant"
+    ]
+  },
+  {
+    "year": 2018,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Marvin Bagley III",
+    "playerAliases": [
+      "marvin bagley iii"
+    ]
+  },
+  {
+    "year": 2017,
+    "school": "UCLA Bruins",
+    "abbr": "UCLA",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+    "colors": [
+      "#2774AE",
+      "#F2A900"
+    ],
+    "player": "Lonzo Ball",
+    "playerAliases": [
+      "lonzo ball"
+    ]
+  },
+  {
+    "year": 2016,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Brandon Ingram",
+    "playerAliases": [
+      "brandon ingram"
+    ]
+  },
+  {
+    "year": 2015,
+    "school": "Ohio State Buckeyes",
+    "abbr": "Ohio State",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BA0C2F",
+      "#A8ADB4"
+    ],
+    "player": "D'Angelo Russell",
+    "playerAliases": [
+      "d'angelo russell"
+    ]
+  },
+  {
+    "year": 2014,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Jabari Parker",
+    "playerAliases": [
+      "jabari parker"
+    ]
+  },
+  {
+    "year": 2013,
+    "school": "Indiana Hoosiers",
+    "abbr": "Indiana",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "colors": [
+      "#970310",
+      "#FFFFFF"
+    ],
+    "player": "Victor Oladipo",
+    "playerAliases": [
+      "victor oladipo"
+    ]
+  },
+  {
+    "year": 2012,
+    "school": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Michael Kidd-Gilchrist",
+    "playerAliases": [
+      "michael kidd-gilchrist"
+    ]
+  },
+  {
+    "year": 2011,
+    "school": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Derrick Williams",
+    "playerAliases": [
+      "derrick williams"
+    ]
+  },
+  {
+    "year": 2010,
+    "school": "Ohio State Buckeyes",
+    "abbr": "Ohio State",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "colors": [
+      "#BA0C2F",
+      "#A8ADB4"
+    ],
+    "player": "Evan Turner",
+    "playerAliases": [
+      "evan turner"
+    ]
+  },
+  {
+    "year": 2009,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Hasheem Thabeet",
+    "playerAliases": [
+      "hasheem thabeet"
+    ]
+  },
+  {
+    "year": 2008,
+    "school": "Kansas State Wildcats",
+    "abbr": "Kansas St",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+    "colors": [
+      "#330A57",
+      "#E2E3E4"
+    ],
+    "player": "Michael Beasley",
+    "playerAliases": [
+      "michael beasley"
+    ]
+  },
+  {
+    "year": 2007,
+    "school": "Texas Longhorns",
+    "abbr": "Texas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "colors": [
+      "#AF5C37",
+      "#FFFFFF"
+    ],
+    "player": "Kevin Durant",
+    "playerAliases": [
+      "kevin durant"
+    ]
+  },
+  {
+    "year": 2006,
+    "school": "Texas Longhorns",
+    "abbr": "Texas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+    "colors": [
+      "#AF5C37",
+      "#FFFFFF"
+    ],
+    "player": "LaMarcus Aldridge",
+    "playerAliases": [
+      "lamarcus aldridge"
+    ]
+  },
+  {
+    "year": 2005,
+    "school": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "Marvin Williams",
+    "playerAliases": [
+      "marvin williams"
+    ]
+  },
+  {
+    "year": 2004,
+    "school": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "Emeka Okafor",
+    "playerAliases": [
+      "emeka okafor"
+    ]
+  },
+  {
+    "year": 2003,
+    "school": "KK Vrsac (Hemofarm)",
+    "abbr": "KK Vrsac",
+    "logo": "assets/logos/nba/nba-draft-hemofarm.png",
+    "colors": [
+      "#8B1E3F",
+      "#FFFFFF"
+    ],
+    "player": "Darko Milicic",
+    "playerAliases": [
+      "darko milicic",
+      "milicic"
+    ]
+  },
+  {
+    "year": 2002,
+    "school": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Jay Williams",
+    "playerAliases": [
+      "jay williams"
+    ]
+  },
+  {
+    "year": 2001,
+    "school": "Dominguez High School",
+    "abbr": "Dominguez HS",
+    "logo": "assets/logos/nba/nba-draft-dominguez-hs.png",
+    "colors": [
+      "#C84A2C",
+      "#ECB539"
+    ],
+    "player": "Tyson Chandler",
+    "playerAliases": [
+      "tyson chandler",
+      "chandler"
+    ]
+  },
+  {
+    "year": 2000,
+    "school": "LSU Tigers",
+    "abbr": "LSU",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+    "colors": [
+      "#461D76",
+      "#FDD023"
+    ],
+    "player": "Stromile Swift",
+    "playerAliases": [
+      "stromile swift"
+    ]
+  },
+  {
+    "year": 1999,
+    "school": "Maryland Terrapins",
+    "abbr": "Maryland",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "player": "Steve Francis",
+    "playerAliases": [
+      "steve francis"
+    ]
+  },
+  {
+    "year": 1998,
+    "school": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Mike Bibby",
+    "playerAliases": [
+      "mike bibby"
+    ]
+  },
+  {
+    "year": 1997,
+    "school": "Utah Utes",
+    "abbr": "Utah",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+    "colors": [
+      "#BE0000",
+      "#FFFFFF"
+    ],
+    "player": "Keith Van Horn",
+    "playerAliases": [
+      "keith van horn"
+    ]
+  },
+  {
+    "year": 1996,
+    "school": "Massachusetts Minutemen",
+    "abbr": "UMass",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+    "colors": [
+      "#881C1C",
+      "#FFFFFF"
+    ],
+    "player": "Marcus Camby",
+    "playerAliases": [
+      "marcus camby"
     ]
   }
 ]
