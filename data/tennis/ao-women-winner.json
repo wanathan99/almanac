@@ -155,6 +155,7 @@
     "player": "Angelique Kerber",
     "playerAliases": [
       "angelique kerber",
+      "angie",
       "kerber"
     ],
     "statLine": "Won 6–4, 3–6, 6–4"
@@ -203,7 +204,8 @@
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
-      "victoria azarenka"
+      "victoria azarenka",
+      "vika"
     ],
     "statLine": "Won 4–6, 6–4, 6–3"
   },
@@ -219,7 +221,8 @@
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
-      "victoria azarenka"
+      "victoria azarenka",
+      "vika"
     ],
     "statLine": "Won 6–3, 6–0"
   },
@@ -283,6 +286,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "Won 7–5, 6–3"
@@ -427,7 +431,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Won 6–2, 6–3"
   },
@@ -443,7 +448,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Won 6–3, 6–3"
   },
@@ -459,7 +465,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Won 6–2, 6–2"
   },

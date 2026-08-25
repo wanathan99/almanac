@@ -112,6 +112,7 @@
     "player": "Angelique Kerber",
     "playerAliases": [
       "angelique kerber",
+      "angie",
       "kerber"
     ],
     "statLine": "Won 6–3, 6–3"
@@ -336,6 +337,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "Won 6–1, 6–4"
@@ -448,7 +450,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Won 2–6, 6–3, 6–3"
   },

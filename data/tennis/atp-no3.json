@@ -11,6 +11,7 @@
     "player": "Alexander Zverev",
     "playerAliases": [
       "alexander zverev",
+      "sascha",
       "zverev"
     ],
     "statLine": "5,110 pts"
@@ -27,6 +28,7 @@
     "player": "Carlos Alcaraz",
     "playerAliases": [
       "alcaraz",
+      "carlitos",
       "carlos alcaraz"
     ],
     "statLine": "7,010 pts"
@@ -75,6 +77,7 @@
     "player": "Alexander Zverev",
     "playerAliases": [
       "alexander zverev",
+      "sascha",
       "zverev"
     ],
     "statLine": "7,840 pts"
@@ -106,7 +109,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "6,590 pts"
@@ -122,7 +127,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "6,420 pts"
@@ -170,7 +177,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "8,265 pts"
@@ -187,6 +196,7 @@
     "player": "Rafael Nadal",
     "playerAliases": [
       "nadal",
+      "rafa",
       "rafael nadal"
     ],
     "statLine": "6,835 pts"
@@ -219,7 +229,8 @@
     "player": "Andy Murray",
     "playerAliases": [
       "andy murray",
-      "murray"
+      "murray",
+      "muzza"
     ],
     "statLine": "8,000 pts"
   },
@@ -234,7 +245,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "8,170 pts"
@@ -250,7 +263,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "6,240 pts"
@@ -266,7 +281,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "8,310 pts"
@@ -282,7 +299,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "5,295 pts"
@@ -298,7 +317,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "4,470 pts"
@@ -347,7 +368,8 @@
     "player": "Lleyton Hewitt",
     "playerAliases": [
       "hewitt",
-      "lleyton hewitt"
+      "lleyton hewitt",
+      "rusty"
     ],
     "statLine": "3,590 pts"
   },
@@ -411,6 +433,7 @@
     "player": "Pete Sampras",
     "playerAliases": [
       "pete sampras",
+      "pistol pete",
       "sampras"
     ],
     "statLine": "3,385 pts"
@@ -427,6 +450,7 @@
     "player": "Pete Sampras",
     "playerAliases": [
       "pete sampras",
+      "pistol pete",
       "sampras"
     ],
     "statLine": "3,024 pts"

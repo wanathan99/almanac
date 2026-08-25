@@ -58,6 +58,7 @@
     ],
     "player": "Coco Gauff",
     "playerAliases": [
+      "coco",
       "coco gauff",
       "gauff"
     ],
@@ -203,6 +204,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "Lost 6–4, 6–4"
@@ -427,7 +429,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Lost 4–6, 7–5, 6–2"
   },
@@ -459,7 +462,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Lost 6–4, 6–2"
   },

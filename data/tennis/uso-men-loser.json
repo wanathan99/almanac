@@ -74,7 +74,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 6–4, 6–4, 6–4"
@@ -91,6 +93,7 @@
     "player": "Alexander Zverev",
     "playerAliases": [
       "alexander zverev",
+      "sascha",
       "zverev"
     ],
     "statLine": "Lost 2–6, 4–6, 6–4, 6–3, 7–6(8–6)"
@@ -123,6 +126,7 @@
     "player": "Juan Martín del Potro",
     "playerAliases": [
       "del potro",
+      "delpo",
       "delpotro",
       "juan martín del potro"
     ],
@@ -155,7 +159,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 6–7(1–7), 6–4, 7–5, 6–3"
@@ -171,7 +177,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Lost 6–4, 5–7, 6–4, 6–4"
@@ -203,7 +211,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 6–2, 3–6, 6–4, 6–1"
@@ -219,7 +229,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 7–6(12–10), 7–5, 2–6, 3–6, 6–2"
@@ -236,6 +248,7 @@
     "player": "Rafael Nadal",
     "playerAliases": [
       "nadal",
+      "rafa",
       "rafael nadal"
     ],
     "statLine": "Lost 6–2, 6–4, 6–7(3–7), 6–1"
@@ -251,7 +264,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 6–4, 5–7, 6–4, 6–2"
@@ -267,7 +282,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Lost 3–6, 7–6(7–5), 4–6, 7–6(7–4), 6–2"
@@ -284,7 +301,8 @@
     "player": "Andy Murray",
     "playerAliases": [
       "andy murray",
-      "murray"
+      "murray",
+      "muzza"
     ],
     "statLine": "Lost 6–2, 7–5, 6–2"
   },
@@ -299,7 +317,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 7–6(7–4), 7–6(7–2), 6–4"
@@ -348,7 +368,8 @@
     "player": "Lleyton Hewitt",
     "playerAliases": [
       "hewitt",
-      "lleyton hewitt"
+      "lleyton hewitt",
+      "rusty"
     ],
     "statLine": "Lost 6–0, 7–6(7–3), 6–0"
   },
@@ -396,6 +417,7 @@
     "player": "Pete Sampras",
     "playerAliases": [
       "pete sampras",
+      "pistol pete",
       "sampras"
     ],
     "statLine": "Lost 7–6(7–4), 6–1, 6–1"
@@ -412,6 +434,7 @@
     "player": "Pete Sampras",
     "playerAliases": [
       "pete sampras",
+      "pistol pete",
       "sampras"
     ],
     "statLine": "Lost 6–4, 6–3, 6–3"

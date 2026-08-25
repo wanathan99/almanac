@@ -123,6 +123,7 @@
     "player": "Angelique Kerber",
     "playerAliases": [
       "angelique kerber",
+      "angie",
       "kerber"
     ],
     "statLine": "5,875 pts"
@@ -187,6 +188,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "7,050 pts"
@@ -203,7 +205,8 @@
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
-      "victoria azarenka"
+      "victoria azarenka",
+      "vika"
     ],
     "statLine": "7,676 pts"
   },
@@ -219,6 +222,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "10,045 pts"
@@ -315,6 +319,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "3,532 pts"
@@ -443,7 +448,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "5,366 pts"
   },

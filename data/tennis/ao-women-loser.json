@@ -171,6 +171,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "Lost 6–3, 7–6(7–5)"
@@ -219,6 +220,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "Lost 6–3, 6–0"
@@ -299,6 +301,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "Lost 6–1, 6–2"
@@ -379,7 +382,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Lost 4–6, 7–6(9–7), 6–2"
   },
@@ -395,7 +399,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Lost 6–4, 6–3"
   },
@@ -411,7 +416,8 @@
     "player": "Martina Hingis",
     "playerAliases": [
       "hingis",
-      "martina hingis"
+      "martina hingis",
+      "swiss miss"
     ],
     "statLine": "Lost 6–1, 7–5"
   },

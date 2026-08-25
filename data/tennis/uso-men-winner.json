@@ -11,6 +11,7 @@
     "player": "Carlos Alcaraz",
     "playerAliases": [
       "alcaraz",
+      "carlitos",
       "carlos alcaraz"
     ],
     "statLine": "Won 6–2, 3–6, 6–1, 6–4"
@@ -42,7 +43,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Won 6–3, 7–6(7–5), 6–3"
@@ -59,6 +62,7 @@
     "player": "Carlos Alcaraz",
     "playerAliases": [
       "alcaraz",
+      "carlitos",
       "carlos alcaraz"
     ],
     "statLine": "Won 6–4, 2–6, 7–6(7–1), 6–3"
@@ -107,6 +111,7 @@
     "player": "Rafael Nadal",
     "playerAliases": [
       "nadal",
+      "rafa",
       "rafael nadal"
     ],
     "statLine": "Won 7–5, 6–3, 5–7, 4–6, 6–4"
@@ -122,7 +127,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Won 6–3, 7–6(7–4), 6–3"
@@ -139,6 +146,7 @@
     "player": "Rafael Nadal",
     "playerAliases": [
       "nadal",
+      "rafa",
       "rafael nadal"
     ],
     "statLine": "Won 6–3, 6–3, 6–4"
@@ -155,6 +163,7 @@
     "player": "Stan Wawrinka",
     "playerAliases": [
       "stan wawrinka",
+      "stanimal",
       "wawrinka"
     ],
     "statLine": "Won 6–7(1–7), 6–4, 7–5, 6–3"
@@ -170,7 +179,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Won 6–4, 5–7, 6–4, 6–4"
@@ -203,6 +214,7 @@
     "player": "Rafael Nadal",
     "playerAliases": [
       "nadal",
+      "rafa",
       "rafael nadal"
     ],
     "statLine": "Won 6–2, 3–6, 6–4, 6–1"
@@ -219,7 +231,8 @@
     "player": "Andy Murray",
     "playerAliases": [
       "andy murray",
-      "murray"
+      "murray",
+      "muzza"
     ],
     "statLine": "Won 7–6(12–10), 7–5, 2–6, 3–6, 6–2"
   },
@@ -234,7 +247,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Won 6–2, 6–4, 6–7(3–7), 6–1"
@@ -251,6 +266,7 @@
     "player": "Rafael Nadal",
     "playerAliases": [
       "nadal",
+      "rafa",
       "rafael nadal"
     ],
     "statLine": "Won 6–4, 5–7, 6–4, 6–2"
@@ -267,6 +283,7 @@
     "player": "Juan Martín del Potro",
     "playerAliases": [
       "del potro",
+      "delpo",
       "delpotro",
       "juan martín del potro"
     ],
@@ -283,7 +300,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Won 6–2, 7–5, 6–2"
@@ -299,7 +318,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Won 7–6(7–4), 7–6(7–2), 6–4"
@@ -315,7 +336,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Won 6–2, 4–6, 7–5, 6–1"
@@ -331,7 +354,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Won 6–3, 2–6, 7–6(7–1), 6–1"
@@ -347,7 +372,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Won 6–0, 7–6(7–3), 6–0"
@@ -380,6 +407,7 @@
     "player": "Pete Sampras",
     "playerAliases": [
       "pete sampras",
+      "pistol pete",
       "sampras"
     ],
     "statLine": "Won 6–3, 6–4, 5–7, 6–4"
@@ -396,7 +424,8 @@
     "player": "Lleyton Hewitt",
     "playerAliases": [
       "hewitt",
-      "lleyton hewitt"
+      "lleyton hewitt",
+      "rusty"
     ],
     "statLine": "Won 7–6(7–4), 6–1, 6–1"
   },
@@ -476,6 +505,7 @@
     "player": "Pete Sampras",
     "playerAliases": [
       "pete sampras",
+      "pistol pete",
       "sampras"
     ],
     "statLine": "Won 6–1, 6–4, 7–6(7–3)"

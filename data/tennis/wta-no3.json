@@ -10,6 +10,7 @@
     ],
     "player": "Coco Gauff",
     "playerAliases": [
+      "coco",
       "coco gauff",
       "gauff"
     ],
@@ -26,6 +27,7 @@
     ],
     "player": "Coco Gauff",
     "playerAliases": [
+      "coco",
       "coco gauff",
       "gauff"
     ],
@@ -42,6 +44,7 @@
     ],
     "player": "Coco Gauff",
     "playerAliases": [
+      "coco",
       "coco gauff",
       "gauff"
     ],
@@ -203,6 +206,7 @@
     "player": "Maria Sharapova",
     "playerAliases": [
       "maria sharapova",
+      "masha",
       "sharapova"
     ],
     "statLine": "5,891 pts"
@@ -235,7 +239,8 @@
     "player": "Victoria Azarenka",
     "playerAliases": [
       "azarenka",
-      "victoria azarenka"
+      "victoria azarenka",
+      "vika"
     ],
     "statLine": "6,520 pts"
   },

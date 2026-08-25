@@ -27,6 +27,7 @@
     "player": "Alexander Zverev",
     "playerAliases": [
       "alexander zverev",
+      "sascha",
       "zverev"
     ],
     "statLine": "Lost 6–3, 2–6, 5–7, 6–1, 6–2"
@@ -90,7 +91,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 6–0, 6–2, 7–5"
@@ -139,6 +142,7 @@
     "player": "Stan Wawrinka",
     "playerAliases": [
       "stan wawrinka",
+      "stanimal",
       "wawrinka"
     ],
     "statLine": "Lost 6–2, 6–3, 6–1"
@@ -155,7 +159,8 @@
     "player": "Andy Murray",
     "playerAliases": [
       "andy murray",
-      "murray"
+      "murray",
+      "muzza"
     ],
     "statLine": "Lost 3–6, 6–1, 6–2, 6–4"
   },
@@ -170,7 +175,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 4–6, 6–4, 6–3, 6–4"
@@ -186,7 +193,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 3–6, 7–5, 6–2, 6–4"
@@ -218,7 +227,9 @@
     ],
     "player": "Novak Djokovic",
     "playerAliases": [
+      "djoker",
       "djokovic",
+      "nole",
       "novak djokovic"
     ],
     "statLine": "Lost 6–4, 6–3, 2–6, 7–5"
@@ -234,7 +245,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Lost 7–5, 7–6(7–3), 5–7, 6–1"
@@ -282,7 +295,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Lost 6–1, 6–3, 6–0"
@@ -298,7 +313,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Lost 6–3, 4–6, 6–3, 6–4"
@@ -314,7 +331,9 @@
     ],
     "player": "Roger Federer",
     "playerAliases": [
+      "fed",
       "federer",
+      "fedex",
       "roger federer"
     ],
     "statLine": "Lost 1–6, 6–1, 6–4, 7–6(7–4)"
