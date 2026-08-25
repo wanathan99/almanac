@@ -505,6 +505,13 @@
         "file": "data/nfl/nfl-superbowl-mvp.json"
       },
       {
+        "id": "nfl-halftime-performer",
+        "title": "Halftime Performer",
+        "subtitle": "Guess the halftime act from that year's two Super Bowl teams (1996–2025)",
+        "icon": "🎤",
+        "file": "data/nfl/nfl-halftime-performer.json"
+      },
+      {
         "id": "nfl-major-awards",
         "title": "Major Awards",
         "subtitle": "Guess the AP award finisher from the team logo (1996–2025)",
