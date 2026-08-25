@@ -4,11 +4,12 @@
     "team": "HBO Max",
     "abbr": "HBO Max",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Pitt",
     "playerAliases": [
+      "pitt",
       "the pitt"
     ]
   },
@@ -17,8 +18,8 @@
     "team": "FX",
     "abbr": "FX",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Shōgun",
     "playerAliases": [
@@ -30,8 +31,8 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Succession",
     "playerAliases": [
@@ -43,8 +44,8 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Succession",
     "playerAliases": [
@@ -56,11 +57,12 @@
     "team": "Netflix",
     "abbr": "Netflix",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Crown",
     "playerAliases": [
+      "crown",
       "the crown"
     ]
   },
@@ -69,8 +71,8 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Succession",
     "playerAliases": [
@@ -82,12 +84,13 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Game of Thrones",
     "playerAliases": [
-      "game of thrones"
+      "game of thrones",
+      "got"
     ]
   },
   {
@@ -95,12 +98,13 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Game of Thrones",
     "playerAliases": [
-      "game of thrones"
+      "game of thrones",
+      "got"
     ]
   },
   {
@@ -108,11 +112,12 @@
     "team": "Hulu",
     "abbr": "Hulu",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Handmaid's Tale",
     "playerAliases": [
+      "handmaid's tale",
       "the handmaid's tale"
     ]
   },
@@ -121,12 +126,13 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Game of Thrones",
     "playerAliases": [
-      "game of thrones"
+      "game of thrones",
+      "got"
     ]
   },
   {
@@ -134,12 +140,13 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Game of Thrones",
     "playerAliases": [
-      "game of thrones"
+      "game of thrones",
+      "got"
     ]
   },
   {
@@ -147,8 +154,8 @@
     "team": "AMC",
     "abbr": "AMC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Breaking Bad",
     "playerAliases": [
@@ -160,8 +167,8 @@
     "team": "AMC",
     "abbr": "AMC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Breaking Bad",
     "playerAliases": [
@@ -173,8 +180,8 @@
     "team": "Showtime",
     "abbr": "Showtime",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Homeland",
     "playerAliases": [
@@ -186,8 +193,8 @@
     "team": "AMC",
     "abbr": "AMC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Mad Men",
     "playerAliases": [
@@ -199,8 +206,8 @@
     "team": "AMC",
     "abbr": "AMC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Mad Men",
     "playerAliases": [
@@ -212,8 +219,8 @@
     "team": "AMC",
     "abbr": "AMC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Mad Men",
     "playerAliases": [
@@ -225,8 +232,8 @@
     "team": "AMC",
     "abbr": "AMC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Mad Men",
     "playerAliases": [
@@ -238,11 +245,12 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Sopranos",
     "playerAliases": [
+      "sopranos",
       "the sopranos"
     ]
   },
@@ -251,8 +259,8 @@
     "team": "Fox",
     "abbr": "Fox",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "24",
     "playerAliases": [
@@ -264,8 +272,8 @@
     "team": "ABC",
     "abbr": "ABC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Lost",
     "playerAliases": [
@@ -277,11 +285,12 @@
     "team": "HBO",
     "abbr": "HBO",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Sopranos",
     "playerAliases": [
+      "sopranos",
       "the sopranos"
     ]
   },
@@ -290,12 +299,13 @@
     "team": "NBC",
     "abbr": "NBC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The West Wing",
     "playerAliases": [
-      "the west wing"
+      "the west wing",
+      "west wing"
     ]
   },
   {
@@ -303,12 +313,13 @@
     "team": "NBC",
     "abbr": "NBC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The West Wing",
     "playerAliases": [
-      "the west wing"
+      "the west wing",
+      "west wing"
     ]
   },
   {
@@ -316,12 +327,13 @@
     "team": "NBC",
     "abbr": "NBC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The West Wing",
     "playerAliases": [
-      "the west wing"
+      "the west wing",
+      "west wing"
     ]
   },
   {
@@ -329,12 +341,13 @@
     "team": "NBC",
     "abbr": "NBC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The West Wing",
     "playerAliases": [
-      "the west wing"
+      "the west wing",
+      "west wing"
     ]
   },
   {
@@ -342,11 +355,12 @@
     "team": "ABC",
     "abbr": "ABC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Practice",
     "playerAliases": [
+      "practice",
       "the practice"
     ]
   },
@@ -355,11 +369,12 @@
     "team": "ABC",
     "abbr": "ABC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "The Practice",
     "playerAliases": [
+      "practice",
       "the practice"
     ]
   },
@@ -368,8 +383,8 @@
     "team": "NBC",
     "abbr": "NBC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "Law & Order",
     "playerAliases": [
@@ -381,8 +396,8 @@
     "team": "NBC",
     "abbr": "NBC",
     "colors": [
-      "#D4AF37",
-      "#2C2C2C"
+      "#0B3D91",
+      "#1C2951"
     ],
     "player": "ER",
     "playerAliases": [

@@ -22,6 +22,7 @@
     ],
     "player": "The Outsiders",
     "playerAliases": [
+      "outsiders",
       "the outsiders"
     ]
   },
@@ -48,7 +49,8 @@
     ],
     "player": "A Strange Loop",
     "playerAliases": [
-      "a strange loop"
+      "a strange loop",
+      "strange loop"
     ]
   },
   {
@@ -66,6 +68,7 @@
     ],
     "player": "Moulin Rouge! The Musical",
     "playerAliases": [
+      "moulin rouge",
       "moulin rouge! the musical"
     ]
   },
@@ -92,6 +95,7 @@
     ],
     "player": "The Band's Visit",
     "playerAliases": [
+      "band's visit",
       "the band's visit"
     ]
   },
@@ -144,7 +148,9 @@
     ],
     "player": "A Gentleman's Guide to Love and Murder",
     "playerAliases": [
-      "a gentleman's guide to love and murder"
+      "a gentleman's guide to love and murder",
+      "gentleman's guide",
+      "gentleman's guide to love and murder"
     ]
   },
   {
@@ -183,6 +189,7 @@
     ],
     "player": "The Book of Mormon",
     "playerAliases": [
+      "book of mormon",
       "the book of mormon"
     ]
   },
@@ -209,6 +216,7 @@
     ],
     "player": "Billy Elliot the Musical",
     "playerAliases": [
+      "billy elliot",
       "billy elliot the musical"
     ]
   },
@@ -300,6 +308,7 @@
     ],
     "player": "Thoroughly Modern Millie",
     "playerAliases": [
+      "millie",
       "thoroughly modern millie"
     ]
   },
@@ -313,6 +322,7 @@
     ],
     "player": "The Producers",
     "playerAliases": [
+      "producers",
       "the producers"
     ]
   },
@@ -352,6 +362,7 @@
     ],
     "player": "The Lion King",
     "playerAliases": [
+      "lion king",
       "the lion king"
     ]
   },

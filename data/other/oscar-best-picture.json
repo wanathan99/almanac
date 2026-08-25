@@ -48,6 +48,7 @@
     ],
     "player": "Everything Everywhere All at Once",
     "playerAliases": [
+      "eeaao",
       "everything everywhere all at once"
     ]
   },
@@ -113,6 +114,7 @@
     ],
     "player": "The Shape of Water",
     "playerAliases": [
+      "shape of water",
       "the shape of water"
     ]
   },
@@ -152,6 +154,7 @@
     ],
     "player": "Birdman or (The Unexpected Virtue of Ignorance)",
     "playerAliases": [
+      "birdman",
       "birdman or (the unexpected virtue of ignorance)"
     ]
   },
@@ -191,6 +194,7 @@
     ],
     "player": "The Artist",
     "playerAliases": [
+      "artist",
       "the artist"
     ]
   },
@@ -204,6 +208,7 @@
     ],
     "player": "The King's Speech",
     "playerAliases": [
+      "king's speech",
       "the king's speech"
     ]
   },
@@ -217,6 +222,7 @@
     ],
     "player": "The Hurt Locker",
     "playerAliases": [
+      "hurt locker",
       "the hurt locker"
     ]
   },
@@ -230,6 +236,7 @@
     ],
     "player": "Slumdog Millionaire",
     "playerAliases": [
+      "slumdog",
       "slumdog millionaire"
     ]
   },
@@ -256,6 +263,7 @@
     ],
     "player": "The Departed",
     "playerAliases": [
+      "departed",
       "the departed"
     ]
   },
@@ -295,7 +303,12 @@
     ],
     "player": "The Lord of the Rings: The Return of the King",
     "playerAliases": [
-      "the lord of the rings: the return of the king"
+      "lord of the rings: the return of the king",
+      "lotr",
+      "return of the king",
+      "rotk",
+      "the lord of the rings: the return of the king",
+      "the return of the king"
     ]
   },
   {
@@ -321,7 +334,8 @@
     ],
     "player": "A Beautiful Mind",
     "playerAliases": [
-      "a beautiful mind"
+      "a beautiful mind",
+      "beautiful mind"
     ]
   },
   {
@@ -386,6 +400,7 @@
     ],
     "player": "The English Patient",
     "playerAliases": [
+      "english patient",
       "the english patient"
     ]
   }
