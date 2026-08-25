@@ -481,9 +481,11 @@ function buildShareData() {
   return { text, header, squareRows, footer };
 }
 
+let currentShareText = '';
+
 shareBtn.addEventListener('click', () => {
   const data = buildShareData();
-  shareText.dataset.raw = data.text;
+  currentShareText = data.text;
   const rowsHTML = data.squareRows
     .map(
       (row) =>
@@ -499,7 +501,7 @@ const copyIconSVG = copyShareBtn.innerHTML;
 const checkIconSVG = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
 
 copyShareBtn.addEventListener('click', () => {
-  const text = shareText.dataset.raw || '';
+  const text = currentShareText;
   const markCopied = () => {
     copyShareBtn.innerHTML = checkIconSVG;
     copyShareBtn.classList.add('copy-btn-done');
