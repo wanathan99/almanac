@@ -1348,9 +1348,24 @@
       {
         "id": "word-of-the-year",
         "title": "Word of the Year",
-        "subtitle": "Guess the word from Merriam-Webster's definition (2003–2025)",
+        "subtitle": "Guess the word from a dictionary's definition (2003–2025)",
         "icon": "📖",
-        "file": "data/other/word-of-the-year.json"
+        "variants": [
+          {
+            "id": "word-of-the-year-mw",
+            "label": "Merriam<br>-Webster",
+            "title": "Word of the Year — Merriam-Webster",
+            "subtitle": "Guess the word from Merriam-Webster's definition (2003–2025)",
+            "file": "data/other/word-of-the-year.json"
+          },
+          {
+            "id": "word-of-the-year-oxford",
+            "label": "Oxford",
+            "title": "Word of the Year — Oxford",
+            "subtitle": "Guess the word from Oxford's definition (2004–2025)",
+            "file": "data/other/oxford-word-of-the-year.json"
+          }
+        ]
       },
       {
         "id": "time-poy",

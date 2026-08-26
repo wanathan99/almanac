@@ -1,0 +1,235 @@
+[
+  {
+    "year": 2025,
+    "definition": "Online content deliberately designed to provoke anger and drive engagement.",
+    "player": "Rage bait",
+    "playerAliases": [
+      "rage bait",
+      "ragebait"
+    ]
+  },
+  {
+    "year": 2024,
+    "definition": "The supposed decline of a person's mental state from consuming excessive trivial online content.",
+    "player": "Brain rot",
+    "playerAliases": [
+      "brain rot",
+      "brainrot"
+    ]
+  },
+  {
+    "year": 2023,
+    "definition": "Charisma or skill in attracting a romantic or sexual partner.",
+    "player": "Rizz",
+    "playerAliases": [
+      "rizz"
+    ]
+  },
+  {
+    "year": 2022,
+    "definition": "A slovenly, self-indulgent way of behaving that rejects social norms and expectations.",
+    "player": "Goblin mode",
+    "playerAliases": [
+      "goblin mode"
+    ]
+  },
+  {
+    "year": 2021,
+    "definition": "Informal short form for vaccine or vaccination.",
+    "player": "Vax",
+    "playerAliases": [
+      "vax",
+      "vaxx"
+    ]
+  },
+  {
+    "year": 2020,
+    "invalid": true,
+    "reason": "Oxford did not choose a single Word of the Year in 2020, citing the unprecedented range of significant events"
+  },
+  {
+    "year": 2019,
+    "definition": "A situation requiring urgent action to reduce or halt climate change and prevent further damage.",
+    "player": "Climate emergency",
+    "playerAliases": [
+      "climate emergency"
+    ]
+  },
+  {
+    "year": 2018,
+    "definition": "Poisonous — or, more broadly, harmful, unpleasant, or destructive in a metaphorical sense.",
+    "player": "Toxic",
+    "playerAliases": [
+      "toxic"
+    ]
+  },
+  {
+    "year": 2017,
+    "definition": "A significant cultural, political, or social change driven by the actions of young people.",
+    "player": "Youthquake",
+    "playerAliases": [
+      "youthquake"
+    ]
+  },
+  {
+    "year": 2016,
+    "definition": "Describing circumstances where facts matter less to public opinion than emotion and personal belief.",
+    "player": "Post-truth",
+    "playerAliases": [
+      "post-truth",
+      "posttruth"
+    ]
+  },
+  {
+    "year": 2015,
+    "definition": "Not a word at all — the single most-used emoji in the world that year, per keyboard-usage data.",
+    "player": "Face with Tears of Joy",
+    "playerAliases": [
+      "crying laughing",
+      "crying laughing emoji",
+      "crying with laughter emoji",
+      "face with tears of joy",
+      "face with tears of joy emoji",
+      "haha emoji",
+      "joy emoji",
+      "laugh cry emoji",
+      "laughing crying emoji",
+      "laughing emoji",
+      "laughter emoji",
+      "lmao emoji",
+      "lol emoji",
+      "tears of joy",
+      "tears of joy emoji"
+    ]
+  },
+  {
+    "year": 2014,
+    "definition": "To inhale vapor from an electronic cigarette or similar device.",
+    "player": "Vape",
+    "playerAliases": [
+      "vape",
+      "vaping"
+    ]
+  },
+  {
+    "year": 2013,
+    "definition": "A photograph someone takes of themselves, typically with a smartphone.",
+    "player": "Selfie",
+    "playerAliases": [
+      "selfie"
+    ]
+  },
+  {
+    "year": 2012,
+    "definition": "A compressed image file format that supports simple looping animations, widely shared online.",
+    "player": "GIF",
+    "playerAliases": [
+      "gif"
+    ]
+  },
+  {
+    "year": 2011,
+    "definition": "The section of society hit hardest by wage freezes and rising costs despite middle incomes.",
+    "player": "Squeezed middle",
+    "playerAliases": [
+      "squeezed middle"
+    ]
+  },
+  {
+    "year": 2010,
+    "definition": "A blend of \"refute\" and \"repudiate\" popularized by Sarah Palin, used to mean strongly reject something.",
+    "player": "Refudiate",
+    "playerAliases": [
+      "refudiate"
+    ]
+  },
+  {
+    "year": 2009,
+    "definition": "To remove someone from a list of friends on a social networking site.",
+    "player": "Unfriend",
+    "playerAliases": [
+      "unfriend"
+    ]
+  },
+  {
+    "year": 2008,
+    "definition": "Adapting your driving habits to squeeze the maximum possible distance out of every drop of fuel.",
+    "player": "Hypermiling",
+    "playerAliases": [
+      "hypermiling"
+    ]
+  },
+  {
+    "year": 2007,
+    "definition": "A person who tries to eat only food grown or produced within a small radius of home.",
+    "player": "Locavore",
+    "playerAliases": [
+      "locavore"
+    ]
+  },
+  {
+    "year": 2006,
+    "definition": "Having a net-zero output of carbon dioxide, by balancing emissions with reductions or offsets.",
+    "player": "Carbon-neutral",
+    "playerAliases": [
+      "carbon neutral",
+      "carbon-neutral"
+    ]
+  },
+  {
+    "year": 2005,
+    "definition": "A digital audio program, usually part of a series, downloaded or streamed episode by episode.",
+    "player": "Podcast",
+    "playerAliases": [
+      "podcast"
+    ]
+  },
+  {
+    "year": 2004,
+    "definition": "A British slang term stereotyping a young working-class person for flashy dress and loutish behavior.",
+    "player": "Chav",
+    "playerAliases": [
+      "chav"
+    ]
+  },
+  {
+    "year": 2003,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 2002,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 2001,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 2000,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 1999,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 1998,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 1997,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  },
+  {
+    "year": 1996,
+    "invalid": true,
+    "reason": "Oxford's Word of the Year program did not begin until 2004"
+  }
+]
