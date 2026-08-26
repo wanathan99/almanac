@@ -19,6 +19,7 @@
     },
     "player": "Los Angeles Dodgers",
     "playerAliases": [
+      "dodgers",
       "los angeles dodgers"
     ],
     "statLine": "Won 4–3"
@@ -43,6 +44,7 @@
     },
     "player": "Los Angeles Dodgers",
     "playerAliases": [
+      "dodgers",
       "los angeles dodgers"
     ],
     "statLine": "Won 4–1"
@@ -67,6 +69,7 @@
     },
     "player": "Texas Rangers",
     "playerAliases": [
+      "rangers",
       "texas rangers"
     ],
     "statLine": "Won 4–1"
@@ -91,6 +94,7 @@
     },
     "player": "Houston Astros",
     "playerAliases": [
+      "astros",
       "houston astros"
     ],
     "statLine": "Won 4–2"
@@ -115,7 +119,8 @@
     },
     "player": "Atlanta Braves",
     "playerAliases": [
-      "atlanta braves"
+      "atlanta braves",
+      "braves"
     ],
     "statLine": "Won 4–2"
   },
@@ -139,6 +144,7 @@
     },
     "player": "Los Angeles Dodgers",
     "playerAliases": [
+      "dodgers",
       "los angeles dodgers"
     ],
     "statLine": "Won 4–2"
@@ -163,6 +169,7 @@
     },
     "player": "Washington Nationals",
     "playerAliases": [
+      "nationals",
       "washington nationals"
     ],
     "statLine": "Won 4–3"
@@ -187,7 +194,8 @@
     },
     "player": "Boston Red Sox",
     "playerAliases": [
-      "boston red sox"
+      "boston red sox",
+      "red sox"
     ],
     "statLine": "Won 4–1"
   },
@@ -211,6 +219,7 @@
     },
     "player": "Houston Astros",
     "playerAliases": [
+      "astros",
       "houston astros"
     ],
     "statLine": "Won 4–3"
@@ -235,7 +244,8 @@
     },
     "player": "Chicago Cubs",
     "playerAliases": [
-      "chicago cubs"
+      "chicago cubs",
+      "cubs"
     ],
     "statLine": "Won 4–3"
   },
@@ -259,7 +269,8 @@
     },
     "player": "Kansas City Royals",
     "playerAliases": [
-      "kansas city royals"
+      "kansas city royals",
+      "royals"
     ],
     "statLine": "Won 4–1"
   },
@@ -283,6 +294,7 @@
     },
     "player": "San Francisco Giants",
     "playerAliases": [
+      "giants",
       "san francisco giants"
     ],
     "statLine": "Won 4–3"
@@ -307,7 +319,8 @@
     },
     "player": "Boston Red Sox",
     "playerAliases": [
-      "boston red sox"
+      "boston red sox",
+      "red sox"
     ],
     "statLine": "Won 4–2"
   },
@@ -331,6 +344,7 @@
     },
     "player": "San Francisco Giants",
     "playerAliases": [
+      "giants",
       "san francisco giants"
     ],
     "statLine": "Won 4–0"
@@ -355,6 +369,7 @@
     },
     "player": "St. Louis Cardinals",
     "playerAliases": [
+      "cardinals",
       "st. louis cardinals"
     ],
     "statLine": "Won 4–3"
@@ -379,6 +394,7 @@
     },
     "player": "San Francisco Giants",
     "playerAliases": [
+      "giants",
       "san francisco giants"
     ],
     "statLine": "Won 4–1"
@@ -403,7 +419,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Won 4–2"
   },
@@ -427,7 +444,8 @@
     },
     "player": "Philadelphia Phillies",
     "playerAliases": [
-      "philadelphia phillies"
+      "philadelphia phillies",
+      "phillies"
     ],
     "statLine": "Won 4–1"
   },
@@ -451,7 +469,8 @@
     },
     "player": "Boston Red Sox",
     "playerAliases": [
-      "boston red sox"
+      "boston red sox",
+      "red sox"
     ],
     "statLine": "Won 4–0"
   },
@@ -475,6 +494,7 @@
     },
     "player": "St. Louis Cardinals",
     "playerAliases": [
+      "cardinals",
       "st. louis cardinals"
     ],
     "statLine": "Won 4–1"
@@ -499,7 +519,8 @@
     },
     "player": "Chicago White Sox",
     "playerAliases": [
-      "chicago white sox"
+      "chicago white sox",
+      "white sox"
     ],
     "statLine": "Won 4–0"
   },
@@ -523,7 +544,8 @@
     },
     "player": "Boston Red Sox",
     "playerAliases": [
-      "boston red sox"
+      "boston red sox",
+      "red sox"
     ],
     "statLine": "Won 4–0"
   },
@@ -547,7 +569,8 @@
     },
     "player": "Florida Marlins",
     "playerAliases": [
-      "florida marlins"
+      "florida marlins",
+      "marlins"
     ],
     "statLine": "Won 4–2"
   },
@@ -571,7 +594,8 @@
     },
     "player": "Anaheim Angels",
     "playerAliases": [
-      "anaheim angels"
+      "anaheim angels",
+      "angels"
     ],
     "statLine": "Won 4–3"
   },
@@ -595,7 +619,8 @@
     },
     "player": "Arizona Diamondbacks",
     "playerAliases": [
-      "arizona diamondbacks"
+      "arizona diamondbacks",
+      "diamondbacks"
     ],
     "statLine": "Won 4–3"
   },
@@ -619,7 +644,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Won 4–1"
   },
@@ -643,7 +669,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Won 4–0"
   },
@@ -667,7 +694,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Won 4–0"
   },
@@ -691,7 +719,8 @@
     },
     "player": "Florida Marlins",
     "playerAliases": [
-      "florida marlins"
+      "florida marlins",
+      "marlins"
     ],
     "statLine": "Won 4–3"
   },
@@ -715,7 +744,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Won 4–2"
   }

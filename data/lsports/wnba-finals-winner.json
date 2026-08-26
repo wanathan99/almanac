@@ -19,6 +19,7 @@
     },
     "player": "Las Vegas Aces",
     "playerAliases": [
+      "aces",
       "las vegas aces"
     ],
     "statLine": "Won 4–0"
@@ -43,6 +44,7 @@
     },
     "player": "New York Liberty",
     "playerAliases": [
+      "liberty",
       "new york liberty"
     ],
     "statLine": "Won 3–2"
@@ -67,6 +69,7 @@
     },
     "player": "Las Vegas Aces",
     "playerAliases": [
+      "aces",
       "las vegas aces"
     ],
     "statLine": "Won 3–1"
@@ -91,6 +94,7 @@
     },
     "player": "Las Vegas Aces",
     "playerAliases": [
+      "aces",
       "las vegas aces"
     ],
     "statLine": "Won 3–1"
@@ -115,7 +119,8 @@
     },
     "player": "Chicago Sky",
     "playerAliases": [
-      "chicago sky"
+      "chicago sky",
+      "sky"
     ],
     "statLine": "Won 3–1"
   },
@@ -139,7 +144,8 @@
     },
     "player": "Seattle Storm",
     "playerAliases": [
-      "seattle storm"
+      "seattle storm",
+      "storm"
     ],
     "statLine": "Won 3–0"
   },
@@ -163,6 +169,7 @@
     },
     "player": "Washington Mystics",
     "playerAliases": [
+      "mystics",
       "washington mystics"
     ],
     "statLine": "Won 3–2"
@@ -187,7 +194,8 @@
     },
     "player": "Seattle Storm",
     "playerAliases": [
-      "seattle storm"
+      "seattle storm",
+      "storm"
     ],
     "statLine": "Won 3–0"
   },
@@ -211,6 +219,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Won 3–2"
@@ -235,7 +244,8 @@
     },
     "player": "Los Angeles Sparks",
     "playerAliases": [
-      "los angeles sparks"
+      "los angeles sparks",
+      "sparks"
     ],
     "statLine": "Won 3–2"
   },
@@ -259,6 +269,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Won 3–2"
@@ -283,6 +294,7 @@
     },
     "player": "Phoenix Mercury",
     "playerAliases": [
+      "mercury",
       "phoenix mercury"
     ],
     "statLine": "Won 3–0"
@@ -307,6 +319,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Won 3–0"
@@ -331,6 +344,7 @@
     },
     "player": "Indiana Fever",
     "playerAliases": [
+      "fever",
       "indiana fever"
     ],
     "statLine": "Won 3–1"
@@ -355,6 +369,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Won 3–0"
@@ -379,7 +394,8 @@
     },
     "player": "Seattle Storm",
     "playerAliases": [
-      "seattle storm"
+      "seattle storm",
+      "storm"
     ],
     "statLine": "Won 3–0"
   },
@@ -403,6 +419,7 @@
     },
     "player": "Phoenix Mercury",
     "playerAliases": [
+      "mercury",
       "phoenix mercury"
     ],
     "statLine": "Won 3–2"
@@ -427,7 +444,8 @@
     },
     "player": "Detroit Shock",
     "playerAliases": [
-      "detroit shock"
+      "detroit shock",
+      "shock"
     ],
     "statLine": "Won 3–0"
   },
@@ -451,6 +469,7 @@
     },
     "player": "Phoenix Mercury",
     "playerAliases": [
+      "mercury",
       "phoenix mercury"
     ],
     "statLine": "Won 3–2"
@@ -475,7 +494,8 @@
     },
     "player": "Detroit Shock",
     "playerAliases": [
-      "detroit shock"
+      "detroit shock",
+      "shock"
     ],
     "statLine": "Won 3–2"
   },
@@ -499,6 +519,7 @@
     },
     "player": "Sacramento Monarchs",
     "playerAliases": [
+      "monarchs",
       "sacramento monarchs"
     ],
     "statLine": "Won 3–1"
@@ -523,7 +544,8 @@
     },
     "player": "Seattle Storm",
     "playerAliases": [
-      "seattle storm"
+      "seattle storm",
+      "storm"
     ],
     "statLine": "Won 2–1"
   },
@@ -547,7 +569,8 @@
     },
     "player": "Detroit Shock",
     "playerAliases": [
-      "detroit shock"
+      "detroit shock",
+      "shock"
     ],
     "statLine": "Won 2–1"
   },
@@ -571,7 +594,8 @@
     },
     "player": "Los Angeles Sparks",
     "playerAliases": [
-      "los angeles sparks"
+      "los angeles sparks",
+      "sparks"
     ],
     "statLine": "Won 2–0"
   },
@@ -595,7 +619,8 @@
     },
     "player": "Los Angeles Sparks",
     "playerAliases": [
-      "los angeles sparks"
+      "los angeles sparks",
+      "sparks"
     ],
     "statLine": "Won 2–0"
   },
@@ -619,6 +644,7 @@
     },
     "player": "Houston Comets",
     "playerAliases": [
+      "comets",
       "houston comets"
     ],
     "statLine": "Won 2–0"
@@ -643,6 +669,7 @@
     },
     "player": "Houston Comets",
     "playerAliases": [
+      "comets",
       "houston comets"
     ],
     "statLine": "Won 2–1"
@@ -667,6 +694,7 @@
     },
     "player": "Houston Comets",
     "playerAliases": [
+      "comets",
       "houston comets"
     ],
     "statLine": "Won 2–1"
@@ -691,6 +719,7 @@
     },
     "player": "Houston Comets",
     "playerAliases": [
+      "comets",
       "houston comets"
     ],
     "statLine": "Won 1–0"

@@ -19,7 +19,8 @@
     },
     "player": "Edmonton Oilers",
     "playerAliases": [
-      "edmonton oilers"
+      "edmonton oilers",
+      "oilers"
     ],
     "statLine": "Lost 4–2"
   },
@@ -43,7 +44,8 @@
     },
     "player": "Edmonton Oilers",
     "playerAliases": [
-      "edmonton oilers"
+      "edmonton oilers",
+      "oilers"
     ],
     "statLine": "Lost 4–3"
   },
@@ -67,7 +69,8 @@
     },
     "player": "Florida Panthers",
     "playerAliases": [
-      "florida panthers"
+      "florida panthers",
+      "panthers"
     ],
     "statLine": "Lost 4–1"
   },
@@ -91,6 +94,7 @@
     },
     "player": "Tampa Bay Lightning",
     "playerAliases": [
+      "lightning",
       "tampa bay lightning"
     ],
     "statLine": "Lost 4–2"
@@ -115,6 +119,7 @@
     },
     "player": "Montreal Canadiens",
     "playerAliases": [
+      "canadiens",
       "montreal canadiens"
     ],
     "statLine": "Lost 4–1"
@@ -139,7 +144,8 @@
     },
     "player": "Dallas Stars",
     "playerAliases": [
-      "dallas stars"
+      "dallas stars",
+      "stars"
     ],
     "statLine": "Lost 4–2"
   },
@@ -163,7 +169,8 @@
     },
     "player": "Boston Bruins",
     "playerAliases": [
-      "boston bruins"
+      "boston bruins",
+      "bruins"
     ],
     "statLine": "Lost 4–3"
   },
@@ -187,6 +194,7 @@
     },
     "player": "Vegas Golden Knights",
     "playerAliases": [
+      "golden knights",
       "vegas golden knights"
     ],
     "statLine": "Lost 4–1"
@@ -211,7 +219,8 @@
     },
     "player": "Nashville Predators",
     "playerAliases": [
-      "nashville predators"
+      "nashville predators",
+      "predators"
     ],
     "statLine": "Lost 4–2"
   },
@@ -235,7 +244,8 @@
     },
     "player": "San Jose Sharks",
     "playerAliases": [
-      "san jose sharks"
+      "san jose sharks",
+      "sharks"
     ],
     "statLine": "Lost 4–2"
   },
@@ -259,6 +269,7 @@
     },
     "player": "Tampa Bay Lightning",
     "playerAliases": [
+      "lightning",
       "tampa bay lightning"
     ],
     "statLine": "Lost 4–2"
@@ -283,7 +294,8 @@
     },
     "player": "New York Rangers",
     "playerAliases": [
-      "new york rangers"
+      "new york rangers",
+      "rangers"
     ],
     "statLine": "Lost 4–1"
   },
@@ -307,7 +319,8 @@
     },
     "player": "Boston Bruins",
     "playerAliases": [
-      "boston bruins"
+      "boston bruins",
+      "bruins"
     ],
     "statLine": "Lost 4–2"
   },
@@ -331,6 +344,7 @@
     },
     "player": "New Jersey Devils",
     "playerAliases": [
+      "devils",
       "new jersey devils"
     ],
     "statLine": "Lost 4–2"
@@ -355,6 +369,7 @@
     },
     "player": "Vancouver Canucks",
     "playerAliases": [
+      "canucks",
       "vancouver canucks"
     ],
     "statLine": "Lost 4–3"
@@ -379,6 +394,7 @@
     },
     "player": "Philadelphia Flyers",
     "playerAliases": [
+      "flyers",
       "philadelphia flyers"
     ],
     "statLine": "Lost 4–2"
@@ -403,7 +419,8 @@
     },
     "player": "Detroit Red Wings",
     "playerAliases": [
-      "detroit red wings"
+      "detroit red wings",
+      "red wings"
     ],
     "statLine": "Lost 4–3"
   },
@@ -427,6 +444,7 @@
     },
     "player": "Pittsburgh Penguins",
     "playerAliases": [
+      "penguins",
       "pittsburgh penguins"
     ],
     "statLine": "Lost 4–2"
@@ -451,7 +469,8 @@
     },
     "player": "Ottawa Senators",
     "playerAliases": [
-      "ottawa senators"
+      "ottawa senators",
+      "senators"
     ],
     "statLine": "Lost 4–1"
   },
@@ -475,7 +494,8 @@
     },
     "player": "Edmonton Oilers",
     "playerAliases": [
-      "edmonton oilers"
+      "edmonton oilers",
+      "oilers"
     ],
     "statLine": "Lost 4–3"
   },
@@ -504,7 +524,8 @@
     },
     "player": "Calgary Flames",
     "playerAliases": [
-      "calgary flames"
+      "calgary flames",
+      "flames"
     ],
     "statLine": "Lost 4–3"
   },
@@ -528,6 +549,7 @@
     },
     "player": "Mighty Ducks of Anaheim",
     "playerAliases": [
+      "ducks",
       "mighty ducks of anaheim"
     ],
     "statLine": "Lost 4–3"
@@ -552,7 +574,8 @@
     },
     "player": "Carolina Hurricanes",
     "playerAliases": [
-      "carolina hurricanes"
+      "carolina hurricanes",
+      "hurricanes"
     ],
     "statLine": "Lost 4–1"
   },
@@ -576,6 +599,7 @@
     },
     "player": "New Jersey Devils",
     "playerAliases": [
+      "devils",
       "new jersey devils"
     ],
     "statLine": "Lost 4–3"
@@ -600,7 +624,8 @@
     },
     "player": "Dallas Stars",
     "playerAliases": [
-      "dallas stars"
+      "dallas stars",
+      "stars"
     ],
     "statLine": "Lost 4–2"
   },
@@ -624,7 +649,8 @@
     },
     "player": "Buffalo Sabres",
     "playerAliases": [
-      "buffalo sabres"
+      "buffalo sabres",
+      "sabres"
     ],
     "statLine": "Lost 4–2"
   },
@@ -648,6 +674,7 @@
     },
     "player": "Washington Capitals",
     "playerAliases": [
+      "capitals",
       "washington capitals"
     ],
     "statLine": "Lost 4–0"
@@ -672,6 +699,7 @@
     },
     "player": "Philadelphia Flyers",
     "playerAliases": [
+      "flyers",
       "philadelphia flyers"
     ],
     "statLine": "Lost 4–0"
@@ -696,7 +724,8 @@
     },
     "player": "Florida Panthers",
     "playerAliases": [
-      "florida panthers"
+      "florida panthers",
+      "panthers"
     ],
     "statLine": "Lost 4–0"
   }

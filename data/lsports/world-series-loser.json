@@ -19,6 +19,7 @@
     },
     "player": "Toronto Blue Jays",
     "playerAliases": [
+      "blue jays",
       "toronto blue jays"
     ],
     "statLine": "Lost 4–3"
@@ -43,7 +44,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Lost 4–1"
   },
@@ -67,7 +69,8 @@
     },
     "player": "Arizona Diamondbacks",
     "playerAliases": [
-      "arizona diamondbacks"
+      "arizona diamondbacks",
+      "diamondbacks"
     ],
     "statLine": "Lost 4–1"
   },
@@ -91,7 +94,8 @@
     },
     "player": "Philadelphia Phillies",
     "playerAliases": [
-      "philadelphia phillies"
+      "philadelphia phillies",
+      "phillies"
     ],
     "statLine": "Lost 4–2"
   },
@@ -115,6 +119,7 @@
     },
     "player": "Houston Astros",
     "playerAliases": [
+      "astros",
       "houston astros"
     ],
     "statLine": "Lost 4–2"
@@ -139,6 +144,7 @@
     },
     "player": "Tampa Bay Rays",
     "playerAliases": [
+      "rays",
       "tampa bay rays"
     ],
     "statLine": "Lost 4–2"
@@ -163,6 +169,7 @@
     },
     "player": "Houston Astros",
     "playerAliases": [
+      "astros",
       "houston astros"
     ],
     "statLine": "Lost 4–3"
@@ -187,6 +194,7 @@
     },
     "player": "Los Angeles Dodgers",
     "playerAliases": [
+      "dodgers",
       "los angeles dodgers"
     ],
     "statLine": "Lost 4–1"
@@ -211,6 +219,7 @@
     },
     "player": "Los Angeles Dodgers",
     "playerAliases": [
+      "dodgers",
       "los angeles dodgers"
     ],
     "statLine": "Lost 4–3"
@@ -235,7 +244,8 @@
     },
     "player": "Cleveland Indians",
     "playerAliases": [
-      "cleveland indians"
+      "cleveland indians",
+      "indians"
     ],
     "statLine": "Lost 4–3"
   },
@@ -259,6 +269,7 @@
     },
     "player": "New York Mets",
     "playerAliases": [
+      "mets",
       "new york mets"
     ],
     "statLine": "Lost 4–1"
@@ -283,7 +294,8 @@
     },
     "player": "Kansas City Royals",
     "playerAliases": [
-      "kansas city royals"
+      "kansas city royals",
+      "royals"
     ],
     "statLine": "Lost 4–3"
   },
@@ -307,6 +319,7 @@
     },
     "player": "St. Louis Cardinals",
     "playerAliases": [
+      "cardinals",
       "st. louis cardinals"
     ],
     "statLine": "Lost 4–2"
@@ -331,7 +344,8 @@
     },
     "player": "Detroit Tigers",
     "playerAliases": [
-      "detroit tigers"
+      "detroit tigers",
+      "tigers"
     ],
     "statLine": "Lost 4–0"
   },
@@ -355,6 +369,7 @@
     },
     "player": "Texas Rangers",
     "playerAliases": [
+      "rangers",
       "texas rangers"
     ],
     "statLine": "Lost 4–3"
@@ -379,6 +394,7 @@
     },
     "player": "Texas Rangers",
     "playerAliases": [
+      "rangers",
       "texas rangers"
     ],
     "statLine": "Lost 4–1"
@@ -403,7 +419,8 @@
     },
     "player": "Philadelphia Phillies",
     "playerAliases": [
-      "philadelphia phillies"
+      "philadelphia phillies",
+      "phillies"
     ],
     "statLine": "Lost 4–2"
   },
@@ -427,6 +444,7 @@
     },
     "player": "Tampa Bay Rays",
     "playerAliases": [
+      "rays",
       "tampa bay rays"
     ],
     "statLine": "Lost 4–1"
@@ -451,7 +469,8 @@
     },
     "player": "Colorado Rockies",
     "playerAliases": [
-      "colorado rockies"
+      "colorado rockies",
+      "rockies"
     ],
     "statLine": "Lost 4–0"
   },
@@ -475,7 +494,8 @@
     },
     "player": "Detroit Tigers",
     "playerAliases": [
-      "detroit tigers"
+      "detroit tigers",
+      "tigers"
     ],
     "statLine": "Lost 4–1"
   },
@@ -499,6 +519,7 @@
     },
     "player": "Houston Astros",
     "playerAliases": [
+      "astros",
       "houston astros"
     ],
     "statLine": "Lost 4–0"
@@ -523,6 +544,7 @@
     },
     "player": "St. Louis Cardinals",
     "playerAliases": [
+      "cardinals",
       "st. louis cardinals"
     ],
     "statLine": "Lost 4–0"
@@ -547,7 +569,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Lost 4–2"
   },
@@ -571,6 +594,7 @@
     },
     "player": "San Francisco Giants",
     "playerAliases": [
+      "giants",
       "san francisco giants"
     ],
     "statLine": "Lost 4–3"
@@ -595,7 +619,8 @@
     },
     "player": "New York Yankees",
     "playerAliases": [
-      "new york yankees"
+      "new york yankees",
+      "yankees"
     ],
     "statLine": "Lost 4–3"
   },
@@ -619,6 +644,7 @@
     },
     "player": "New York Mets",
     "playerAliases": [
+      "mets",
       "new york mets"
     ],
     "statLine": "Lost 4–1"
@@ -643,7 +669,8 @@
     },
     "player": "Atlanta Braves",
     "playerAliases": [
-      "atlanta braves"
+      "atlanta braves",
+      "braves"
     ],
     "statLine": "Lost 4–0"
   },
@@ -667,6 +694,7 @@
     },
     "player": "San Diego Padres",
     "playerAliases": [
+      "padres",
       "san diego padres"
     ],
     "statLine": "Lost 4–0"
@@ -691,7 +719,8 @@
     },
     "player": "Cleveland Indians",
     "playerAliases": [
-      "cleveland indians"
+      "cleveland indians",
+      "indians"
     ],
     "statLine": "Lost 4–3"
   },
@@ -715,7 +744,8 @@
     },
     "player": "Atlanta Braves",
     "playerAliases": [
-      "atlanta braves"
+      "atlanta braves",
+      "braves"
     ],
     "statLine": "Lost 4–2"
   }

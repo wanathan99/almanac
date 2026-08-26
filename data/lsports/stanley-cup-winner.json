@@ -19,7 +19,8 @@
     },
     "player": "Florida Panthers",
     "playerAliases": [
-      "florida panthers"
+      "florida panthers",
+      "panthers"
     ],
     "statLine": "Won 4–2"
   },
@@ -43,7 +44,8 @@
     },
     "player": "Florida Panthers",
     "playerAliases": [
-      "florida panthers"
+      "florida panthers",
+      "panthers"
     ],
     "statLine": "Won 4–3"
   },
@@ -67,6 +69,7 @@
     },
     "player": "Vegas Golden Knights",
     "playerAliases": [
+      "golden knights",
       "vegas golden knights"
     ],
     "statLine": "Won 4–1"
@@ -91,6 +94,7 @@
     },
     "player": "Colorado Avalanche",
     "playerAliases": [
+      "avalanche",
       "colorado avalanche"
     ],
     "statLine": "Won 4–2"
@@ -115,6 +119,7 @@
     },
     "player": "Tampa Bay Lightning",
     "playerAliases": [
+      "lightning",
       "tampa bay lightning"
     ],
     "statLine": "Won 4–1"
@@ -139,6 +144,7 @@
     },
     "player": "Tampa Bay Lightning",
     "playerAliases": [
+      "lightning",
       "tampa bay lightning"
     ],
     "statLine": "Won 4–2"
@@ -163,6 +169,7 @@
     },
     "player": "St. Louis Blues",
     "playerAliases": [
+      "blues",
       "st. louis blues"
     ],
     "statLine": "Won 4–3"
@@ -187,6 +194,7 @@
     },
     "player": "Washington Capitals",
     "playerAliases": [
+      "capitals",
       "washington capitals"
     ],
     "statLine": "Won 4–1"
@@ -211,6 +219,7 @@
     },
     "player": "Pittsburgh Penguins",
     "playerAliases": [
+      "penguins",
       "pittsburgh penguins"
     ],
     "statLine": "Won 4–2"
@@ -235,6 +244,7 @@
     },
     "player": "Pittsburgh Penguins",
     "playerAliases": [
+      "penguins",
       "pittsburgh penguins"
     ],
     "statLine": "Won 4–2"
@@ -259,6 +269,7 @@
     },
     "player": "Chicago Blackhawks",
     "playerAliases": [
+      "blackhawks",
       "chicago blackhawks"
     ],
     "statLine": "Won 4–2"
@@ -283,6 +294,7 @@
     },
     "player": "Los Angeles Kings",
     "playerAliases": [
+      "kings",
       "los angeles kings"
     ],
     "statLine": "Won 4–1"
@@ -307,6 +319,7 @@
     },
     "player": "Chicago Blackhawks",
     "playerAliases": [
+      "blackhawks",
       "chicago blackhawks"
     ],
     "statLine": "Won 4–2"
@@ -331,6 +344,7 @@
     },
     "player": "Los Angeles Kings",
     "playerAliases": [
+      "kings",
       "los angeles kings"
     ],
     "statLine": "Won 4–2"
@@ -355,7 +369,8 @@
     },
     "player": "Boston Bruins",
     "playerAliases": [
-      "boston bruins"
+      "boston bruins",
+      "bruins"
     ],
     "statLine": "Won 4–3"
   },
@@ -379,6 +394,7 @@
     },
     "player": "Chicago Blackhawks",
     "playerAliases": [
+      "blackhawks",
       "chicago blackhawks"
     ],
     "statLine": "Won 4–2"
@@ -403,6 +419,7 @@
     },
     "player": "Pittsburgh Penguins",
     "playerAliases": [
+      "penguins",
       "pittsburgh penguins"
     ],
     "statLine": "Won 4–3"
@@ -427,7 +444,8 @@
     },
     "player": "Detroit Red Wings",
     "playerAliases": [
-      "detroit red wings"
+      "detroit red wings",
+      "red wings"
     ],
     "statLine": "Won 4–2"
   },
@@ -451,7 +469,8 @@
     },
     "player": "Anaheim Ducks",
     "playerAliases": [
-      "anaheim ducks"
+      "anaheim ducks",
+      "ducks"
     ],
     "statLine": "Won 4–1"
   },
@@ -475,7 +494,8 @@
     },
     "player": "Carolina Hurricanes",
     "playerAliases": [
-      "carolina hurricanes"
+      "carolina hurricanes",
+      "hurricanes"
     ],
     "statLine": "Won 4–3"
   },
@@ -504,6 +524,7 @@
     },
     "player": "Tampa Bay Lightning",
     "playerAliases": [
+      "lightning",
       "tampa bay lightning"
     ],
     "statLine": "Won 4–3"
@@ -528,6 +549,7 @@
     },
     "player": "New Jersey Devils",
     "playerAliases": [
+      "devils",
       "new jersey devils"
     ],
     "statLine": "Won 4–3"
@@ -552,7 +574,8 @@
     },
     "player": "Detroit Red Wings",
     "playerAliases": [
-      "detroit red wings"
+      "detroit red wings",
+      "red wings"
     ],
     "statLine": "Won 4–1"
   },
@@ -576,6 +599,7 @@
     },
     "player": "Colorado Avalanche",
     "playerAliases": [
+      "avalanche",
       "colorado avalanche"
     ],
     "statLine": "Won 4–3"
@@ -600,6 +624,7 @@
     },
     "player": "New Jersey Devils",
     "playerAliases": [
+      "devils",
       "new jersey devils"
     ],
     "statLine": "Won 4–2"
@@ -624,7 +649,8 @@
     },
     "player": "Dallas Stars",
     "playerAliases": [
-      "dallas stars"
+      "dallas stars",
+      "stars"
     ],
     "statLine": "Won 4–2"
   },
@@ -648,7 +674,8 @@
     },
     "player": "Detroit Red Wings",
     "playerAliases": [
-      "detroit red wings"
+      "detroit red wings",
+      "red wings"
     ],
     "statLine": "Won 4–0"
   },
@@ -672,7 +699,8 @@
     },
     "player": "Detroit Red Wings",
     "playerAliases": [
-      "detroit red wings"
+      "detroit red wings",
+      "red wings"
     ],
     "statLine": "Won 4–0"
   },
@@ -696,6 +724,7 @@
     },
     "player": "Colorado Avalanche",
     "playerAliases": [
+      "avalanche",
       "colorado avalanche"
     ],
     "statLine": "Won 4–0"

@@ -19,6 +19,7 @@
     },
     "player": "Phoenix Mercury",
     "playerAliases": [
+      "mercury",
       "phoenix mercury"
     ],
     "statLine": "Lost 4–0"
@@ -43,6 +44,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Lost 3–2"
@@ -67,6 +69,7 @@
     },
     "player": "New York Liberty",
     "playerAliases": [
+      "liberty",
       "new york liberty"
     ],
     "statLine": "Lost 3–1"
@@ -91,7 +94,8 @@
     },
     "player": "Connecticut Sun",
     "playerAliases": [
-      "connecticut sun"
+      "connecticut sun",
+      "sun"
     ],
     "statLine": "Lost 3–1"
   },
@@ -115,6 +119,7 @@
     },
     "player": "Phoenix Mercury",
     "playerAliases": [
+      "mercury",
       "phoenix mercury"
     ],
     "statLine": "Lost 3–1"
@@ -139,6 +144,7 @@
     },
     "player": "Las Vegas Aces",
     "playerAliases": [
+      "aces",
       "las vegas aces"
     ],
     "statLine": "Lost 3–0"
@@ -163,7 +169,8 @@
     },
     "player": "Connecticut Sun",
     "playerAliases": [
-      "connecticut sun"
+      "connecticut sun",
+      "sun"
     ],
     "statLine": "Lost 3–2"
   },
@@ -187,6 +194,7 @@
     },
     "player": "Washington Mystics",
     "playerAliases": [
+      "mystics",
       "washington mystics"
     ],
     "statLine": "Lost 3–0"
@@ -211,7 +219,8 @@
     },
     "player": "Los Angeles Sparks",
     "playerAliases": [
-      "los angeles sparks"
+      "los angeles sparks",
+      "sparks"
     ],
     "statLine": "Lost 3–2"
   },
@@ -235,6 +244,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Lost 3–2"
@@ -259,6 +269,7 @@
     },
     "player": "Indiana Fever",
     "playerAliases": [
+      "fever",
       "indiana fever"
     ],
     "statLine": "Lost 3–2"
@@ -283,7 +294,8 @@
     },
     "player": "Chicago Sky",
     "playerAliases": [
-      "chicago sky"
+      "chicago sky",
+      "sky"
     ],
     "statLine": "Lost 3–0"
   },
@@ -307,7 +319,8 @@
     },
     "player": "Atlanta Dream",
     "playerAliases": [
-      "atlanta dream"
+      "atlanta dream",
+      "dream"
     ],
     "statLine": "Lost 3–0"
   },
@@ -331,6 +344,7 @@
     },
     "player": "Minnesota Lynx",
     "playerAliases": [
+      "lynx",
       "minnesota lynx"
     ],
     "statLine": "Lost 3–1"
@@ -355,7 +369,8 @@
     },
     "player": "Atlanta Dream",
     "playerAliases": [
-      "atlanta dream"
+      "atlanta dream",
+      "dream"
     ],
     "statLine": "Lost 3–0"
   },
@@ -379,7 +394,8 @@
     },
     "player": "Atlanta Dream",
     "playerAliases": [
-      "atlanta dream"
+      "atlanta dream",
+      "dream"
     ],
     "statLine": "Lost 3–0"
   },
@@ -403,6 +419,7 @@
     },
     "player": "Indiana Fever",
     "playerAliases": [
+      "fever",
       "indiana fever"
     ],
     "statLine": "Lost 3–2"
@@ -427,7 +444,8 @@
     },
     "player": "San Antonio Silver Stars",
     "playerAliases": [
-      "san antonio silver stars"
+      "san antonio silver stars",
+      "silver stars"
     ],
     "statLine": "Lost 3–0"
   },
@@ -451,7 +469,8 @@
     },
     "player": "Detroit Shock",
     "playerAliases": [
-      "detroit shock"
+      "detroit shock",
+      "shock"
     ],
     "statLine": "Lost 3–2"
   },
@@ -475,6 +494,7 @@
     },
     "player": "Sacramento Monarchs",
     "playerAliases": [
+      "monarchs",
       "sacramento monarchs"
     ],
     "statLine": "Lost 3–2"
@@ -499,7 +519,8 @@
     },
     "player": "Connecticut Sun",
     "playerAliases": [
-      "connecticut sun"
+      "connecticut sun",
+      "sun"
     ],
     "statLine": "Lost 3–1"
   },
@@ -523,7 +544,8 @@
     },
     "player": "Connecticut Sun",
     "playerAliases": [
-      "connecticut sun"
+      "connecticut sun",
+      "sun"
     ],
     "statLine": "Lost 2–1"
   },
@@ -547,7 +569,8 @@
     },
     "player": "Los Angeles Sparks",
     "playerAliases": [
-      "los angeles sparks"
+      "los angeles sparks",
+      "sparks"
     ],
     "statLine": "Lost 2–1"
   },
@@ -571,6 +594,7 @@
     },
     "player": "New York Liberty",
     "playerAliases": [
+      "liberty",
       "new york liberty"
     ],
     "statLine": "Lost 2–0"
@@ -595,7 +619,8 @@
     },
     "player": "Charlotte Sting",
     "playerAliases": [
-      "charlotte sting"
+      "charlotte sting",
+      "sting"
     ],
     "statLine": "Lost 2–0"
   },
@@ -619,6 +644,7 @@
     },
     "player": "New York Liberty",
     "playerAliases": [
+      "liberty",
       "new york liberty"
     ],
     "statLine": "Lost 2–0"
@@ -643,6 +669,7 @@
     },
     "player": "New York Liberty",
     "playerAliases": [
+      "liberty",
       "new york liberty"
     ],
     "statLine": "Lost 2–1"
@@ -667,6 +694,7 @@
     },
     "player": "Phoenix Mercury",
     "playerAliases": [
+      "mercury",
       "phoenix mercury"
     ],
     "statLine": "Lost 2–1"
@@ -691,6 +719,7 @@
     },
     "player": "New York Liberty",
     "playerAliases": [
+      "liberty",
       "new york liberty"
     ],
     "statLine": "Lost 1–0"
