@@ -1,0 +1,703 @@
+[
+  {
+    "year": 2025,
+    "team": "Las Vegas Aces",
+    "abbr": "LVA",
+    "logo": "assets/logos/wnba/wnba-las_vegas_aces-2024-pres.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Phoenix Mercury",
+      "abbr": "PM",
+      "logo": "assets/logos/wnba/wnba-phoenix_mercury-2011-pres.png",
+      "colors": [
+        "#201747",
+        "#E56020"
+      ]
+    },
+    "player": "Las Vegas Aces",
+    "playerAliases": [
+      "las vegas aces"
+    ],
+    "statLine": "Won 4–0"
+  },
+  {
+    "year": 2024,
+    "team": "New York Liberty",
+    "abbr": "NYL",
+    "logo": "assets/logos/wnba/wnba-new_york_liberty-2020-pres.png",
+    "colors": [
+      "#6ECEB2",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Minnesota Lynx",
+      "abbr": "ML",
+      "logo": "assets/logos/wnba/wnba-minnesota_lynx-2018-pres.png",
+      "colors": [
+        "#236192",
+        "#78BE20"
+      ]
+    },
+    "player": "New York Liberty",
+    "playerAliases": [
+      "new york liberty"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2023,
+    "team": "Las Vegas Aces",
+    "abbr": "LVA",
+    "logo": "assets/logos/wnba/wnba-las_vegas_aces-2018-pres.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "New York Liberty",
+      "abbr": "NYL",
+      "logo": "assets/logos/wnba/wnba-new_york_liberty-2020-pres.png",
+      "colors": [
+        "#6ECEB2",
+        "#000000"
+      ]
+    },
+    "player": "Las Vegas Aces",
+    "playerAliases": [
+      "las vegas aces"
+    ],
+    "statLine": "Won 3–1"
+  },
+  {
+    "year": 2022,
+    "team": "Las Vegas Aces",
+    "abbr": "LVA",
+    "logo": "assets/logos/wnba/wnba-las_vegas_aces-2018-pres.png",
+    "colors": [
+      "#C8102E",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Connecticut Sun",
+      "abbr": "CS",
+      "logo": "assets/logos/wnba/wnba-connecticut_sun-2021-pres.png",
+      "colors": [
+        "#F05023",
+        "#002145"
+      ]
+    },
+    "player": "Las Vegas Aces",
+    "playerAliases": [
+      "las vegas aces"
+    ],
+    "statLine": "Won 3–1"
+  },
+  {
+    "year": 2021,
+    "team": "Chicago Sky",
+    "abbr": "CS",
+    "logo": "assets/logos/wnba/wnba-chicago_sky-2019-pres.png",
+    "colors": [
+      "#418FDE",
+      "#FDD023"
+    ],
+    "opponent": {
+      "team": "Phoenix Mercury",
+      "abbr": "PM",
+      "logo": "assets/logos/wnba/wnba-phoenix_mercury-2011-pres.png",
+      "colors": [
+        "#201747",
+        "#E56020"
+      ]
+    },
+    "player": "Chicago Sky",
+    "playerAliases": [
+      "chicago sky"
+    ],
+    "statLine": "Won 3–1"
+  },
+  {
+    "year": 2020,
+    "team": "Seattle Storm",
+    "abbr": "SS",
+    "logo": "assets/logos/wnba/wnba-seattle_storm-2016-pres.png",
+    "colors": [
+      "#2C5234",
+      "#FE5000"
+    ],
+    "opponent": {
+      "team": "Las Vegas Aces",
+      "abbr": "LVA",
+      "logo": "assets/logos/wnba/wnba-las_vegas_aces-2018-pres.png",
+      "colors": [
+        "#C8102E",
+        "#000000"
+      ]
+    },
+    "player": "Seattle Storm",
+    "playerAliases": [
+      "seattle storm"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2019,
+    "team": "Washington Mystics",
+    "abbr": "WM",
+    "logo": "assets/logos/wnba/wnba-washington_mystics-2011-pres.png",
+    "colors": [
+      "#E03A3E",
+      "#002B5C"
+    ],
+    "opponent": {
+      "team": "Connecticut Sun",
+      "abbr": "CS",
+      "logo": "assets/logos/wnba/wnba-connecticut_sun-2003-pres.png",
+      "colors": [
+        "#F05023",
+        "#002145"
+      ]
+    },
+    "player": "Washington Mystics",
+    "playerAliases": [
+      "washington mystics"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2018,
+    "team": "Seattle Storm",
+    "abbr": "SS",
+    "logo": "assets/logos/wnba/wnba-seattle_storm-2016-pres.png",
+    "colors": [
+      "#2C5234",
+      "#FE5000"
+    ],
+    "opponent": {
+      "team": "Washington Mystics",
+      "abbr": "WM",
+      "logo": "assets/logos/wnba/wnba-washington_mystics-2011-pres.png",
+      "colors": [
+        "#E03A3E",
+        "#002B5C"
+      ]
+    },
+    "player": "Seattle Storm",
+    "playerAliases": [
+      "seattle storm"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2017,
+    "team": "Minnesota Lynx",
+    "abbr": "ML",
+    "logo": "assets/logos/wnba/wnba-minnesota_lynx-2011-2017.png",
+    "colors": [
+      "#236192",
+      "#78BE20"
+    ],
+    "opponent": {
+      "team": "Los Angeles Sparks",
+      "abbr": "LAS",
+      "logo": "assets/logos/wnba/wnba-los_angeles_sparks-1997-pres.png",
+      "colors": [
+        "#552583",
+        "#FFC72C"
+      ]
+    },
+    "player": "Minnesota Lynx",
+    "playerAliases": [
+      "minnesota lynx"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2016,
+    "team": "Los Angeles Sparks",
+    "abbr": "LAS",
+    "logo": "assets/logos/wnba/wnba-los_angeles_sparks-1997-pres.png",
+    "colors": [
+      "#552583",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "Minnesota Lynx",
+      "abbr": "ML",
+      "logo": "assets/logos/wnba/wnba-minnesota_lynx-2011-2017.png",
+      "colors": [
+        "#236192",
+        "#78BE20"
+      ]
+    },
+    "player": "Los Angeles Sparks",
+    "playerAliases": [
+      "los angeles sparks"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2015,
+    "team": "Minnesota Lynx",
+    "abbr": "ML",
+    "logo": "assets/logos/wnba/wnba-minnesota_lynx-2011-2017.png",
+    "colors": [
+      "#236192",
+      "#78BE20"
+    ],
+    "opponent": {
+      "team": "Indiana Fever",
+      "abbr": "IF",
+      "logo": "assets/logos/wnba/wnba-indiana_fever-2000-pres.png",
+      "colors": [
+        "#FFC633",
+        "#002D62"
+      ]
+    },
+    "player": "Minnesota Lynx",
+    "playerAliases": [
+      "minnesota lynx"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2014,
+    "team": "Phoenix Mercury",
+    "abbr": "PM",
+    "logo": "assets/logos/wnba/wnba-phoenix_mercury-2011-pres.png",
+    "colors": [
+      "#201747",
+      "#E56020"
+    ],
+    "opponent": {
+      "team": "Chicago Sky",
+      "abbr": "CS",
+      "logo": "assets/logos/wnba/wnba-chicago_sky-2006-pres.png",
+      "colors": [
+        "#418FDE",
+        "#FDD023"
+      ]
+    },
+    "player": "Phoenix Mercury",
+    "playerAliases": [
+      "phoenix mercury"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2013,
+    "team": "Minnesota Lynx",
+    "abbr": "ML",
+    "logo": "assets/logos/wnba/wnba-minnesota_lynx-2011-2017.png",
+    "colors": [
+      "#236192",
+      "#78BE20"
+    ],
+    "opponent": {
+      "team": "Atlanta Dream",
+      "abbr": "AD",
+      "logo": "assets/logos/wnba/wnba-atlanta_dream-2008-pres.png",
+      "colors": [
+        "#E31837",
+        "#5091CD"
+      ]
+    },
+    "player": "Minnesota Lynx",
+    "playerAliases": [
+      "minnesota lynx"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2012,
+    "team": "Indiana Fever",
+    "abbr": "IF",
+    "logo": "assets/logos/wnba/wnba-indiana_fever-2000-pres.png",
+    "colors": [
+      "#FFC633",
+      "#002D62"
+    ],
+    "opponent": {
+      "team": "Minnesota Lynx",
+      "abbr": "ML",
+      "logo": "assets/logos/wnba/wnba-minnesota_lynx-2011-2017.png",
+      "colors": [
+        "#236192",
+        "#78BE20"
+      ]
+    },
+    "player": "Indiana Fever",
+    "playerAliases": [
+      "indiana fever"
+    ],
+    "statLine": "Won 3–1"
+  },
+  {
+    "year": 2011,
+    "team": "Minnesota Lynx",
+    "abbr": "ML",
+    "logo": "assets/logos/wnba/wnba-minnesota_lynx-2011-2017.png",
+    "colors": [
+      "#236192",
+      "#78BE20"
+    ],
+    "opponent": {
+      "team": "Atlanta Dream",
+      "abbr": "AD",
+      "logo": "assets/logos/wnba/wnba-atlanta_dream-2008-pres.png",
+      "colors": [
+        "#E31837",
+        "#5091CD"
+      ]
+    },
+    "player": "Minnesota Lynx",
+    "playerAliases": [
+      "minnesota lynx"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2010,
+    "team": "Seattle Storm",
+    "abbr": "SS",
+    "logo": "assets/logos/wnba/wnba-seattle_storm-2000-2015.png",
+    "colors": [
+      "#2C5234",
+      "#FE5000"
+    ],
+    "opponent": {
+      "team": "Atlanta Dream",
+      "abbr": "AD",
+      "logo": "assets/logos/wnba/wnba-atlanta_dream-2008-pres.png",
+      "colors": [
+        "#E31837",
+        "#5091CD"
+      ]
+    },
+    "player": "Seattle Storm",
+    "playerAliases": [
+      "seattle storm"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2009,
+    "team": "Phoenix Mercury",
+    "abbr": "PM",
+    "logo": "assets/logos/wnba/wnba-phoenix_mercury-1997-2010.png",
+    "colors": [
+      "#201747",
+      "#E56020"
+    ],
+    "opponent": {
+      "team": "Indiana Fever",
+      "abbr": "IF",
+      "logo": "assets/logos/wnba/wnba-indiana_fever-2000-pres.png",
+      "colors": [
+        "#FFC633",
+        "#002D62"
+      ]
+    },
+    "player": "Phoenix Mercury",
+    "playerAliases": [
+      "phoenix mercury"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2008,
+    "team": "Detroit Shock",
+    "abbr": "DS",
+    "logo": "assets/logos/wnba/wnba-detroit_shock-2003-2009.png",
+    "colors": [
+      "#C8102E",
+      "#002D62"
+    ],
+    "opponent": {
+      "team": "San Antonio Silver Stars",
+      "abbr": "SASS",
+      "logo": "assets/logos/wnba/wnba-san_antonio_sliver_stars-2003-2013.png",
+      "colors": [
+        "#C4CED4",
+        "#000000"
+      ]
+    },
+    "player": "Detroit Shock",
+    "playerAliases": [
+      "detroit shock"
+    ],
+    "statLine": "Won 3–0"
+  },
+  {
+    "year": 2007,
+    "team": "Phoenix Mercury",
+    "abbr": "PM",
+    "logo": "assets/logos/wnba/wnba-phoenix_mercury-1997-2010.png",
+    "colors": [
+      "#201747",
+      "#E56020"
+    ],
+    "opponent": {
+      "team": "Detroit Shock",
+      "abbr": "DS",
+      "logo": "assets/logos/wnba/wnba-detroit_shock-2003-2009.png",
+      "colors": [
+        "#C8102E",
+        "#002D62"
+      ]
+    },
+    "player": "Phoenix Mercury",
+    "playerAliases": [
+      "phoenix mercury"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2006,
+    "team": "Detroit Shock",
+    "abbr": "DS",
+    "logo": "assets/logos/wnba/wnba-detroit_shock-2003-2009.png",
+    "colors": [
+      "#C8102E",
+      "#002D62"
+    ],
+    "opponent": {
+      "team": "Sacramento Monarchs",
+      "abbr": "SM",
+      "logo": "assets/logos/wnba/wnba-sacramento_monarchs-1997-2009.png",
+      "colors": [
+        "#562883",
+        "#FFC72C"
+      ]
+    },
+    "player": "Detroit Shock",
+    "playerAliases": [
+      "detroit shock"
+    ],
+    "statLine": "Won 3–2"
+  },
+  {
+    "year": 2005,
+    "team": "Sacramento Monarchs",
+    "abbr": "SM",
+    "logo": "assets/logos/wnba/wnba-sacramento_monarchs-1997-2009.png",
+    "colors": [
+      "#562883",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "Connecticut Sun",
+      "abbr": "CS",
+      "logo": "assets/logos/wnba/wnba-connecticut_sun-2003-pres.png",
+      "colors": [
+        "#F05023",
+        "#002145"
+      ]
+    },
+    "player": "Sacramento Monarchs",
+    "playerAliases": [
+      "sacramento monarchs"
+    ],
+    "statLine": "Won 3–1"
+  },
+  {
+    "year": 2004,
+    "team": "Seattle Storm",
+    "abbr": "SS",
+    "logo": "assets/logos/wnba/wnba-seattle_storm-2000-2015.png",
+    "colors": [
+      "#2C5234",
+      "#FE5000"
+    ],
+    "opponent": {
+      "team": "Connecticut Sun",
+      "abbr": "CS",
+      "logo": "assets/logos/wnba/wnba-connecticut_sun-2003-pres.png",
+      "colors": [
+        "#F05023",
+        "#002145"
+      ]
+    },
+    "player": "Seattle Storm",
+    "playerAliases": [
+      "seattle storm"
+    ],
+    "statLine": "Won 2–1"
+  },
+  {
+    "year": 2003,
+    "team": "Detroit Shock",
+    "abbr": "DS",
+    "logo": "assets/logos/wnba/wnba-detroit_shock-2003-2009.png",
+    "colors": [
+      "#C8102E",
+      "#002D62"
+    ],
+    "opponent": {
+      "team": "Los Angeles Sparks",
+      "abbr": "LAS",
+      "logo": "assets/logos/wnba/wnba-los_angeles_sparks-1997-pres.png",
+      "colors": [
+        "#552583",
+        "#FFC72C"
+      ]
+    },
+    "player": "Detroit Shock",
+    "playerAliases": [
+      "detroit shock"
+    ],
+    "statLine": "Won 2–1"
+  },
+  {
+    "year": 2002,
+    "team": "Los Angeles Sparks",
+    "abbr": "LAS",
+    "logo": "assets/logos/wnba/wnba-los_angeles_sparks-1997-pres.png",
+    "colors": [
+      "#552583",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "New York Liberty",
+      "abbr": "NYL",
+      "logo": "assets/logos/wnba/wnba-new_york_liberty-1997-pres.png",
+      "colors": [
+        "#6ECEB2",
+        "#000000"
+      ]
+    },
+    "player": "Los Angeles Sparks",
+    "playerAliases": [
+      "los angeles sparks"
+    ],
+    "statLine": "Won 2–0"
+  },
+  {
+    "year": 2001,
+    "team": "Los Angeles Sparks",
+    "abbr": "LAS",
+    "logo": "assets/logos/wnba/wnba-los_angeles_sparks-1997-pres.png",
+    "colors": [
+      "#552583",
+      "#FFC72C"
+    ],
+    "opponent": {
+      "team": "Charlotte Sting",
+      "abbr": "CS",
+      "logo": "assets/logos/wnba/wnba-charlotte_sting-1997-2003.png",
+      "colors": [
+        "#00285E",
+        "#F0431D"
+      ]
+    },
+    "player": "Los Angeles Sparks",
+    "playerAliases": [
+      "los angeles sparks"
+    ],
+    "statLine": "Won 2–0"
+  },
+  {
+    "year": 2000,
+    "team": "Houston Comets",
+    "abbr": "HC",
+    "logo": "assets/logos/wnba/wnba-houston_comets-1997-2008.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "New York Liberty",
+      "abbr": "NYL",
+      "logo": "assets/logos/wnba/wnba-new_york_liberty-1997-pres.png",
+      "colors": [
+        "#6ECEB2",
+        "#000000"
+      ]
+    },
+    "player": "Houston Comets",
+    "playerAliases": [
+      "houston comets"
+    ],
+    "statLine": "Won 2–0"
+  },
+  {
+    "year": 1999,
+    "team": "Houston Comets",
+    "abbr": "HC",
+    "logo": "assets/logos/wnba/wnba-houston_comets-1997-2008.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "New York Liberty",
+      "abbr": "NYL",
+      "logo": "assets/logos/wnba/wnba-new_york_liberty-1997-pres.png",
+      "colors": [
+        "#6ECEB2",
+        "#000000"
+      ]
+    },
+    "player": "Houston Comets",
+    "playerAliases": [
+      "houston comets"
+    ],
+    "statLine": "Won 2–1"
+  },
+  {
+    "year": 1998,
+    "team": "Houston Comets",
+    "abbr": "HC",
+    "logo": "assets/logos/wnba/wnba-houston_comets-1997-2008.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "Phoenix Mercury",
+      "abbr": "PM",
+      "logo": "assets/logos/wnba/wnba-phoenix_mercury-1997-2010.png",
+      "colors": [
+        "#201747",
+        "#E56020"
+      ]
+    },
+    "player": "Houston Comets",
+    "playerAliases": [
+      "houston comets"
+    ],
+    "statLine": "Won 2–1"
+  },
+  {
+    "year": 1997,
+    "team": "Houston Comets",
+    "abbr": "HC",
+    "logo": "assets/logos/wnba/wnba-houston_comets-1997-2008.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "New York Liberty",
+      "abbr": "NYL",
+      "logo": "assets/logos/wnba/wnba-new_york_liberty-1997-pres.png",
+      "colors": [
+        "#6ECEB2",
+        "#000000"
+      ]
+    },
+    "player": "Houston Comets",
+    "playerAliases": [
+      "houston comets"
+    ],
+    "statLine": "Won 1–0"
+  },
+  {
+    "year": 1996,
+    "invalid": true,
+    "reason": "WNBA was not founded until 1997"
+  }
+]

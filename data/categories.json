@@ -1365,6 +1365,28 @@
     "sport": "L Sports",
     "categories": [
       {
+        "id": "wnba-finals",
+        "title": "WNBA Finals",
+        "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
+        "icon": "🏀",
+        "variants": [
+          {
+            "id": "wnba-finals-winner",
+            "label": "Winner",
+            "title": "WNBA Champion",
+            "subtitle": "Guess the WNBA champion from the runner-up's logo and score (1996–2025)",
+            "file": "data/lsports/wnba-finals-winner.json"
+          },
+          {
+            "id": "wnba-finals-loser",
+            "label": "Loser",
+            "title": "WNBA Runner-Up",
+            "subtitle": "Guess the WNBA runner-up from the champion's logo and score (1996–2025)",
+            "file": "data/lsports/wnba-finals-loser.json"
+          }
+        ]
+      },
+      {
         "id": "stanley-cup",
         "title": "Stanley Cup",
         "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
