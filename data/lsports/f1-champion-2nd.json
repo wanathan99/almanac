@@ -1,0 +1,490 @@
+[
+  {
+    "year": 2025,
+    "team": "Netherlands",
+    "abbr": "NED",
+    "logo": "assets/logos/tennis/flag-ned.png",
+    "colors": [
+      "#21468B",
+      "#FFFFFF"
+    ],
+    "player": "Max Verstappen",
+    "playerAliases": [
+      "mad max",
+      "max verstappen",
+      "verstappen"
+    ],
+    "statLine": "421 pts"
+  },
+  {
+    "year": 2024,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Lando Norris",
+    "playerAliases": [
+      "lando norris",
+      "norris"
+    ],
+    "statLine": "374 pts"
+  },
+  {
+    "year": 2023,
+    "team": "Mexico",
+    "abbr": "MEX",
+    "logo": "assets/logos/tennis/flag-mex.png",
+    "colors": [
+      "#006847",
+      "#CE1126"
+    ],
+    "player": "Sergio Pérez",
+    "playerAliases": [
+      "pérez",
+      "sergio pérez"
+    ],
+    "statLine": "285 pts"
+  },
+  {
+    "year": 2022,
+    "team": "Monaco",
+    "abbr": "MON",
+    "logo": "assets/logos/tennis/flag-mon.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "player": "Charles Leclerc",
+    "playerAliases": [
+      "charles leclerc",
+      "leclerc"
+    ],
+    "statLine": "308 pts"
+  },
+  {
+    "year": 2021,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Lewis Hamilton",
+    "playerAliases": [
+      "hamilton",
+      "lewis hamilton"
+    ],
+    "statLine": "387.5 pts"
+  },
+  {
+    "year": 2020,
+    "team": "Finland",
+    "abbr": "FIN",
+    "logo": "assets/logos/tennis/flag-fin.png",
+    "colors": [
+      "#003580",
+      "#FFFFFF"
+    ],
+    "player": "Valtteri Bottas",
+    "playerAliases": [
+      "bottas",
+      "valtteri bottas"
+    ],
+    "statLine": "223 pts"
+  },
+  {
+    "year": 2019,
+    "team": "Finland",
+    "abbr": "FIN",
+    "logo": "assets/logos/tennis/flag-fin.png",
+    "colors": [
+      "#003580",
+      "#FFFFFF"
+    ],
+    "player": "Valtteri Bottas",
+    "playerAliases": [
+      "bottas",
+      "valtteri bottas"
+    ],
+    "statLine": "326 pts"
+  },
+  {
+    "year": 2018,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Sebastian Vettel",
+    "playerAliases": [
+      "seb",
+      "sebastian vettel",
+      "vettel"
+    ],
+    "statLine": "320 pts"
+  },
+  {
+    "year": 2017,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Sebastian Vettel",
+    "playerAliases": [
+      "seb",
+      "sebastian vettel",
+      "vettel"
+    ],
+    "statLine": "317 pts"
+  },
+  {
+    "year": 2016,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Lewis Hamilton",
+    "playerAliases": [
+      "hamilton",
+      "lewis hamilton"
+    ],
+    "statLine": "380 pts"
+  },
+  {
+    "year": 2015,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Nico Rosberg",
+    "playerAliases": [
+      "nico rosberg",
+      "rosberg"
+    ],
+    "statLine": "322 pts"
+  },
+  {
+    "year": 2014,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Nico Rosberg",
+    "playerAliases": [
+      "nico rosberg",
+      "rosberg"
+    ],
+    "statLine": "317 pts"
+  },
+  {
+    "year": 2013,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ],
+    "player": "Fernando Alonso",
+    "playerAliases": [
+      "alonso",
+      "fernando alonso"
+    ],
+    "statLine": "242 pts"
+  },
+  {
+    "year": 2012,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ],
+    "player": "Fernando Alonso",
+    "playerAliases": [
+      "alonso",
+      "fernando alonso"
+    ],
+    "statLine": "278 pts"
+  },
+  {
+    "year": 2011,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Jenson Button",
+    "playerAliases": [
+      "button",
+      "jenson button"
+    ],
+    "statLine": "270 pts"
+  },
+  {
+    "year": 2010,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ],
+    "player": "Fernando Alonso",
+    "playerAliases": [
+      "alonso",
+      "fernando alonso"
+    ],
+    "statLine": "252 pts"
+  },
+  {
+    "year": 2009,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Sebastian Vettel",
+    "playerAliases": [
+      "seb",
+      "sebastian vettel",
+      "vettel"
+    ],
+    "statLine": "84 pts"
+  },
+  {
+    "year": 2008,
+    "team": "Brazil",
+    "abbr": "BRA",
+    "logo": "assets/logos/tennis/flag-bra.png",
+    "colors": [
+      "#009C3B",
+      "#FFDF00"
+    ],
+    "player": "Felipe Massa",
+    "playerAliases": [
+      "felipe massa",
+      "massa"
+    ],
+    "statLine": "97 pts"
+  },
+  {
+    "year": 2007,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Lewis Hamilton",
+    "playerAliases": [
+      "hamilton",
+      "lewis hamilton"
+    ],
+    "statLine": "109 pts"
+  },
+  {
+    "year": 2006,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Michael Schumacher",
+    "playerAliases": [
+      "michael schumacher",
+      "schumacher",
+      "schumi"
+    ],
+    "statLine": "121 pts"
+  },
+  {
+    "year": 2005,
+    "team": "Finland",
+    "abbr": "FIN",
+    "logo": "assets/logos/tennis/flag-fin.png",
+    "colors": [
+      "#003580",
+      "#FFFFFF"
+    ],
+    "player": "Kimi Räikkönen",
+    "playerAliases": [
+      "iceman",
+      "kimi räikkönen",
+      "räikkönen"
+    ],
+    "statLine": "112 pts"
+  },
+  {
+    "year": 2004,
+    "team": "Brazil",
+    "abbr": "BRA",
+    "logo": "assets/logos/tennis/flag-bra.png",
+    "colors": [
+      "#009C3B",
+      "#FFDF00"
+    ],
+    "player": "Rubens Barrichello",
+    "playerAliases": [
+      "barrichello",
+      "rubens barrichello"
+    ],
+    "statLine": "114 pts"
+  },
+  {
+    "year": 2003,
+    "team": "Finland",
+    "abbr": "FIN",
+    "logo": "assets/logos/tennis/flag-fin.png",
+    "colors": [
+      "#003580",
+      "#FFFFFF"
+    ],
+    "player": "Kimi Räikkönen",
+    "playerAliases": [
+      "iceman",
+      "kimi räikkönen",
+      "räikkönen"
+    ],
+    "statLine": "91 pts"
+  },
+  {
+    "year": 2002,
+    "team": "Brazil",
+    "abbr": "BRA",
+    "logo": "assets/logos/tennis/flag-bra.png",
+    "colors": [
+      "#009C3B",
+      "#FFDF00"
+    ],
+    "player": "Rubens Barrichello",
+    "playerAliases": [
+      "barrichello",
+      "rubens barrichello"
+    ],
+    "statLine": "77 pts"
+  },
+  {
+    "year": 2001,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "David Coulthard",
+    "playerAliases": [
+      "coulthard",
+      "david coulthard"
+    ],
+    "statLine": "65 pts"
+  },
+  {
+    "year": 2000,
+    "team": "Finland",
+    "abbr": "FIN",
+    "logo": "assets/logos/tennis/flag-fin.png",
+    "colors": [
+      "#003580",
+      "#FFFFFF"
+    ],
+    "player": "Mika Häkkinen",
+    "playerAliases": [
+      "häkkinen",
+      "mika häkkinen"
+    ],
+    "statLine": "89 pts"
+  },
+  {
+    "year": 1999,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Eddie Irvine",
+    "playerAliases": [
+      "eddie irvine",
+      "irvine"
+    ],
+    "statLine": "74 pts"
+  },
+  {
+    "year": 1998,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Michael Schumacher",
+    "playerAliases": [
+      "michael schumacher",
+      "schumacher",
+      "schumi"
+    ],
+    "statLine": "86 pts"
+  },
+  {
+    "year": 1997,
+    "team": "Germany",
+    "abbr": "GER",
+    "logo": "assets/logos/tennis/flag-ger.png",
+    "colors": [
+      "#000000",
+      "#DD0000"
+    ],
+    "player": "Heinz-Harald Frentzen",
+    "playerAliases": [
+      "frentzen",
+      "heinz-harald frentzen"
+    ],
+    "statLine": "42 pts"
+  },
+  {
+    "year": 1996,
+    "team": "Canada",
+    "abbr": "CAN",
+    "logo": "assets/logos/tennis/flag-can.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Jacques Villeneuve",
+    "playerAliases": [
+      "jacques villeneuve",
+      "villeneuve"
+    ],
+    "statLine": "78 pts"
+  }
+]

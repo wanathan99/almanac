@@ -1,0 +1,460 @@
+[
+  {
+    "year": 2025,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Rory McIlroy",
+    "playerAliases": [
+      "mcilroy",
+      "rory mcilroy"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Scottie Scheffler",
+    "playerAliases": [
+      "scheffler",
+      "scottie scheffler"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ],
+    "player": "Jon Rahm",
+    "playerAliases": [
+      "jon rahm",
+      "rahm"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Scottie Scheffler",
+    "playerAliases": [
+      "scheffler",
+      "scottie scheffler"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Japan",
+    "abbr": "JPN",
+    "logo": "assets/logos/tennis/flag-jpn.png",
+    "colors": [
+      "#BC002D",
+      "#FFFFFF"
+    ],
+    "player": "Hideki Matsuyama",
+    "playerAliases": [
+      "hideki matsuyama",
+      "matsuyama"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Dustin Johnson",
+    "playerAliases": [
+      "dustin johnson",
+      "johnson"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tiger Woods",
+    "playerAliases": [
+      "tiger",
+      "tiger woods",
+      "woods"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Patrick Reed",
+    "playerAliases": [
+      "patrick reed",
+      "reed"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ],
+    "player": "Sergio García",
+    "playerAliases": [
+      "garcía",
+      "sergio garcía"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Danny Willett",
+    "playerAliases": [
+      "danny willett",
+      "willett"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Jordan Spieth",
+    "playerAliases": [
+      "jordan spieth",
+      "spieth"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Bubba Watson",
+    "playerAliases": [
+      "bubba watson",
+      "watson"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Adam Scott",
+    "playerAliases": [
+      "adam scott",
+      "scott"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Bubba Watson",
+    "playerAliases": [
+      "bubba watson",
+      "watson"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Charl Schwartzel",
+    "playerAliases": [
+      "charl schwartzel",
+      "schwartzel"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Argentina",
+    "abbr": "ARG",
+    "logo": "assets/logos/tennis/flag-arg.png",
+    "colors": [
+      "#75AADB",
+      "#FFFFFF"
+    ],
+    "player": "Ángel Cabrera",
+    "playerAliases": [
+      "cabrera",
+      "ángel cabrera"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Trevor Immelman",
+    "playerAliases": [
+      "immelman",
+      "trevor immelman"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Zach Johnson",
+    "playerAliases": [
+      "johnson",
+      "zach johnson"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tiger Woods",
+    "playerAliases": [
+      "tiger",
+      "tiger woods",
+      "woods"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Canada",
+    "abbr": "CAN",
+    "logo": "assets/logos/tennis/flag-can.png",
+    "colors": [
+      "#FF0000",
+      "#FFFFFF"
+    ],
+    "player": "Mike Weir",
+    "playerAliases": [
+      "mike weir",
+      "weir"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tiger Woods",
+    "playerAliases": [
+      "tiger",
+      "tiger woods",
+      "woods"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tiger Woods",
+    "playerAliases": [
+      "tiger",
+      "tiger woods",
+      "woods"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Fiji",
+    "abbr": "FIJ",
+    "logo": "assets/logos/tennis/flag-fij.png",
+    "colors": [
+      "#68BFE5",
+      "#CF142B"
+    ],
+    "player": "Vijay Singh",
+    "playerAliases": [
+      "singh",
+      "vijay singh"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Spain",
+    "abbr": "ESP",
+    "logo": "assets/logos/tennis/flag-esp.png",
+    "colors": [
+      "#AA151B",
+      "#F1BF00"
+    ],
+    "player": "José María Olazábal",
+    "playerAliases": [
+      "josé maría olazábal",
+      "olazábal"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Mark O'Meara",
+    "playerAliases": [
+      "mark o'meara",
+      "o'meara"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tiger Woods",
+    "playerAliases": [
+      "tiger",
+      "tiger woods",
+      "woods"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Nick Faldo",
+    "playerAliases": [
+      "faldo",
+      "nick faldo"
+    ]
+  }
+]

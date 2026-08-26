@@ -1,0 +1,454 @@
+[
+  {
+    "year": 2025,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Justin Rose",
+    "playerAliases": [
+      "justin rose",
+      "rose"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Sweden",
+    "abbr": "SWE",
+    "logo": "assets/logos/tennis/flag-swe.png",
+    "colors": [
+      "#006AA7",
+      "#FECC02"
+    ],
+    "player": "Ludvig Åberg",
+    "playerAliases": [
+      "ludvig åberg",
+      "åberg"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Brooks Koepka",
+    "playerAliases": [
+      "brooks koepka",
+      "koepka"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Rory McIlroy",
+    "playerAliases": [
+      "mcilroy",
+      "rory mcilroy"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Will Zalatoris",
+    "playerAliases": [
+      "will zalatoris",
+      "zalatoris"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "South Korea",
+    "abbr": "KOR",
+    "logo": "assets/logos/tennis/flag-kor.png",
+    "colors": [
+      "#003478",
+      "#C60C30"
+    ],
+    "player": "Im Sung-jae",
+    "playerAliases": [
+      "im sung-jae",
+      "sung-jae"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Dustin Johnson",
+    "playerAliases": [
+      "dustin johnson",
+      "johnson"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Rickie Fowler",
+    "playerAliases": [
+      "fowler",
+      "rickie fowler"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Justin Rose",
+    "playerAliases": [
+      "justin rose",
+      "rose"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Jordan Spieth",
+    "playerAliases": [
+      "jordan spieth",
+      "spieth"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Sweden",
+    "abbr": "SWE",
+    "logo": "assets/logos/tennis/flag-swe.png",
+    "colors": [
+      "#006AA7",
+      "#FECC02"
+    ],
+    "player": "Jonas Blixt",
+    "playerAliases": [
+      "blixt",
+      "jonas blixt"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Argentina",
+    "abbr": "ARG",
+    "logo": "assets/logos/tennis/flag-arg.png",
+    "colors": [
+      "#75AADB",
+      "#FFFFFF"
+    ],
+    "player": "Ángel Cabrera",
+    "playerAliases": [
+      "cabrera",
+      "ángel cabrera"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Louis Oosthuizen",
+    "playerAliases": [
+      "louis oosthuizen",
+      "oosthuizen"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Jason Day",
+    "playerAliases": [
+      "day",
+      "jason day"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Lee Westwood",
+    "playerAliases": [
+      "lee westwood",
+      "westwood"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Chad Campbell",
+    "playerAliases": [
+      "campbell",
+      "chad campbell"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tiger Woods",
+    "playerAliases": [
+      "tiger",
+      "tiger woods",
+      "woods"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Retief Goosen",
+    "playerAliases": [
+      "goosen",
+      "retief goosen"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Tim Clark",
+    "playerAliases": [
+      "clark",
+      "tim clark"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Chris DiMarco",
+    "playerAliases": [
+      "chris dimarco",
+      "dimarco"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Ernie Els",
+    "playerAliases": [
+      "els",
+      "ernie els"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Len Mattiace",
+    "playerAliases": [
+      "len mattiace",
+      "mattiace"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Retief Goosen",
+    "playerAliases": [
+      "goosen",
+      "retief goosen"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "David Duval",
+    "playerAliases": [
+      "david duval",
+      "duval"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Ernie Els",
+    "playerAliases": [
+      "els",
+      "ernie els"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Davis Love III",
+    "playerAliases": [
+      "davis love iii",
+      "iii"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Fred Couples",
+    "playerAliases": [
+      "couples",
+      "fred couples"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tom Kite",
+    "playerAliases": [
+      "kite",
+      "tom kite"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Greg Norman",
+    "playerAliases": [
+      "greg norman",
+      "norman"
+    ]
+  }
+]

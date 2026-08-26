@@ -1,0 +1,457 @@
+[
+  {
+    "year": 2025,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Patrick Reed",
+    "playerAliases": [
+      "patrick reed",
+      "reed"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Tommy Fleetwood",
+    "playerAliases": [
+      "fleetwood",
+      "tommy fleetwood"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Ireland",
+    "abbr": "IRL",
+    "logo": "assets/logos/tennis/flag-irl.png",
+    "colors": [
+      "#169B62",
+      "#FF883E"
+    ],
+    "player": "Shane Lowry",
+    "playerAliases": [
+      "lowry",
+      "shane lowry"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Xander Schauffele",
+    "playerAliases": [
+      "schauffele",
+      "xander schauffele"
+    ]
+  },
+  {
+    "year": 2020,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Cameron Smith",
+    "playerAliases": [
+      "cameron smith",
+      "smith"
+    ]
+  },
+  {
+    "year": 2019,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Brooks Koepka",
+    "playerAliases": [
+      "brooks koepka",
+      "koepka"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Jordan Spieth",
+    "playerAliases": [
+      "jordan spieth",
+      "spieth"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Charl Schwartzel",
+    "playerAliases": [
+      "charl schwartzel",
+      "schwartzel"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Lee Westwood",
+    "playerAliases": [
+      "lee westwood",
+      "westwood"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Justin Rose",
+    "playerAliases": [
+      "justin rose",
+      "rose"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Jordan Spieth",
+    "playerAliases": [
+      "jordan spieth",
+      "spieth"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Jason Day",
+    "playerAliases": [
+      "day",
+      "jason day"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Sweden",
+    "abbr": "SWE",
+    "logo": "assets/logos/tennis/flag-swe.png",
+    "colors": [
+      "#006AA7",
+      "#FECC02"
+    ],
+    "player": "Peter Hanson",
+    "playerAliases": [
+      "hanson",
+      "peter hanson"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Adam Scott",
+    "playerAliases": [
+      "adam scott",
+      "scott"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Anthony Kim",
+    "playerAliases": [
+      "anthony kim",
+      "kim"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Kenny Perry",
+    "playerAliases": [
+      "kenny perry",
+      "perry"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Stewart Cink",
+    "playerAliases": [
+      "cink",
+      "stewart cink"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "South Africa",
+    "abbr": "RSA",
+    "logo": "assets/logos/tennis/flag-rsa.png",
+    "colors": [
+      "#007A4D",
+      "#FFB612"
+    ],
+    "player": "Rory Sabbatini",
+    "playerAliases": [
+      "rory sabbatini",
+      "sabbatini"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Chad Campbell",
+    "playerAliases": [
+      "campbell",
+      "chad campbell"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "United Kingdom",
+    "abbr": "GBR",
+    "logo": "assets/logos/tennis/flag-gbr.png",
+    "colors": [
+      "#012169",
+      "#C8102E"
+    ],
+    "player": "Luke Donald",
+    "playerAliases": [
+      "donald",
+      "luke donald"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "South Korea",
+    "abbr": "KOR",
+    "logo": "assets/logos/tennis/flag-kor.png",
+    "colors": [
+      "#003478",
+      "#C60C30"
+    ],
+    "player": "K. J. Choi",
+    "playerAliases": [
+      "choi",
+      "k. j. choi"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "David Duval",
+    "playerAliases": [
+      "david duval",
+      "duval"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Australia",
+    "abbr": "AUS",
+    "logo": "assets/logos/tennis/flag-aus.png",
+    "colors": [
+      "#00008B",
+      "#FF0000"
+    ],
+    "player": "Greg Norman",
+    "playerAliases": [
+      "greg norman",
+      "norman"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "David Duval",
+    "playerAliases": [
+      "david duval",
+      "duval"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Tommy Tolles",
+    "playerAliases": [
+      "tolles",
+      "tommy tolles"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "United States",
+    "abbr": "USA",
+    "logo": "assets/logos/tennis/flag-usa.png",
+    "colors": [
+      "#002868",
+      "#BF0A30"
+    ],
+    "player": "Phil Mickelson",
+    "playerAliases": [
+      "lefty",
+      "mickelson",
+      "phil mickelson"
+    ]
+  }
+]

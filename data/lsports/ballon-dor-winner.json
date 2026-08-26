@@ -1,0 +1,451 @@
+[
+  {
+    "year": 2025,
+    "team": "Paris Saint-Germain",
+    "abbr": "PAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+    "colors": [
+      "#004170",
+      "#DA291C"
+    ],
+    "player": "Ousmane Dembélé",
+    "playerAliases": [
+      "dembélé",
+      "ousmane dembélé"
+    ]
+  },
+  {
+    "year": 2024,
+    "team": "Manchester City",
+    "abbr": "MAN",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+    "colors": [
+      "#6CABDD",
+      "#1C2C5B"
+    ],
+    "player": "Rodri",
+    "playerAliases": [
+      "rodri"
+    ]
+  },
+  {
+    "year": 2023,
+    "team": "Inter Miami",
+    "abbr": "INT",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+    "colors": [
+      "#F7B5CD",
+      "#231F20"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2022,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Karim Benzema",
+    "playerAliases": [
+      "benzema",
+      "karim benzema"
+    ]
+  },
+  {
+    "year": 2021,
+    "team": "Paris Saint-Germain",
+    "abbr": "PAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+    "colors": [
+      "#004170",
+      "#DA291C"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2020,
+    "invalid": true,
+    "reason": "Ballon d'Or was not awarded in 2020 due to the COVID-19 pandemic"
+  },
+  {
+    "year": 2019,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2018,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Luka Modrić",
+    "playerAliases": [
+      "luka modrić",
+      "modrić"
+    ]
+  },
+  {
+    "year": 2017,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Cristiano Ronaldo",
+    "playerAliases": [
+      "cr7",
+      "cristiano ronaldo",
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 2016,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Cristiano Ronaldo",
+    "playerAliases": [
+      "cr7",
+      "cristiano ronaldo",
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 2015,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2014,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Cristiano Ronaldo",
+    "playerAliases": [
+      "cr7",
+      "cristiano ronaldo",
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 2013,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Cristiano Ronaldo",
+    "playerAliases": [
+      "cr7",
+      "cristiano ronaldo",
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 2012,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2011,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2010,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2009,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Lionel Messi",
+    "playerAliases": [
+      "leo",
+      "lionel messi",
+      "messi"
+    ]
+  },
+  {
+    "year": 2008,
+    "team": "Manchester United",
+    "abbr": "MAN",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+    "colors": [
+      "#DA291C",
+      "#FBE122"
+    ],
+    "player": "Cristiano Ronaldo",
+    "playerAliases": [
+      "cr7",
+      "cristiano ronaldo",
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 2007,
+    "team": "Milan",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+    "colors": [
+      "#FB090B",
+      "#000000"
+    ],
+    "player": "Kaká",
+    "playerAliases": [
+      "kaká"
+    ]
+  },
+  {
+    "year": 2006,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Fabio Cannavaro",
+    "playerAliases": [
+      "cannavaro",
+      "fabio cannavaro"
+    ]
+  },
+  {
+    "year": 2005,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Ronaldinho",
+    "playerAliases": [
+      "ronaldinho"
+    ]
+  },
+  {
+    "year": 2004,
+    "team": "Milan",
+    "abbr": "MIL",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+    "colors": [
+      "#FB090B",
+      "#000000"
+    ],
+    "player": "Andriy Shevchenko",
+    "playerAliases": [
+      "andriy shevchenko",
+      "sheva",
+      "shevchenko"
+    ]
+  },
+  {
+    "year": 2003,
+    "team": "Juventus",
+    "abbr": "JUV",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "player": "Pavel Nedvěd",
+    "playerAliases": [
+      "nedvěd",
+      "pavel nedvěd"
+    ]
+  },
+  {
+    "year": 2002,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Ronaldo",
+    "playerAliases": [
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 2001,
+    "team": "Liverpool",
+    "abbr": "LIV",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+    "colors": [
+      "#C8102E",
+      "#00B2A9"
+    ],
+    "player": "Michael Owen",
+    "playerAliases": [
+      "michael owen",
+      "owen"
+    ]
+  },
+  {
+    "year": 2000,
+    "team": "Real Madrid",
+    "abbr": "REA",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "colors": [
+      "#FFFFFF",
+      "#00529F"
+    ],
+    "player": "Luís Figo",
+    "playerAliases": [
+      "figo",
+      "luís figo"
+    ]
+  },
+  {
+    "year": 1999,
+    "team": "Barcelona",
+    "abbr": "BAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "colors": [
+      "#A50044",
+      "#004D98"
+    ],
+    "player": "Rivaldo",
+    "playerAliases": [
+      "rivaldo"
+    ]
+  },
+  {
+    "year": 1998,
+    "team": "Juventus",
+    "abbr": "JUV",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "player": "Zinedine Zidane",
+    "playerAliases": [
+      "zidane",
+      "zinedine zidane",
+      "zizou"
+    ]
+  },
+  {
+    "year": 1997,
+    "team": "Inter Milan",
+    "abbr": "INT",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+    "colors": [
+      "#0068A8",
+      "#000000"
+    ],
+    "player": "Ronaldo",
+    "playerAliases": [
+      "ronaldo"
+    ]
+  },
+  {
+    "year": 1996,
+    "team": "Borussia Dortmund",
+    "abbr": "BOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+    "colors": [
+      "#FDE100",
+      "#000000"
+    ],
+    "player": "Matthias Sammer",
+    "playerAliases": [
+      "matthias sammer",
+      "sammer"
+    ]
+  }
+]

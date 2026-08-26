@@ -1,0 +1,703 @@
+[
+  {
+    "year": 2025,
+    "team": "Florida Panthers",
+    "abbr": "FLA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "Edmonton Oilers",
+      "abbr": "EDM",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
+      "colors": [
+        "#041E42",
+        "#FF4C00"
+      ]
+    },
+    "player": "Florida Panthers",
+    "playerAliases": [
+      "florida panthers"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2024,
+    "team": "Florida Panthers",
+    "abbr": "FLA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "Edmonton Oilers",
+      "abbr": "EDM",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
+      "colors": [
+        "#041E42",
+        "#FF4C00"
+      ]
+    },
+    "player": "Florida Panthers",
+    "playerAliases": [
+      "florida panthers"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2023,
+    "team": "Vegas Golden Knights",
+    "abbr": "VGK",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png",
+    "colors": [
+      "#B4975A",
+      "#333F42"
+    ],
+    "opponent": {
+      "team": "Florida Panthers",
+      "abbr": "FLA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
+      "colors": [
+        "#C8102E",
+        "#041E42"
+      ]
+    },
+    "player": "Vegas Golden Knights",
+    "playerAliases": [
+      "vegas golden knights"
+    ],
+    "statLine": "Won 4–1"
+  },
+  {
+    "year": 2022,
+    "team": "Colorado Avalanche",
+    "abbr": "COL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png",
+    "colors": [
+      "#6F263D",
+      "#236192"
+    ],
+    "opponent": {
+      "team": "Tampa Bay Lightning",
+      "abbr": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
+      "colors": [
+        "#002868",
+        "#000000"
+      ]
+    },
+    "player": "Colorado Avalanche",
+    "playerAliases": [
+      "colorado avalanche"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2021,
+    "team": "Tampa Bay Lightning",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
+    "colors": [
+      "#002868",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Montreal Canadiens",
+      "abbr": "MTL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png",
+      "colors": [
+        "#AF1E2D",
+        "#192168"
+      ]
+    },
+    "player": "Tampa Bay Lightning",
+    "playerAliases": [
+      "tampa bay lightning"
+    ],
+    "statLine": "Won 4–1"
+  },
+  {
+    "year": 2020,
+    "team": "Tampa Bay Lightning",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
+    "colors": [
+      "#002868",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Dallas Stars",
+      "abbr": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png",
+      "colors": [
+        "#006847",
+        "#8F8F8C"
+      ]
+    },
+    "player": "Tampa Bay Lightning",
+    "playerAliases": [
+      "tampa bay lightning"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2019,
+    "team": "St. Louis Blues",
+    "abbr": "STL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png",
+    "colors": [
+      "#002F87",
+      "#FCB514"
+    ],
+    "opponent": {
+      "team": "Boston Bruins",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png",
+      "colors": [
+        "#FFB81C",
+        "#000000"
+      ]
+    },
+    "player": "St. Louis Blues",
+    "playerAliases": [
+      "st. louis blues"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2018,
+    "team": "Washington Capitals",
+    "abbr": "WSH",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png",
+    "colors": [
+      "#C8102E",
+      "#041E42"
+    ],
+    "opponent": {
+      "team": "Vegas Golden Knights",
+      "abbr": "VGK",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png",
+      "colors": [
+        "#B4975A",
+        "#333F42"
+      ]
+    },
+    "player": "Washington Capitals",
+    "playerAliases": [
+      "washington capitals"
+    ],
+    "statLine": "Won 4–1"
+  },
+  {
+    "year": 2017,
+    "team": "Pittsburgh Penguins",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png",
+    "colors": [
+      "#FCB514",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Nashville Predators",
+      "abbr": "NSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png",
+      "colors": [
+        "#FFB81C",
+        "#041E42"
+      ]
+    },
+    "player": "Pittsburgh Penguins",
+    "playerAliases": [
+      "pittsburgh penguins"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2016,
+    "team": "Pittsburgh Penguins",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png",
+    "colors": [
+      "#FCB514",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "San Jose Sharks",
+      "abbr": "SJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png",
+      "colors": [
+        "#006D75",
+        "#EA7200"
+      ]
+    },
+    "player": "Pittsburgh Penguins",
+    "playerAliases": [
+      "pittsburgh penguins"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2015,
+    "team": "Chicago Blackhawks",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png",
+    "colors": [
+      "#CF0A2C",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Tampa Bay Lightning",
+      "abbr": "TB",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
+      "colors": [
+        "#002868",
+        "#000000"
+      ]
+    },
+    "player": "Chicago Blackhawks",
+    "playerAliases": [
+      "chicago blackhawks"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2014,
+    "team": "Los Angeles Kings",
+    "abbr": "LA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png",
+    "colors": [
+      "#111111",
+      "#A2AAAD"
+    ],
+    "opponent": {
+      "team": "New York Rangers",
+      "abbr": "NYR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png",
+      "colors": [
+        "#0038A8",
+        "#CE1126"
+      ]
+    },
+    "player": "Los Angeles Kings",
+    "playerAliases": [
+      "los angeles kings"
+    ],
+    "statLine": "Won 4–1"
+  },
+  {
+    "year": 2013,
+    "team": "Chicago Blackhawks",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png",
+    "colors": [
+      "#CF0A2C",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Boston Bruins",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png",
+      "colors": [
+        "#FFB81C",
+        "#000000"
+      ]
+    },
+    "player": "Chicago Blackhawks",
+    "playerAliases": [
+      "chicago blackhawks"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2012,
+    "team": "Los Angeles Kings",
+    "abbr": "LA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png",
+    "colors": [
+      "#111111",
+      "#A2AAAD"
+    ],
+    "opponent": {
+      "team": "New Jersey Devils",
+      "abbr": "NJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png",
+      "colors": [
+        "#CE1126",
+        "#000000"
+      ]
+    },
+    "player": "Los Angeles Kings",
+    "playerAliases": [
+      "los angeles kings"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2011,
+    "team": "Boston Bruins",
+    "abbr": "BOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png",
+    "colors": [
+      "#FFB81C",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Vancouver Canucks",
+      "abbr": "VAN",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
+      "colors": [
+        "#00205B",
+        "#00843D"
+      ]
+    },
+    "player": "Boston Bruins",
+    "playerAliases": [
+      "boston bruins"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2010,
+    "team": "Chicago Blackhawks",
+    "abbr": "CHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png",
+    "colors": [
+      "#CF0A2C",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Philadelphia Flyers",
+      "abbr": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png",
+      "colors": [
+        "#F74902",
+        "#000000"
+      ]
+    },
+    "player": "Chicago Blackhawks",
+    "playerAliases": [
+      "chicago blackhawks"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2009,
+    "team": "Pittsburgh Penguins",
+    "abbr": "PIT",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png",
+    "colors": [
+      "#FCB514",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Detroit Red Wings",
+      "abbr": "DET",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+      "colors": [
+        "#CE1126",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Pittsburgh Penguins",
+    "playerAliases": [
+      "pittsburgh penguins"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2008,
+    "team": "Detroit Red Wings",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Pittsburgh Penguins",
+      "abbr": "PIT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png",
+      "colors": [
+        "#FCB514",
+        "#000000"
+      ]
+    },
+    "player": "Detroit Red Wings",
+    "playerAliases": [
+      "detroit red wings"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 2007,
+    "team": "Anaheim Ducks",
+    "abbr": "ANA",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png",
+    "colors": [
+      "#F47A38",
+      "#B9975B"
+    ],
+    "opponent": {
+      "team": "Ottawa Senators",
+      "abbr": "OTT",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ott.png",
+      "colors": [
+        "#C52032",
+        "#C2912C"
+      ]
+    },
+    "player": "Anaheim Ducks",
+    "playerAliases": [
+      "anaheim ducks"
+    ],
+    "statLine": "Won 4–1"
+  },
+  {
+    "year": 2006,
+    "team": "Carolina Hurricanes",
+    "abbr": "CAR",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png",
+    "colors": [
+      "#CC0000",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Edmonton Oilers",
+      "abbr": "EDM",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
+      "colors": [
+        "#041E42",
+        "#FF4C00"
+      ]
+    },
+    "player": "Carolina Hurricanes",
+    "playerAliases": [
+      "carolina hurricanes"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2005,
+    "invalid": true,
+    "reason": "Season cancelled due to the 2004-05 NHL lockout"
+  },
+  {
+    "year": 2004,
+    "team": "Tampa Bay Lightning",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
+    "colors": [
+      "#002868",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Calgary Flames",
+      "abbr": "CGY",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png",
+      "colors": [
+        "#C8102E",
+        "#F1BE48"
+      ]
+    },
+    "player": "Tampa Bay Lightning",
+    "playerAliases": [
+      "tampa bay lightning"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2003,
+    "team": "New Jersey Devils",
+    "abbr": "NJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png",
+    "colors": [
+      "#CE1126",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Mighty Ducks of Anaheim",
+      "abbr": "ANA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png",
+      "colors": [
+        "#F47A38",
+        "#B9975B"
+      ]
+    },
+    "player": "New Jersey Devils",
+    "playerAliases": [
+      "new jersey devils"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2002,
+    "team": "Detroit Red Wings",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Carolina Hurricanes",
+      "abbr": "CAR",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png",
+      "colors": [
+        "#CC0000",
+        "#000000"
+      ]
+    },
+    "player": "Detroit Red Wings",
+    "playerAliases": [
+      "detroit red wings"
+    ],
+    "statLine": "Won 4–1"
+  },
+  {
+    "year": 2001,
+    "team": "Colorado Avalanche",
+    "abbr": "COL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png",
+    "colors": [
+      "#6F263D",
+      "#236192"
+    ],
+    "opponent": {
+      "team": "New Jersey Devils",
+      "abbr": "NJ",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png",
+      "colors": [
+        "#CE1126",
+        "#000000"
+      ]
+    },
+    "player": "Colorado Avalanche",
+    "playerAliases": [
+      "colorado avalanche"
+    ],
+    "statLine": "Won 4–3"
+  },
+  {
+    "year": 2000,
+    "team": "New Jersey Devils",
+    "abbr": "NJ",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png",
+    "colors": [
+      "#CE1126",
+      "#000000"
+    ],
+    "opponent": {
+      "team": "Dallas Stars",
+      "abbr": "DAL",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png",
+      "colors": [
+        "#006847",
+        "#8F8F8C"
+      ]
+    },
+    "player": "New Jersey Devils",
+    "playerAliases": [
+      "new jersey devils"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 1999,
+    "team": "Dallas Stars",
+    "abbr": "DAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png",
+    "colors": [
+      "#006847",
+      "#8F8F8C"
+    ],
+    "opponent": {
+      "team": "Buffalo Sabres",
+      "abbr": "BUF",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/buf.png",
+      "colors": [
+        "#003087",
+        "#FFB81C"
+      ]
+    },
+    "player": "Dallas Stars",
+    "playerAliases": [
+      "dallas stars"
+    ],
+    "statLine": "Won 4–2"
+  },
+  {
+    "year": 1998,
+    "team": "Detroit Red Wings",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Washington Capitals",
+      "abbr": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png",
+      "colors": [
+        "#C8102E",
+        "#041E42"
+      ]
+    },
+    "player": "Detroit Red Wings",
+    "playerAliases": [
+      "detroit red wings"
+    ],
+    "statLine": "Won 4–0"
+  },
+  {
+    "year": 1997,
+    "team": "Detroit Red Wings",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png",
+    "colors": [
+      "#CE1126",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Philadelphia Flyers",
+      "abbr": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png",
+      "colors": [
+        "#F74902",
+        "#000000"
+      ]
+    },
+    "player": "Detroit Red Wings",
+    "playerAliases": [
+      "detroit red wings"
+    ],
+    "statLine": "Won 4–0"
+  },
+  {
+    "year": 1996,
+    "team": "Colorado Avalanche",
+    "abbr": "COL",
+    "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png",
+    "colors": [
+      "#6F263D",
+      "#236192"
+    ],
+    "opponent": {
+      "team": "Florida Panthers",
+      "abbr": "FLA",
+      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
+      "colors": [
+        "#C8102E",
+        "#041E42"
+      ]
+    },
+    "player": "Colorado Avalanche",
+    "playerAliases": [
+      "colorado avalanche"
+    ],
+    "statLine": "Won 4–0"
+  }
+]

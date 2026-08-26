@@ -1,0 +1,722 @@
+[
+  {
+    "year": 2025,
+    "team": "Toronto Blue Jays",
+    "abbr": "TOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png",
+    "colors": [
+      "#134A8E",
+      "#1D2731"
+    ],
+    "opponent": {
+      "team": "Los Angeles Dodgers",
+      "abbr": "LAD",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+      "colors": [
+        "#005A9C",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Toronto Blue Jays",
+    "playerAliases": [
+      "toronto blue jays"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2024,
+    "team": "New York Yankees",
+    "abbr": "NYY",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+    "colors": [
+      "#132448",
+      "#C4CED3"
+    ],
+    "opponent": {
+      "team": "Los Angeles Dodgers",
+      "abbr": "LAD",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+      "colors": [
+        "#005A9C",
+        "#FFFFFF"
+      ]
+    },
+    "player": "New York Yankees",
+    "playerAliases": [
+      "new york yankees"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2023,
+    "team": "Arizona Diamondbacks",
+    "abbr": "ARI",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
+    "colors": [
+      "#A71930",
+      "#E3D4AD"
+    ],
+    "opponent": {
+      "team": "Texas Rangers",
+      "abbr": "TEX",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+      "colors": [
+        "#003278",
+        "#C0111F"
+      ]
+    },
+    "player": "Arizona Diamondbacks",
+    "playerAliases": [
+      "arizona diamondbacks"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2022,
+    "team": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+    "colors": [
+      "#E81828",
+      "#002D72"
+    ],
+    "opponent": {
+      "team": "Houston Astros",
+      "abbr": "HOU",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+      "colors": [
+        "#002D62",
+        "#EB6E1F"
+      ]
+    },
+    "player": "Philadelphia Phillies",
+    "playerAliases": [
+      "philadelphia phillies"
+    ],
+    "statLine": "Lost 4–2"
+  },
+  {
+    "year": 2021,
+    "team": "Houston Astros",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+    "colors": [
+      "#002D62",
+      "#EB6E1F"
+    ],
+    "opponent": {
+      "team": "Atlanta Braves",
+      "abbr": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+      "colors": [
+        "#CE1141",
+        "#13274F"
+      ]
+    },
+    "player": "Houston Astros",
+    "playerAliases": [
+      "houston astros"
+    ],
+    "statLine": "Lost 4–2"
+  },
+  {
+    "year": 2020,
+    "team": "Tampa Bay Rays",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+    "colors": [
+      "#092C5C",
+      "#8FBCE6"
+    ],
+    "opponent": {
+      "team": "Los Angeles Dodgers",
+      "abbr": "LAD",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+      "colors": [
+        "#005A9C",
+        "#FFFFFF"
+      ]
+    },
+    "player": "Tampa Bay Rays",
+    "playerAliases": [
+      "tampa bay rays"
+    ],
+    "statLine": "Lost 4–2"
+  },
+  {
+    "year": 2019,
+    "team": "Houston Astros",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+    "colors": [
+      "#002D62",
+      "#EB6E1F"
+    ],
+    "opponent": {
+      "team": "Washington Nationals",
+      "abbr": "WSH",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png",
+      "colors": [
+        "#AB0003",
+        "#14225A"
+      ]
+    },
+    "player": "Houston Astros",
+    "playerAliases": [
+      "houston astros"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2018,
+    "team": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+    "colors": [
+      "#005A9C",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Boston Red Sox",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+      "colors": [
+        "#BD3039",
+        "#0C2340"
+      ]
+    },
+    "player": "Los Angeles Dodgers",
+    "playerAliases": [
+      "los angeles dodgers"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2017,
+    "team": "Los Angeles Dodgers",
+    "abbr": "LAD",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+    "colors": [
+      "#005A9C",
+      "#FFFFFF"
+    ],
+    "opponent": {
+      "team": "Houston Astros",
+      "abbr": "HOU",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+      "colors": [
+        "#002D62",
+        "#EB6E1F"
+      ]
+    },
+    "player": "Los Angeles Dodgers",
+    "playerAliases": [
+      "los angeles dodgers"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2016,
+    "team": "Cleveland Indians",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+    "colors": [
+      "#0C2340",
+      "#E31937"
+    ],
+    "opponent": {
+      "team": "Chicago Cubs",
+      "abbr": "CHC",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+      "colors": [
+        "#0E3386",
+        "#CC3433"
+      ]
+    },
+    "player": "Cleveland Indians",
+    "playerAliases": [
+      "cleveland indians"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2015,
+    "team": "New York Mets",
+    "abbr": "NYM",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+    "colors": [
+      "#002D72",
+      "#FF5910"
+    ],
+    "opponent": {
+      "team": "Kansas City Royals",
+      "abbr": "KC",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+      "colors": [
+        "#004687",
+        "#BD9B60"
+      ]
+    },
+    "player": "New York Mets",
+    "playerAliases": [
+      "new york mets"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2014,
+    "team": "Kansas City Royals",
+    "abbr": "KC",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png",
+    "colors": [
+      "#004687",
+      "#BD9B60"
+    ],
+    "opponent": {
+      "team": "San Francisco Giants",
+      "abbr": "SF",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+      "colors": [
+        "#FD5A1E",
+        "#27251F"
+      ]
+    },
+    "player": "Kansas City Royals",
+    "playerAliases": [
+      "kansas city royals"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2013,
+    "team": "St. Louis Cardinals",
+    "abbr": "STL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+    "colors": [
+      "#C41E3A",
+      "#0C2340"
+    ],
+    "opponent": {
+      "team": "Boston Red Sox",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+      "colors": [
+        "#BD3039",
+        "#0C2340"
+      ]
+    },
+    "player": "St. Louis Cardinals",
+    "playerAliases": [
+      "st. louis cardinals"
+    ],
+    "statLine": "Lost 4–2"
+  },
+  {
+    "year": 2012,
+    "team": "Detroit Tigers",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+    "colors": [
+      "#0C2340",
+      "#FA4616"
+    ],
+    "opponent": {
+      "team": "San Francisco Giants",
+      "abbr": "SF",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+      "colors": [
+        "#FD5A1E",
+        "#27251F"
+      ]
+    },
+    "player": "Detroit Tigers",
+    "playerAliases": [
+      "detroit tigers"
+    ],
+    "statLine": "Lost 4–0"
+  },
+  {
+    "year": 2011,
+    "team": "Texas Rangers",
+    "abbr": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+    "colors": [
+      "#003278",
+      "#C0111F"
+    ],
+    "opponent": {
+      "team": "St. Louis Cardinals",
+      "abbr": "STL",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+      "colors": [
+        "#C41E3A",
+        "#0C2340"
+      ]
+    },
+    "player": "Texas Rangers",
+    "playerAliases": [
+      "texas rangers"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2010,
+    "team": "Texas Rangers",
+    "abbr": "TEX",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+    "colors": [
+      "#003278",
+      "#C0111F"
+    ],
+    "opponent": {
+      "team": "San Francisco Giants",
+      "abbr": "SF",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+      "colors": [
+        "#FD5A1E",
+        "#27251F"
+      ]
+    },
+    "player": "Texas Rangers",
+    "playerAliases": [
+      "texas rangers"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2009,
+    "team": "Philadelphia Phillies",
+    "abbr": "PHI",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+    "colors": [
+      "#E81828",
+      "#002D72"
+    ],
+    "opponent": {
+      "team": "New York Yankees",
+      "abbr": "NYY",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": [
+        "#132448",
+        "#C4CED3"
+      ]
+    },
+    "player": "Philadelphia Phillies",
+    "playerAliases": [
+      "philadelphia phillies"
+    ],
+    "statLine": "Lost 4–2"
+  },
+  {
+    "year": 2008,
+    "team": "Tampa Bay Rays",
+    "abbr": "TB",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+    "colors": [
+      "#092C5C",
+      "#8FBCE6"
+    ],
+    "opponent": {
+      "team": "Philadelphia Phillies",
+      "abbr": "PHI",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png",
+      "colors": [
+        "#E81828",
+        "#002D72"
+      ]
+    },
+    "player": "Tampa Bay Rays",
+    "playerAliases": [
+      "tampa bay rays"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2007,
+    "team": "Colorado Rockies",
+    "abbr": "COL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png",
+    "colors": [
+      "#33006F",
+      "#C4CED4"
+    ],
+    "opponent": {
+      "team": "Boston Red Sox",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+      "colors": [
+        "#BD3039",
+        "#0C2340"
+      ]
+    },
+    "player": "Colorado Rockies",
+    "playerAliases": [
+      "colorado rockies"
+    ],
+    "statLine": "Lost 4–0"
+  },
+  {
+    "year": 2006,
+    "team": "Detroit Tigers",
+    "abbr": "DET",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png",
+    "colors": [
+      "#0C2340",
+      "#FA4616"
+    ],
+    "opponent": {
+      "team": "St. Louis Cardinals",
+      "abbr": "STL",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+      "colors": [
+        "#C41E3A",
+        "#0C2340"
+      ]
+    },
+    "player": "Detroit Tigers",
+    "playerAliases": [
+      "detroit tigers"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 2005,
+    "team": "Houston Astros",
+    "abbr": "HOU",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png",
+    "colors": [
+      "#002D62",
+      "#EB6E1F"
+    ],
+    "opponent": {
+      "team": "Chicago White Sox",
+      "abbr": "CHW",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png",
+      "colors": [
+        "#27251F",
+        "#C4CED4"
+      ]
+    },
+    "player": "Houston Astros",
+    "playerAliases": [
+      "houston astros"
+    ],
+    "statLine": "Lost 4–0"
+  },
+  {
+    "year": 2004,
+    "team": "St. Louis Cardinals",
+    "abbr": "STL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png",
+    "colors": [
+      "#C41E3A",
+      "#0C2340"
+    ],
+    "opponent": {
+      "team": "Boston Red Sox",
+      "abbr": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+      "colors": [
+        "#BD3039",
+        "#0C2340"
+      ]
+    },
+    "player": "St. Louis Cardinals",
+    "playerAliases": [
+      "st. louis cardinals"
+    ],
+    "statLine": "Lost 4–0"
+  },
+  {
+    "year": 2003,
+    "team": "New York Yankees",
+    "abbr": "NYY",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+    "colors": [
+      "#132448",
+      "#C4CED3"
+    ],
+    "opponent": {
+      "team": "Florida Marlins",
+      "abbr": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+      "colors": [
+        "#00A3E0",
+        "#EF3340"
+      ]
+    },
+    "player": "New York Yankees",
+    "playerAliases": [
+      "new york yankees"
+    ],
+    "statLine": "Lost 4–2"
+  },
+  {
+    "year": 2002,
+    "team": "San Francisco Giants",
+    "abbr": "SF",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+    "colors": [
+      "#FD5A1E",
+      "#27251F"
+    ],
+    "opponent": {
+      "team": "Anaheim Angels",
+      "abbr": "LAA",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png",
+      "colors": [
+        "#BA0021",
+        "#003263"
+      ]
+    },
+    "player": "San Francisco Giants",
+    "playerAliases": [
+      "san francisco giants"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2001,
+    "team": "New York Yankees",
+    "abbr": "NYY",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+    "colors": [
+      "#132448",
+      "#C4CED3"
+    ],
+    "opponent": {
+      "team": "Arizona Diamondbacks",
+      "abbr": "ARI",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
+      "colors": [
+        "#A71930",
+        "#E3D4AD"
+      ]
+    },
+    "player": "New York Yankees",
+    "playerAliases": [
+      "new york yankees"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 2000,
+    "team": "New York Mets",
+    "abbr": "NYM",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png",
+    "colors": [
+      "#002D72",
+      "#FF5910"
+    ],
+    "opponent": {
+      "team": "New York Yankees",
+      "abbr": "NYY",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": [
+        "#132448",
+        "#C4CED3"
+      ]
+    },
+    "player": "New York Mets",
+    "playerAliases": [
+      "new york mets"
+    ],
+    "statLine": "Lost 4–1"
+  },
+  {
+    "year": 1999,
+    "team": "Atlanta Braves",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+    "colors": [
+      "#CE1141",
+      "#13274F"
+    ],
+    "opponent": {
+      "team": "New York Yankees",
+      "abbr": "NYY",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": [
+        "#132448",
+        "#C4CED3"
+      ]
+    },
+    "player": "Atlanta Braves",
+    "playerAliases": [
+      "atlanta braves"
+    ],
+    "statLine": "Lost 4–0"
+  },
+  {
+    "year": 1998,
+    "team": "San Diego Padres",
+    "abbr": "SD",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png",
+    "colors": [
+      "#2F241D",
+      "#FFC425"
+    ],
+    "opponent": {
+      "team": "New York Yankees",
+      "abbr": "NYY",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": [
+        "#132448",
+        "#C4CED3"
+      ]
+    },
+    "player": "San Diego Padres",
+    "playerAliases": [
+      "san diego padres"
+    ],
+    "statLine": "Lost 4–0"
+  },
+  {
+    "year": 1997,
+    "team": "Cleveland Indians",
+    "abbr": "CLE",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
+    "colors": [
+      "#0C2340",
+      "#E31937"
+    ],
+    "opponent": {
+      "team": "Florida Marlins",
+      "abbr": "MIA",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
+      "colors": [
+        "#00A3E0",
+        "#EF3340"
+      ]
+    },
+    "player": "Cleveland Indians",
+    "playerAliases": [
+      "cleveland indians"
+    ],
+    "statLine": "Lost 4–3"
+  },
+  {
+    "year": 1996,
+    "team": "Atlanta Braves",
+    "abbr": "ATL",
+    "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+    "colors": [
+      "#CE1141",
+      "#13274F"
+    ],
+    "opponent": {
+      "team": "New York Yankees",
+      "abbr": "NYY",
+      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+      "colors": [
+        "#132448",
+        "#C4CED3"
+      ]
+    },
+    "player": "Atlanta Braves",
+    "playerAliases": [
+      "atlanta braves"
+    ],
+    "statLine": "Lost 4–2"
+  }
+]

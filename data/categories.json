@@ -1360,5 +1360,141 @@
         "file": "data/other/time-person-of-the-year.json"
       }
     ]
+  },
+  {
+    "sport": "L Sports",
+    "categories": [
+      {
+        "id": "stanley-cup",
+        "title": "Stanley Cup",
+        "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
+        "icon": "🏒",
+        "variants": [
+          {
+            "id": "stanley-cup-winner",
+            "label": "Winner",
+            "title": "Stanley Cup Champion",
+            "subtitle": "Guess the Stanley Cup champion from the runner-up's logo and score (1996–2025)",
+            "file": "data/lsports/stanley-cup-winner.json"
+          },
+          {
+            "id": "stanley-cup-loser",
+            "label": "Loser",
+            "title": "Stanley Cup Runner-Up",
+            "subtitle": "Guess the Stanley Cup runner-up from the champion's logo and score (1996–2025)",
+            "file": "data/lsports/stanley-cup-loser.json"
+          }
+        ]
+      },
+      {
+        "id": "world-series",
+        "title": "World Series",
+        "subtitle": "Guess the team from the opponent's logo and score (1996–2025)",
+        "icon": "⚾",
+        "variants": [
+          {
+            "id": "world-series-winner",
+            "label": "Winner",
+            "title": "World Series Champion",
+            "subtitle": "Guess the World Series champion from the runner-up's logo and score (1996–2025)",
+            "file": "data/lsports/world-series-winner.json"
+          },
+          {
+            "id": "world-series-loser",
+            "label": "Loser",
+            "title": "World Series Runner-Up",
+            "subtitle": "Guess the World Series runner-up from the champion's logo and score (1996–2025)",
+            "file": "data/lsports/world-series-loser.json"
+          }
+        ]
+      },
+      {
+        "id": "f1-champion",
+        "title": "F1 World Champion",
+        "subtitle": "Guess the driver from their country's flag (1996–2025)",
+        "icon": "🏎️",
+        "variants": [
+          {
+            "id": "f1-champion-1st",
+            "label": "1st",
+            "title": "F1 World Champion",
+            "subtitle": "Guess the F1 Drivers' Champion from their country's flag (1996–2025)",
+            "file": "data/lsports/f1-champion.json"
+          },
+          {
+            "id": "f1-champion-2nd",
+            "label": "2nd",
+            "title": "F1 Runner-Up",
+            "subtitle": "Guess the F1 championship runner-up from their country's flag (1996–2025)",
+            "file": "data/lsports/f1-champion-2nd.json"
+          },
+          {
+            "id": "f1-champion-3rd",
+            "label": "3rd",
+            "title": "F1 Third Place",
+            "subtitle": "Guess the F1 championship 3rd-place finisher from their country's flag (1996–2025)",
+            "file": "data/lsports/f1-champion-3rd.json"
+          }
+        ]
+      },
+      {
+        "id": "masters",
+        "title": "The Masters",
+        "subtitle": "Guess the golfer from their country's flag (1996–2025)",
+        "icon": "⛳",
+        "variants": [
+          {
+            "id": "masters-winner",
+            "label": "Winner",
+            "title": "Masters Champion",
+            "subtitle": "Guess the Masters champion from their country's flag (1996–2025)",
+            "file": "data/lsports/masters-winner.json"
+          },
+          {
+            "id": "masters-2nd",
+            "label": "2nd",
+            "title": "Masters Runner-Up",
+            "subtitle": "Guess the Masters runner-up from their country's flag (1996–2025)",
+            "file": "data/lsports/masters-2nd.json"
+          },
+          {
+            "id": "masters-3rd",
+            "label": "3rd",
+            "title": "Masters Third Place",
+            "subtitle": "Guess the Masters 3rd-place finisher from their country's flag (1996–2025)",
+            "file": "data/lsports/masters-3rd.json"
+          }
+        ]
+      },
+      {
+        "id": "ballon-dor",
+        "title": "Ballon d'Or",
+        "subtitle": "Guess the player from their club's logo (1996–2025)",
+        "icon": "⚽",
+        "variants": [
+          {
+            "id": "ballon-dor-winner",
+            "label": "Winner",
+            "title": "Ballon d'Or Winner",
+            "subtitle": "Guess the Ballon d'Or winner from their club's logo (1996–2025)",
+            "file": "data/lsports/ballon-dor-winner.json"
+          },
+          {
+            "id": "ballon-dor-2nd",
+            "label": "2nd",
+            "title": "Ballon d'Or Runner-Up",
+            "subtitle": "Guess the Ballon d'Or runner-up from their club's logo (1996–2025)",
+            "file": "data/lsports/ballon-dor-2nd.json"
+          },
+          {
+            "id": "ballon-dor-3rd",
+            "label": "3rd",
+            "title": "Ballon d'Or Third Place",
+            "subtitle": "Guess the Ballon d'Or 3rd-place finisher from their club's logo (1996–2025)",
+            "file": "data/lsports/ballon-dor-3rd.json"
+          }
+        ]
+      }
+    ]
   }
 ]
