@@ -1,0 +1,512 @@
+[
+  {
+    "year": 2025,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "jayhawks",
+      "kansas",
+      "kansas jayhawks"
+    ],
+    "statLine": "30 1st-place votes"
+  },
+  {
+    "year": 2024,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "jayhawks",
+      "kansas",
+      "kansas jayhawks"
+    ],
+    "statLine": "46 1st-place votes"
+  },
+  {
+    "year": 2023,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina",
+      "north carolina tar heels",
+      "tar heels"
+    ],
+    "statLine": "47 1st-place votes"
+  },
+  {
+    "year": 2022,
+    "team": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "player": "Gonzaga Bulldogs",
+    "playerAliases": [
+      "bulldogs",
+      "gonzaga",
+      "gonzaga bulldogs"
+    ],
+    "statLine": "55 1st-place votes"
+  },
+  {
+    "year": 2021,
+    "team": "Gonzaga Bulldogs",
+    "abbr": "Gonzaga",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2250.png",
+    "colors": [
+      "#041E42",
+      "#C8102E"
+    ],
+    "player": "Gonzaga Bulldogs",
+    "playerAliases": [
+      "bulldogs",
+      "gonzaga",
+      "gonzaga bulldogs"
+    ],
+    "statLine": "28 1st-place votes"
+  },
+  {
+    "year": 2020,
+    "team": "Michigan State Spartans",
+    "abbr": "Michigan St",
+    "logo": "assets/logos/cbb/2/cbb-michigan-state-1996-2010.png",
+    "colors": [
+      "#173F35",
+      "#FFFFFF"
+    ],
+    "player": "Michigan State Spartans",
+    "playerAliases": [
+      "michigan state",
+      "michigan state spartans",
+      "spartans"
+    ],
+    "statLine": "60 1st-place votes"
+  },
+  {
+    "year": 2019,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "jayhawks",
+      "kansas",
+      "kansas jayhawks"
+    ],
+    "statLine": "37 1st-place votes"
+  },
+  {
+    "year": 2018,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "blue devils",
+      "duke",
+      "duke blue devils"
+    ],
+    "statLine": "33 1st-place votes"
+  },
+  {
+    "year": 2017,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "blue devils",
+      "duke",
+      "duke blue devils"
+    ],
+    "statLine": "58 1st-place votes"
+  },
+  {
+    "year": 2016,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina",
+      "north carolina tar heels",
+      "tar heels"
+    ],
+    "statLine": "35 1st-place votes"
+  },
+  {
+    "year": 2015,
+    "team": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-2005-2015.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Kentucky Wildcats",
+    "playerAliases": [
+      "kentucky",
+      "kentucky wildcats",
+      "wildcats"
+    ],
+    "statLine": "52 1st-place votes"
+  },
+  {
+    "year": 2014,
+    "team": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-2005-2015.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Kentucky Wildcats",
+    "playerAliases": [
+      "kentucky",
+      "kentucky wildcats",
+      "wildcats"
+    ],
+    "statLine": "27 1st-place votes"
+  },
+  {
+    "year": 2013,
+    "team": "Indiana Hoosiers",
+    "abbr": "Indiana",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "colors": [
+      "#970310",
+      "#FFFFFF"
+    ],
+    "player": "Indiana Hoosiers",
+    "playerAliases": [
+      "hoosiers",
+      "indiana",
+      "indiana hoosiers"
+    ],
+    "statLine": "43 1st-place votes"
+  },
+  {
+    "year": 2012,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina",
+      "north carolina tar heels",
+      "tar heels"
+    ],
+    "statLine": "62 1st-place votes"
+  },
+  {
+    "year": 2011,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "blue devils",
+      "duke",
+      "duke blue devils"
+    ],
+    "statLine": "55 1st-place votes"
+  },
+  {
+    "year": 2010,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "jayhawks",
+      "kansas",
+      "kansas jayhawks"
+    ],
+    "statLine": "55 1st-place votes"
+  },
+  {
+    "year": 2009,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina",
+      "north carolina tar heels",
+      "tar heels"
+    ],
+    "statLine": "72 1st-place votes"
+  },
+  {
+    "year": 2008,
+    "team": "North Carolina Tar Heels",
+    "abbr": "North Carolina",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+    "colors": [
+      "#7BAFD4",
+      "#13294B"
+    ],
+    "player": "North Carolina Tar Heels",
+    "playerAliases": [
+      "north carolina",
+      "north carolina tar heels",
+      "tar heels"
+    ],
+    "statLine": "29 1st-place votes"
+  },
+  {
+    "year": 2007,
+    "team": "Florida Gators",
+    "abbr": "Florida",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
+    "colors": [
+      "#0021A5",
+      "#FA4616"
+    ],
+    "player": "Florida Gators",
+    "playerAliases": [
+      "florida",
+      "florida gators",
+      "gators"
+    ],
+    "statLine": "65 1st-place votes"
+  },
+  {
+    "year": 2006,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "blue devils",
+      "duke",
+      "duke blue devils"
+    ],
+    "statLine": "61 1st-place votes"
+  },
+  {
+    "year": 2005,
+    "team": "Kansas Jayhawks",
+    "abbr": "Kansas",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "colors": [
+      "#0051BA",
+      "#E8000D"
+    ],
+    "player": "Kansas Jayhawks",
+    "playerAliases": [
+      "jayhawks",
+      "kansas",
+      "kansas jayhawks"
+    ],
+    "statLine": "25 1st-place votes"
+  },
+  {
+    "year": 2004,
+    "team": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "assets/logos/cfb/2/cfb-uconn-2002-2012.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "UConn Huskies",
+    "playerAliases": [
+      "connecticut",
+      "huskies",
+      "uconn huskies"
+    ],
+    "statLine": "69 1st-place votes"
+  },
+  {
+    "year": 2003,
+    "team": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "assets/logos/cbb/1/cbb-arizona-1996-2010.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Arizona Wildcats",
+    "playerAliases": [
+      "arizona",
+      "arizona wildcats",
+      "wildcats"
+    ],
+    "statLine": "50 1st-place votes"
+  },
+  {
+    "year": 2002,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "blue devils",
+      "duke",
+      "duke blue devils"
+    ],
+    "statLine": "Vote count unavailable"
+  },
+  {
+    "year": 2001,
+    "team": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "assets/logos/cbb/1/cbb-arizona-1996-2010.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Arizona Wildcats",
+    "playerAliases": [
+      "arizona",
+      "arizona wildcats",
+      "wildcats"
+    ],
+    "statLine": "Vote count unavailable"
+  },
+  {
+    "year": 2000,
+    "team": "UConn Huskies",
+    "abbr": "UConn",
+    "logo": "assets/logos/cfb/2/cfb-uconn-2002-2012.png",
+    "colors": [
+      "#0C2340",
+      "#A2AAAD"
+    ],
+    "player": "UConn Huskies",
+    "playerAliases": [
+      "connecticut",
+      "huskies",
+      "uconn huskies"
+    ],
+    "statLine": "21 1st-place votes"
+  },
+  {
+    "year": 1999,
+    "team": "Duke Blue Devils",
+    "abbr": "Duke",
+    "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "colors": [
+      "#00539B",
+      "#FFFFFF"
+    ],
+    "player": "Duke Blue Devils",
+    "playerAliases": [
+      "blue devils",
+      "duke",
+      "duke blue devils"
+    ],
+    "statLine": "Vote count unavailable"
+  },
+  {
+    "year": 1998,
+    "team": "Arizona Wildcats",
+    "abbr": "Arizona",
+    "logo": "assets/logos/cbb/1/cbb-arizona-1996-2010.png",
+    "colors": [
+      "#CC0033",
+      "#003366"
+    ],
+    "player": "Arizona Wildcats",
+    "playerAliases": [
+      "arizona",
+      "arizona wildcats",
+      "wildcats"
+    ],
+    "statLine": "Vote count unavailable"
+  },
+  {
+    "year": 1997,
+    "team": "Cincinnati Bearcats",
+    "abbr": "Cincinnati",
+    "logo": "assets/logos/cbb/1/cbb-cincinnati-1996-2005.png",
+    "colors": [
+      "#000000",
+      "#E00122"
+    ],
+    "player": "Cincinnati Bearcats",
+    "playerAliases": [
+      "bearcats",
+      "cincinnati",
+      "cincinnati bearcats"
+    ],
+    "statLine": "Vote count unavailable"
+  },
+  {
+    "year": 1996,
+    "team": "Kentucky Wildcats",
+    "abbr": "Kentucky",
+    "logo": "assets/logos/cfb/1/cfb-kentucky-2005-2015.png",
+    "colors": [
+      "#0033A0",
+      "#FFFFFF"
+    ],
+    "player": "Kentucky Wildcats",
+    "playerAliases": [
+      "kentucky",
+      "kentucky wildcats",
+      "wildcats"
+    ],
+    "statLine": "Vote count unavailable"
+  }
+]

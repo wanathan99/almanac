@@ -1063,6 +1063,14 @@
             ]
           }
         ]
+      },
+      {
+        "id": "cbb-preseason-ap-1",
+        "title": "Preseason AP #1",
+        "subtitle": "Guess the preseason AP Poll #1 team from the first-place vote count alone (1996–2025)",
+        "icon": "📋",
+        "file": "data/cbb/cbb-preseason-ap-1.json",
+        "noLogoHint": true
       }
     ]
   },
