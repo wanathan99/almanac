@@ -335,6 +335,8 @@
     ],
     "player": "Andrei Kirilenko",
     "playerAliases": [
+      "ak-47",
+      "ak47",
       "andrei kirilenko",
       "kirilenko"
     ],
@@ -417,7 +419,8 @@
     "player": "Alonzo Mourning",
     "playerAliases": [
       "alonzo mourning",
-      "mourning"
+      "mourning",
+      "zo"
     ],
     "statLine": "3.72 BPG"
   },
@@ -433,7 +436,8 @@
     "player": "Alonzo Mourning",
     "playerAliases": [
       "alonzo mourning",
-      "mourning"
+      "mourning",
+      "zo"
     ],
     "statLine": "3.91 BPG"
   },

@@ -111,7 +111,9 @@
     "player": "Paul George",
     "playerAliases": [
       "george",
-      "paul george"
+      "paul george",
+      "pg-13",
+      "pg13"
     ]
   },
   {
@@ -141,8 +143,11 @@
     ],
     "player": "Kawhi Leonard",
     "playerAliases": [
+      "kawhi",
       "kawhi leonard",
-      "leonard"
+      "klaw",
+      "leonard",
+      "the klaw"
     ]
   },
   {
@@ -156,9 +161,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -173,9 +180,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -206,7 +215,9 @@
     "player": "Carmelo Anthony",
     "playerAliases": [
       "anthony",
-      "carmelo anthony"
+      "carmelo",
+      "carmelo anthony",
+      "melo"
     ]
   },
   {
@@ -236,9 +247,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -270,6 +283,8 @@
     ],
     "player": "Dwyane Wade",
     "playerAliases": [
+      "d-wade",
+      "dwade",
       "dwyane wade",
       "wade"
     ]
@@ -318,6 +333,7 @@
     ],
     "player": "Dirk Nowitzki",
     "playerAliases": [
+      "dirk",
       "dirk nowitzki",
       "nowitzki"
     ]
@@ -333,6 +349,7 @@
     ],
     "player": "Dirk Nowitzki",
     "playerAliases": [
+      "dirk",
       "dirk nowitzki",
       "nowitzki"
     ]
@@ -413,7 +430,8 @@
     "player": "Alonzo Mourning",
     "playerAliases": [
       "alonzo mourning",
-      "mourning"
+      "mourning",
+      "zo"
     ]
   },
   {
@@ -443,7 +461,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ]
   },
   {
@@ -473,7 +493,8 @@
     "player": "Anfernee Hardaway",
     "playerAliases": [
       "anfernee hardaway",
-      "hardaway"
+      "hardaway",
+      "penny"
     ]
   }
 ]

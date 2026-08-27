@@ -147,8 +147,11 @@
     ],
     "player": "Kawhi Leonard",
     "playerAliases": [
+      "kawhi",
       "kawhi leonard",
-      "leonard"
+      "klaw",
+      "leonard",
+      "the klaw"
     ]
   },
   {
@@ -162,8 +165,11 @@
     ],
     "player": "Kawhi Leonard",
     "playerAliases": [
+      "kawhi",
       "kawhi leonard",
-      "leonard"
+      "klaw",
+      "leonard",
+      "the klaw"
     ]
   },
   {
@@ -396,7 +402,8 @@
     "player": "Alonzo Mourning",
     "playerAliases": [
       "alonzo mourning",
-      "mourning"
+      "mourning",
+      "zo"
     ]
   },
   {
@@ -411,7 +418,8 @@
     "player": "Alonzo Mourning",
     "playerAliases": [
       "alonzo mourning",
-      "mourning"
+      "mourning",
+      "zo"
     ]
   },
   {
@@ -456,7 +464,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ]
   }
 ]

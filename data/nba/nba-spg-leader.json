@@ -107,7 +107,9 @@
     "player": "Paul George",
     "playerAliases": [
       "george",
-      "paul george"
+      "paul george",
+      "pg-13",
+      "pg13"
     ],
     "statLine": "2.21 SPG"
   },
@@ -172,8 +174,11 @@
     ],
     "player": "Kawhi Leonard",
     "playerAliases": [
+      "kawhi",
       "kawhi leonard",
-      "leonard"
+      "klaw",
+      "leonard",
+      "the klaw"
     ],
     "statLine": "2.31 SPG"
   },
@@ -489,7 +494,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ],
     "statLine": "2.85 SPG"
   }

@@ -311,6 +311,8 @@
     ],
     "player": "Dwyane Wade",
     "playerAliases": [
+      "d-wade",
+      "dwade",
       "dwyane wade",
       "wade"
     ]
@@ -372,6 +374,7 @@
     ],
     "player": "Peja Stojaković",
     "playerAliases": [
+      "peja",
       "peja stojaković",
       "stojaković"
     ]
@@ -387,6 +390,7 @@
     ],
     "player": "Dirk Nowitzki",
     "playerAliases": [
+      "dirk",
       "dirk nowitzki",
       "nowitzki"
     ]

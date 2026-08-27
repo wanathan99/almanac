@@ -114,7 +114,9 @@
     "player": "Paul George",
     "playerAliases": [
       "george",
-      "paul george"
+      "paul george",
+      "pg-13",
+      "pg13"
     ],
     "statLine": "28.0 PPG"
   },
@@ -198,7 +200,9 @@
     "player": "Carmelo Anthony",
     "playerAliases": [
       "anthony",
-      "carmelo anthony"
+      "carmelo",
+      "carmelo anthony",
+      "melo"
     ],
     "statLine": "27.4 PPG"
   },
@@ -248,9 +252,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "26.7 PPG"
@@ -266,9 +272,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "29.7 PPG"
@@ -284,9 +292,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "28.4 PPG"
@@ -321,7 +331,9 @@
     "player": "Carmelo Anthony",
     "playerAliases": [
       "anthony",
-      "carmelo anthony"
+      "carmelo",
+      "carmelo anthony",
+      "melo"
     ],
     "statLine": "28.9 PPG"
   },
@@ -372,6 +384,7 @@
     ],
     "player": "Peja Stojaković",
     "playerAliases": [
+      "peja",
       "peja stojaković",
       "stojaković"
     ],
@@ -492,7 +505,9 @@
     "player": "Karl Malone",
     "playerAliases": [
       "karl malone",
-      "malone"
+      "mailman",
+      "malone",
+      "the mailman"
     ],
     "statLine": "27.4 PPG"
   },
@@ -507,8 +522,10 @@
     ],
     "player": "Hakeem Olajuwon",
     "playerAliases": [
+      "dream",
       "hakeem olajuwon",
-      "olajuwon"
+      "olajuwon",
+      "the dream"
     ],
     "statLine": "26.9 PPG"
   }

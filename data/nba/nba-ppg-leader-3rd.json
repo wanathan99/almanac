@@ -43,6 +43,7 @@
     ],
     "player": "Damian Lillard",
     "playerAliases": [
+      "dame",
       "damian lillard",
       "lillard"
     ],
@@ -76,6 +77,7 @@
     ],
     "player": "Damian Lillard",
     "playerAliases": [
+      "dame",
       "damian lillard",
       "lillard"
     ],
@@ -92,6 +94,7 @@
     ],
     "player": "Damian Lillard",
     "playerAliases": [
+      "dame",
       "damian lillard",
       "lillard"
     ],
@@ -126,9 +129,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "27.5 PPG"
@@ -177,9 +182,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "25.3 PPG"
@@ -195,9 +202,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "27.1 PPG"
@@ -231,9 +240,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "27.1 PPG"
@@ -255,7 +266,9 @@
     "player": "Carmelo Anthony",
     "playerAliases": [
       "anthony",
-      "carmelo anthony"
+      "carmelo",
+      "carmelo anthony",
+      "melo"
     ],
     "statLine": "28.2 PPG"
   },
@@ -322,9 +335,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "31.4 PPG"
@@ -340,9 +355,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "27.2 PPG"
@@ -443,7 +460,9 @@
     "player": "Karl Malone",
     "playerAliases": [
       "karl malone",
-      "malone"
+      "mailman",
+      "malone",
+      "the mailman"
     ],
     "statLine": "23.8 PPG"
   },
@@ -459,7 +478,9 @@
     "player": "Karl Malone",
     "playerAliases": [
       "karl malone",
-      "malone"
+      "mailman",
+      "malone",
+      "the mailman"
     ],
     "statLine": "27.0 PPG"
   },

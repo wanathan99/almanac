@@ -199,9 +199,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "1.9 SPG"
@@ -265,6 +267,8 @@
     ],
     "player": "Dwyane Wade",
     "playerAliases": [
+      "d-wade",
+      "dwade",
       "dwyane wade",
       "wade"
     ],
@@ -329,8 +333,10 @@
     ],
     "player": "Metta World Peace",
     "playerAliases": [
+      "artest",
       "metta world peace",
-      "peace"
+      "peace",
+      "ron artest"
     ],
     "statLine": "2.1 SPG"
   },
@@ -445,7 +451,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ],
     "statLine": "2.4 SPG"
   },

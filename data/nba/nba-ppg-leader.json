@@ -217,7 +217,9 @@
     "player": "Carmelo Anthony",
     "playerAliases": [
       "anthony",
-      "carmelo anthony"
+      "carmelo",
+      "carmelo anthony",
+      "melo"
     ],
     "statLine": "28.7 PPG"
   },
@@ -283,6 +285,8 @@
     ],
     "player": "Dwyane Wade",
     "playerAliases": [
+      "d-wade",
+      "dwade",
       "dwyane wade",
       "wade"
     ],
@@ -299,9 +303,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ],
     "statLine": "30.0 PPG"

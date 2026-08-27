@@ -92,9 +92,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -125,9 +127,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -158,8 +162,11 @@
     ],
     "player": "Kawhi Leonard",
     "playerAliases": [
+      "kawhi",
       "kawhi leonard",
-      "leonard"
+      "klaw",
+      "leonard",
+      "the klaw"
     ]
   },
   {
@@ -189,9 +196,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -318,9 +327,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -429,7 +440,8 @@
     "player": "Alonzo Mourning",
     "playerAliases": [
       "alonzo mourning",
-      "mourning"
+      "mourning",
+      "zo"
     ]
   },
   {
@@ -444,7 +456,9 @@
     "player": "Karl Malone",
     "playerAliases": [
       "karl malone",
-      "malone"
+      "mailman",
+      "malone",
+      "the mailman"
     ]
   },
   {

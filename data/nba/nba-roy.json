@@ -191,6 +191,7 @@
     ],
     "player": "Damian Lillard",
     "playerAliases": [
+      "dame",
       "damian lillard",
       "lillard"
     ]
@@ -328,9 +329,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -346,6 +349,7 @@
     "player": "Amar'e Stoudemire",
     "playerAliases": [
       "amar'e stoudemire",
+      "stat",
       "stoudemire"
     ]
   },
@@ -422,7 +426,8 @@
     "player": "Vince Carter",
     "playerAliases": [
       "carter",
-      "vince carter"
+      "vince carter",
+      "vinsanity"
     ]
   },
   {

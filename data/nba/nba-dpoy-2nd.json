@@ -195,9 +195,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -258,9 +260,11 @@
     ],
     "player": "LeBron James",
     "playerAliases": [
+      "bron",
       "james",
       "king james",
       "lbj",
+      "lebron",
       "lebron james"
     ]
   },
@@ -351,8 +355,10 @@
     ],
     "player": "Metta World Peace",
     "playerAliases": [
+      "artest",
       "metta world peace",
-      "peace"
+      "peace",
+      "ron artest"
     ]
   },
   {
@@ -430,7 +436,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ]
   },
   {
@@ -445,7 +453,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ]
   },
   {

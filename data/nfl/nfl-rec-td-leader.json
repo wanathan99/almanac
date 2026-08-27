@@ -131,7 +131,8 @@
     ],
     "player": "DeAndre Hopkins",
     "playerAliases": [
-      "deandre hopkins"
+      "deandre hopkins",
+      "nuk"
     ],
     "statLine": "13 rec TD"
   },
@@ -221,6 +222,7 @@
     ],
     "player": "Rob Gronkowski",
     "playerAliases": [
+      "gronk",
       "rob gronkowski"
     ],
     "statLine": "17 rec TD"

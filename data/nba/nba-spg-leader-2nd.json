@@ -126,7 +126,9 @@
     "player": "Paul George",
     "playerAliases": [
       "george",
-      "paul george"
+      "paul george",
+      "pg-13",
+      "pg13"
     ],
     "statLine": "2.0 SPG"
   },
@@ -270,6 +272,8 @@
     ],
     "player": "Dwyane Wade",
     "playerAliases": [
+      "d-wade",
+      "dwade",
       "dwyane wade",
       "wade"
     ],
@@ -302,8 +306,10 @@
     ],
     "player": "Metta World Peace",
     "playerAliases": [
+      "artest",
       "metta world peace",
-      "peace"
+      "peace",
+      "ron artest"
     ],
     "statLine": "2.1 SPG"
   },
@@ -367,8 +373,10 @@
     ],
     "player": "Metta World Peace",
     "playerAliases": [
+      "artest",
       "metta world peace",
-      "peace"
+      "peace",
+      "ron artest"
     ],
     "statLine": "2.3 SPG"
   },

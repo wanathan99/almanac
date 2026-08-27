@@ -101,7 +101,9 @@
     "player": "Paul George",
     "playerAliases": [
       "george",
-      "paul george"
+      "paul george",
+      "pg-13",
+      "pg13"
     ]
   },
   {
@@ -131,8 +133,11 @@
     ],
     "player": "Kawhi Leonard",
     "playerAliases": [
+      "kawhi",
       "kawhi leonard",
-      "leonard"
+      "klaw",
+      "leonard",
+      "the klaw"
     ]
   },
   {
@@ -252,6 +257,8 @@
     ],
     "player": "Dwyane Wade",
     "playerAliases": [
+      "d-wade",
+      "dwade",
       "dwyane wade",
       "wade"
     ]
@@ -297,6 +304,8 @@
     ],
     "player": "Andrei Kirilenko",
     "playerAliases": [
+      "ak-47",
+      "ak47",
       "andrei kirilenko",
       "kirilenko"
     ]
@@ -396,7 +405,9 @@
     "player": "Gary Payton",
     "playerAliases": [
       "gary payton",
-      "payton"
+      "glove",
+      "payton",
+      "the glove"
     ]
   },
   {

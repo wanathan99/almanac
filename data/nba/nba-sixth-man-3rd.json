@@ -163,10 +163,11 @@
       "#C4CED4",
       "#000000"
     ],
-    "player": "Manu Gin\u00f3bili",
+    "player": "Manu Ginóbili",
     "playerAliases": [
-      "gin\u00f3bili",
-      "manu gin\u00f3bili"
+      "ginóbili",
+      "manu",
+      "manu ginóbili"
     ]
   },
   {
@@ -223,10 +224,10 @@
       "#6F263D",
       "#FFB81C"
     ],
-    "player": "Anderson Varej\u00e3o",
+    "player": "Anderson Varejão",
     "playerAliases": [
-      "anderson varej\u00e3o",
-      "varej\u00e3o"
+      "anderson varejão",
+      "varejão"
     ]
   },
   {
@@ -313,10 +314,11 @@
       "#C4CED4",
       "#000000"
     ],
-    "player": "Manu Gin\u00f3bili",
+    "player": "Manu Ginóbili",
     "playerAliases": [
-      "gin\u00f3bili",
-      "manu gin\u00f3bili"
+      "ginóbili",
+      "manu",
+      "manu ginóbili"
     ]
   },
   {
@@ -330,6 +332,8 @@
     ],
     "player": "Andrei Kirilenko",
     "playerAliases": [
+      "ak-47",
+      "ak47",
       "andrei kirilenko",
       "kirilenko"
     ]
